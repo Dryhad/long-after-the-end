@@ -1,0 +1,28 @@
+#68 - Memmingen
+
+#owner = MEM
+#controller = MEM
+#add_core= MEM
+culture = swabian
+religion = cult_of_reason
+hre = no
+base_tax = 5
+base_production = 5
+trade_goods = cloth
+base_manpower = 3
+capital = "Memmingen" 
+is_city = no
+
+
+
+discovered_by = high_american
+discovered_by = high_american
+discovered_by = indian
+discovered_by = indian
+
+
+# = { religion = protestant }
+# = { #owner = BAV #controller = BAV #add_core= BAV }
+# = { #owner = HAB #controller = HAB #add_core= HAB } # Bavaria is conquered by the Emperor, is however later restored for the balance of power
+# = { #owner = BAV #controller = BAV remove_core = HAB }
+# = { hre = no } # The Holy Roman Empire is dissolved

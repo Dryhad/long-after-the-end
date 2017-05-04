@@ -1,0 +1,31 @@
+#619 - Batak
+
+#owner = PSA
+#controller = PSA
+culture = sumatran
+religion = sunni
+capital = "Batak"
+trade_goods = grain
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 2
+is_city = no
+#add_core= PSA
+
+
+
+discovered_by = chinese
+discovered_by = indian
+discovered_by = indian
+discovered_by = indian
+
+# = { discovered_by = MNG }
+
+# = { #add_core= ATJ }
+# = { discovered_by = POR }
+# = {
+	#owner = ATJ
+	#controller = ATJ
+	remove_core = PSA
+}

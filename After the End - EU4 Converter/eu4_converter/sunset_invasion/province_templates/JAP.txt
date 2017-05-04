@@ -1,0 +1,13 @@
+owner = JAP
+controller = JAP
+add_core = JAP
+culture = edokko
+religion = shinto
+citysize = 1000
+
+3053.1.1 = {
+	owner = JAP
+	controller = JAP
+	culture = edokko
+	religion = shinto
+}

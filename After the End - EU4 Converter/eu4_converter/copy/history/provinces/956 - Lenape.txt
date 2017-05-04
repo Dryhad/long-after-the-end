@@ -1,0 +1,63 @@
+#956 - Lenape
+
+#owner = LEN
+#controller = LEN
+#add_core= LEN
+is_city = no
+culture = delaware
+religion = totemism
+capital = "Lenape"
+trade_goods = fur
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 4
+discovered_by = western 
+discovered_by = eastern 
+discovered_by = muslim 
+discovered_by = ottoman
+discovered_by = nomad_group
+extra_cost = 10
+
+add_permanent_province_modifier = {
+	name = delaware_estuary_modifier
+	duration = -1
+}
+
+
+
+
+# = { discovered_by = SWE }
+# = { discovered_by = NED }
+# = { discovered_by = ENG }
+
+# = {	
+	#owner = ENG
+	#controller = ENG
+	remove_core = LEN
+	culture = english
+	religion = protestant
+	capital = "Philadelphia"
+}
+# = { trade_goods = fur }
+# = { #add_core= ENG }
+# = {
+	#discovered_by = GBR
+	#owner = GBR
+	#controller = GBR
+	#add_core= GBR
+	remove_core = ENG
+}
+# = {
+	culture = american
+	unrest = 6
+} # Growing unrest
+# = {	
+	#owner = USA
+	#controller = USA
+	#add_core= USA
+} # Declaration of independence
+# = { unrest = 0 remove_core = GBR } # Preliminary articles of peace, the British recognized American independence

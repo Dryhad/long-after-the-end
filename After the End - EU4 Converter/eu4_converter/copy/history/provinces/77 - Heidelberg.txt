@@ -1,0 +1,18 @@
+#77 - Heidelberg
+
+capital = "Heidelberg"
+culture = hessian
+religion = matrem
+trade_goods = wine
+owner = BIZ
+base_tax = 4
+base_production = 4
+base_manpower = 2
+is_city = yes
+controller = BIZ
+add_core= BIZ
+hre = no
+
+
+discovered_by = high_american
+discovered_by = indian

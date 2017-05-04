@@ -1,0 +1,13 @@
+owner = BRZ
+controller = BRZ
+add_core = BRZ
+culture = brazillian
+religion = candomble
+citysize = 1000
+
+3053.1.1 = {
+	owner = BRZ
+	controller = BRZ
+	culture = brazillian
+	religion = candomble
+}

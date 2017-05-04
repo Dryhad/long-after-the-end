@@ -1,0 +1,13 @@
+owner = NRU
+controller = NRU
+add_core = NRU
+culture = novorusskiy
+religion = atomicist
+citysize = 1000
+
+3053.1.1 = {
+	owner = NRU
+	controller = NRU
+	culture = novorusskiy
+	religion = atomicist
+}

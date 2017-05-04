@@ -1,0 +1,32 @@
+#617 - Lamuri
+
+#owner = PSA
+#controller = PSA
+culture = sumatran
+religion = sunni
+capital = "Lamuri"
+trade_goods = spices
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 3
+is_city = no
+#add_core= PSA
+
+
+
+discovered_by = indian
+discovered_by = indian
+discovered_by = indian
+discovered_by = chinese
+
+# = { discovered_by = MNG }
+
+# = {
+	#owner = ATJ
+	#controller = ATJ
+	#add_core= ATJ
+	remove_core = PSA
+}
+# = { capital = "Kutaraja" }
+# = { discovered_by = POR }

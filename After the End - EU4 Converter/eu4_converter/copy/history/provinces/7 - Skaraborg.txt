@@ -1,0 +1,28 @@
+#Skaraborg, contains Skara, Skövde etc.
+
+#add_core= SWE
+#owner = SWE
+#controller = SWE
+culture = swedish
+religion = catholic
+hre = no
+base_tax = 2
+base_production = 2
+trade_goods = grain
+base_manpower = 2
+capital = "Skara"
+estate = estate_church #Skara, Brynolfsbo/Brunsbo
+is_city = no
+ #"Domkyrkan i Skara"
+discovered_by = high_american
+discovered_by = high_american
+discovered_by = indian
+discovered_by = indian
+
+
+# = { religion = protestant}
+# = { #controller = PLC } # Sigismund tries to reconquer his crown
+# = { #controller = SWE } # Duke Karl get it back
+# = { #controller = DAN } # The War of Kalmar-Captured by Christian IV
+# = { #controller = SWE }# The Peace of Knäred
+# = { capital = "Göteborg" }

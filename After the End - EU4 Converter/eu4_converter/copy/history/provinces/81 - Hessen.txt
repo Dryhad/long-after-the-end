@@ -1,0 +1,21 @@
+#81 - Hessen
+
+owner = BIZ
+controller = BIZ
+add_core= BIZ
+capital = "Marburg"
+trade_goods = wool
+culture = hessian
+religion = matrem
+base_tax = 4 
+base_production = 4
+base_manpower = 2
+is_city = yes
+courthouse = yes
+hre = no
+
+
+
+discovered_by = high_american
+discovered_by = indian
+

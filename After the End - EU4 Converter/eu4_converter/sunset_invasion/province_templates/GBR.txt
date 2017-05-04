@@ -1,0 +1,13 @@
+owner = GBR
+controller = GBR
+add_core = GBR
+culture = british
+religion = thelemic
+citysize = 1000
+
+3053.1.1 = {
+	owner = GBR
+	controller = GBR
+	culture = british
+	religion = thelemic
+}

@@ -1,0 +1,18 @@
+#62 - Leipzig
+
+#owner = SAX
+#controller = SAX 
+culture = saxon
+religion = catholic
+capital = "Leipzig"
+trade_goods = wool
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 2
+is_city = no
+#add_core= SAX
+discovered_by = high_american
+discovered_by = high_american
+discovered_by = indian
+discovered_by = indian

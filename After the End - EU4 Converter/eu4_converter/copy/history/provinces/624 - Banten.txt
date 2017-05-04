@@ -1,0 +1,35 @@
+#624 - Banten
+
+#owner = SUN
+#controller = SUN
+#add_core= SUN
+culture = javanese
+religion = hinduism
+capital = "Banten"
+trade_goods = spices
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 3
+is_city = no
+
+
+
+discovered_by = chinese
+discovered_by = indian
+discovered_by = indian
+discovered_by = indian
+
+# = { discovered_by = POR }
+# = { discovered_by = SPA }
+
+# = {
+	#owner = BAN
+	#controller = BAN
+	#add_core= BAN
+	remove_core = SUN
+} # Conquered by the Cirebonese Army and Banten Sultanate was established
+# = { religion = sunni }
+# = { discovered_by = ENG } # English settlement
+# = { religion = sunni }
+# = { discovered_by = GBR }

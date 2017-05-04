@@ -1,0 +1,17 @@
+#782 - Tierra del Fuego
+
+culture = patagonian
+religion = animism
+capital = "Tierra del Fuego"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 2
+native_hostileness = 9
+
+# = { discovered_by = SPA } # Ferdinand Magellan
+# = { discovered_by = ENG } # Drake
+# = { discovered_by = FRA } # Jean Francois la Perouse

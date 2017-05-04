@@ -1,0 +1,21 @@
+# 75 Elsass - Principal cities: Strasbourg
+
+#owner = ALS
+#controller = ALS 
+capital = "Straﬂburg"
+is_city = no
+culture = swabian
+religion = cult_of_reason
+hre = no
+base_tax = 4 
+base_production = 4
+trade_goods = wine
+base_manpower = 5
+#add_core= ALS
+fort_15th = yes
+
+
+
+discovered_by = high_american
+discovered_by = indian
+

@@ -1,0 +1,30 @@
+#640 - Pontianak
+
+culture = bornean
+religion = sunni
+capital = "Pontianak"
+trade_goods = unknown
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 3
+native_size = 60
+native_ferocity = 5
+native_hostileness = 7
+
+
+
+discovered_by = chinese
+discovered_by = indian
+discovered_by = indian
+discovered_by = indian
+
+# = { discovered_by = POR }
+
+# = {
+	#owner = LFA
+	#controller = LFA
+	#add_core= LFA
+	is_city = no
+	trade_goods = gold
+} # Lanfang Republic was founded by Chinese immigrants

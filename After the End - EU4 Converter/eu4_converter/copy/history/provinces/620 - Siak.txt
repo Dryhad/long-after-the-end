@@ -1,0 +1,25 @@
+#620 - Siak
+
+#owner = SAK
+#controller = SAK
+culture = sumatran
+religion = sunni
+capital = "Siak"
+trade_goods = chinaware
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 3
+is_city = no
+#add_core= SAK
+
+
+
+discovered_by = chinese
+discovered_by = indian
+discovered_by = indian
+discovered_by = indian
+
+# = { discovered_by = MNG }
+# = { discovered_by = POR }
+

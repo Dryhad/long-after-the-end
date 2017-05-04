@@ -1,0 +1,31 @@
+#618 - Deli
+
+#owner = PSA
+#controller = PSA
+culture = sumatran
+religion = sunni
+capital = "Deli"
+trade_goods = spices
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = no
+#add_core= PSA
+
+
+
+discovered_by = chinese
+discovered_by = indian
+discovered_by = indian
+discovered_by = indian
+
+# = { discovered_by = MNG }
+
+# = { #add_core= ATJ }
+# = { discovered_by = POR }
+# = {
+	#owner = ATJ
+	#controller = ATJ
+	remove_core = PSA
+}

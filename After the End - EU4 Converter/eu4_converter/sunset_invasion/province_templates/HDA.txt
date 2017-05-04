@@ -1,0 +1,13 @@
+owner = HDA
+controller = HDA
+add_core = HDA
+culture = haida
+religion = totemism
+citysize = 1000
+
+3053.1.1 = {
+	owner = HDA
+	controller = HDA
+	culture = haida
+	religion = totemist
+}

@@ -1,0 +1,25 @@
+#606 - Panduranga
+
+#owner = CHA
+#controller = CHA
+culture = cham
+religion = hinduism
+capital = "Panduranga"
+trade_goods = fish
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 2
+is_city = no
+#add_core= CHA
+discovered_by = chinese
+discovered_by = indian
+discovered_by = indian
+discovered_by = indian
+
+# = { discovered_by = POR }
+# = { religion = sunni } # muslim conversion
+# = { unrest = 6 } # Rebellion against the Vietnamese
+# = { unrest = 0 } # Plague
+# = { unrest = 5 } # Unsuccessful revolt
+# = { unrest = 0 }

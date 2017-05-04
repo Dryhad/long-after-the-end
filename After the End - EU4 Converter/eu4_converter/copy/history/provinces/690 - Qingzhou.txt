@@ -1,0 +1,30 @@
+#690 - Shandong Bandao
+
+#owner = MNG
+#controller = MNG
+#add_core= MNG
+culture = shandong_culture
+religion = confucianism
+capital = "Qingzhou"
+trade_goods = iron
+hre = no
+base_tax = 5 
+base_production = 4
+base_manpower = 3
+is_city = no
+#add_core= QIC
+
+
+
+discovered_by = chinese
+#discovered_by = nomad_group
+
+# = { discovered_by = POR } # Tome Pires
+
+# = { #owner = CSH #controller = CSH } # The Shun dynasty of Li Zicheng
+# = {
+	#owner = QNG
+	#controller = QNG
+	#add_core= QNG
+}
+# = { remove_core = MNG }

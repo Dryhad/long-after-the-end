@@ -1,0 +1,36 @@
+#631 - Bali
+
+#owner = MAJ
+#controller = MAJ
+#add_core= MAJ
+culture = javanese
+religion = hinduism
+capital = "Gianyar"
+trade_goods = cloth
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 3
+is_city = no
+#add_core= BLI
+
+
+
+discovered_by = chinese
+discovered_by = indian
+discovered_by = indian
+discovered_by = indian
+
+# = { discovered_by = MNG }
+
+# = {
+	#owner = BLI
+	#controller = BLI
+	#add_core= BLI
+	remove_core = MAJ
+
+} # The fall of the Majapahit Empire
+# = { discovered_by = POR }
+# = { discovered_by = NED } # Cornelis de Houtman
+# = { unrest = 6 } # Mataram rebellion against the court & the VOC
+# = { unrest = 0 }

@@ -1,0 +1,20 @@
+#79 - Würzburg
+owner = BIZ
+controller = BIZ
+add_core= BIZ
+culture = franconian
+religion = matrem
+base_tax = 2
+base_production = 2
+trade_goods = wine
+base_manpower = 2
+fort_15th = yes # Marienberg Fortress
+capital = "Würzburg"
+hre = no
+
+
+
+discovered_by = high_american
+discovered_by = indian
+
+is_city = yes

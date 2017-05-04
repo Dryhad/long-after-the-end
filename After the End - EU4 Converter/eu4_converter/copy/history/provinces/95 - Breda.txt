@@ -1,0 +1,47 @@
+# 95 Breda - Principal cities: 's Hertogenbosch & Breda
+
+#owner = BRB
+#controller = BRB
+#add_core= BRB
+is_city = no
+capital = "'s Hertogenbosch"
+culture = dutch
+religion = cult_of_reason
+hre = no
+base_tax = 7 
+base_production = 7
+trade_goods = cloth
+base_manpower = 4
+
+discovered_by = high_american
+discovered_by = high_american
+discovered_by = indian
+discovered_by = indian
+
+# = { #owner = HAB #controller = HAB #add_core= HAB }
+# = { #owner = SPA #controller = SPA #add_core= SPA remove_core = HAB }
+# = { #owner = NED #controller = NED #add_core= NED remove_core = SPA }
+# = { religion = reformed }
+# = { unrest = 16 } # 'Perpetual Edict' (Eeuwig Edict) accepted by Don Juan
+# = { #controller = SPA } # Alessandro Farnese takes Breda
+# = { #controller = NED } # Breda is retaken after a succesful diversion
+# = { #controller = SPA } # After the 12-year armistice, the fight is resume: Spinola takes Breda 
+# = { #controller = NED } # Frederik Hendrik captures 's Hertogenbosch
+# = { hre = no } # The Peace of Westphalia
+# = { capital = "Breda" }
+# = { #controller = FRA } # France blitzes through the Lowlands in the Franco-Dutch War
+# = { #controller = NED } # Peace of Nijmegen (Netherlands-France)
+# = { base_tax = 10 
+base_production = 10 } # Protestants expelled from France
+# = { #controller = FRA } # French troops storm and take Bergen-op-Zoom
+# = { #controller = NED } # Peace of Aachen
+# = {
+	#owner = FRA
+	#controller = FRA
+	#add_core= FRA
+} # Annexed by France
+# = {
+	#owner = NED
+	#controller = NED
+	remove_core = FRA
+} # William returns to the Netherlands

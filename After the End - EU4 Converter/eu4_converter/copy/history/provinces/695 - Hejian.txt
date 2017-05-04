@@ -1,0 +1,38 @@
+#695 - Hebei
+
+#owner = MNG
+#controller = MNG
+#add_core= MNG
+culture = chihan
+religion = confucianism
+capital = "Hejian"
+trade_goods = salt
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = no
+#add_core= YAN
+
+
+
+discovered_by = chinese
+#discovered_by = nomad_group
+
+
+# = { revolt = {} #controller = MNG }
+# = { discovered_by = POR } # Tome Pires
+# = { revolt_risk = 5 } # Assassination attemp on Shizong Emperor
+# = { revolt_risk = 0 }
+# = { revolt_risk = 6 } # Li Zicheng rebellion
+# = {
+	#owner = CSH
+	#controller = CSH
+	#add_core= CSH
+} # Li Zicheng's Shun empire
+# = {
+	#owner = QNG
+	#controller = QNG
+	#add_core= QNG
+}
+# = { remove_core = MNG }

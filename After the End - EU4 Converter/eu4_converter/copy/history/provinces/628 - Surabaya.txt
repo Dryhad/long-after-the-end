@@ -1,0 +1,44 @@
+#628 - Surabaya
+
+#owner = MAJ
+#controller = MAJ
+#add_core= MAJ
+culture = javanese
+religion = hinduism
+capital = "Surabaya"
+trade_goods = cotton
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 3
+is_city = no
+
+
+
+discovered_by = chinese
+discovered_by = indian
+discovered_by = indian
+discovered_by = indian
+
+# = { discovered_by = POR }
+
+# = {
+	#owner = DMK
+	#controller = DMK
+	#add_core= DMK
+	remove_core = MAJ
+} # Demak Sultanate conquered Majapahit
+# = { religion = sunni }
+# = {
+	#owner = BLM
+	#controller = BLM
+	#add_core= BLM
+	remove_core = DMK
+} # The Fall of Demak Sultanate
+# = { discovered_by = NED } # The Dutch arrived
+# = {
+	#owner = MTR
+	#controller = MTR
+	#add_core= MTR
+	remove_core = BLM
+} # Mataram conquered Surabaya after several years of struggle

@@ -1,0 +1,18 @@
+# 67 - Franken
+
+owner = BIZ
+controller = BIZ
+add_core= BIZ
+culture = franconian
+religion = matrem
+base_tax = 8
+base_production = 8
+trade_goods = wine
+base_manpower = 3
+capital = "Nürnberg"
+is_city = yes
+hre = no
+
+
+discovered_by = high_american
+discovered_by = indian

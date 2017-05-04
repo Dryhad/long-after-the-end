@@ -1,0 +1,16 @@
+# 65 - München
+owner = BIZ
+controller = BIZ
+add_core= BIZ
+culture = bavarian
+religion = matrem
+base_tax = 6 
+base_production = 6
+trade_goods = grain
+base_manpower = 3
+capital = "München"
+is_city = yes
+hre = no
+fort_15th = yes
+discovered_by = high_american
+discovered_by = indian

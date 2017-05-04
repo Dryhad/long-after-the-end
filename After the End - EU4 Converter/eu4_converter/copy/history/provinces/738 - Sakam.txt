@@ -1,0 +1,47 @@
+#738 - Taiwan
+
+culture = polynesian
+religion = animism
+capital = "Sakam"
+trade_goods = unknown
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 2
+native_size = 60
+native_ferocity = 1
+native_hostileness = 5
+
+
+
+discovered_by = chinese
+discovered_by = MCH
+discovered_by = KHA
+discovered_by = OIR
+discovered_by = QNG
+
+# = { discovered_by = SPA }
+# = { discovered_by = POR }
+
+# = {
+	#owner = NED
+	#controller = NED
+	is_city = no
+	trade_goods = chinaware
+} # The Spanish settlers are driven out by the Dutch
+# = { #controller = SPA } # Spanish occupation
+# = { #controller = NED } # The Spanish settlers are driven out by the Dutch
+# = {
+	#owner = MNG
+	#controller = MNG
+	#add_core= MNG
+	religion = confucianism
+} # Captured by Zheng Chenggong
+# = {
+	#owner = QNG
+	#controller = QNG
+	#add_core= QNG
+	remove_core = MNG
+} # Submitted to Manchu control
+# = { revolt_risk = 5 } # Rebellion
+# = { revolt_risk = 0 }

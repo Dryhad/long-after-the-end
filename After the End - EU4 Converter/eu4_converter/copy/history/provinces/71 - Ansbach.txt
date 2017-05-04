@@ -1,0 +1,19 @@
+# 71 - Ansbach
+
+owner = BIZ
+controller = BIZ
+add_core= BIZ
+culture = franconian
+religion = matrem
+hre = no
+trade_goods = salt
+capital = "Hall"
+is_city = yes
+base_manpower = 1
+base_tax = 3
+base_production = 3
+
+
+
+discovered_by = high_american
+discovered_by = indian

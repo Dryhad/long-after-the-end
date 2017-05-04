@@ -1,0 +1,38 @@
+#670 - Ganzhou
+
+#owner = MNG
+#controller = MNG
+#add_core= MNG
+culture = hakka
+religion = confucianism
+capital = "Ganzhou"
+trade_goods = grain
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 2
+is_city = no
+#add_core= NNG
+
+
+
+discovered_by = chinese
+#discovered_by = nomad_group
+
+# = { discovered_by = SPA }
+
+# = {
+	#owner = QNG
+	#controller = QNG
+	#add_core= QNG
+}
+# = { 
+	#controller = MNG 
+	#owner = MNG
+}
+# = {
+	#owner = QNG
+	#controller = QNG
+}
+# = { #controller = CZH }
+# = { #controller = QNG }
