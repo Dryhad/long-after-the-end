@@ -1,0 +1,28 @@
+#Ostrov
+
+#owner = PSK
+#controller = PSK
+culture = novgorodian
+religion = orthodox
+hre = no
+base_tax = 2 
+base_production = 2
+trade_goods = naval_supplies
+base_manpower = 2
+capital = "Ostrov"
+is_city = no
+#add_core= PSK
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
+discovered_by = high_american
+discovered_by = high_american
+
+
+# = {	#owner = RUS #controller = RUS #add_core= RUS remove_core = PSK } # Pskov annexed by Russia
+# = { #controller = PLC } # Ostrov conquered by Stefan Bathory
+# = { #controller = RUS } # Peace of Jam-Zapolski
+# = { unrest = 8 } # "Time of troubles"
+# = { unrest = 0 } # Order returned, Romanov dynasty

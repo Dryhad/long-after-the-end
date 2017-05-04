@@ -1,0 +1,26 @@
+#305 - Perm
+
+#owner = KAZ
+#controller = KAZ
+culture = uralic
+religion = finnish_pagan_reformed #Sami Shamanism
+hre = no
+base_tax = 4
+base_production = 4
+trade_goods = copper
+base_manpower = 3
+capital = "Yagoshiha"
+is_city = no
+#add_core= KAZ
+#add_core= PRM
+
+
+
+discovered_by = high_american
+discovered_by = high_american
+#discovered_by = nomad_group
+
+
+# = { #owner = RUS #controller = RUS #add_core= RUS remove_core = KAZ } # Russian conquest of Kazan
+# = { culture = russian religion = orthodox } # Most Tatars were christianized or killed
+# = { capital = "Perm" } # Peter the Great founds city

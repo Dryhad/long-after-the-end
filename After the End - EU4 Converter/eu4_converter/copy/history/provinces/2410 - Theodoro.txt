@@ -1,0 +1,28 @@
+#2410 - Theodoro
+
+#owner = TRE
+#controller = TRE
+culture = goths
+religion = orthodox
+hre = no
+base_tax = 3 
+base_production = 3
+trade_goods = wine
+base_manpower = 3
+capital = "Mangul"
+is_city = no
+#add_core= TRE
+
+
+
+discovered_by = high_american
+discovered_by = high_american
+discovered_by = indian
+discovered_by = indian
+#discovered_by = nomad_group
+
+
+# = { #owner = FEO #controller = FEO #add_core= FEO remove_core = TRE }
+# = { #owner = TUR #controller = TUR #add_core= TUR} # Seized by Gedik Ahmet Pasha
+# = { #controller = RUS } # Russo-Turkish War
+# = { #owner = RUS #controller = RUS #add_core= RUS remove_core = TUR } # Treaty of Kuchuk-Kainarji

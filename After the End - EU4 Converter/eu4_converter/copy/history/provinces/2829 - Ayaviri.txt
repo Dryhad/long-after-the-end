@@ -1,0 +1,35 @@
+# - Ayaviri
+
+#owner = CSU
+#controller = CSU
+#add_core= CSU
+culture = aimara
+religion = inti
+capital = "Ayaviri"
+is_city = no
+trade_goods = wool
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+
+
+
+discovered_by = south_american
+discovered_by = andean
+
+
+# = {
+	#owner = INC
+	#controller = INC
+	#add_core= INC
+}
+# = {
+	#discovered_by = SPA
+	#owner = SPA
+	#controller = SPA
+	#add_core= SPA
+	culture = castillian
+	religion = catholic
+}# The death of Atahualpa
+# = { revolt = { type = nationalist_rebels size = 3 } #controller = REB } # Bolivian War of Independence

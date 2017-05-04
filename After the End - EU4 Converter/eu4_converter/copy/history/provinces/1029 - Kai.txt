@@ -1,0 +1,28 @@
+#1029 - Kai
+
+#owner = TKD
+#controller = TKD
+culture = togoku
+religion = shinto
+capital = "Kofu"
+trade_goods = grain
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 3
+is_city = no
+#add_core= TKD
+
+
+
+discovered_by = chinese
+discovered_by = MCH
+discovered_by = KHA
+discovered_by = OIR
+discovered_by = QNG
+discovered_by = ANU
+
+# = { trade_goods = gold } # Kurokawa gold mine discovered
+# = { discovered_by = POR }
+# = { #add_core= ODA #owner = ODA #controller = ODA remove_core = TKD }
+# = { #owner = TKG #controller = TKG #add_core= TKG remove_core = ODA }

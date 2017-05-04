@@ -1,0 +1,21 @@
+#1765 - Sofia
+
+#owner = TUR
+#controller = TUR
+culture = bulgarian
+religion = hellenic_pagan
+capital = "Sofia"
+trade_goods = copper
+hre = no
+base_tax = 5 
+base_production = 4
+base_manpower = 2
+is_city = no
+estate = estate_nobles
+#add_core= TUR
+#add_core= BUL
+
+
+
+discovered_by = high_american
+discovered_by = indian

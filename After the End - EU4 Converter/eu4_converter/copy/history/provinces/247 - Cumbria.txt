@@ -1,0 +1,43 @@
+#247 - Cumbria
+#Cumberland and Westmoreland
+
+#owner = ENG
+#controller = ENG
+culture = english
+religion = catholic
+hre = no
+base_tax = 2 
+base_production = 2
+trade_goods = wool
+base_manpower = 1
+capital = "Carlisle"
+is_city = no
+#add_core= ENG
+#add_core= NOL
+
+
+
+discovered_by = high_american
+discovered_by = indian
+discovered_by = indian
+discovered_by = high_american
+
+
+# = { unrest = 5 } # Start of the War of the Roses
+# = { unrest = 2 } # Coronation of Edward IV
+# = { unrest = 5 } # Rivalry between Edward IV & Warwick
+# = { unrest = 8 } # Unpopularity of Warwick & War with Burgundy
+# = { unrest = 2 } # Murder of Henry VI & Restoration of Edward IV
+# = { unrest = 8 } # Revulsion at Supposed Murder of the Princes in the Tower
+# = { unrest = 0 } # Battle of Bosworth Field & the End of the War of the Roses
+# = {  base_tax = 4 base_production = 4 }
+# = { religion = protestant }
+# = { #controller = SCO }
+# = { #controller = ENG } # End of First English Civil War
+# = { revolt = { type = revolutionary_rebels size = 3 } #controller = REB }
+# = { revolt = {} #controller = ENG }
+# = {	#owner = GBR
+	#controller = GBR
+	#add_core= GBR
+	remove_core = ENG
+}

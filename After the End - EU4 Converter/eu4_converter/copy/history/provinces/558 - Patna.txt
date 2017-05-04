@@ -1,0 +1,108 @@
+#558 - Bihar
+
+#owner = JNP
+#controller = JNP
+culture = bihari
+religion = hinduism
+capital = "Patna"
+trade_goods = silk
+hre = no
+base_tax = 7 
+base_production = 7
+base_manpower = 5
+is_city = no
+#add_core= JNP
+estate = estate_dhimmi
+fort_15th = yes #Rohtasgarh
+
+
+
+discovered_by = indian
+discovered_by = indian 
+discovered_by = indian
+#discovered_by = nomad_group
+discovered_by = chinese
+
+
+# = {
+	#owner = DLH
+	#controller = DLH
+	#add_core= DLH
+	remove_core = JNP
+} # Bahlul Lodi places his eldest surviving son Barbak Shah Lodi on the throne of Jaunpur
+# = { #controller = REB revolt = { type = nationalist_rebels } } #Revolt of Afghan Nobles
+# = { #controller = DLH revolt = { } unrest = 5 }
+# = {
+	#owner = BNG
+	#add_core= BNG
+	#controller = REB
+	revolt = { type = anti_tax_rebels size = 1 name = "Landless Nobles" }
+	unrest = 0
+} # Contested area with lots of different factions fighting eachother after Panipat
+# = { revolt = { type = pretender_rebels } } # Sur control
+# = {
+	#controller = BNG
+	revolt = { }
+} # Gaur has fallen
+# = {
+	#controller = MUG
+} # Mughal Invasion
+# = {
+	#controller = BNG
+} # Surs again in control
+# = {
+	#owner = JNP
+	#controller = JNP
+	remove_core = BNG
+} #Death of Islam Shah Sur, Suri empire split
+# = {
+	#owner = BNG
+	#controller = BNG
+} #Remaining Sur lands unified
+# = {
+	#owner = MUG
+	#controller = MUG
+	#add_core= MUG
+} # Annexed to the Mughal Empire
+# = {
+	#controller = REB
+	revolt = {
+		type = pretender_rebels
+		size = 0
+		name = "Khurrams Faction"
+		leader = "Shah Jahan Timurid"
+	}
+} #With some aid from Golconda Khurrams rebelion against his father continues
+# = {
+	#controller = MUG
+	revolt = { }
+} #Defeated, retreats into Bengal
+# = { discovered_by = POR }
+# = {
+	#controller = REB
+	revolt = {
+		type = pretender_rebels
+		size = 0
+		name = "Muhammed Shuja's Faction"
+		leader = "Muhammed Shuja Timurid"
+	}
+} # Shah Jahan falls ill, his sons starts civil war
+# = {
+	#controller = MUG
+	revolt = { }
+} # Muhammed Shuja defeated by Aurangzeb
+# = {
+#owner = BNG
+	#controller = BNG
+	#add_core= BNG
+	remove_core = MUG
+}
+# = {
+	#owner = GBR
+	#controller = GBR
+	#add_core= GBR
+} # Given to GBR by Mughal Empire (was formerly british puppet)
+# = { revolt_risk = 5 } # Paharia revolt
+# = { revolt_risk = 7 } # Revolt led by Tilka Manjhi
+# = { revolt_risk = 2 }
+# = { revolt_risk = 6 } # Tamar revolt, Munda revolt

@@ -1,0 +1,42 @@
+# - Moyobamba
+
+#owner = CYA
+#controller = CYA
+culture = chachapoyan
+religion = inti
+capital = "Moyobamba"
+trade_goods = tropical_wood
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = no
+#add_core= CYA
+
+
+
+discovered_by = south_american
+discovered_by = andean
+discovered_by = CHM
+
+
+# = {
+	#owner = INC
+	#controller = INC
+	#add_core= INC
+}
+# = {
+	#discovered_by = SPA
+	#owner = SPA
+	#controller = SPA
+	#add_core= SPA
+	culture = castillian
+	religion = catholic
+}# The death of Atahualpa
+# = { unrest = 8 } # Fighting breaks out when Almagro seizes Cuzco
+# = { unrest = 5 } # Almagro is defeated & executed
+# = { unrest = 6 } # Pizzaro is assassinated by supporters of Almagro, his brother assumes control
+# = { unrest = 0 } # Gonzalo Pizzaro is also executed & Spain regains control
+# = { #add_core= SPA }
+# = { revolt = { type = nationalist_rebels size = 2 } #controller = REB }
+# = { revolt = {} #controller = SPA }

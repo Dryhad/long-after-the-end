@@ -1,0 +1,21 @@
+#Uppland, contains Stockholm, Uppsala & Nyköping.
+
+culture = swedish
+religion = catholic
+hre = no
+base_tax = 5 
+base_production = 5
+trade_goods = unknown
+base_manpower = 3
+capital = "Stockholm"
+native_size = 40
+native_ferocity = 4
+native_hostileness = 9
+
+
+
+
+discovered_by = high_american
+discovered_by = high_american
+discovered_by = indian
+discovered_by = indian

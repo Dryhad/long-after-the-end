@@ -1,0 +1,72 @@
+# CK2TITLE;EU4TAG;EU4FILE;Comment
+
+# Popey McPopeface
+k_papal_state;PAP;Papal;Papal State Kingdom
+k_ursuline;URS;Ursuline;Ursuline See
+
+# Hordes
+
+e_redcoat_dominion;GBR;GreatBritain;Great Britain
+e_brazil;BRZ;Brazil;Brazil
+e_edokko;JAP;Japan;Japan
+e_novorusskiy;NRU;NewRussia;New Russia
+
+# Converter Originals
+e_california;CAL;California;Empire California
+e_ontarian;ONT;Ontario;Empire Ontario
+k_ontario;ONT;Ontario;Kingdom Ontario
+d_arklatex;TXK;Texarkana;Duchy Texarkana
+c_texarkana;TXK;Texarkana;County Texarkana
+
+# EU4 Colonies
+
+e_canada;CAN;Canada;Canada
+e_gran_colombia;COL;Colombia;Colombia
+e_haiti;HAT;Haiti;Empire Haiti
+k_hispaniola;HAT;Haiti;Kingdom Haiti
+d_haiti;HAT;Haiti;Duchy Haiti
+k_louisiana;LOU;Louisiana;Louisiana
+e_mexico;MEX;Mexico;Empire Mexico
+k_mexico;MEX;Mexico;Kingdom Mexico
+d_mexico;MEX;Mexico;Duchy Mexico
+e_quebec;QUE;Quebec;Empire Quebec
+k_quebec;QUE;Quebec;Kingdom Quebec
+e_usa;USA;USA;America
+k_venezuela;VNZ;Venezuela;Venezuela
+e_guatemala;CAM;UPCA;Empire of Guatemala/United Central America
+
+# Native (Most of these disabled because Sunset Invasion is a butt)
+
+#e_cherokee;CHE;Cherokee;Cherokee
+#e_comanche;COM;Comanche;Empire Comanche
+#k_comancheria;COM;Comanche;Kingdom Comanche
+#e_hopi;PUE;Pueblo;Empire Hopi
+#d_hopi;PUE;Pueblo;Duchy Hopi
+#e_muscogee;CRE;Creek;Muscogee
+#e_navajo;NAH;Navajo;Empire Navajo
+#k_dinetah;NAH;Navajo;Kingdom Navajo
+#d_navajoland;NAH;Navajo;Duchy Navajo
+#e_sioux;SIO;Sioux;Empire Sioux
+#d_siouxland;SIO;Sioux;Duchy Sioux
+
+# First Nations
+
+#e_cree;WCR;Cree;Cree
+e_haida;HDA;Haida;Haida
+#e_mikmaq;MIK;Mikmaq;Mikmaq
+#e_ojibwe;OJI;Ojibwa;Ojibwa
+e_salishan;SAL;Salish;Salish
+
+# Mesoamerican/Mayan/Andean
+
+e_mixtec;MIX;Mixtec;Empire Mixtec
+k_mixteca;MIX;Mixtec;Kingdom Mixtec
+d_mixteca;MIX;Mixtec;Duchy Mixtec
+#e_nahua;AZT;Aztec;Aztec
+e_zapotec;ZAP;Zapotec;Empire Zapotec
+k_zapoteca;ZAP;Zapotec;Kingdom Zapotec
+#e_maya;MAY;Maya;Maya
+#e_inca;INC;Inca;Inca
+e_muisca;MCA;Muisca;Muisca
+k_colima;CLM;Colima;Kingdom Colima
+d_colima;CLM;Colima;Duchy Colima

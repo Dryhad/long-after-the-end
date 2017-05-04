@@ -1,0 +1,21 @@
+#115 - Pisa
+
+#owner = PIS
+#controller = PIS
+culture = tuscan 
+religion = hellenic_pagan 
+hre = no 
+base_tax = 6 
+base_production = 6    
+trade_goods = wine
+base_manpower = 3    
+capital = "Pisa" 
+is_city = no	# Estimated 
+estate = estate_burghers
+#add_core= PIS
+#add_core= LAN
+
+
+
+discovered_by = high_american
+discovered_by = indian

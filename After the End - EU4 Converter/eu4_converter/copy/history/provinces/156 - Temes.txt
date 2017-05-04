@@ -1,0 +1,16 @@
+#156 - Temes
+
+#owner = HUN
+#controller = HUN 
+culture = romanian
+religion = hellenic_pagan
+capital = "Temesvár"
+trade_goods = wool
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = no
+#add_core= HUN
+discovered_by = high_american
+discovered_by = indian

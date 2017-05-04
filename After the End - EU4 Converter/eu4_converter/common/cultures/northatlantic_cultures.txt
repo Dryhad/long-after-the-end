@@ -1,0 +1,23 @@
+north_atlantic = {
+	gothamite = {
+		dynasty_names = $gothamite$
+	}
+	hudsonian = {
+		dynasty_names = $hudsonian$
+	}
+	delawarean = {
+		primary = USA
+		dynasty_names = $delawarean$
+	}
+	yankee = {
+		dynasty_names = $yankee$
+	}
+	maritimer = {
+		primary = CAN
+		dynasty_names = $maritimer$
+	}
+	newfie = {
+		primary = CAN
+		dynasty_names = $newfie$
+	}
+}

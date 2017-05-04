@@ -1,0 +1,18 @@
+venezolano = {
+	agraciado = {
+		primary = VNZ
+		dynasty_names = $agraciado$
+	}
+	bolivariano = {
+		dynasty_names = $bolivariano$
+	}
+	gocho = {
+		dynasty_names = $gocho$
+	}
+	llanero = {
+		dynasty_names = $llanero$
+	}
+	truenonato = {
+		dynasty_names = $truenonato$
+	}
+}

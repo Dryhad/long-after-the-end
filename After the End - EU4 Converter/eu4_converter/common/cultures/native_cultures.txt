@@ -1,0 +1,34 @@
+#Raramuri
+central_american = {
+	raramuri = {
+		dynasty_names = $raramuri$
+	}
+}
+#Algonquin
+#Metis
+central_algonquian = {
+	algonquin = {
+		dynasty_names = $algonquin$
+	}
+	metis = { # Maybe should be somewhere else?
+		dynasty_names = $metis$
+	}
+}
+#Innu
+eskaleut = {
+	innu = {
+		dynasty_names = $innu$
+	}
+}
+#Paiute
+sonoran = {
+	paiute = {
+		dynasty_names = $paiute$
+	}
+}
+#Wayuu
+caribbean = {
+	wayuu = {
+		dynasty_names = $wayuu$
+	}
+}

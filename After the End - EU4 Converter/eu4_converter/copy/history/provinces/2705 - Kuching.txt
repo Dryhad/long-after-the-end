@@ -1,0 +1,28 @@
+#2705 - Kuching
+
+#owner = BEI
+#controller = BEI
+culture = bornean
+religion = sunni
+capital = "Kuching"
+trade_goods = spices
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = no
+#add_core= BEI
+
+
+
+discovered_by = chinese
+discovered_by = indian
+discovered_by = indian
+discovered_by = indian
+
+# = { discovered_by = SPA }
+
+# = { #owner = SPA #controller = SPA } # Captured by Spain
+# = { #owner = BEI #controller = BEI }
+# = { revolt = { type = revolutionary_rebels size = 2 } #controller = REB } # Civil war over succession
+# = { revolt = {} #controller = BEI }

@@ -1,0 +1,23 @@
+#2418 - Ukek
+
+#owner = GOL
+#controller = GOL
+culture = hessian
+religion = atomicist
+hre = no
+base_tax = 2 
+base_production = 2
+trade_goods = iron 
+base_manpower = 3
+capital = "Ukek"
+is_city = yes
+#add_core= GOL
+#add_core= AST
+
+
+
+discovered_by = high_american
+discovered_by = high_american
+discovered_by = indian
+discovered_by = indian
+#discovered_by = nomad_group

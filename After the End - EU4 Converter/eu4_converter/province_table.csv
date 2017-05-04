@@ -1,0 +1,2191 @@
+# CK2TITLE;EU4ID;Filename;Comment
+
+# Antilles
+
+d_trinidad_and_tobago;502;502 - Trinidad;Duchy Trinidad - Trinidad
+c_trinidad;502;502 - Trinidad;County Trinidad - Trinidad
+c_tobago;502;502 - Trinidad;Tobago - Trinidad
+
+d_leeward_antilles;491;491 - Curacao;Duchy Leeward Antilles - Curacao
+c_curacao;491;491 - Curacao;Curacao - Curacao
+c_aruba;491;491 - Curacao;Aruba - Curacao
+c_bonaire;491;491 - Curacao;Bonaire - Curacao
+
+c_barbados;501;501 - Barbados;Barbados - Barbados
+
+c_st_vincent;500;500 - St. Vincent;St. Vincent - St. Vincent
+c_grenada;500;500 - St. Vincent;Grenada - St. Vincent
+
+c_st_lucia;499;499 - St. Lucia;St. Lucia - St. Lucia
+
+c_martinique;498;498 - Martinique;Martinique - Martinique
+
+c_dominica;497;497 - Dominica;Dominica - Dominica
+
+c_guadeloupe;496;496 - Guadeloupe;Guadeloupe - Guadeloupe
+
+c_antigua_and_barbuda;495;495 - Antigua;Antigua and Barbuda - Antigua
+
+c_st_kitts_and_nevis;494;494 - St. Kitts;St. Kitts and Nevis - St. Kitts
+c_st_kitts_and_nevis;1881;1881 - St. Martin;St. Kitts and Nevis - St. Martin
+
+c_virgin_islands;493;493 - St. Thomas;Virgin Islands - St. Thomas
+
+# Jamaica
+
+d_jamaica;487;487 - Jamaica;Duchy Jamaica - Jamaica
+c_cornwall;487;487 - Jamaica;Cornwall - Jamaica
+c_middlesex;487;487 - Jamaica;Middlesex - Jamaica
+c_surrey;487;487 - Jamaica;Surrey - Jamaica
+
+d_bahama;482;482 - Bahamas;Duchy Bahamas - Bahamas
+c_grand_bahama;482;482 - Bahamas;Grand Bahama - Bahamas
+c_new_providence;482;482 - Bahamas;New Providence - Bahamas
+c_andros;482;482 - Bahamas;Andros - Bahamas
+c_out_islands;482;482 - Bahamas;Out Islands - Bahamas
+
+c_turks_and_caicos;483;483 - Turks Islands;Turks and Caicos - Turks Islands
+
+#c_isla_de_san_andreas;?
+
+# Hispaniola
+
+c_les_cayes;488;488 - Les Cayes;Les Cayes - Les Cayes
+c_port_au_prince;4716;4716 - Port-au-Prince;Port au Prince - Port-au-Prince
+c_artibonite;488;488 - Les Cayes;Artibonite - Les Cayes
+c_la_gonave;488;488 - Les Cayes;La Gonave - Les Cayes
+
+d_tortuga;489;489 - Tortuga;Duchy Tortuga - Tortuga
+c_tortuga;489;489 - Tortuga;County Tortuga - Tortuga
+c_le_cap;489;489 - Tortuga;Le Cap - Tortuga
+
+c_santa_domingo;490;490 - Barahonas;Santa Domingo - Barahonas
+c_la_romana;490;490 - Barahonas;La Romana - Barahonas
+
+c_barahona;2658;2658 - Maguana;Barahona - Maguana
+
+c_santiago;2659;2659 - Magua;Santiago - Magua
+c_puerto_plata;2659;2659 - Magua;Puerto Plata - Magua
+c_la_vega;2659;2659 - Magua;La Vega - Magua
+
+d_puerto_rico;492;492 - Puerto Rico;Duchy Puerto Rico - Puerto Rico
+c_san_juan;492;492 - Puerto Rico;San Juan - Puerto Rico
+c_ponce;492;492 - Puerto Rico;Ponce - Puerto Rico
+c_bayamon;492;492 - Puerto Rico;Bayamon - Puerto Rico
+c_mayaguez;492;492 - Puerto Rico;Mayaguez - Puerto Rico
+
+# Cuba
+
+d_havana;484;484 - Havana;Duchy Havana - Havana
+c_havana;484;484 - Havana;County Havana - Havana
+c_artemisa;484;484 - Havana;Artemisa - Havana
+c_matanzas;484;484 - Havana;Matanzas - Havana
+c_pinar_del_rio;4713;4713 - Pinar del Rio;Pinar del Rio - Pinar del Rio
+
+c_isla_de_pinos;4715;4715 - Isla de Pinos;Isla de Pinos - Isla de Pinos
+
+c_zapata;485;485 - Moron;Zapata - Moron
+c_cienfuegos;485;485 - Moron;Cienfuegos - Moron
+c_sancti_spiritus;485;485 - Moron;Sancti Spiritus - Moron
+c_cayman;485;485 - Moron;Cayman - Moron
+
+c_santa_clara;4712;4712 - Santa Clara;Santa Clara - Santa Clara
+
+c_moron;2656;2656 - Camaguey;Moron - Camaguey
+
+c_ciego_de_avila;2655;2655 - Bayamo;Ciego de Avila - Bayamo
+c_camaguey;2655;2655 - Bayamo;Camaguey - Bayamo
+
+c_las_tunas;2654;2654 - Baracoa;Las Tunas - Baracoa
+c_holguin;2654;2654 - Baracoa;Holguin - Baracoa
+c_baracoa;2654;2654 - Baracoa;Baracoa - Baracoa
+
+d_gitmo;4714;4714 - Guantanamo;Duchy Guantanamo - Guantanamo
+c_guantanamo;4714;4714 - Guantanamo;County Guantanamo - Guantanamo
+
+c_granma;486;486 - Guantanamo;Granma - Guantanamo
+c_sierra_maestra486;486 - Guantanamo;Sierra Maestra - Guantanamo
+
+# Guyanas
+
+d_delta_amacuro;2803;2803 - Delta;Duchy Delta - Delta
+c_tucupita;2803;2803 - Delta;Tucupita - Delta
+c_antonio_diaz;2803;2803 - Delta;Antonio Diaz - Delta
+
+d_caroni;2804;2804 - Guasipati;Duchy Caroni - Guasipati
+c_ciudad_guayana;2804;2804 - Guasipati;
+c_piar;2804;2804 - Guasipati;
+c_roscio;2804;2804 - Guasipati;
+c_sifontes;2804;2804 - Guasipati;
+
+c_cedeno;2811;2811 - Atabapo;Cedeno - Atabapo
+c_amazonas;2811;2811 - Atabapo;Amazonas - Atabapo
+
+d_angostura;742;742 - Guayana;Duchy Angostura - Angostura
+c_angostura;742;742 - Guayana;County Angostura - Angostura
+c_ciudad_bolivar;742;742 - Guayana;Ciudad Bolivar - Angostura
+c_maripa;742;742 - Guayana;Maripa - Angostura
+
+d_georgetown;743;743 - Essequibo;Duchy Georgetown - Essequibo
+c_georgetown;743;743 - Essequibo;County Georgetown - Essequibo
+c_barima;743;743 - Essequibo;Barima - Essequibo
+c_pomeroon;743;743 - Essequibo;Pomeroon - Essequibo
+
+c_mazaruni;2931;2931 - Alenquer;Mazaruni - Alenquer
+
+c_new_amsterdam;744;744 - Demerara;New Amsterdam - Demerara
+c_essequibo;744;744 - Demerara;Essequibo - Demerara
+
+d_suriname;745;745 - Suriname;Suriname - Suriname
+c_paramaribo;745;745 - Suriname;Paramaribo - Suriname
+c_marowijne;745;745 - Suriname;Marowijne - Suriname
+c_saramacca;745;745 - Suriname;Saramacca - Suriname
+
+c_brokopondo;2937;2937 - Suriname;Brokopondo - Suriname
+c_sipaliwini;2937;2937 - Suriname;Sipaliwini - Suriname
+
+d_cayenne;746;746 - Cayenne;Duchy Cayenne - Cayenne
+c_cayenne;746;746 - Cayenne;County Cayenne - Cayenne
+c_saint_laurent_du_maroni;746;746 - Cayenne;Saint Laurent du Maroni - Cayenne
+c_inini;746;746 - Cayenne;Inini - Cayenne
+
+# Venezuela
+
+d_sucre;741;741 - Cumana;Duchy Sucre - Cumana
+c_cumana;741;741 - Cumana;Cumana - Cumana
+c_carupano;741;741 - Cumana;Carupano - Cumana
+c_isla_margarita;741;741 - Cumana;Isla Margarita - Cumana
+c_barcelona;741;741 - Cumana;Barcelona - Cumana
+c_anaco;741;741 - Cumana;Anaco - Cumana
+c_maturin;741;741 - Cumana;Maturin - Cumana
+
+c_libertador;2805;2805 - Uyapari;Libertador - Uyapari
+c_el_tigre;2805;2805 - Uyapari;El Tigre - Uyapari
+
+d_costa_gracia;831;831 - Caracas;Costa Gracia - Caracas
+c_caracas;831;831 - Caracas;Caracas - Caracas
+c_miranda;831;831 - Caracas;Miranda - Caracas
+c_carabobo;831;831 - Caracas;Carabobo - Caracas
+c_aragua;831;831 - Caracas;Aragua - Caracas
+
+d_falcon;2808;2808 - Coro;Falcon - Coro
+d_lara;2808;2808 - Coro;Lara - Coro
+c_coro;2808;2808 - Coro;Coro - Coro
+c_paraguana;2808;2808 - Coro;Paraguana - Coro
+c_dabajuro;2808;2808 - Coro;Dabajuro - Coro
+c_tocuyo;2808;2808 - Coro;Tocuyo - Coro
+c_barquisimeto;2808;2808 - Coro;Barquisimeto - Coro
+c_yaracuy;2808;2808 - Coro;Yaracuy - Coro
+c_carora;2808;2808 - Coro;Carora - Coro
+
+# Zulia
+
+d_zulia;830;830 - Maracaibo;Zulia - Maracaibo
+c_maracaibo;830;830 - Maracaibo;Maracaibo - Maracaibo
+c_machiques;830;830 - Maracaibo;Machiques - Maracaibo
+c_catatumbo;830;830 - Maracaibo;Catatumbo - Maracaibo
+
+d_aguas;2807;2807 - Altagracia;Aguas - Altagracia
+c_baralt;2807;2807 - Altagracia;Baralt - Altagracia
+c_trujillo;2807;2807 - Altagracia;Trujillo - Altagracia
+c_cabimas;2807;2807 - Altagracia;Cabimas - Altagracia
+
+d_guajira;2806;2806 - Guajira;Guajira - Guajira
+c_riohacha;2806;2806 - Guajira;Riohacha - Guajira
+c_uribia;2806;2806 - Guajira;Uribia - Guajira
+
+d_los_andes;2813;2813 - Merida;Los Andes - Merida
+c_tachira;2813;2813 - Merida;Tachira - Merida
+c_cucuta;2813;2813 - Merida;Cucuta - Merida
+c_sierra_merida;2813;2813 - Merida;Sierra Merida - Merida
+
+# Los Llanos
+
+d_guarico;2939;2939 - Zaraza;Guarico - Zaraza
+c_leonardo_infante;2939;2939 - Zaraza;Leonardo Infante - Zaraza
+c_orituco;2939;2939 - Zaraza;Orituco - Zaraza
+c_las_mercedes;2939;2939 - Zaraza;Las Mercedes - Zaraza
+c_pedro_zaraza;2939;2939 - Zaraza;Pedro Zaraza - Zaraza
+
+d_portuguesa;2809;2809 - Llanos;Portuguesa - Llanos
+c_guanare;2809;2809 - Llanos;Guanare - Llanos
+c_cojedes;2809;2809 - Llanos;Cojedes - Llanos
+c_araure;2809;2809 - Llanos;Araure - Llanos
+c_juan_german_roscio;2809;2809 - Llanos;Juan German Roscio - Llanos
+c_calabozo;2809;2809 - Llanos;Calabozo - Llanos
+
+d_barinas;834;834 - Barinas;Duchy Barinas - Barinas
+c_barinas;834;834 - Barinas;County Barinas - Barinas
+c_pedraza;834;834 - Barinas;Pedraza - Barinas
+c_arismendi;834;834 - Barinas;Arismendi - Barinas
+
+c_apure;2810;2810 - Apure;Apure - Apure
+c_capanaparo;2810;2810 - Apure;Capanaparo - Apure
+
+c_yopal;2812;2812 - Pore;Yopal - Pore
+c_casanare;2812;2812 - Pore;Casanare - Pore
+c_paez;2812;2812 - Pore;Paez - Pore
+c_arauca;2812;2812 - Pore;Arauca - Pore
+
+c_meta;2814;2814 - Meta;Meta - Meta
+c_ariari;2814;2814 - Meta;Ariari - Meta
+
+c_vichada;2815;2815 - Puerto Carreno;Vichada - Puerto Carreno
+c_cumaribo;2815;2815 - Puerto Carreno;Cumaribo - Puerto Carreno
+c_guaviare;2815;2815 - Puerto Carreno;Guaviare - Puerto Carreno
+
+# Caribe
+
+d_cartagena;828;828 - Cartagena;Duchy Cartagena - Cartagena
+c_cartagena;828;828 - Cartagena;County Cartagena - Cartagena
+c_atlantico;828;828 - Cartagena;Atlantico - Cartagena
+c_sucre;828;828 - Cartagena;County Sucre - Cartagena
+d_cordoba;828;828 - Cartagena;Duchy Cordoba - Cartagena
+c_monteria;828;828 - Cartagena;Monteria - Cartagena
+c_paramillo;828;828 - Cartagena;Paramillo - Cartagena
+c_momposina;828;828 - Cartagena;Momposina - Cartagena
+c_aguachica;828;828 - Cartagena;Aguachica - Cartagena
+
+d_magdalena;829;829 - Magdalena;Duchy Magdalena - Magdalena
+c_santa_marta;829;829 - Magdalena;Santa Marta - Magdalena
+c_magdalena_sur;829;829 - Magdalena;Magdalena Sur - Magdalena
+c_valledupar;829;829 - Magdalena;Valledupar - Magdalena
+
+# Puente Grande
+
+d_darien;2819;2819 - Darien;Duchy Darien - Darien
+c_darien;2819;2819 - Darien;County Darien - Darien
+c_guna_yala;2819;2819 - Darien;Guna Yala - Darien
+c_uraba;2819;2819 - Darien;Uraba - Darien
+
+d_panama;835;835 - Panama;Duchy Panama - Panama
+c_panama;835;835 - Panama;County Panama - Panama
+c_las_puertas;835;835 - Panama;Las Puertas - Panama
+c_cocle;835;835 - Panama;Cocle - Panama
+c_las_perlas;835;835 - Panama;Las Perlas - Panama
+
+d_chiriqui;2664;2664 - Veraguas;Duchy Chiriqui - Veraguas
+c_chiriqui;2664;2664 - Veraguas;County Chiriqui - Veraguas
+c_azuero;2664;2664 - Veraguas;Azuero - Veraguas
+c_bocas_del_toro;2664;2664 - Veraguas;Bocas del Toro - Veraguas
+c_veraguas;2664;2664 - Veraguas;Veraguas - Veraguas
+c_coiba;2664;2664 - Veraguas;Coiba - Veraguas
+
+c_cartago;836;836 - Chorotega;Cartago - Chorotega
+c_golfito;836;836 - Chorotega;Golfito - Chorotega
+
+c_alajuela;2663;2663 - Nicoya;Alajuela - Nicoya
+c_guanacaste;2663;2663 - Nicoya;Guanacaste - Nicoya
+c_limon;2663;2663 - Nicoya;Limon - Nicoya
+
+# Antioquia
+
+d_antioquia;827;827 - Antioquia;Duchy Antioquia - Antioquia
+c_aburra;827;827 - Antioquia;Aburra - Antioquia
+c_bajo_cauca;827;827 - Antioquia;Bajo Cauca - Antioquia
+c_sabanalarga;827;827 - Antioquia;Sabanalarga - Antioquia
+c_yolombo;827;827 - Antioquia;Yolombo - Antioquia
+c_oriente_antioqueno;827;827 - Antioquia;Oriente Antioqueno - Antioquia
+
+d_choco;826;826 - Choco;Duchy Choco - Choco
+c_quibdo;826;826 - Choco;Quibdo - Choco
+c_buenaventura;826;826 - Choco;Buenaventura - Choco
+
+d_cauca;823;823 - Cauca;Cauca - Cauca
+c_cali;823;823 - Cauca;Cali - Cauca
+c_tulua;823;823 - Cauca;Tulua - Cauca
+c_manizales;823;823 - Cauca;Manizales - Cauca
+c_quindio;823;823 - Cauca;Quindio - Cauca
+c_risaralda;823;823 - Cauca;Risaralda - Cauca
+
+# Andina
+
+c_la_dorada;824;824 - Mariquita;La Dorada - Mariquita
+c_ibague;824;824 - Mariquita;Ibague - Mariquita
+
+c_saldana;2817;2817 - Neiva;Saldana - Neiva
+c_huila;2817;2817 - Neiva;Huila - Neiva
+
+c_bogota;825;825 - Bogota;Bogota - Bogota
+c_caqueza;825;825 - Bogota;Caqueza - Bogota
+
+d_santander;832;832 - Chiancon;Duchy Santander - Chiancon
+c_bucaramanga;832;832 - Chiancon;Bucaramanga - Chiancon
+c_sogamoso;832;832 - Chiancon;Sogamoso - Chiancon
+c_barrancabermeja;832;832 - Chiancon;Barrancabermeja - Chiancon
+c_velez;832;832 - Chiancon;Velez - Chiancon
+c_tunja;832;832 - Chiancon;Tunja - Chiancon
+c_zipaquira;832;832 - Chiancon;Zipaquira - Chiancon
+
+# Miskito
+
+d_nicaragua;2660;2660 - Managua;Nicaragua - Managua
+c_managua;2660;2660 - Managua;Managua - Managua
+c_rivas;2660;2660 - Managua;Rivas - Managua
+c_el_desaguadero;2660;2660 - Managua;El Desaguadero - Managua
+
+d_mosquito;838;838 - Mosquito;Mosquito - Mosquito
+c_bluefields;838;838 - Mosquito;Bluefields - Mosquito
+c_karata;838;838 - Mosquito;Karata - Mosquito
+
+d_las_brumas;2661;2661 - Uluas;Las Brumas - Uluas
+c_chontales;2661;2661 - Uluas;Chontales - Uluas
+c_matagalpa;2661;2661 - Uluas;Matagalpa - Uluas
+c_jinotega;2661;2661 - Uluas;Jinotega - Uluas
+c_esteli;2661;2661 - Uluas;Esteli - Uluas
+
+d_mosquito_norte;840;840 - Honduras;Mosquito Norte - Honduras
+c_caratasca;840;840 - Honduras;Caratasca - Honduras
+c_coco;840;840 - Honduras;Coco - Honduras
+d_colon;840;840 - Honduras;Duchy Colon - Honduras
+c_colon;840;840 - Honduras;County Colon - Honduras
+c_islas_de_la_bahia;840;840 - Honduras;Islas de la Bahia - Honduras
+
+# Honduras
+
+d_altas_honduras;2662;2662 - Olancho;Atlas Honduras - Olancho
+c_tegucigalpa;2662;2662 - Olancho;Tegucigalpa - Olancho
+c_el_paraiso;2662;2662 - Olancho;El Paraiso - Olancho
+c_olancho;2662;2662 - Olancho;Olancho - Olancho
+
+d_atlantida;2637;2637 - Chortli;Atlantida - Chortli
+c_la_ceiba;2637;2637 - Chortli;La Ceiba - Chortli
+c_san_pedro_sula;2637;2637 - Chortli;San Pedro Sula - Chortli
+c_yoro;2637;2637 - Chortli;Yoro - Chortli
+c_comayagua;2637;2637 - Chortli;Comayagua - Chortli
+
+c_izabal;2636;2636 - Chacujal;Izabal - Chacujal
+c_quiche;2636;2636 - Chacujal;Quiche - Chacujal
+c_verapazes;2636;2636 - Chacujal;Verapazes - Chacujal
+
+# Guatemala
+
+d_guatemala;2653;2653 - Iximche;Duchy Guatemala - Iximche
+c_guatemala;2653;2653 - Iximche;County Guatemala - Iximche
+c_chiquimula;2653;2653 - Iximche;Chiquimula - Iximche
+
+c_atitlan;841;841 - Guatemala;Atitlan - Guatemala
+c_quetzaltenango;841;841 - Guatemala;Quetzaltenango - Guatemala
+c_pacifico;841;841 - Guatemala;Pacifico - Guatemala
+
+d_salvador;839;839 - Pipil;Duchy San Salvador - Pipil
+c_salvador;839;839 - Pipil;County San Salvador - Pipil
+c_chalatenango;839;839 - Pipil;Chalatenango - Pipil
+c_san_miguel;839;839 - Pipil;San Miguel - Pipil
+
+c_choluteca;2640;2640 - Lenca;Choluteca - Lenca
+
+c_chinandega;837;837 - Nicaragua;Chinandega - Nicaragua
+
+# Peten
+
+d_belize;843;843 - Belize;Duchy Belize - Belize
+c_dzuluinicob;843;843 - Belize;County Belize - Belize
+c_yalbac;843;843 - Belize;Yalbac - Belize
+c_chetumal;843;843 - Belize;Chetumal - Belize
+c_manche;843;843 - Belize;Manche - Belize
+
+d_peten;842;842 - Peten;Duchy Peten - Peten
+c_chuntuki;842;842 - Peten;Chuntuki - Peten
+c_nojpeten;842;842 - Peten;Nojpeten - Peten
+c_poptun;842;842 - Peten;Poptun - Peten
+c_tikal;842;842 - Peten;Tikal - Peten
+d_lacandon;842;842 - Peten;Duchy Lacandon - Peten
+c_lacandon;842;842 - Peten;County Lacandon - Peten
+c_sayaxche;842;842 - Peten;Sayaxche - Peten
+c_tenosique;842;842 - Peten;Tenosique - Peten
+
+# Yucatan
+
+c_calakmul;2634;2634 - Uaymil;Calakmul - Uaymil
+c_chacchoben;2634;2634 - Uaymil;Chacchoben - Uaymil
+
+d_quintana_roo;2652;2652 - Ecab;Quintana Roo - Ecab
+c_cancun;2652;2652 - Ecab;Cancun - Ecab
+c_cozumel;2652;2652 - Ecab;Cozumel - Ecab
+c_sian_kaan;2652;2652 - Ecab;Sian-Ka'an - Ecab
+
+d_yucatan;846;846 - Yucatan;Duchy Yucatan - Yucatan
+c_chichen_itza;846;846 - Yucatan;Chichen Itza - Yucatan
+c_dzilam;846;846 - Yucatan;Dzilam - Yucatan
+
+c_mayapan;2633;2633 - Mani;Mayapan - Mani
+c_merida;2633;2633 - Mani;Merida - Mani
+
+c_celestun;2651;2651 - Ah Canul;Celestun - Ah Canul
+
+c_campeche;845;845 - Campeche;County Campeche - Campeche
+
+c_carmen;2650;2650 - Champutun;Carmen - Champutun
+
+d_tabasco;2632;2632 - Xicallanco;Tabasco - Xicallanco
+c_centla;2632;2632 - Xicallanco;Centla - Xicallanco
+c_cardenas;2632;2632 - Xicallanco;Cardenas - Xicallanco
+c_villahermosa;2632;2632 - Xicallanco;Villahermosa - Xicallanco
+
+# Chiapas
+
+d_zapata;2635;2635 - Chiapas;Zapata - Chiapas
+c_comitan;2635;2635 - Chiapas;Comitan - Chiapas
+c_montes_azules;2635;2635 - Chiapas;Montes Azules - Chiapas
+c_nezahualcoyatl;2635;2635 - Chiapas;Nezahualcoyatl - Chiapas
+
+d_chiapas;2638;2638 - Xoconochco;Chiapas - Xoconochco
+c_tuxtla_gutierrez;2638;2638 - Xoconochco;Coyatoc - Xoconochco
+c_pueblo_neuvo;2638;2638 - Xoconochco;Pueblo Neuvo - Xoconochco
+c_san_cristobal_de_las_casas;2638;2638 - Xoconochco;Jovel - Xoconochco
+c_la_fraylesca;2638;2638 - Xoconochco;La Fraylesca - Xoconochco
+
+# Zapoteca
+
+d_istmo;2649;2649 - Tehuantepec;Istmo - Tehuantepec
+c_tehuantepec;2649;2649 - Tehuantepec;Tehuantepec - Tehuantepec
+c_chimalapas;2649;2649 - Tehuantepec;Chimalapas - Tehuantepec
+c_juchitan;2649;2649 - Tehuantepec;Juchitan - Tehuantepec
+
+d_oaxaca;844;844 - Zapotec;Duchy Oaxaca - Zapotec
+c_oaxaca;844;844 - Zapotec;County Oaxaca - Zapotec
+c_nochixtlan;844;844 - Zapotec;Nochixtlan - Zapotec
+c_sierra_sur;844;844 - Zapotec;Sierra Sur - Zapotec
+c_tlacolula;844;844 - Zapotec;Tlacolula - Zapotec
+c_tlaxiaco;844;844 - Zapotec;Tlaxiaco - Zapotec
+
+# Mixteca
+
+d_costa_chica;847;847 - Mixtec;Costa Chica - Mixtec
+c_jamiltepec;847;847 - Mixtec;Jamiltepec - Mixtec
+c_ometepec;847;847 - Mixtec;Ometepec - Mixtec
+c_pochutla;847;847 - Mixtec;Pochutla - Mixtec
+
+d_mixteca;2629;2629 - Coyolapan;Mixteca - Coyolapan
+c_acatlan;2629;2629 - Coyolapan;Acatlan - Coyolapan
+c_huajuapan;2629;2629 - Coyolapan;Huajuapan - Coyolapan
+c_tlapa;2629;2629 - Coyolapan;Tlapa - Coyolapan
+
+c_acapulco;849;849 - Tlapanec;Acapulco - Tlapanec
+
+# Mexico
+
+d_olmeca;2631;2631 - Zaachila;Duchy Olmeca - Zaachila
+c_olmeca;2631;2631 - Zaachila;County Olmeca - Zaachila
+c_papaloapam;2631;2631 - Zaachila;Papaloapam - Zaachila
+c_canada;2631;2631 - Zaachila;Canada - Zaachila
+
+c_coatzacoalcos;2630;2630 - Tochtepec;Coatzacoalcos - Tochtepec
+
+d_veracruz;2647;2647 - Cuetlaxtlan;Veracruz - Cuetlaxtlan
+c_heroica_veracruz;2647;2647 - Cuetlaxtlan;Heroica Veracruz - Cuetlaxtlan
+c_las_montanas;2647;2647 - Cuetlaxtlan;Las Montanas - Cuetlaxtlan
+c_xalapa;2647;2647 - Cuetlaxtlan;Xalapa - Cuetlaxtlan
+
+c_totonacapan;848;848 - Tohancapan;Totonacapan - Tohancapan
+c_tononaca;848;848 - Tohancapan;Tononaca - Tohancapan
+
+c_tehuacan;2628;2628 - Tepeacac;Tehuacan - Tepeacac
+
+c_puebla;2644;2644 - Cholula;Puebla - Cholula
+
+c_tlaxcala;850;850 - Tlaxcala;Tlaxcala - Tlaxcala
+
+d_mexico;852;852 - Mexico;Duchy Mexico - Mexico
+c_mexico;852;852 - Mexico;County Mexico - Mexico
+c_morelos;852;852 - Mexico;Morelos - Mexico
+c_teoloyucan;852;852 - Mexico;Teoloyucan - Mexico
+
+c_temascalcingo;2626;2626 - Tulucan;Temascalcingo - Tulucan
+c_cuauhtemoc;2626;2626 - Tulucan;Cuauhtemoc - Tulucan
+
+d_hidalgo;853;853 - Huastec;Duchy Hidalgo - Huastec
+c_pachuca;853;853 - Huastec;Pachuca - Huastec
+
+d_huasteca;2641;2641 - Tziccoac;Huasteca - Tziccoac
+c_tampico;2641;2641 - Tziccoac;Tampico - Tziccoac
+c_panuco;2641;2641 - Tziccoac;Tampico - Tziccoac
+c_huayacocotla;2641;2641 - Tziccoac;Huayacocotla - Tziccoac
+c_tuxpan;2641;2641 - Tziccoac;Tuxpan - Tziccoac
+
+# Bajio
+
+d_queretaro;2642;2642 - Metztitlan;Queretaro - Metztitlan
+c_santiago_de_queretaro;2642;2642 - Metztitlan;Santiago de Queretaro - Metztitlan
+c_jalpan_de_serra;2642;2642 - Metztitlan;Jalpan de Serra - Metztitlan
+c_sierra_gorda;2642;2642 - Metztitlan;Sierra Gorda - Metztitlan
+
+d_los_altos;2615;2615 - Guamares;Los Altos - Guamares
+c_aguascalientes;2615;2615 - Guamares;Aguascalientes - Guamares
+c_atenas;2615;2615 - Guamares;Atenas - Guamares
+d_guanajuato;2615;2615 - Guamares;Duchy Guanajuato - Guamares
+c_guanajuato;2615;2615 - Guamares;County Guanajuato - Guamares
+c_leon;2615;2615 - Guamares;Leon - Guamares
+
+c_tepatitlan;2622;2622 - Cuitzeo;Tepatitlan - Cuitzeo
+c_celaya;2622;2622 - Cuitzeo;Celaya - Cuitzeo
+c_irapuato;2622;2622 - Cuitzeo;Irapuato - Cuitzeo
+
+# Gran Chichimeca
+
+d_san_luis_potosi;857;857 - Guachichil;Duchy San Luis Potosi - Guachichil
+c_san_luis_potosi;857;857 - Guachichil;County San Luis Potosi - Guachichil
+c_matehuala;857;857 - Guachichil;Matahuala - Guachichil
+c_ciudad_valles;857;857 - Guachichil;Ciudad Valles - Guachichil
+
+d_salado;856;856 - Zacatecas;Salado - Zacatecas
+c_sombrerete;856;856 - Zacatecas;Sombrerete - Zacatecas
+c_mazapil;856;856 - Zacatecas;Mazapil - Zacatecas
+d_zacatecas;856;856 - Zacatecas;Duchy Zacatecas - Zacatecas
+c_zacatecas;856;856 - Zacatecas;County Zacatecas - Zacatecas
+c_fresnillo;856;856 - Zacatecas;Fresnillo - Zacatecas
+
+c_valparaiso;2617;2617 - Huichol;Mixton - Huichol
+c_mixton;2617;2617 - Huichol;Mixton - Huichol
+
+# Jalisco/Colima
+
+d_nayarit;855;855 - Huichol;Nayarit - Huichol
+c_tepic;855;855 - Huichol;Tepic - Huichol
+c_acaponeta;855;855 - Huichol;Acaponeta - Huichol
+c_islas_marias;855;855 - Huichol;Islas Marias - Huichol
+c_mazatlan;855;855 - Huichol;Mazatlan - Huichol SAGUARO
+
+d_costalegre;854;854 - Sayultecas;Duchy Costalegre - Sayultecas
+c_costalegre;854;854 - Sayultecas;County Costalegre - Sayultecas
+c_puerto_vallarta;854;854 - Sayultecas;Puerto Vallarta - Sayultecas
+
+d_jalisco;2621;2621 - Tizapan;Duchy Jalisco - Tizapan
+c_guadalajara;2621;2621 - Tizapan;Guadalajara - Tizapan
+c_sierra_de_amula;2621;2621 - Tizapan;Sierra de Amula - Tizapan
+c_ameca;2621;2621 - Tizapan;Ameca - Tizapan
+
+d_colima;2657;2657 - Colima;Duchy Colima - Colima
+c_colima;2657;2657 - Colima;County Colima - Colima
+c_manzanillo;2657;2657 - Colima;Manzanillo - Colima
+
+# Michoacan
+
+c_zapotlan_el_grande;2643;2643 - Apatzingan;Zapotlan el Grande - Apatzingan
+c_tepalcatepec;2643;2643 - Apatzingan;Tepalcatepec - Apatzingan
+
+d_michoacan;2624;2624 - Patzcuaro;Duchy Michoacan - Patzcuaro
+c_zamora;2624;2624 - Patzcuaro;Zamora - Patzcuaro
+c_morelia;2624;2624 - Patzcuaro;Morelia - Patzcuaro
+c_patzcuaro;2624;2624 - Patzcuaro;Patzcuaro - Patzcuaro
+c_uruapan;2624;2624 - Patzcuaro;Uruapan - Patzcuaro
+
+d_tierra_caliente;2623;2623 - Cutzamala;Tierra Caliente - Cutzamala
+c_huetamo;2623;2623 - Cutzamala;Huetamo - Cutzamala
+c_oriente;2623;2623 - Cutzamala;Oriente - Cutzamala
+
+c_coyuca_de_catalan;2645;2645 - Teloloapan;Coyuca de Catalan - Teloloapan
+
+c_iguala;2646;2646 - Coixtlahuacan;Iguala - Coixtlahuacan
+c_chilpancingo;2646;2646 - Coixtlahuacan;Chilpancingo - Coixtlahuacan
+
+c_coalcoman;851;851 - Tarasco;Coalcoman - Tarasco
+
+c_lazaro_cardenas;2627;2627 - Cihuatlan;Lazaro Cardenas - Cihuatlan
+
+c_petatlan;2648;2648 - Yopitzinco;Petatlan - Yopitzinco
+
+# Sonora
+
+d_sinaloa;859;859 - Sinaloa;Sinaloa - Sinaloa
+c_culiacan;859;859 - Sinaloa;Culiacan - Sinaloa
+c_los_mochis;859;859 - Sinaloa;Los Mochis - Sinaloa
+
+d_sonora;862;862 - Yaqui;Sonora - Yaqui
+c_hermosillo;862;862 - Yaqui;Hermosillo - Yaqui
+c_guaymas;862;862 - Yaqui;Guaymas - Yaqui
+c_nogales;862;862 - Yaqui;Nogales - Yaqui
+
+d_altar;2616;2616 - Seri;Altar - Seri
+c_caborca;2616;2616 - Seri;Caborca - Seri
+c_plutarco;2616;2616 - Seri;Plutarco - Seri
+
+# Arixo
+
+c_two_sun;877;877 - Pima;Two Sun - Pima
+c_sierra_vista;877;877 - Pima;Sierra Vista - Pima
+
+c_ahwe_nyava;876;876 - Yavapai;Ahwe Nyava - Yavapai
+c_phoenix;876;876 - Yavapai;Phoenix - Yavapai
+c_yuma;876;876 - Yavapai;Yuma - Yavapai
+
+c_gila;879;879 - Apache;Gila - Apache
+
+c_grand_canyon;2491;2491 - Hualapai;Grand Canyon - Hualapai
+c_flagstaff;2491;2491 - Hualapai;Flagstaff - Hualapai
+
+c_hopituskwa;2493;2493 - Hopi;Hopi - Hopi
+
+c_tuba;875;875 - Canyon;Tuba - Paiute
+
+d_navajoland;878;878 - Navajo;Duchy Navajo - Navajo
+c_crownpoint;878;878 - Navajo;Crownpoint - Navajo
+c_shiprock;878;878 - Navajo;Shiprock - Navajo
+c_chinle;878;878 - Navajo;Chinle - Navajo
+c_fort_defiance;878;878 - Navajo;Fort Defiance - Navajo
+
+c_shiwinnaqin;2494;2494 - Zuni;Shiwinnaqin - Zuni
+
+d_apacheria;2495;2495 - Acoma;Apacheria - Acoma
+c_jicarilla;2495;2495 - Acoma;Jicarilla - Acoma
+c_acoma;2495;2495 - Acoma;Acoma - Acoma
+c_los_alamos;2495;2495 - Acoma;Los Alamos - Acoma
+
+c_mogollon;2492;2492 - Chiricahua;Mogollon - Chiricahua
+
+c_luna;881;881 - Piro;Luna - Piro
+c_hidalgo;881;881 - Piro;County Hidalgo - Piro
+
+# Sierra Madre
+
+c_ahumada;863;863 - Suma;Ahumada - Suma
+c_ascension;863;863 - Suma;Ahumada - Suma
+
+c_tutuaca;864;864 - Concho;Tutuaca - Concho
+c_chihuahua;864;864 - Concho;County Chihuahua - Concho
+c_guerrero;864;864 - Concho;Guerrero - Concho
+c_santa_elena;864;864 - Concho;Santa Elena - Concho
+
+c_guachochi;2618;2618 - Toboso;Guachochi - Toboso
+c_parral;2618;2618 - Toboso;Parral - Toboso
+
+d_durango;860;860 - Tepehuan;Duchy Durango - Tepehuan
+c_durango;860;860 - Tepehuan;County Durango - Tepehuan
+c_altamirano;860;860 - Tepehuan;Altamirano - Tepehuan
+c_fernandez;860;860 - Tepehuan;Fernandez - Tepehuan
+
+# Rio Bravo
+
+c_maderas_del_carmen;861;861 - Coahuila;Maderas del Carmen - Coahuila
+c_monclova;861;861 - Coahuila;Monclova - Coahuila
+
+c_cuatrocienegas;2619;2619 - Laguerneros;Cuatrocienegas - Laguerneros
+c_saltillo;2619;2619 - Laguerneros;Saltillo - Laguerneros
+c_torreon;2619;2619 - Laguerneros;Torreon - Laguerneros
+
+d_nuevo_leon;2614;2614 - Cotoname;Nuevo Leon - Cotoname
+c_monterrey;2614;2614 - Cotoname;Monterrey - Cotoname
+c_cumbres_de_monterrey;2614;2614 - Cotoname;Cumbres de Monterrey - Cotoname
+c_montemorelos;2614;2614 - Cotoname;Montemorelos - Cotoname
+
+d_piedras_negras;2667;2667 - Cacaxtes;Duchy Piedras Negras - Cacaxtes
+c_piedras_negras;2667;2667 - Cacaxtes;County Piedras Negras - Cacaxtes
+c_acuna;2667;2667 - Cacaxtes;Acuna - Cacaxtes
+c_muzquiz;2667;2667 - Cacaxtes;Muzquiz - Cacaxtes
+
+d_rio_bravo_del_norte;2668;2668 - Borrado;Rio Bravo del Norte - Borrado
+c_matamoros;2668;2668 - Borrado;Matamoros - Borrado
+c_falcon;2668;2668 - Borrado;Falcon - Borrado
+c_laredo;2668;2668 - Borrado;Laredo - Borrado
+
+d_tamaulipas;858;858 - Tamaulipas;Duchy Tamaulipas - Tamaulipas
+c_victoria;858;858 - Tamaulipas;Victoria - Tamaulipas
+c_el_cielo;858;858 - Tamaulipas;El Cielo - Tamaulipas
+c_soto_la_marina;858;858 - Tamaulipas;Soto la Marina - Tamaulipas
+c_san_fernando;858;858 - Tamaulipas;San Fernando - Tamaulipas
+
+# Rio Grande
+
+d_rio_grande_valley;2499;2499 - Coahuilteco;Rio Grande Valley - Coahuilteco
+c_cameron;2499;2499 - Coahuilteco;Cameron - Coahuilteco
+c_webb;2499;2499 - Coahuilteco;Webb - Coahuilteco
+c_starr;2499;2499 - Coahuilteco;Starr - Coahuilteco
+
+d_corpus_christi;884;884 - Karankawa;Corpus - Karankawa
+c_nueces;884;884 - Karankawa;Nueces - Karankawa
+c_duval;884;884 - Karankawa;Duval - Karankawa
+c_goliad;884;884 - Karankawa;Goliad - Karankawa
+
+c_maverick;2666;2666 - Tuintsunde;Maverick - Tuintsunde
+c_val_verde;2666;2666 - Tuintsunde;Val Verde - Tuintsunde
+c_crockett;2666;2666 - Tuintsunde;Crockett - Tuintsunde
+c_pecos;2666;2666 - Tuintsunde;Pecos - Tuintsunde
+
+d_transpecos;2498;2498 - Jumao;Transpecos - Jumao
+c_big_bend;2498;2498 - Jumao;Big Bend - Jumao
+c_livermore;2498;2498 - Jumao;Livermore - Jumao
+c_el_paso;2498;2498 - Jumao;El Paso - Jumao
+
+c_uvalde;883;883 - Lipan;Uvalde - Lipan
+c_bexar;883;883 - Lipan;Bexar - Lipan
+c_kerr;883;883 - Lipan;Kerr - Lipan
+
+# Jacinto
+
+c_comal;887;887 - Tonkawa;Comal - Tonkawa
+c_travis;887;887 - Tonkawa;Travis - Tonkawa
+c_brazos;887;887 - Tonkawa;Brazos - Tonkawa
+c_mclennan;887;887 - Tonkawa;McLennan - Tonkawa
+c_tyler;887;887 - Tonkawa;Tyler - Tonkawa
+c_waxahachie;887;887 - Tonkawa;Waxahachie - Tonkawa
+c_dallas;887;887 - Tonkawa;Dallas - Tonkawa
+
+d_houston;888;888 - Atakapa;Houston - Atakapa
+c_harris;888;888 - Atakapa;Harris - Atakapa
+c_galveston;888;888 - Atakapa;Galveston - Atakapa
+c_matagorda;888;888 - Atakapa;Matagorda - Atakapa
+
+d_neches;2665;2665 - Ais;Neches - Ais
+c_nacogdoches;2665;2665 - Ais;Nacogdoches - Ais
+c_sabine;2665;2665 - Ais;Sabine - Ais
+c_san_jacinto;2665;2665 - Ais;San Jacinto - Ais
+c_beaumont;2665;2665 - Ais;Beaumont - Ais
+
+c_san_saba;2500;2500 - Querecho;San Saba - Querecho
+c_concho;2500;2500 - Querecho;Concho - Querecho
+
+d_arklatex;2669;2669 - Hasini;Arklatex - Hasini
+c_grayson;2669;2669 - Hasini;Grayson - Hasini
+c_texarkana;2669;2669 - Hasini;Texarkana - Hasini
+c_cypress;2669;2669 - Hasini;Cypress - Hasini
+c_titus;2669;2669 - Hasini;Titus - Hasini
+
+# Comancheria
+
+d_abilene;886;886 - Waco;Duchy Abilene - Waco
+c_abilene;886;886 - Waco;County Abilene - Waco
+c_possum;886;886 - Waco;Possum - Waco
+c_wichita_falls;886;886 - Waco;Wichita Falls - Waco
+c_childress;886;886 - Waco;Childress - Waco
+c_brownwood;886;886 - Waco;Brownwood - Waco
+c_tarrant;886;886 - Waco;Tarrant - Waco
+
+d_estacado;2497;2497 - Lipiyanes;Estacado - Lipiyanes
+c_petroplex;2497;2497 - Lipiyanes;Petroplex - Lipiyanes
+c_dal_paso;2497;2497 - Lipiyanes;Dal Paso - Lipiyanes
+c_hobbs;2497;2497 - Lipiyanes;Hobbs - Lipiyanes
+c_lubbock;2497;2497 - Lipiyanes;Lubbock - Lipiyanes
+
+d_amarillo;885;885 - Comanche;Duchy Amarillo - Comanche
+c_amarillo;885;885 - Comanche;County Amarillo - Comanche
+c_plainview;885;885 - Comanche;Plainview - Comanche
+c_kicpahat;885;885 - Comanche;Kicpahat - Comanche
+
+d_washita;892;892 - Wichita;Washita - Wichita
+c_foss;892;892 - Wichita;Foss - Wichita
+c_salt_fork;892;892 - Wichita;Salt Fork - Wichita
+c_fort_sill;892;892 - Wichita;Fort Sill - Wichita
+c_bryan;892;892 - Wichita;Bryan - Wichita
+c_kiamichi;892;892 - Wichita;Kiamichi - Wichita
+
+d_oklahoma;891;891 - Jicarilla;Duchy Oklahoma - Jicarilla
+c_oklahoma;891;891 - Jicarilla;County Oklahoma - Jicarilla
+c_skeleton;891;891 - Jicarilla;Skeleton - Jicarilla
+c_niukonska;891;891 - Jicarilla;Niukonska - Jicarilla
+c_laverne;891;891 - Jicarilla;Laverne - Jicarilla
+
+c_white_sands;882;882 - Mescalero;White Sands - Mescalero
+c_socorro;882;882 - Mescalero;Socorro - Mescalero
+c_groom;882;882 - Mescalero;Groom - Mescalero
+
+c_sandia;880;880 - Pueblo;Sandia - Pueblo
+c_santa_fe;880;880 - Pueblo;Santa Fe - Pueblo
+
+c_tucumcari;2496;2496 - Jicarilla;Tucumcari - Jicarilla
+c_raton;2496;2496 - Jicarilla;Raton - Jicarilla
+c_taos;2496;2496 - Jicarilla;Taos - Jicarilla
+
+# Louisiana
+
+d_ouachita;2014;2014 - Natchitoches;Duchy Ouachita - Natchitoches
+c_ouachita;2014;2014 - Natchitoches;County Ouachita - Natchitoches
+c_kisatchie;2014;2014 - Natchitoches;Kisatchie - Natchitoches
+c_ruston;2014;2014 - Natchitoches;Ruston - Natchitoches
+c_caddo;2014;2014 - Natchitoches;Caddo - Natchitoches
+c_natchitoches;2014;2014 - Natchitoches;Natchitoches - Natchitoches
+c_catahoula;2014;2014 - Natchitoches;Catahoula - Natchitoches
+
+d_acadiana;2516;2516 - Adai;Duchy Acadiana - Adai
+c_lafayette;2516;2516 - Adai;Lafayette - Adai
+c_vermilion;2516;2516 - Adai;Vermilion - Adai
+c_cameron_calcasieu;2516;2516 - Adai;Cameron Calcasieu - Adai
+c_st_landry;2516;2516 - Adai;St Landry - Adai
+c_rapides;2516;2516 - Adai;Rapides - Adai
+c_vernon;2516;2516 - Adai;Vernon - Adai
+
+d_orleans;893;893 - Chitimacha;Duchy Orleans - Chitimacha
+c_new_orleans;893;893 - Chitimacha;County New Orleans - Chitimacha
+c_plaquemines;893;893 - Chitimacha;Plaquemine - Chitimacha
+c_lafourche_terrebonne;893;893 - Chitimacha;Lafourche Terrebonne - Chitimacha
+c_atchafalaya;893;893 - Chitimacha;Atchafalaya - Chitimacha
+
+d_west_florida;921;921 - Bayougoula;West Florida - Bayougoula
+c_tangipahoa;921;921 - Bayougoula;Tangipahoa - Bayougoula
+c_itta_homma;921;921 - Bayougoula;Itta Homma - Bayougoula
+
+c_biloxi;2530;2530 - Biloxi;Biloxi - Biloxi
+
+# Magnolia
+
+d_pine_belt;920;920 - Choctaw;Pine Belt - Choctaw
+c_leaf;920;920 - Choctaw;Leaf - Choctaw
+c_chickasawhay;920;920 - Choctaw;Chickasawhay - Choctaw
+c_tallahoma;920;920 - Choctaw;Tallahoma - Choctaw
+d_choctaw;920;920 - Choctaw;Choctaw - Choctaw
+c_jackson;920;920 - Choctaw;Jackson - Choctaw
+c_meridian;920;920 - Choctaw;Meridian - Choctaw
+c_tombigbee;920;920 - Choctaw;Tombigbee - Choctaw
+
+d_chickasaw;919;919 - Chickasaw;Chickasaw - Chickasaw
+c_holly_springs;919;919 - Chickasaw;Holly Springs - Chickasaw
+c_ackia;919;919 - Chickasaw;Ackia - Chickasaw
+c_oktibbeha;919;919 - Chickasaw;Oktibbeha - Chickasaw
+c_yalobusha;919;919 - Chickasaw;Yalobusha - Chickasaw
+
+d_yazoo;2528;2528 - Yazoo;Yazoo - Yazoo
+c_arkabutla;2528;2528 - Yazoo;Arkabutla - Yazoo
+c_tillatoba;2528;2528 - Yazoo;Tillatoba - Yazoo
+c_sunflower;2528;2528 - Yazoo;Sunflower - Yazoo
+
+d_natchez;2529;2529 - Natchez;Duchy Natchez - Natchez
+c_natchez;2529;2529 - Natchez;County Natchez - Natchez
+c_bayou_pierre;2529;2529 - Natchez;Bayou Pierre - Natchez
+c_vicksburg;2529;2529 - Natchez;Vicksburg - Natchez
+c_homochitto;2529;2529 - Natchez;Homochitto - Natchez
+
+# Florida
+
+c_mobile;922;922 - Mobile;Mobile - Mobile
+
+c_pensacola;923;923 - Pensacola;Pensacola - Pensacola
+
+c_apalachicola;2533;2533 - Chatot;Apalachicola - Chatot
+c_chipola;4669;4669 - Chipola;Chipola - Chipola
+
+c_tallahassee;928;928 - Apalachee;Tallahassee - Apalachee
+
+d_timucua;2534;2534 - Yustaga;Timucua - Yustaga
+c_steinhatchee;2534;2534 - Yustaga;Steinhatchee - Yustaga
+c_osceola;2534;2534 - Yustaga;Osceola - Yustaga
+c_lochloosa;2534;2534 - Yustaga;Lochloosa - Yustaga
+c_homosassa;2534;2534 - Yustaga;Homosassa - Yustaga
+c_ocala;2534;2534 - Yustaga;Ocala - Yustaga
+
+#d_seminole;2535;2535 - Calusa;Seminole - Calusa
+c_tampa;4719;4719 - Tampa;Tampa - Tampa
+c_caloosahatchee;2535;2535 - Calusa;Caloosahatchee - Calusa
+c_okeechobee;2535;2535 - Calusa;Okeechobee - Calusa
+
+d_miami;2536;2536 - Mayaimi;Duchy Miami - Mayaimi
+c_miami;2536;2536 - Mayaimi;County Miami - Mayaimi
+c_palm_beach;2536;2536 - Mayaimi;Palm Beach - Mayaimi
+c_everglades;4717;4717 - Everglades;Everglades - Everglades
+c_florida_keys;4717;4717 - Everglades;Florida Keys - Everglades
+
+d_citriana;926;926 - Seminole;Citriana - Seminole
+c_daytona_beach;926;926 - Seminole;Daytona Beach - Seminole
+c_canaveral;926;926 - Seminole;Canaveral - Seminole
+c_orlando;4718;4718 - Orlando;Orlando - Orlando
+
+c_first_coast;927;927 - Timucua;First Coast - Timucua
+
+# Platte
+
+c_panhandle;889;889 - Arapaho;Panhandle - Arapaho
+c_liberal;889;889 - Arapaho;Liberal - Arapaho
+c_peketon;889;889 - Arapaho;Peketon - Arapaho
+
+c_smoky_hill;2625;2625 - Hinonoeino;Smoky Hill - Hinonoeino
+c_arp;2625;2625 - Hinonoeino;Arp - Hinonoeino
+
+c_hays;2672;2672 - Kitkehaki;Hays - Kitkehaki
+c_republic;2672;2672 - Kitkehaki;Republic - Kitkehaki
+
+c_dodge;890;890 - Kiowa;Dodge - Kiowa
+c_wichita;890;890 - Kiowa;Wichita - Kiowa
+
+c_independence;2509;2509 - Utsehta;Independence - Utsehta
+c_joplin;2509;2509 - Utsehta;Joplin - Utsehta
+
+d_kansas;898;898 - Kansas;Kansas - Kansas
+c_topeka;898;898 - Kansas;Topeka - Kansas
+c_atchison;898;898 - Kansas;Atchison - Kansas
+
+d_nebraska;903;903 - Omaha;Nebraska - Omaha
+c_omaha;903;903 - Omaha;Omaha - Omaha
+c_norfolk;903;903 - Omaha;Norfolk - Omaha
+c_niobrara;903;903 - Omaha;Niobrara - Omaha
+
+c_grand_island;901;901 - Pawnee;Grand Island - Pawnee
+c_kearny;901;901 - Pawnee;Kearny - Pawnee
+c_republican;901;901 - Pawnee;Republican - Pawnee
+
+d_kickatus;2508;2508 - Skiri;Kickatus - Skiri
+c_outback;2508;2508 - Skiri;Outback - Skiri
+c_wildcat;2508;2508 - Skiri;Wildcat - Skiri
+c_mcconaughy;2508;2508 - Skiri;McConaughy - Skiri
+
+# Ozarks
+
+c_tallasi;896;896 - Ozark;Tallasi - Ozark
+c_mcalester;896;896 - Ozark;McAlester - Ozark
+
+d_timberland;894;894 - Caddo;Timberland - Caddo
+c_smackover;894;894 - Caddo;Smackover - Caddo
+c_millwood;894;894 - Caddo;Millwood - Caddo
+c_little_mo;894;894 - Caddo;Little Mo - Caddo
+c_pine_bluff;894;894 - Caddo;Pine Bluff - Caddo
+c_fort_smith;894;894 - Caddo;Fort Smith - Caddo
+
+d_arkansas_post;895;895 - Arkansas;Arkansas Post - Arkansas
+c_white;895;895 - Arkansas;White - Arkansas
+c_chicot;895;895 - Arkansas;Chicot - Arkansas
+
+d_arkansas;897;897 - Quapaw;Arkansas - Quapaw
+c_bald_knob;897;897 - Quapaw;Bald Knob - Quapaw
+c_little_rock;897;897 - Quapaw;Little Rock - Quapaw
+c_crowley;897;897 - Quapaw;Crowley - Quapaw
+
+d_turner_ward_knob;2515;2515 - Satuskhdin;Turner Ward Knob - Satuskhdin
+c_spring;2515;2515 - Satuskhdin;Spring - Satuskhdin
+c_sams_throne;2515;2515 - Satuskhdin;Sam's Throne - Satuskhdin
+c_dardanelle;2515;2515 - Satuskhdin;Dardanelle - Satuskhdin
+c_fay;2515;2515 - Satuskhdin;Fay - Satuskhdin
+
+d_salem;899;899 - Osage;Salem - Osage
+c_springfield;899;899 - Osage;Springfield - Osage
+c_meramec;899;899 - Osage;Meramec - Osage
+c_osage;899;899 - Osage;Osage - Osage
+c_current;899;899 - Osage;Current - Osage
+
+# Missouri
+
+d_great_river;2514;2514 - Michigamea;Great River - Michigamea
+c_cape_girardeau;2514;2514 - Michigamea;Cape Girardeau - Michigamea
+c_magnolia_hollow;2514;2514 - Michigamea;Magnolia Hollow - Michigamea
+c_bootheel;2514;2514 - Michigamea;Bootheel - Michigamea
+c_black;2514;2514 - Michigamea;Black - Michigamea
+
+#d_gateway;900;900 - Tamaroa;The Gateway - Tamaroa
+c_st_louis;4585;4585 - St Louis; St Louis - St Louis
+c_gasconade;4586;4586 - Gasgonade;Gasgonade - Gasgonade
+c_gasconade;4588;4588 - Lead Belt;Gasgonade - Lead Belt
+d_twain;900;900 - Tamaroa;Twain - Tamaroa
+c_cuivre;4597;4597 - Cuivre;Cuivre - Cuivre
+c_hannibal;900;900 - Tamaroa;Hannibal - Tamaroa
+
+d_boonslick;902;902 - Missouri;Boonslick - Missouri
+c_cole;902;902 - Missouri;Cole - Missouri
+c_boone;902;902 - Missouri;Boone - Missouri
+c_moks;902;902 - Missouri;Moks - Missouri
+c_saline;902;902 - Missouri;Saline - Missouri
+c_bluffwoods;902;902 - Missouri;Bluffwoods - Missouri
+d_chariton;902;902 - Missouri;Chariton - Missouri
+c_nodaway;902;902 - Missouri;Nodaway - Missouri
+c_paho;902;902 - Missouri;Paho - Missouri
+c_thompson;902;902 - Missouri;Thompson - Missouri
+
+# Iowa
+
+d_moingona;905;905 - Iowa;Moingona - Iowa
+c_des_moines;905;905 - Iowa;Des Moines - Iowa
+c_fort_dodge;905;905 - Iowa;Fort Dodge - Iowa
+c_icaria;905;905 - Iowa;Icaria - Iowa
+c_kanesville;905;905 - Iowa;Kanesville - Iowa
+c_prairie_rapids;905;905 - Iowa;Prairie Rapids - Iowa
+
+d_driftless;904;904 - Nakota;Driftless - Nakota
+c_decorah;904;904 - Nakota;Decorah - Nakota
+c_roch;904;904 - Nakota;Roch - Nakota
+c_freeborn;904;904 - Nakota;Freeborn - Nakota
+
+c_floyd;907;907 - Dakota;Floyd - Dakota
+c_rock;907;907 - Dakota;Rock - Dakota
+c_minnehaha;907;907 - Dakota;Minnehaha - Dakota
+
+d_iowa;2513;2513 - Moingwena;Duchy Iowa - Moingwena
+c_cedar;2513;2513 - Moingwena;Cedar - Moingwena
+c_shoquoquon;2513;2513 - Moingwena;Shoquoquon - Moingwena
+c_ottumwa;2513;2513 - Moingwena;Ottumwa - Moingwena
+c_scott;2513;2513 - Moingwena;Scott - Moingwena
+c_dubuque;2513;2513 - Moingwena;Dubuque - Moingwena
+
+# Chicagoland
+
+d_forgottonia;917;917 - Cahokia;Forgottonia - Cahokia
+c_quincy;917;917 - Cahokia;Quincy - Cahokia
+c_la_moine;917;917 - Cahokia;La Moine - Cahokia
+c_peoria;917;917 - Cahokia;Peoria - Cahokia
+c_rock_island;917;917 - Cahokia;Rock Island - Cahokia
+
+c_kaskaskia;4587;4587 - Kaskaskia;Kaskaskia - Kaskaskia (South) #There are now two files with Kaskaskia in their names. 
+c_sangamon;916;916 - Kaskaskia;Sangamon - Kaskaskia
+c_alton;916;916 - Kaskaskia;Alton - Kaskaskia
+
+#d_calumet;915;915 - Illinois;Calumet - Illinois
+#d_outer_chicagoland;915;915 - Illinois;Outer Chicagoland - Illinois
+c_chicago;4563;4563 - Chicago;Chicago - Chicago
+c_des_plaines;4564;4564 - Des Plaines;Des Plaines - Des Plaines
+c_rockford;915;915 - Illinois;Rockford - Illinois
+c_kankakee;2519;2519 - Kilatika;Kankakee - Kilatika
+c_streatorland;2519;2519 - Kilatika;Streatorland - Kilatika
+c_galena;915;915 - Illinois;Galena - Illinois
+
+c_decatur;2519;2519 - Kilatika;Decatur - Kilatika
+c_west_okaw;2519;2519 - Kilatika;West Okaw - Kilatika
+c_watseka;2519;2519 - Kilatika;Watseka - Kilatika
+c_chambana;2519;2519 - Kilatika;Chambana - Kilatika
+
+d_coulee;4695;4695 - Coulee;Coulee - Coulee
+c_kickapoo;4695;4695 - Coulee;Kickapoo - Coulee
+c_the_dells;4695;4695 - Coulee;The Dells - Coulee
+
+c_la_crosse;4696;4696 - La Crosse;La Crosse - La Crosse
+
+c_four_lakes;913;913 - Fox;Four Lakes - Fox
+c_puckaway;913;913 - Fox;Puckaway - Fox
+c_portage;913;913 - Fox;Portage - Fox
+
+c_high_land;942;942 - Wea;High Land - Wea
+c_tippecanoe;4701;4701 - Wabash;Tippecanoe - Wabash
+c_kenapocomoco;4701;4701 - Wabash;Kenapocomoco - Wabash
+
+c_gary;4562;4562 - Gary;Gary - Gary
+c_southold;4562;4562 - Gary;Southold - Gary
+
+d_indianapolis;4704;4704 - Indianapolis;Duchy Indianapolis - Indianapolis
+c_indianapolis;4704;4704 - Indianapolis;County Indianapolis - Indianapolis
+c_kokomo;4704;4704 - Indianapolis;Kokomo - Indianapolis
+c_knobstone;4704;4704 - Indianapolis;Knobstone - Indianapolis
+
+c_muncie;943;943 - Miami;Muncie - Miami
+
+c_fort_wayne;4702;4702 - Fort Wayne;Fort Wayne - Fort Wayne
+
+# Superior
+
+d_green_bay;914;914 - Winnebago;Duchy Green Bay - Winnebago	#Winnebago renamed to Green Bay in EU4
+c_green_bay;914;914 - Winnebago;County Green Bay - Winnebago
+c_peshtigo;914;914 - Winnebago;Peshtigo - Winnebago
+c_manitowoc;914;914 - Winnebago;Manitocwoc - Winnebago
+
+c_door;4566;4566 - Winnebago;Door - Door
+
+c_winnebago;4565;4565 - Milwaukee;Winnebago - Milwaukee
+c_sheboygan;4565;4565 - Milwaukee;Sheboygan - Milwaukee
+c_milwaukee;4565;4565 - Milwaukee;Milwaukee - Milwaukee
+
+#d_chippewa;2518;2518 - Noquet;Chippewa - Noquet
+c_eau_claire;912;912 - Sauk;Eau Claire - Sauk
+c_chetek;912;912 - Sauk;Chetek - Sauk
+
+c_south_shore;4571;4571 - Superior;South Shore - Superior
+
+c_chequamegon;2518;2518 - Noquet;Chequamegon - Noquet
+c_hodagland;2518;2518 - Noquet;Hodagland - Noquet
+
+c_willow;4691;4691 - Willow;Willow - Willow
+
+d_st_anthony;2517;2517 - Mdewakanton;St Anthony - Mdewakanton
+c_twin_cities;2517;2517 - Mdewakanton;Twin Cities - Mdewakanton
+c_anoka;2517;2517 - Mdewakanton;Anoka - Mdewakanton
+c_duluth;4571;4571 - Superior;Duluth - Superior
+c_st_croix;4692;4692 - Chippewa;St Croix - Chippewa
+c_mille_lacs;2517;2517 - Mdewakanton;Mille Lacs - Mdewakanton
+
+c_shawano;4700;4700 - Shawano;Shawano - Shawano
+
+c_nicolet;4693;4693 - Nicolet;Nicolet - Nicolet
+
+c_wausau;4694;4694 - Wausau;Wausau - Wausau
+
+d_soo;911;911 - Menominee;Soo - Menominee
+c_sault_ste_marie;911;911 - Menominee;Sault - Menominee
+c_tahquamenon;4569;4569 - Manistique;Tahquamenon - Manistique
+c_manistique;4569 - Manistique;Manistique - Manistique
+#d_marquette;911;911 - Menominee;Duchy Marquette - Menominee
+c_marquette;4590;4590 - Copperland;Marquette - Copperland
+c_pictured_rocks;4590;4590 - Copperland;Pictured Rocks - Copperland
+c_escanaba;4567;4567 - Escanaba;Escanaba - Escanaba
+c_iron_river;4590;4590 - Copperland;iron River - Copperland
+c_iron_mountain;4567;4567 - Escanaba;Iron Mountain - Escanaba
+d_copperland;4590;4590 - Copperland; Copperland - Copperland
+c_baraga_lanse;4590;4590 - Copperland;Barga Lanse - Copperland
+c_keweenaw;4568;4568 - Kweenaw;Kweenaw - Kweenaw
+c_porcupines;4568;4568 - Kweenaw;Porcupines - Kweenaw
+c_gogebic;4590;4590 - Copperland; Gogebic - Copperland
+
+d_arrowhead;910;910 - Chippewa;Arrowhead - Chippewa
+c_north_shore;910;910 - Chippewa;North Shore - Chippewa
+c_kabetogama;910;910 - Chippewa;Kabetogama - Chippewa
+c_mesabi;910;910 - Chippewa;Mesabi - Chippewa
+c_isle_royale;910;910 - Chippewa;Isle Royale - Chippewa
+c_bemidji;910;910 - Chippewa;Bemidji - Chippewa
+
+# Michigan
+
+#d_detroit;944;944 - Potawatomi;Duchy Detroit - Potawatomi
+c_detroit;4555;4555 - Detroit;County Detroit - Detroit
+c_washtenaw;944;944 - Potawatomi;Washtenaw - Potawatomi
+c_port_huron;4554;4554 - Port Huron;Port Huron - Port Huron
+c_flint;944;944 - Potawatomi;Flint - Potawatomi
+c_lansing;944;944 - Potawatomi;Lansing - Potawatomi
+c_jacksonopolis;944;944 - Potawatomi;Jacksonopolis - Potawatomi
+
+#d_saginaw;2521;2521 - Okouara;Duchy Saginaw - Okouara
+c_saginaw;4557;4557 - Saginaw;Saginaw - Saginaw
+c_the_thumb;2521;2521 - Okouara;The Thumb - Okouara
+c_tawas;4558;4558 - Tawas;Tawas - Tawas
+c_mount_pleasant;4557;4557 - Saginaw;Mount Pleasant - Saginaw
+c_alpena;4589;4589 - Alpena;Aplena - Alpena
+
+#d_upnorth;945;945 - Michigan;Upnorth - Michigan
+c_cadillac;945;945 - Michigan;Cadillac - Michigan
+c_traverse;4559;4559 - Traverse;Traverse - Traverse
+c_michilimackinac;4591;4591 - Michilimackinac;Michilimackinac - Michilimackinac
+c_roscommon;4559;4559 - Traverse;Roscommon - Traverse
+c_manistee;945;945 - Michigan;Manistee - Michigan
+
+#d_west_michigan;2522;2522 - Mascouten;West Michigan - Mascouten
+c_kalamazoo;2522;2522 - Mascouten;Kalamazoo - Mascouten
+c_holland;4560;4560 - Holland;Holland - Holland
+c_grand_river;2522;2522 - Mascouten;Grand River - Mascouten
+c_st_joseph;4561;4561 - St Joseph;St Joseph - St Joseph
+
+c_toledo;4556;4556 - The Strip;Toledo - The Strip
+
+# Ohio
+
+#c_toledo;946;946 - Wyandot;Toledo - Wyandot
+c_maumee;4703;4703 - Maumee;Maumee - Maumee
+
+c_lima;946;946 - Wyandot;Lima - Wyandot
+
+d_ohio;947;947 - Erie;Duchy Cuyahoga - Erie
+c_cuyahoga;947;947 - Erie;County Cuyahoga - Erie
+c_akron;947;947 - Erie;Akron - Erie
+c_marion;947;947 - Erie;Marion - Erie
+c_ashtabula;4628;4628 - Ashtabula;Ashtabula - Ashtabula
+c_black_swamp;947;947 - Erie;Black Swamp - Erie
+
+d_upper_ohio;948;948 - Ohio;Upper Ohio - Ohio
+c_mahoning;948;948 - Ohio;Mahoning - Ohio
+c_muskingum;948;948 - Ohio;Muskingum - Ohio
+c_chillicothe;948;948 - Ohio;Chillicothe - Ohio
+c_licking;948;948 - Ohio;Licking - Ohio
+
+c_scioto;4576;4576 - Scioto;Scioto - Scioto
+c_columbus;948;948 - Ohio;Columbus - Ohio
+c_cincinnati;4574;4574 - Cincinnatti;Cincinnatti - Cincinnatti
+c_dayton;2525;2525 - Chillicothe;Dayton - Chillicothe
+c_urbana;2525;2525 - Chillicothe;Urbana - Chillicothe
+
+# Dakota
+
+d_minnesota;908;908 - Minnesota;Minnesota - Minnesota
+c_rush;908;908 - Minnesota;Rush - Minnesota
+c_sauk;908;908 - Minnesota;Sauk - Minnesota
+c_cuyuna;908;908 - Minnesota;Cuyuna - Minnesota
+c_otter_tail-pelican;908;908 - Minnesota;Otter Tail-Pelican - Minnesota
+c_pokegama;908;908 - Minnesota;Pokegama - Minnesota
+
+c_coteau;2512;2512 - Wahpekute;Coteau - Wahpekute
+c_blue_earth;2512;2512 - Wahpekute;Blue Earth - Wahpekute
+c_cannon;2512;2512 - Wahpekute;Cannon - Wahpekute
+
+c_roseau;2016;2016 - Bungi;Roseau - Bungi
+c_becker;2016;2016 - Bungi;Becker - Bungi
+c_sisseton;2016;2016 - Bungi;Sisseton - Bungi
+c_fargo;2016;2016 - Bungi;Fargo - Bungi
+
+c_grand_forks;2511;2511 - Itscheabine;Grand Forks - Itscheabine
+c_spirit_lake;2511;2511 - Itscheabine;Spirit Lake - Itscheabine
+c_minot;2511;2511 - Itscheabine;Minot - Itscheabine
+
+d_bismarck;2510;2510 - Mandan;Duchy Bismark - Mandan
+c_bismarck;2510;2510 - Mandan;County Bismark - Mandan
+c_mandan;2510;2510 - Mandan;Mandan - Mandan
+c_fort_berthold;2510;2510 - Mandan;Fort Berthold - Mandan
+c_west_turtle_mountain;2510;2510 - Mandan;West Turtle Mountain - Mandan
+c_mckenzie;2510;2510 - Mandan;McKenzie - Mandan
+
+c_sihasapa;2008;2008 - Yankton;Sihasapa - Yankton
+c_rushmore;2008;2008 - Yankton;Rushmore - Yankton
+c_fallon_prairie;2008;2008 - Yankton;Fallon Prairie - Yankton
+
+c_porcupine;2009;2009 - Teton;Porcupine - Teton
+c_pine_ridge;2009;2009 - Teton;Pine Ridge - Teton
+
+c_campbell;2505;2505 - Tsitsistas;Campbell - Tsitsistas
+c_black_hills;2505;2505 - Tsitsistas;Black Hills - Tsitsistas
+
+d_brule;2007;2007 - Arikara;Brule - Arikara
+c_lyman;2007;2007 - Arikara;Lyman - Arikara
+c_rosebud;2007;2007 - Arikara;Rosebud - Arikara
+
+d_wichiyena;909;909 - Mandan;Wichiyena - Mandan
+c_cheyenne_river;909;909 - Mandan;Cheyenne River - Mandan
+c_walworth;909;909 - Mandan;Walworth - Mandan
+
+c_yankton;906;906 - Lakota;Yankton - Lakota
+c_crow_creek;906;906 - Lakota;Crow Creek - Lakota
+
+# Big Sky
+
+c_crow;2504;2504 - Eelalapito;Crow - Eelalapito
+c_powder_river;2504;2504 - Eelalapito;Powder River - Eelalapito
+c_big_horn;2504;2504 - Eelalapito;Big Horn - Eelalapito
+
+c_fort_peck;2502;2502 - Haaninin;Fort Peck - Haaninin
+c_bowdoin_valley;2502;2502 - Haaninin;Bowdoin Valley - Haaninin
+c_belknap;2502;2502 - Haaninin;Belknap - Haaninin
+c_milk_river;2502;2502 - Haaninin;Milk River - Haaninin
+
+c_mccone;2503;2503 - Ashshipite;McCone - Ashshipite
+c_garfield;2503;2503 - Ashshipite;Garfield - Ashshipite
+c_treasure;2503;2503 - Ashshipite;Treasure - Ashshipite
+
+d_golden_valley;2006;2006 - Apsaalooke;Golden Valley - Apsaalooke
+c_stillwater;2006;2006 - Apsaalooke;Stillwater - Apsaalooke
+c_meagher;2006;2006 - Apsaalooke;Meagher - Apsaalooke
+c_fergus;2006;2006 - Apsaalooke;Fergus - Apsaalooke
+
+d_chouteau;2501;2501 - Piegan;Chouteau - Piegan
+c_marias;2501;2501 - Piegan;Marias - Piegan
+c_great_falls;2501;2501 - Piegan;Great Falls - Piegan
+c_freezeout;2501;2501 - Piegan;Freezeout - Piegan
+
+d_glacier;2004;2004 - Niitsitapi;Glacier - Niitsitapi
+c_pondera;2004;2004 - Niitsitapi;Pondera - Niitsitapi
+c_medicine_hat;2004;2004 - Niitsitapi;Medicine Hat - Niitsitapi
+c_warner;2004;2004 - Niitsitapi;Warner - Niitsitapi
+
+c_pincher_creek;2602;2602 - Siksikawa;Pincher Creek - Siksikawa
+c_vulcan;2602;2602 - Siksikawa;Vulcan - Siksikawa
+c_newell;2602;2602 - Siksikawa;Newell - Siksikawa
+
+c_foothills;2018;2018 - Tsuutina;Foothills - Tsuutina
+c_clearwater;2018;2018 - Tsuutina;Clearwater - Tsuutina
+c_banff;2018;2018 - Tsuutina;Banff - Tsuutina
+
+c_edmonton;2017;2017 - Nehiyawewin;Edmonton - Nehiyawewin
+c_red_deer;2017;2017 - Nehiyawewin;Red Deer - Nehiyawewin
+c_lloydminster;2017;2017 - Nehiyawewin;Lloydminster - Nehiyawewin
+
+# Lincoln
+
+c_koocanusa;2003;2003 - Ktunaxa;Koocanusa - Ktunaxa
+c_kootenay;2003;2003 - Ktunaxa;Kootenay - Ktunaxa
+c_priest_lake;2003;2003 - Ktunaxa;Priest Lake - Ktunaxa
+
+d_colville;2487;2487 - Spokane;Duchy Colville - Spokane
+c_colville;2487;2487 - Spokane;County Colville - Spokane
+c_pend_oreille;2487;2487 - Spokane;Pend Oreille - Spokane
+c_spokane_valley;2487;2487 - Spokane;Spokane Valley - Spokane
+c_adams;2487;2487 - Spokane;Adams - Spokane
+c_coeur_dalene;2487;2487 - Spokane;Coeur d'Alene - Spokane
+
+d_horse_heaven;2486;2486 - Yakima;Horse Heaven - Yakima
+c_yakama;2486;2486 - Yakima;Yakama - Yakima
+c_kittitas;2486;2486 - Yakima;Kittitas - Yakima
+c_klickitat;2486;2486 - Yakima;Klickitat - Yakima
+c_okanogan;2486;2486 - Yakima;Okanogan - Yakima
+c_douglas;2486;2486 - Yakima;Douglas - Yakima
+c_grant;2486;2486 - Yakima;Grant - Yakima
+
+c_whitman;2488;2488 - Palus;Whitman - Palus
+c_franklin;2488;2488 - Palus;Franklin - Palus
+c_wallawalla;2488;2488 - Palus;Wallawalla - Palus
+c_silver_valley;2488;2488 - Palus;Silver Valley - Palus
+
+c_umatilla;2483;2483 - Umatilla;Umatilla - Umatilla
+c_columbia_gorge;2483;2483 - Umatilla;Columbia Gorge - Umatilla
+
+# Grand/British Columbia
+
+d_monashee;2607;2607 - Okanagan;Monashee - Okanagan
+c_shuswap;2607;2607 - Okanagan;Shuswap - Okanagan
+c_kelowna;2607;2607 - Okanagan;Kelowna - Okanagan
+c_arrowhead;2607;2607 - Okanagan;Arrowhead - Okanagan
+c_kinbasket;2607;2607 - Okanagan;Kinbasket - Okanagan
+
+d_cariboo;2606;2606 - Tsiloqotin;Duchy Cariboo - Tsiloqotin
+c_cariboo;2606;2606 - Tsiloqotin;County Cariboo - Tsiloqotin
+c_harrison;2606;2606 - Tsiloqotin;Harrison - Tsiloqotin
+c_fraser;2606;2606 - Tsiloqotin;Fraser - Tsiloqotin
+c_kamloops;2606;2606 - Tsiloqotin;Kamloops - Tsiloqotin
+c_itcha_ilgachuz;2606;2606 - Tsiloqotin;Itcha Ilgachuz - Tsiloqotin
+
+c_klinaklini;974;974 - Kwakiutl;Klinaklini - Kwakiutl
+c_discovery_islands;974;974 - Kwakiutl;Discovery Islands - Kwakiutl
+c_homathko;974;974 - Kwakiutl;Homathko - Kwakiutl
+
+c_sunshine_coast;2610;2610 - Heiltsuk;Sunshine Coast - Heiltsuk
+c_powell;2610;2610 - Heiltsuk;Powell - Heiltsuk
+c_texada;2610;2610 - Heiltsuk;Texada - Heiltsuk
+
+c_vancouver;973;973 - Squamish;Vancouver - Squamish
+c_bellingham_bay;973;973 - Squamish;Bellingham Bay - Squamish
+c_san_juan_islands;973;973 - Squamish;San Juan Islands - Squamish
+
+d_vancouver_strait;972;972 - Nootka;Vancouver Strait - Nootka
+c_saanich;972;972 - Nootka;Saanich - Nootka
+c_sooke;972;972 - Nootka;Sooke - Nootka
+c_carmanah;972;972 - Nootka;Carmanah - Nootka
+c_nanaimo;972;972 - Nootka;Nanaimo - Nootka
+
+c_alberni;4553;4553 - Tl'aaj;Alberni - Tl'aaj
+c_clayoquot;4553;4553 - Tl'aaj;Clayoquot - Tl'aaj
+c_comox;4553;4553 - Tl'aaj;Comox - Tl'aaj
+
+d_north_end;4552;4552 - Tajaaw;Duchy North End - Tajaaw
+c_nootka;4552;4552 - Tajaaw;Nootka - Tajaaw
+c_elk_falls;4552;4552 - Tajaaw;Elk Falls - Tajaaw
+c_port_hardy;4552;4552 - Tajaaw;Port Hardy - Tajaaw
+
+# Cascadia
+
+d_puget;874;874 - Salish;Puget - Salish
+c_seattle;874;874 - Salish;Seattle - Salish
+c_snohomish;874;874 - Salish;Snohomish - Salish
+c_camano;874;874 - Salish;Camano - Salish
+
+c_capitol;2485;2485 - Chehalis;Capitol - Chehalis
+c_rainier;2485;2485 - Chehalis;Rainier - Chehalis
+
+d_olympus;2484;2484 - Quileute;Olympus - Quileute
+c_quinault;2484;2484 - Quileute;Quinault - Quileute
+c_cape_alava;2484;2484 - Quileute;Cape Alava - Quileute
+c_kitsap;2484;2484 - Quileute;Kitsap - Quileute
+
+d_portlandia;873;873 - Chinook;Portlandia - Chinook
+c_caltsop;873;873 - Chinook;Clatsop - Chinook
+c_portland;873;873 - Chinook;Portland - Chinook
+c_mount_hood;873;873 - Chinook;Mount Hood - Chinook
+c_clark;873;873 - Chinook;Clark - Chinook
+c_willapa_bay;873;873 - Chinook;Willapa Bay - Chinook
+
+c_tillamook;872;872 - Kalapuya;Tillamook - Siuslaw
+c_coos_bay;872;872 - Kalapuya;Coos Bay - Siuslaw
+c_siuslaw;872;872 - Kalapuya;Siuslaw - Siuslaw
+
+c_umpqua;2482;2482 - Kalapuya;Umpqua - Kalapuya
+c_lane;2482;2482 - Kalapuya;Lane - Kalapuya
+c_santiam;2482;2482 - Kalapuya;Santiam - Kalapuya
+c_crater;2482;2482 - Kalapuya;Crater - Kalapuya
+
+d_north_jefferson;2481;2481 - Klamath;North Jefferson - Klamath
+c_josephine;2481;2481 - Klamath;Josephine - Klamath
+c_rogue_valley;2481;2481 - Klamath;Rogue Valley - Klamath
+c_klamath_falls;2481;2481 - Klamath;Klamath Falls - Klamath
+
+c_hart_mountain;4515;4515 - Hart Mountain; Hart Mountain - Hart Mountain
+c_deschutes;4515;4515 - Hart Mountain;Deschutes - Hart Mountain
+
+d_highdesert;4516;4516 - Highdesert;Highdesert - Highdesert
+c_malheur;4516;4516 - Highdesert;Malheur - Highdesert
+c_harney;4516;4516 - Highdesert;Harney - Highdesert
+c_ochoco;4516;4516 - Highdesert;Ochoco - Highdesert
+
+# Jefferson
+
+d_redwoods;2477;2477 - Yuki;Redwoods - Yuki
+c_eureka;4500;4500 - Eureka;Eureka - Eureka
+c_bragg;2477;2477 - Yuki;Bragg - Yuki
+c_humboldt;2477;2477 - Yuki;Humboldt - Yuki
+c_mendocino;2477;2477 - Yuki;Mendocino - Yuki
+c_redwood;4500;4500 - Eureka;Redwood - Eureka
+
+d_shasta_cascade;2480;2480 - Shasta;Shasta Cascade - Shasta
+c_redding;2480;2480 - Shasta;Redding - Shasta
+c_klamath;4501;4501 - Klamath;Klamath - Klamath
+c_tehama;2480;2480 - Shasta;Tehama - Shasta
+c_mount_shasta;2480;2480 - Shasta;Mount Shasta - Shasta
+c_yreka;4501;4501 - Klamath;Yreka - Klamath
+
+d_nevada;4511;4511 - Reno;Duchy Nevada - Reno
+c_reno;4511;4511 - Reno;Reno - Reno
+c_carson;4511;4511 - Reno;Carson - Reno
+c_lassen;4514;4514 - Lassen;Lassen - Lassen
+c_black_rock;4514;4514 - Lassen; Black Rock - Lassen
+c_modoc;4514;4514 - Lassen; Modoc - Lassen
+
+# The Valley/Sacremento
+
+d_sacramento;4502;4502 - Sacramento;Duchy Sacramento - Sacramento
+c_sacramento;4502;4502 - Sacramento;Sacramento - Sacramento
+
+d_motherlode;4503;4503 - Motherlode;Duchy Motherlode - Motherlode
+c_san_joaquin;4503;4503 - Motherlode;San Joaquin - Motherlode
+c_dorado;4503;4503 - Motherlode;Dorado - Motherlode
+c_tuolumne;4503;4503 - Motherlode;Tuolumne - Motherlode
+c_tahoe;4503;4503 - Motherlode;Tahoe - Motherlode
+
+d_north_valley;2479;2479 - Maidu;North Valley - Maidu
+c_yuba;2479;2479 - Maidu;Yuba - Maidu
+c_butte;2479;2479 - Maidu;Butte - Maidu
+c_colusa;2479;2479 - Maidu;Colusa - Maidu
+c_glenn;2479;2479 - Maidu;Glenn - Maidu
+c_yolo;2479;2479 - Maidu;Yolo - Maidu
+
+d_central_valley;870;870 - Yorkuts;Central Valley - Yorkuts
+c_fresno;870;870 - Yorkuts;Fresno - Yorkuts
+c_madera;870;870 - Yorkuts;Madera - Yorkuts
+
+c_mariposa;4505;4505 - Central Valley;Marioposa - Central Valley
+c_stanislaus;4505;4505 - Central Valley;Stanislaus - Central Valley
+
+d_kern;4506;4506 - Kern; Duchy Kern - Kern
+c_bako;4506;4506 - Kern;Bako - Kern
+c_avenal;4506;4506 - Kern;Avenal - Kern
+c_tollhouse;4506;4506 - Kern;Tollhouse - Kern
+c_tulare;4506;4506 - Kern;Tulare - Kern
+
+d_death_valley;4513;4513 - Death Valley;Duchy Death Valley - Death Valley
+c_inyo;4513;4513 - Death Valley;Inyo - Death Valley
+c_hawthorne;4513;4513 - Death Valley;Hawthorne - Death Valley
+c_ridgecrest;4513;4513 - Death Valley;Ridgecrest - Death Valley
+
+# Gran Francisco
+
+d_wineland;871;871 - Pomo;Wineland - Pomo
+c_napa;871;871 - Pomo;Napa - Pomo
+c_lake;871;871 - Pomo;Lake - Pomo
+c_sonoma;871;871 - Pomo;Sonoma - Pomo
+c_solano;871;871 - Pomo;Solano - Pomo
+
+d_goldengate;2021;2021 - Miwok;Goldengate - Miwok
+c_san_francisco;2021;2021 - Miwok;San Francisco - Miwok
+c_marin;4596;4596 - Marin;Marin - Marin
+
+d_hayward;4595;4595 - Hayward;Duchy Hayward - Hayward
+c_san_jose;4595;4595 - Hayward;San Jose - Hayward
+c_alameda;4595;4595 - Hayward;Almeda - Hayward
+c_contra_costa;4595;4595 - Hayward;Contra Costa - Hayward
+
+d_salinas;4504;4504 - Santa Cruz;Duhcy Salinas - Santa Cruz
+c_santa_cruz;4504;4504 - Santa Cruz;Santa Cruz - Santa Cruz
+c_monterey;4504;4504 - Santa Cruz;Montery - Santa Cruz
+c_san_benito;869;869 - Salinan;San Benito - Salinan
+c_obispo;869;869 - Salinan;Obispo - Salinan
+
+# Socal
+
+d_los_angeles;4507;4507 - Los Angeles;Duchy Los Angeles - Los Angeles
+c_los_angeles;4507;4507 - Los Angeles;Los Angeles - Los Angeles
+c_orange;4507;4507 - Los Angeles;Orange - Los Angeles
+d_los_padres;868;868 - Chumash;Los Padres - Chumash
+c_ventura;868;868 - Chumash;Ventura - Chumash
+c_channel_islands;4508;4508 - Santa Catalina;Channel Islands - Santa Catalina
+c_santa_barbara;868;868 - Chumash;Santa Barbara - Chumash
+
+c_tejon_pass;2478;2478 - Tachi;Tejon Pass - Tachi
+c_antelope;2478;2478 - Tachi;Antelope - Tachi
+
+d_berdoo;867;867 - Mojave;Berdoo - Mojave
+c_palm_springs;867;867 - Mojave;Palm Springs - Mojave
+c_riverside;867;867 - Mojave;Riverside - Mojave
+c_joshua_tree;867;867 - Mojave;Joshua Tree - Mojave
+c_blythe;867;867 - Mojave;Blythe - Mojave
+
+c_barstow;4512;4512 - Las Vegas;Barstow - Las Vegas
+c_las_vegas;4512;4512 - Las Vegas;Las Vegas - Las Vegas
+
+d_salton;4509;4509 - San Diego;Duchy San Diego - San Diego
+c_san_diego;4509;4509 - San Diego;San Diego - San Diego
+c_descanso;2476;2476 - Kumeyaay;Descanso - Kumeyaay
+c_pendleton;4509;4509 - San Diego;Pendleton - San Diego
+c_imperial;2476;2476 - Kumeyaay;Imperial - Kumeyaay
+
+# Baja
+
+d_baja;2620;2620 - Nakipa;Duchy Baja - Nakipa
+c_mexicali;2620;2620 - Nakipa;Mexicali - Nakipa
+c_tijuana;2620;2620 - Nakipa;Tijuana - Nakipa
+c_ensenada;2620;2620 - Nakipa;County Ensenada - Nakipa
+
+d_ensenada;865;865 - Cochimi;Duchy Ensenada - Cochimi
+c_el_arco;865;865 - Cochimi;El Arco - Cochimi
+c_el_rosario;865;865 - Cochimi;El Rosario - Cochimi
+c_guerrero_negro;865;865 - Cochimi;Guerrero Negro - Cochimi
+
+d_baja_sur;866;866 - Guaycura;Baja Sur - Guaycura
+c_la_paz;866;866 - Guaycura;La Paz - Guaycura
+c_loreto;866;866 - Guaycura;Loreto - Guaycura
+c_los_cabos;866;866 - Guaycura;Los Cabos - Guaycura
+c_mulege;866;866 - Guaycura;Mulege - Guaycura
+
+# Idaho
+
+d_west_snake;2019;2019 - Nimiipu;West Snake - Nimiipu
+c_gem_canyon;2019;2019 - Nimiipu;West Snake - Nimiipu
+c_salmon_river;2019;2019 - Nimiipu;West Snake - Nimiipu
+c_baker;2019;2019 - Nimiipu;West Snake - Nimiipu
+c_nez_perce;2019;2019 - Nimiipu;West Snake - Nimiipu
+
+d_northern_basin;4517;4517 - Duck Valley;Northern Basin - Duck Valley
+c_elmore;4517;4517 - Duck Valley;Northern Basin - Duck Valley
+c_owyhee;4517;4517 - Duck Valley;Northern Basin - Duck Valley
+c_cassia;4517;4517 - Duck Valley;Northern Basin - Duck Valley
+c_duck_valley;4517;4517 - Duck Valley;Northern Basin - Duck Valley
+c_salt_flats;4517;4517 - Duck Valley;Northern Basin - Duck Valley
+
+c_flathead;4599;4599 - Clearwater;Flathead - Clearwater
+c_bitterroot_valley;4599;4599 - Clearwater;Bitterroot Valley - Clearwater
+
+d_deer_lodge;4600;4600 - Deer Lodge;Deer Lodge - Deer Lodge
+c_broadwater;4600;4600 - Deer Lodge;Broadwater - Deer Lodge
+c_granite;4600;4600 - Deer Lodge;Granite - Deer Lodge
+
+d_silver_bow;2489;2489 - Bohogue;Silver Bow - Bohogue
+c_beaverhead;2489;2489 - Bohogue;Beaverhead - Bohogue
+c_lemhi;2489;2489 - Bohogue;Lemhi - Bohogue
+
+# Yellowstone
+
+d_east_snake;2020;2020 - Bannock;East Snake - Bannock
+c_bingham;2020;2020 - Bannock;Bingham - Bannock
+c_idaho_falls;2020;2020 - Bannock;Idaho Falls - Bannock
+c_bannock;2020;2020 - Bannock;Bannock - Bannock
+c_shoshone_falls;2020;2020 - Bannock;Shoshone Falls - Bannock
+
+d_highland_springs;4601;4601 - High Springs;Highland Springs - High Springs
+c_sublette;4601;4601 - High Springs;Sublette - High Springs
+c_teton;4601;4601 - High Springs;Teton - High Springs
+c_yellowstone;4601;4601 - High Springs;Yellowstone - High Springs
+
+c_wind_river;2506;2506 - Kuccuntikka;Wind River - Kuccuntikka
+c_carbon;2506;2506 - Kuccuntikka;Carbon - Kuccuntikka
+
+c_thunder_basin;1809;1809 - Cheyenne;Thunder Basin - Cheyenne
+c_natrona;1809;1809 - Cheyenne;Natrona - Cheyenne
+
+c_wheatland;2507;2507 - Baachinena;Wheatland - Baachinena
+c_medicine_bow;2507;2507 - Baachinena;Medicine Bow - Baachinena
+c_weld;2507;2507 - Baachinena;Weld - Baachinena
+
+d_sweetwater;4604;4604 - Sweetwater;Sweetwater - Sweetwater
+c_bridger;4604;4604 - Sweetwater;Bridger - Sweetwater
+c_summit;4604;4604 - Sweetwater;Summit - Sweetwater
+c_flaming_gorge;4604;4604 - Sweetwater;Flaming Gorge - Sweetwater
+
+# Deseret
+
+d_great_salt_duchy;2490;2490 - Goshute;Great Salt Duchy - Goshute
+c_bear_river;2490;2490 - Goshute;Bear River - Goshute
+c_salt_lake;2490;2490 - Goshute;Salt Lake City - Goshute
+c_provo;2490;2490 - Goshute;Provo - Goshute
+c_bonneville;2490;2490 - Goshute;Bonneville - Goshute
+
+c_grand_staircase;4520;4520 - Grand Staircase;Grand Staircase - Grand Staircase
+c_canyonlands;4523;4523 - Canyonlands;Canyonlands - Canyonlands
+c_uintah;4522;4522 - Yampa;Uintah - Yampa
+c_manti-la_sal;4521;4521 - Manti-la-Sal;Manti-la Sal - Manti-la-Sal
+c_fishlake;4518;4518 - Bonneville; Fishlake - Bonneville
+c_zion;4519;4519 - Zion;Zion - Zion
+c_bonneville;4518;4518 - Bonneville; Bonneville - Bonneville
+
+# Colorado
+
+d_boulder;4524;4524 - Boulder; duchy Boulder - Boulder
+c_boulder;4524;4524 - Boulder; Boulder- Boulder
+c_larimer;4524;4524 - Boulder; Larimer - Boulder
+#c_weld;2507;4524;4524 - Boulder; Weld - Boulder
+
+d_denver;4525;4525 - Denver;Denver - Denver;
+c_denver;4525;4525 - Denver;Denver - Denver;
+c_south_platte;4525;4525 - Denver;South Platte - Denver;
+c_pikes_peak;4525;4525 - Denver;Pikes Peak - Denver;
+
+d_pueblo;4526;4526 - Valana;Peublo - Valana
+c_pueblo;4526;4526 - Valana;Peublo - Valana
+c_huerfano;4526;4526 - Valana;Huerfano - Valana
+c_alamosa;4526;4526 - Valana;Alamosa - Valana
+
+d_western_slope;4523;4523 - Canyonlands;Duchy Western Slope - Canyonlands
+c_mesa;4523;4523 - Canyonlands;Mesa - Canyonlands
+c_gunnison;4523;4523 - Canyonlands;Gunnison - Canyonlands
+c_mesa_verde;4523;4523 - Canyonlands;Mesa Verde - Canyonlands
+c_mineral_belt;4522;4522 - Yampa;Mineral Belt - Mesa
+c_yampa;4522;4522 - Yampa;Yampa - Yampa
+
+# Manitoba
+
+c_saskatoon;2597;2597 - Sipiwininiwak;Saskatoon - Sipiwininiwak
+c_ahtahkakoop;2597;2597 - Sipiwininiwak;Ahtahkakoop - Sipiwininiwak
+
+c_nipawin;2596;2596 - Mahmikiwiniyak;Nipawin - Mahmikiwiniyak
+c_muskowekwan;2596;2596 - Mahmikiwiniyak;Muskowekwan - Mahmikiwiniyak
+
+c_piapot;2598;2598 - Hebina;Piapot - Hebina
+c_javia;2598;2598 - Hebina;Javia - Hebina
+
+c_mcdonald;2005;2005 - Asinaan;McDonald - Asinaan
+c_kenosee;2005;2005 - Asinaan;Kenosee - Asinaan
+c_ochapowace;2005;2005 - Asinaan;Ochapowace - Asinaan
+
+c_wuskwi_sipihk;1011;1011 - Woods Cree;Wuskwi Sipihk - Woods Cree
+
+d_keeseekoowenin;1010;1010 - Manitoba;Keeseekoowenin - Manitoba
+c_dauphin;1010;1010 - Manitoba;Dauphin - Manitoba
+c_assiniboine;1010;1010 - Manitoba;Assiniboine - Manitoba
+c_interlake;1010;1010 - Manitoba;Interlake - Manitoba
+
+c_winnipeg;1008;1008 - Winnipeg;Winnipeg - Winnipeg
+c_atikaki;1008;1008 - Winnipeg;Atikaki - Winnipeg
+
+c_lac_seul;2593;2593 - Wappus;Lac Seul - Wappus
+
+c_quetico;1007;1007 - Ojibwa;Quetico - Ojibwa
+c_wabakimi;1007;1007 - Ojibwa;Wabakimi - Ojibwa
+c_lakehead;4572;4572 - Lakehead;Lakehead - Lakehead
+c_nipigon;1007;1007 - Ojibwa;Nipigon - Ojibwa
+
+# Aurora
+
+c_schreiber;2015;2015 - Nipigon;Schreiber - Nipigon
+c_pic;2015;2015 - Nipigon;Pic - Nipigon
+c_michipicoten;2015;2015 - Nipigon;Michipicoten - Nipigon
+
+c_nagagamisis;2590;2590 - Shaggami;Nagamisis - Shaggami
+
+c_bawating;1001;1001 - Sault;Bawating - Sault
+c_batchawana;1001;1001 - Sault;Batchawana - Sault
+
+c_blind_river;4697;4697 - Sudbury;Blind River - Sudbury
+c_sudbury;4697;4697 - Sudbury;Sudbury - Sudbury
+
+c_timiskaming;2588;2588 - Piscatang;Timiskaming - Piscatang
+
+c_ivanhoe;4698;4698 - Pishkanogami;Ivanhoe - Pishkanogami
+
+c_parry_sound;2671;2671 - Mississage;Parry Sound - Mississage
+
+c_north_nipissing;4699;4699 - North Nipissing;North Nipissing - North Nipissing
+
+c_south_nipissing;991;991 - Ottawa;South Nipissing - Nipissing
+
+# Jamesie
+
+c_nemaska;1002;1002 - Abitbi;Nemaska - Abitbi
+c_matagami;1002;1002 - Abitbi;Matagami - Abitbi
+c_abitibi;1002;1002 - Abitbi;Abitibi - Abitbi
+c_vallee_de_lor;1002;1002 - Abitbi;Vallee-de-l'Or - Abitbi
+
+c_little_abitibi;2589;2589 - Kesagami;Little Abitbi - Kesagami
+c_kapuskasing;2589;2589 - Kesagami;Kapuskasing - Kesagami
+
+c_kashechewan;1003;1003 - Moose Cree;Kashechewan - Moose Cree
+c_moosonee;1003;1003 - Moose Cree;Moosonee - Moose Cree
+
+c_waskaganish;1000;1000 - Cree;Waskaganish - Cree
+
+c_chibougamau;2580;2580 - Atikamekw;Chibougamau - Atikamekw
+c_saint_jean;2580;2580 - Atikamekw;Saint-Jean - Atikamekw
+
+# Ontario
+
+c_bancroft;4538;4538 - Huron;Bancroft - Kawartha
+c_kawartha;4538;4538 - Huron;Kawartha - Kawartha
+c_haliburton;988;988 - Huron;Haliburton - Huron
+c_muskoka;988;988 - Huron;Muskoka - Huron
+
+c_simcoe;2586;2586 - Tionontate;Simcoe - Tionontate
+c_wellington;2586;2586 - Tionontate;Wellington - Tionontate
+
+c_manitoulin;4570;4570 - Manitoulin;Manitoulin - Manitoulin
+c_bruce;2587;2587 - Odawa;Bruce - Odawa
+c_huron;2587;2587 - Odawa;Huron - Odawa
+
+#d_talbot;987;987 - Niagara;Talbot - Niagara
+c_essex;4528;4528- Essex;Essex - Essex
+c_lambton;4528;4528- Essex; Lambton - Essex
+c_elgin;4529;4529- Elgin;Elgin - Elgin
+c_brant;4529;4529- Elgin;Brant - Elgin
+c_welland;987;987 - Niagara;Welland - Welland
+
+#d_golden_horseshoe;2670;2670 - Tkaronto;Golden Horseshoe - Tkaronto
+c_gore;4527;4527 - Hamilton;Gore - Hamilton
+c_toronto;2670;2670 - Tkaronto;Toronto - Tkaronto
+c_oshawa;2670;2670 - Tkaronto;Oshawa - Tkaronto
+
+#d_quinte;989;989 - Ontario;Quinte - Ontario
+c_ganaraska;4530;4530- Durham;Ganaraska - Durham
+c_hastings;4531;4531- Hastings;Hastings - Hastings
+c_prince_edward;4531;4531- Hastings;Prince Edward - Hastings
+c_cataraqui;4531;4531- Hastings;Cataraqui - Hastings
+
+#d_ottawa;4537;4537 - Kichesipi;Duchy Ottawa - Kichesipi
+c_ottawa;4537;4537- Ottawa; Ottawa - Ottawa
+c_united_counties;4536;4536- Kichesipi;United Counties - United Counties
+c_thousand_islands;989;989 - Ontario;Thousand Islands - Ontario
+c_renfrew;2585;2585 - Kichesipi;Ottawa - Kichesipi
+c_rideau;2585;2585 - Kichesipi;Ottawa - Kichesipi
+
+# Quebec
+
+c_pontiac;2581;2581 - Timiskaming;Pontiac - Timiskaming
+c_haute_gatineau;2581;2581 - Timiskaming;Haute-Gatineau - Timiskaming
+c_haute_labelle;2581;2581 - Timiskaming;Haute-Labelle - Timiskaming
+
+c_hull;992;992 - Algonquin;Hull - Algonquin
+c_papineau;992;992 - Algonquin;Papineau - Algonquin
+c_bas_labelle;992;992 - Algonquin;Bas-Labelle - Algonquin
+
+d_montreal;993;993 - Hochelega;Montreal - Hochelega
+c_hochelaga;993;993 - Hochelega;Hochelaga - Hochelega
+c_vaudreuil_soulanges;4606;4606 - Grande Ligne;Vaudreuil Soulanges - Grande Ligne
+c_grande_ligne;4606;4606 - Grande Ligne;Grande Ligne - Grande Ligne
+c_matawinia;4535;4535 - Matawinic;Matawinia - Matawinic
+c_lanaudiere;4532;4532 - Lanaudiere;Lanaudiere - Lanaudiere
+
+d_mauricia;990;990 - Kwedech;Duchy Mauricia - Kwedech
+c_mauricia;990;990 - Kwedech;County Mauricia - Kwedech
+c_saint_maurice;990;990 - Kwedech;Saint Maurice - Kwedech
+c_taureau;990;990 - Kwedech;Taureau - Kwedech
+
+#d_la_citadelle;994;994 - Stadacona;La Citadelle - Stadacona
+c_cap_diamant;4533;4533 - Cap Diamant; Cap Diamant - Cap Diamant
+d_stadacona;994;994 - Stadacona;Stadacona - Stadacona
+c_charlevoix;994;994 - Stadacona;Charlevoix - Stadacona
+c_laurentides;994;994 - Stadacona;Laurentides - Stadacona
+c_portneuf;4534;4534 - Port Neuf;Port Neuf - Port Neuf
+c_totouskak;995;995 - Tadoussac;Totouskak - Tadoussac
+c_saguenay;995;995 - Tadoussac;Sagueney - Tadoussac
+
+c_monteregie;2584;2584 - Loup;Monteregie - Loup
+c_saint_francois;2584;2584 - Loup;Saint-Francois - Loup
+
+c_sherbrooke;2012;2012 - Arsigantegok;Sherbrooke - Arsigantegok
+c_frontenac;2012;2012 - Arsigantegok;Frontenac - Arsigantegok
+
+c_amiante;2583;2583 - Etchemins;Amiante - Etchemins
+c_chaudiere;2583;2583 - Etchemins;Chaudiere - Etchemins
+c_etchemin;2583;2583 - Etchemins;Etchemin - Etchemins
+
+d_bas_st_laurent;2582;2582 - Maliseet;Bas-St-Laurent - Maliseet
+c_rimouski;2582;2582 - Maliseet;Rimouski - Maliseet
+c_riviere_du_loup;4547;4547 - Riviere-du-Loup;RdL - RdL
+
+d_gaspesia;986;986 - Kespek;Gaspesia - Kespek
+c_gaspe;986;986 - Kespek;Gaspe - Kespek
+c_bonaventure;986;986 - Kespek;Bonaventure - Kespek
+c_chic_chocs;986;986 - Kespek;Chic Chocs - Kespek
+c_matapedia;986;986 - Kespek;Matapedia - Kespek
+
+# Cote-Nord
+
+c_onatchiway;2579;2579 - Piecougami;Onatchiway - Piecougami
+
+c_outardes;995;995 - Atiamekw;Outardes - Atiamekw
+c_haute_cote_nord;995;995 - Atiamekw;Haute Cote-Nord - Atiamekw
+
+c_manicouagan;2577;2577 - Manicouagan;Manicouagan - Manicouagan
+c_sept_iles;2577;2577 - Manicouagan;Sept-Iles - Manicouagan
+c_nipissis;2577;2577 - Manicouagan;Nipissis - Manicouagan
+c_manitou;2577;2577 - Manicouagan;Manitou - Manicouagan
+
+c_mingan;2576;2576 - Mingan;Mingan - Mingan
+c_natashquan;2576;2576 - Mingan;Natashquan - Mingan
+
+c_netagamiou;996;996 - Innu;Netagamiou - Innu
+
+c_thule;997;997 - Labrador;Thule - Labrador
+
+c_goose_bay;2575;2575 - Naskapi;Goose Bay - Naskapi
+c_labrador;2575;2575 - Naskapi;Labrador - Naskapi
+
+c_anticosti;2578;2578 - Anticosti;Anticosti - Anticosti
+
+# Newfoundland
+
+c_anguille;981;981 - Taqamkuk;Anguille - Taqamkuk
+c_st_anthony;981;981 - Taqamkuk;St Anthony - Taqamkuk
+
+c_bonavista;980;980 - Beothuk;Bonavista - Beothuk
+c_st_johns;980;980 - Beothuk;St Johns - Beothuk
+
+c_st_mary;2573;2573 - Placentia;St Mary - Placentia
+c_fortune_bay;2573;2573 - Placentia;Fortune Bay - Placentia
+
+# Maritimes
+
+c_chaleur;2572;2572 - Siknikt;Chaleur - Siknikt
+c_gloucester;2572;2572 - Siknikt;Chaleur - Siknikt
+
+c_meduxnekeag;4548;4548 - Menuxnekeag;Menuxnekeag - Menuxnekeag
+c_mt_carleton;4548;4548 - Menuxnekeag;Mt Carleton - Menuxnekeag
+c_petit_sault;2571;2571 - Madawaska;Petit-Sault - Madawaska
+
+d_new_brunswick;2570;2570 - Wolystoq;New Brunswick - Wolystoq
+c_passamaquoddy;2570;2570 - Wolystoq;New Brunswick - Wolystoq
+c_saint_john;2570;2570 - Wolystoq;New Brunswick - Wolystoq
+c_aucpaque;2570;2570 - Wolystoq;New Brunswick - Wolystoq
+
+c_miramichi;985;985 - Micmac;County Miramichi - Micmac
+c_kouchibouguac;985;985 - Micmac;Kouchibouguac - Micmac
+d_petitcodiac;985;985 - Micmac;Petitcodiac - Micmac
+c_fundy;985;985 - Micmac;Fundy - Micmac
+c_moncton;4549;4549 - Moncton;Moncton - Moncton
+c_cape_jourimain;4549;4549 - Moncton;Cape Jourimain - Moncton
+
+c_chignecto;984;984 - Acadia;Chignecto - Acadia
+
+d_prince_edward_island;983;983 - Epekwitik;Prince Edward Island - Epekwitik
+c_epekwitk;983;983 - Epekwitik;Epekwitik - Epekwitik
+c_summerside;983;983 - Epekwitik;Summerside - Epekwitik
+c_madeleine;983;983 - Epekwitik;Madeleine - Epekwitik
+
+c_pisiguit;2568;2568 - Kespukwitk;Pisiguit - Kespukwitk
+c_usitukun;2568;2568 - Kespukwitk;Usitukun - Kespukwitk
+
+c_antigonish;2569;2569 - Eskikewakik;Antigonish - Eskikewakik
+c_wagobagitik;2569;2569 - Eskikewakik;Wagobagitik - Eskikewakik
+c_chebucto;4551;4551 - Halifax;Chebucto - Halifax
+
+d_cape_breton;982;982 - Unamakik;Cape Breton - Unamakik
+c_pitupok;982;982 - Unamakik;Pitupok - Unamakik
+c_unamakika;982;982 - Unamakik;Unamakika - Unamakik
+
+# New England
+
+d_penobscot;2566;2566 - Passamaquoddy;Duchy Penobscot - Passamaquoddy
+c_penobscot;2566;2566 - Passamaquoddy;County Penobscot - Passamaquoddy
+c_bangor;971;971 - Penobscott;Bangor - Penobscott
+c_mount_desert;2566;2566 - Passamaquoddy;Mount Desert - Passamaquoddy
+c_machias;2566;2566 - Passamaquoddy;Machias - Passamaquoddy
+c_mattawamkeag;2566;2566 - Passamaquoddy;Mattawamkeag - Passamaquoddy
+
+d_aroostook;2567;2567 - Aroostook;Aroostook - Aroostook
+c_caribou;2567;2567 - Aroostook;Caribou - Aroostook
+c_katahdin;2567;2567 - Aroostook;Katahdin - Aroostook
+c_allagash;2567;2567 - Aroostook;Allagash - Aroostook
+c_st_john_valley;4546;4546 - St John Valley;St John Valley - St John Valley
+
+c_moosehead;2565;2565 - Kennebec;Moosehead - Kennebec
+c_mahoosuc;4544;4544 - Mahoosuc;Mahoosuc - Mahoosuc
+c_coos;2565;2565 - Kennebec;Coos - Kennebec
+
+c_kennebec;2013;2013 - Kennebec;Kennebec - Kennebec #Vanilla has two provinces called Kennebec.
+c_skowhegan;4545;4545 - Skowhegan;Skowhegan - Skowhegan
+
+c_belknap_lakes;2013;2013 - Kennebec;Belknap Lakes - Kennebec
+c_southern_maine;2013;2013 - Kennebec;Southern Maine - Kennebec
+
+c_white_mountain;2564;2564 - Sokoki;White Mountain - Sokoki
+
+c_burlington;4543;4543 - Burlington;Burlington - Burlington
+c_newport;2563;2563 - Missiquoi;Nek - Missiquoi
+c_montpelier;2563;2563 - Missiquoi;Montpelier - Missiquoi
+
+c_bennington;963;963 - Mahican;Bennington - Mahican
+c_rutland;969;969 - Pocumtuk;Rutland - Pocumtuk
+
+c_concord;2562;2562 - Pennacook;Concord - Pennacook
+c_monadnock;4542;4542 - The Berkshires;Monadnock - The Berkshires
+
+c_merrimack;970;970 - Pennacook;Merrimack - Pennacook
+
+c_boston;968;968 - Massachusetts;Boston - Massachusetts
+c_worcester;968;968 - Massachusetts;Worcester - Massachusetts
+
+c_berkshires;4542;4542 - The Berkshires;The Berkshires - The Berkshires
+c_pioneer_valley;966;966 - Nipmuc;Pioneer Valley - Nipmuc
+
+c_plymouth;2561;2561 - Wampanoag;Plymouth - Wampanoag
+
+c_providence;967;967 - Narraganset;Providence - Narraganset
+
+# Gotham
+
+d_connecticut;2010;2010 - Connecticut;Connecticut - Connecticut
+c_norwich;2010;2010 - Connecticut;Norwich - Connecticut
+c_quiet_corner;2010;2010 - Connecticut;Quiet Corner - Connecticut
+
+c_quinnipiac;2560;2560 - Quinnipiac;Quinnipiac - Quinnipiac
+c_hartford;2560;2560 - Quinnipiac;Hartford - Quinnipiac
+
+d_new_york;965;965 - Manhattan;New York - Manhattan
+c_manhattan;965;965 - Manhattan;Manhattan - Manhattan
+d_long_island;965;965 - Manhattan;Duchy Long Island - Manhattan
+c_long_island;4539;4539 - Long Island;Long Island - Long Island
+c_brooklyn;4540;4540 - Brooklyn;Brooklyn - Brooklyn
+c_newburgh;4541;4541 - Newburgh;Newburgh - Newburgh
+c_poughkeepsie;4541;4541 - Newburgh;Poughkeepsie - Newburgh
+
+d_north_jersey;2639;2639 - Raritan;Raritan - Raritan
+c_kittatinny;4622;4622 - Kittatinny;Kittatinny - Kittatinny
+c_palisades;2639;2639 - Raritan;Palisades - Raritan
+c_monmouth;2639;2639 - Raritan;Monmouth - Raritan
+
+d_jersey;962;962 - Unami;Duchy South Jersey - Unami
+c_south_jersey;962;962 - Unami;County South Jersey - Unami
+c_jersey_shore;962;962 - Unami;Jersey Shore - Unami
+c_trenton;962;962 - Unami;Trenton - Unami
+
+# Hudsonia
+
+d_catskill;2558;2558 - Espachomy;Catskill - Espachomy
+c_shawangunk;2558;2558 - Espachomy;Shawangunk - Espachomy
+c_otsego;2558;2558 - Espachomy;Otsego - Espachomy
+c_schoharie;4583;4583 - Schoharie;Schoharie - Schoharie
+
+c_albany;4584;4584 - Albany;Albany - Albany
+c_saratoga;963;963 - Mahican;Saratoga - Mahican
+c_woodstock;4584;4584 - Albany;Woodstock - Albany
+c_hudson;4584;4584 - Albany;Hudson - Albany
+c_troy;4584;4584 - Albany;Hudson - Albany
+
+d_champlain;2559;2559 - Adirondack;Champlain - Adirondack
+c_plattsburgh;2559;2559 - Adirondack;Plattsburgh - Adirondack
+c_ticonderoga;2559;2559 - Adirondack;Ticonderoga - Adirondack
+c_chepontuc;2559;2559 - Adirondack;Chepontuc - Adirondack
+c_raquette;2559;2559 - Adirondack;Raquette - Adirondack
+c_big_moose;2559;2559 - Adirondack;Big Moose - Adirondack
+
+c_johnstown;4583;4583 - Schoharie;Johns Town - Schoharie
+c_black_river;964;964 - Mohawk;Black River - Mohawk
+
+c_watertown;961;961 - Oneida;Watertown - Oneida
+c_syracuse;961;961 - Oneida;Syracuse - Oneida
+c_cortland;4582;4582 - Cortland;Cortland - Cortland
+
+c_seneca;4581;4581 - Seneca;Seneca - Seneca
+c_oswego;960;960 - Onondaga;Oswego - Onondaga
+
+d_finger_lakes;959;959 - Cayuga;Finger Lakes - Cayuga
+c_canandaigua;959;959 - Cayuga;Canandaigua - Cayuga
+c_canacdea;4580;4580 - Canacdea;Canacdea - Canacdea
+
+c_rochester;958;958 - Seneca;Rochester - Seneca
+
+# Alleghenia
+
+d_niagara;4578;4578 - Niagara;Duchy Niagara - Niagara
+c_buffalo;4578;4578 - Niagara;Buffalo - Niagara
+c_chautauqua;4578;4578 - Niagara;Chatauqua - Niagara
+c_genesee;4579;4579 - Genesee;Genesee - Genesee 
+
+c_erie;4577;4577 - Erie;Erie - Erie
+c_moshannon;954;954 - Allegheny;Moshannon - Allegheny
+c_lower_allegheny;4627;4627 - Lower Allegheny;Lower Allegheny - Lower Allegheny
+c_upper_allegheny;4626;4626 - Upper Allegheny;Upper Allegheny - Upper Allegheny
+c_susquehannock;4625;4625 - Susquehannock;Susquehannock - Susquehannock
+
+d_east_susquehanna;2557;2557 - Atrakwaye;East Susquehanna - Atrakwaye
+c_chemung;2023;2023 - Munsee;Chemung - Munsee
+c_tripolis;2023;2023 - Munsee;Tripolis - Munsee
+c_williamsport;2557;2557 - Atrakwaye;Williamsport - Atrakwaye
+
+c_pottsville;4621;4621 - Coalland;Pottsville - Coalland
+c_pocono;4621;4621 - Coalland;Pocono - Coalland
+c_lehigh;4621;4621 - Coalland;Lehigh - Coalland
+
+c_three_mile_island;955;955 - Susquehanna;Three Mile Island - Susquehanna
+c_schuylkill;4621;4621 - Coalland;Schuylkill - Coalland
+
+c_susquehanna;2556;2556 - Juniata;Susquehanna - Juniata
+c_rothrock;4623;4623 - Rothrock;Rothrock - Rothrock
+
+c_yohogania;4624;4624 - Pittsburgh;Yohogania - Pittsburgh
+c_greensburg;2555;2555 - Honaissont;Greensburg - Honaissont
+c_laurel_highlands;2556;2556 - Juniata;Laruel Highlands - Juniata
+
+# Columbia
+
+c_philadelphia;956;956 - Lenape;Philadelphia - Lenape
+
+d_delaware_valley;957;957 - Delaware;Delmarva - Delaware
+c_wilmington;957;957 - Delaware;Wilmington - Delaware
+c_dover;957;957 - Delaware;Dover - Delaware
+
+c_choptank;4619;4619 - Choptank;Choptank - Choptank
+c_baltimore;2554;2554 - Nanticoke;Baltimore - Nanticoke
+
+c_washington;4618;4618 - Washington;Washington - Washington
+c_severn;953;953 - Conoy;Severn - Conoy
+
+# Bermuda
+
+c_bermuda;481;481 - Bermuda;Bermuda - Bermuda
+
+# The Old Dominion
+
+c_frederick;2553;2553 - Potomac;Frederick - Potomac
+c_cumberland;2553;2553 - Potomac;Cumberland - Potomac
+
+c_rappahannock;2550;2550 - Doeg;Rappahannock - Doeg
+c_three_peninsulas;2550;2550 - Doeg;Three Necks - Doeg
+
+c_shenandoah;2011;2011 - Shenandoah;Shenandoah - Shenandoah
+c_culpeper;2011;2011 - Shenandoah;Culpeper - Shenandoah
+c_bull_run;2011;2011 - Shenandoah;Bull Run - Shenandoah
+c_charlottesville;2011;2011 - Shenandoah;Charlottesville - Shenandoah
+
+c_james;952;952 - Powhatan;The James - Powhatan
+
+c_hampton_roads;950;950 - Powhatan;Hampton Roads - Powhatan
+c_pocomoke;4620;4620 - Pocomoke;Pocomoke - Pocomoke
+
+c_lynchburg;4683;4683 - Lynchburg;Lynchburg - Lynchburg
+c_emporia;4682;4682 - Emporia;Emporia - Emporia
+
+c_roanoke;949;949 - Monacan;Roanoke - Monacan
+c_danville;2549;2549 - Moratok;Danville - Moratok
+
+# Appalachia
+
+c_new_river;2551;2551 - Monongahela;New River - Monongahela
+c_rock_cave;2551;2551 - Monongahela;Rock Cave - Monongahela
+
+c_monongalial;2551;2551 - Monongahela;Monongalial - Monongahela
+c_wheeling;2551;2551 - Monongahela;Wheeling - Monongahela
+
+c_kanawha;951;951 - Kanawha;Kanawha - Kanawha
+c_tug_fork;951;951 - Kanawha;Tug Fork - Kanawha
+
+d_clinch;2548;2548 - Tutelo;Clinch - Tutelo
+c_jefferson_forest;2548;2548 - Tutelo;Jefferson Forest - Tutelo
+c_galax;949;949 - Monacan;Galax - Monacan
+c_bluefield;2548;2548 - Tutelo;Bluefield - Tutelo
+
+d_blue_ridge;4651;4651 - Unifour;Blue Ridge - Unifour
+c_unifour;2544;2544 - Yadkin;Unifour - Unifour
+c_land_of_sky;4651;4651 - Land of Sky;Land of Sky - Land of Sky
+c_nantahala;4652;4652 - Nantahala;Nantahala - Nantahala
+c_keowee;4657;4657 - Keowee;Keowee - Keowee
+
+#d_east_tennessee;935;935 - Cherokee;East Tennessee - Cherokee
+c_chattanooga;4710;4710 - Chattanooga;Chattanooga - Chattanooga
+c_sequatchie;4710;4710 - Chattanooga;Sequatchie - Chattanooga
+c_holston;935;935 - Cherokee;Holston - Cherokee
+c_knox;935;935 - Cherokee;Knox - Cherokee
+
+d_nickajack;2531;2531 - Napochi;Nickajack - Napochi
+c_guntersville;2531;2531 - Napochi;Guntersville - Napochi
+c_huntsville;4681;4681 - Winston;Huntsville - Winston
+c_winston;4681;4681 - Winston;Winston - Winston
+
+# Uppland
+
+c_greenbo;4711;4711 - Cumberland;Greenbo - Cumberland
+c_buckhorn;4711;4711 - Cumberland;Buckhorn - Cumberland
+
+c_blue_licks;2526;2526 - Shatteras;Blue Licks - Shatteras
+c_covington;2526;2526 - Shatteras;Covington - Shatteras
+
+c_corbin;941;941 - Cumberland;Corbin - Cumberland
+c_transylvania;941;941 - Cumberland;Transylvania - Cumberland
+c_old_bourbon;941;941 - Cumberland;Old Bourbon - Cumberland
+c_mammoth;4708;4708 - Mammoth;Mammoth - Mammoth
+c_wolf_creek;4708;4708 - Mammoth;Wolf Creek - Mammoth
+
+c_hoosier;4573;4573 - Kentuckiana;Hoosier - Kentuckiana
+c_versailles;2524;2524 - Wabash;Versailles - Wabash
+
+c_evansville;2523;2523 - Piankeshaw;Evansville - Piankeshaw
+c_vincennes;2523;2523 - Piankeshaw;Vincennes - Piankeshaw
+
+#d_little_egypt;2520;2520 - Mengkonkia;Little Egypt - Mengkonkia
+c_cairo;2520;2520 - Mengkonkia;Cairo - Mengkonkia
+
+c_mount_vernon;4706;4706 - Mount Vernon;Mount Vernon - Mount Vernon
+
+c_effingham;4705;4705 - Effingham;Effingham - Effingham
+
+c_louisville;4707;4707 - Rough River;Louisville - Rough River
+c_rough_river;4707;4707 - Rough River;Rough River - Rough River
+
+c_owensboro;940;940 - Kentucky;Owensboro - Kentucky
+c_mineral_mound;940;940 - Kentucky;Mineral Mound - Kentucky
+
+c_the_purchase;939;939 - Pennyrile;The Purchase - Pennyrile
+
+c_nashville;4709;4709 - Nashville;Nashville - Nashville
+c_carthage;4709;4709 - Nashville;Carthage - Nashville
+
+c_cheatham;934;934 - Shawnee;Cheatham - Shawnee
+
+c_murfreesboro;2527;2527 - Chickamauga;Murfreesboro - Chickamauga
+c_tullahoma;2527;2527 - Chickamauga;Tullahoma - Chickamauga
+
+d_west_tennessee;918;918 - Tennessee;West Tennessee - Tennessee
+c_reelfoot;918;918 - Tennessee;Reelfoot - Tennessee
+c_memphis;918;918 - Tennessee;Memphis - Tennessee
+c_forked_deer;918;918 - Tennessee;Forked Deer - Tennessee
+
+# Carolina
+
+c_currituck;4641;4641 - Currituck;Currituck - Currituck
+c_albemarle_hatteras;2547;2547 - Roanoke;Albemarle-Hatteras - Roanoke
+c_chowan;4642;4642 - Chowan;Chowan - Chowan
+c_roanoke_rapids;4642;4642 - Chowan;Roanoke Rapids - Chowan
+
+c_carteret;4643;4643 - Carteret;Carteret - Carteret
+c_greenville;938;938 - Pamlico;Greenville - Pamlico
+c_lejeune;4643;4643 - Carteret;Le Jeune - Carteret
+
+#d_triangle;937;937 - Tuscarora;The Triangle - Tuscarora
+c_raleigh;4644;4644 - Raleigh;Raleigh - Raleigh
+c_durham;937;937 - Tuscarora;Durham - Tuscarora
+c_chapel_hill;4645;4645 - Chapel Hill;Chapel Hill - Chapel Hill
+
+c_cape_fear;2546;2546 - Chicora;Cape Fear - Chicora
+
+c_fayetteville;4646;4646 - Fayetteville;Fayetteville - Fayetteville
+c_uwharrie;4648;4648 - Uwharrie;Uwharrie - Uwharrie
+c_cheraw;4649;4649 - Cheraw;Cheraw - Cheraw
+
+c_catawba;933;933 - Catawba;Catawba - Catawba
+c_piedmont_triad;4647;4647 - Piedmont Triad;Piedmont-Triad - Piedmont-Triad
+c_metrolina;2545;2545 - Waxhaw;Metrolina - Waxhaw
+
+c_grand_strand;2543;2543 - Waccamaw;Grand Strand - Waccamaw
+c_pee_dee;4650;4650 - Pee Dee;Pee Dee - Pee Dee
+
+d_santee;4655;4655 - Congaree;Duchy Santee - Congaree
+c_upcountry;4654;4654 - Upcountry;Upcountry - Upcountry
+c_wateree;4653;4653 - Wateree;Wateree - Wateree
+c_congaree;4655;4655 - Congaree;Congaree - Congaree
+
+c_charleston;932;932 - Santee;Charleston - Santee
+c_edisto;4659;4659 - Edisto;Edisto - Edisto
+
+c_beaufort;2542;2542 - Cusabo;Beauford - Cusabo
+c_savannah;4662;4662 - Savannah;Savannah - Savannah
+
+# Dixieland
+
+c_saluda;2541;2541 - Saluda;Saluda - Saluda
+c_greenwood;4656;4656 - Greenwood;Greenwood - Greenwood
+c_salkehatchie;929;929 - Guale;Salkehatchie - Guale
+
+c_augusta;2540;2540 - Coweta;Augusta - Coweta
+c_ogeechee;4661;4661 - Ogeechee;Ogeechee - Ogeechee
+c_oconee;4660;4660 - Oconee;Oconee - Oconee
+
+c_hinesville;2539;2539 - Mocama;Hinesville - Mocama
+
+c_golden_isles;4665;4665 - Golden Isles;Golden Isles - Golden Isles
+
+c_dublin;4664;4664 - Dublin;Dublin - Dublin 
+c_deepstep;2538;2538 - Yamasee;Deepstep - Yamasee
+c_ocmulgee;4667;4667 - Ocmulgee;Ocmulgee - Ocmulgee
+
+d_sowega;4668;4668 - Blackshear;Duchy Sowega - Blackshear
+c_okefenokee;4666;4666 - Okefenokee;Okefenokee - Okefenokee
+c_ochlockonee;4670;4670 - Ochlockonee;Ochlockonee - Ochlockonee
+c_blackshear;4668;4668 - Blackshear;Blackshear - Blackshear
+
+c_benning;4673;4673 - Benning;Benning - Benning
+c_lagrange;4674;4674 - Lagrange;Lagrange - Lagrange
+c_eufaula;4671;4671 - Eufala;Eufala - Eufala
+
+d_peachtree;930;930 - Yamasee;Duchy Peachtree - Muskogee
+c_chattahoochee;931;931 - Chiaha;Chattahoochee - Chiaha
+c_atlanta;930;930 - Yamasee;Atlanta - Muskogee
+c_athens;4663;4663 - Athens;Athens - Athens
+
+c_tuskegee;925;925 - Tuskegee;Tuskegee - Tuskegee
+c_dothan;4672;4672 - Dothan;Dothan - Dothan;
+c_talladega;4675;4675 - Taladega;Taladega - Taladega
+
+c_coosa;4677;4677 - Coosa;Coosa - Coosa
+c_montgomery;924;924 - Alabama;Montgomery - Montgomery
+c_conecuh;2532;2532 - Tohome;Conecuh - Tohome
+
+c_demopolis;4678;4678 - Demopolis;Demopolis - Demopolis
+c_birmingham;4684;4684 - Birmingham;Birmingham - Birmingham
+c_tuscaloosa;4679;4679 - Tuscaloosa;Tuscaloosa - Tuscaloosa
+c_buttahatchee;4680;4680 - Buttahatchee;Buttahatchee - Buttahatchee

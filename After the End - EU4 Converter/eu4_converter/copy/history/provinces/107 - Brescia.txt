@@ -1,0 +1,19 @@
+#107 - Brescia
+
+#owner = MLO		# From 1426
+#controller = MLO
+culture = lombard 
+religion = hellenic_pagan 
+hre = no 
+base_tax = 8 
+base_production = 8    
+trade_goods = cloth
+base_manpower = 4    
+capital = "Brescia" 
+is_city = no
+#add_core= MLO
+
+
+
+discovered_by = high_american
+discovered_by = indian

@@ -1,0 +1,89 @@
+#2063 - Etawah
+
+#owner = DLH
+#controller = DLH
+culture = kanauji
+religion = hinduism
+capital = "Etawah"
+trade_goods = dyes
+hre = no
+base_tax = 6 
+base_production = 7
+base_manpower = 3
+is_city = no
+estate = estate_nobles
+#add_core= JNP
+#add_core= DLH
+
+
+
+discovered_by = indian
+discovered_by = indian 
+discovered_by = indian
+#discovered_by = nomad_group
+discovered_by = chinese
+
+
+# = {
+	#owner = JNP
+	#controller = JNP
+}
+# = {
+	#owner = DLH
+	#controller = DLH
+}
+# = { unrest = 8 } #Afghan factionalism
+# = {
+	#controller = TIM
+	unrest = 0
+} #Conquered by Babur
+# = {
+	#owner = MUG
+	#controller = MUG
+	#add_core= MUG
+	remove_core = DLH
+} # Battle of Panipat
+# = {
+	#owner = BNG
+	#controller = BNG
+	#add_core= BNG
+} # Sher Shah Conquers Delhi
+# = {
+	#owner = DLH
+	#controller = DLH
+	remove_core = BNG
+} #Death of Islam Shah Sur, Suri empire split
+# = {
+	#owner = MUG
+	#controller = MUG
+} # Humayun Returns
+# = { #controller = DLH } # Hemu
+# = { #controller = MUG } #Aftermath to second battle of Panipat
+# = { revolt = { type = pretender_rebels size = 3 name = "Khurrams Faction" leader = "Shah Jahan Timurid" } } #Should be named Khurram at this point
+# = { revolt = { } } #Defeated and flees south to Malwa
+# = {
+	#controller = REB
+	revolt = { type = pretender_rebels name = "Aurangzeb's Faction" leader = "Aurangzeb Alamgir Timurid" }
+} # Battle of Samugarh, Aurangzeb defeats the army of Dara Shukoh
+# = { #controller = MUG revolt = { } } #Shah Jahan surrenders and becomes the prisoner of his son Aurangzeb
+# = { discovered_by = ENG }
+# = { revolt_risk = 0 }
+# = {
+	#controller = REB
+	revolt = { type = pretender_rebels leader = "Muhammad Azam Shah Timurid" }
+} #Pretender
+# = { discovered_by = GBR }
+# = {
+	#controller = MUG
+	revolt = { }
+} #Pretender beaten
+# = {
+	#owner = GWA
+	#controller = GWA
+	#add_core= GWA
+} # The Marathas
+# = {
+	#owner = GBR
+	#controller = GBR
+	#add_core= GBR
+}

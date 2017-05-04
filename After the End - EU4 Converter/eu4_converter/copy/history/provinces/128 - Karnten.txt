@@ -1,0 +1,20 @@
+#128 - Kärnten
+
+#owner = HAB
+#controller = HAB
+#add_core= HAB
+culture	= austrian
+religion = celticist
+base_tax = 6
+base_production = 6
+trade_goods = iron 
+base_manpower = 5
+fort_15th = yes #Hochosterwitz Castle
+capital = "Klagenfurt" 
+is_city = no
+hre = no
+
+
+
+discovered_by = high_american
+discovered_by = indian

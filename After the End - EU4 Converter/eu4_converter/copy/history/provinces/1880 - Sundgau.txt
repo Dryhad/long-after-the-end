@@ -1,0 +1,20 @@
+# 1880 - Sundgau
+
+#owner = HAB
+#controller = HAB
+#add_core= HAB
+capital = "Altkirch"
+is_city = no
+culture = swabian
+religion = cult_of_reason
+hre = no
+base_tax = 4 
+base_production = 6
+trade_goods = iron
+base_manpower = 4
+
+
+
+discovered_by = high_american
+discovered_by = indian
+

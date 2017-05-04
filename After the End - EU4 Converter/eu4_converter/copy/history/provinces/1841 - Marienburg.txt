@@ -1,0 +1,57 @@
+#Marienburg
+
+#owner = TEU
+#controller = TEU
+capital = "Marienburg"
+culture = prussian
+religion = catholic
+trade_goods = naval_supplies
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 3
+is_city = no
+#add_core= TEU
+
+
+
+discovered_by = high_american
+discovered_by = high_american
+discovered_by = indian
+discovered_by = indian
+
+
+# = { #add_core= POL } # Beginning of the "Thirteen Years War"
+# = {
+	#owner = POL
+	#controller = POL
+	remove_core = TEU
+	#add_core= PRU
+} # "Peace of Torun"
+# = { religion = protestant } # Unknown date
+# = {
+	#owner = PLC
+	#controller = PLC
+	remove_core = POL
+	#add_core= PLC
+} # Union of Lublin
+# = { revolt = { type = revolutionary_rebels size = 0 } #controller = REB } # Civil war, Polish succession
+# = { revolt = {} #controller = PLC } # Coronation of Sigismund III
+# = {
+	#owner = SWE
+	#controller = SWE
+	#add_core= SWE
+} # Temporarily ceded by Poland to Sweden
+# = {
+	#owner = PLC
+	#controller = PLC
+	#add_core= PLC
+	remove_core = SWE
+}
+# = { #controller = SWE } # The Deluge
+# = { #controller = PLC }
+# = {
+	#owner = PRU
+	#controller = PRU
+	remove_core = PLC
+} # First partition of Poland

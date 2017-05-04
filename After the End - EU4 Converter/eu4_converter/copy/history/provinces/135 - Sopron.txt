@@ -1,0 +1,17 @@
+#135 - Sopron
+
+#owner = HUN
+#controller = HUN 
+culture = hungarian
+religion = finnish_pagan_reformed # Yotengrit, I think
+capital = "Sopron"
+trade_goods = grain
+hre = no
+base_tax = 5 
+base_production = 5
+base_manpower = 2
+is_city = no
+estate = estate_church
+#add_core= HUN
+discovered_by = high_american
+discovered_by = indian

@@ -1,0 +1,29 @@
+# 2176 - Shangqiu
+
+#owner = MNG
+#controller = MNG
+#add_core= MNG
+culture = zhongyuan
+religion = confucianism
+capital = "Shangqiu"
+trade_goods = cloth
+hre = no
+base_tax = 5 
+base_production = 5
+base_manpower = 2
+is_city = no
+#add_core= LNG
+
+
+
+discovered_by = chinese
+#discovered_by = nomad_group
+
+# = { discovered_by = SPA }
+
+# = { revolt = { } revolt_risk = 0 #owner = CSH #controller = CSH #add_core= CSH } # The Shun dynasty of Li Zicheng
+# = {
+	#owner = QNG
+	#controller = QNG
+	#add_core= QNG
+} # Qing invasion continues

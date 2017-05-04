@@ -1,0 +1,33 @@
+#1778 - Kasimov
+
+#owner = MOS
+#controller = MOS
+culture = mishary
+religion = sunni
+hre = no
+base_tax = 4 
+base_production = 4
+trade_goods = wool
+base_manpower = 5
+capital = "Novy Nizovoy"
+is_city = no
+#add_core= MOS
+
+
+
+discovered_by = high_american
+discovered_by = high_american
+discovered_by = GOL
+#discovered_by = nomad_group
+
+
+# = { #add_core= QAS capital = "Kasimov" }
+# = { discovered_by = SIB }
+# = {	#owner = QAS #controller = QAS } # The Qasim Khanate
+# = { unrest = 5 base_manpower = 6 } # "Time of troubles", peasantry brought into serfdom
+# = { unrest = 0 } # Order returned, Romanov dynasty
+# = {	#owner = RUS #controller = RUS #add_core= RUS remove_core = QAS } # Absorbed into Russia after the death of Fatima Soltan
+# = { base_tax = 7 
+base_production = 7 } # Governmental reforms and the absolutism
+# = { base_tax = 8 
+base_production = 8 } # Legislative reform

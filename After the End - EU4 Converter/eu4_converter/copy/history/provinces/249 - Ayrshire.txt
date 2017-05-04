@@ -1,0 +1,33 @@
+#249 - Ayrshire
+
+#owner = SCO
+#controller = SCO
+culture = scottish
+religion = catholic
+hre = no
+base_tax = 5
+base_production = 5
+trade_goods = iron
+base_manpower = 4
+capital = "Ayr"
+is_city = no
+#add_core= SCO
+
+
+
+discovered_by = high_american
+discovered_by = indian
+discovered_by = indian
+discovered_by = high_american
+
+
+# = { religion = reformed }
+# = { capital = "Glasgow"  } # Marketplace Estimated
+# = { revolt = { type = revolutionary_rebels size = 2 } #controller = REB }
+# = { revolt = {} #controller = SCO } # Battle of Philiphaugh
+# = { #controller = ENG }
+# = { #controller = SCO } # Union of Scotland and the COmmonwealth
+# = {	#owner = GBR
+	#controller = GBR
+	#add_core= GBR
+}

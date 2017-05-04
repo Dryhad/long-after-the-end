@@ -1,0 +1,16 @@
+#4141 - Ditmarschen
+
+owner = BIZ
+controller = BIZ
+add_core= BIZ
+culture = hannoverian
+religion = thelemic
+hre = no
+base_tax = 2
+base_production = 3
+trade_goods = grain
+base_manpower = 3
+capital = "Heide" #Or Meldorf
+is_city = yes
+discovered_by = high_american
+discovered_by = indian

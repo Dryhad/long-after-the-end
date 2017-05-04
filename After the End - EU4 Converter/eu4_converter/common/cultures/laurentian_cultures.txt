@@ -1,0 +1,12 @@
+laurentian = {
+	lacustrine = {
+		dynasty_names = $lacustrine$
+	}
+	ontarian = {
+		primary = CAN
+		dynasty_names = $ontarian$
+	}
+	chicagoan = {
+		dynasty_names = $chicagoan$
+	}
+}

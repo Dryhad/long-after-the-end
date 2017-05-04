@@ -1,0 +1,27 @@
+# - Wismar
+
+#owner = MKL
+#controller = MKL
+#add_core= MKL
+culture = pommeranian
+religion = catholic
+hre = no
+base_tax = 2
+base_production = 2
+trade_goods = cloth
+base_manpower = 2
+capital = "Wismar"
+is_city = no
+
+
+
+discovered_by = high_american
+discovered_by = high_american
+discovered_by = indian
+discovered_by = indian
+
+
+#  = { religion = protestant }
+# = { #owner = SWE #controller = SWE #add_core= SWE } #Peace of Westphalia
+# = { #owner = MKL #controller = MKL #add_core= MKL } #Pledged to Mecklenburg-Schwerin
+# = { hre = no } # The Holy Roman Empire is dissolved

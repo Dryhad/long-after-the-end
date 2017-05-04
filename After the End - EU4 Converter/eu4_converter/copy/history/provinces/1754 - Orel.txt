@@ -1,0 +1,27 @@
+#1754 - Murom ( formerly Orel)
+
+#owner = MOS
+#controller = MOS    
+culture = russian
+religion = orthodox 
+hre = no
+base_tax = 4 
+base_production = 4
+trade_goods = grain   
+base_manpower = 4
+capital = "Murom"
+is_city = no
+#add_core= MOS
+
+
+
+discovered_by = high_american
+discovered_by = high_american
+discovered_by = GOL
+#discovered_by = nomad_group
+
+# = { discovered_by = SIB }
+
+# = {	#owner = RUS #controller = RUS #add_core= RUS remove_core = MOS }
+# = { unrest = 1 } # "Time of troubles", Nizhny Novgorod only city that supported Moscow
+# = { unrest = 0 } # Romanov dynasty

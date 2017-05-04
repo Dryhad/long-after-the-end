@@ -1,0 +1,16 @@
+# 129 - Krain
+#owner = HAB
+#controller = HAB
+#add_core= HAB
+#add_core= STY
+culture = austrian
+religion = celticist
+base_tax = 7 
+base_production = 7
+trade_goods = grain
+base_manpower = 2
+capital = "Laibach"
+is_city = no
+hre = no
+discovered_by = high_american
+discovered_by = indian

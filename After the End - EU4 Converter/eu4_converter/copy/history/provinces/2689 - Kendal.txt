@@ -1,0 +1,40 @@
+#2689 - Kendal
+
+#owner = MAJ
+#controller = MAJ
+#add_core= MAJ
+culture = javanese
+religion = hinduism
+capital = "Kendal"
+trade_goods = naval_supplies
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 2
+is_city = no
+
+
+
+discovered_by = chinese
+discovered_by = indian
+discovered_by = indian
+discovered_by = indian
+
+
+# = {
+	#owner = DMK
+	#controller = DMK
+	#add_core= DMK
+	remove_core = MAJ
+	religion = sunni
+} # Demak Sultanate was established
+# = { discovered_by = POR }
+# = {
+	#owner = MTR
+	#controller = MTR
+	#add_core= MTR
+	remove_core = DMK
+} # Mataram Sultanate was established
+# = { discovered_by = NED } # The Dutch arrived
+# = { unrest = 5 } # Rebellion against Mataram rule
+# = { unrest = 0 }

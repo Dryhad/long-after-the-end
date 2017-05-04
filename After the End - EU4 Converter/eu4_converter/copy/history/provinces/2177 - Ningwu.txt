@@ -1,0 +1,40 @@
+# 2177 - Ningwu
+
+#owner = MNG
+#controller = MNG
+#add_core= MNG
+culture = jin
+religion = confucianism
+capital = "Ningwu"
+trade_goods = grain
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 2
+is_city = no
+#add_core= JIN
+#fort_15th = yes #the Nine Garrisons
+discovered_by = chinese
+#discovered_by = nomad_group
+
+# = { discovered_by = SPA }
+
+# = {
+	unrest = 0
+	#owner = CSH
+	#controller = CSH
+	#add_core= CSH
+} # Li Zicheng's Shun empire
+# = {
+	#owner = QNG
+	#controller = QNG
+	#add_core= QNG
+}
+# = {
+	#owner = MNG
+	#controller = MNG
+}
+# = {
+	#owner = QNG
+	#controller = QNG
+}

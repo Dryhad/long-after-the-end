@@ -1,0 +1,28 @@
+#1755 - Ustyug
+
+#owner = MOS # was part of Ustyug principality, annexed by Muscovy in 1474
+#controller = MOS
+culture = russian 
+religion = orthodox
+hre = no
+base_tax = 2
+base_production = 2
+trade_goods = fur
+base_manpower = 1
+capital = "Ustyug"
+is_city = no
+#add_core= MOS
+#add_core= NOV # Novgorodian claims
+
+
+
+discovered_by = high_american
+discovered_by = high_american
+#discovered_by = nomad_group
+
+
+# = {	remove_core = NOV } # Novgorod conquered
+# = {	#owner = RUS #controller = RUS #add_core= RUS remove_core = MOS }
+# = { capital = "Veliky Ustyug" }
+# = { unrest = 5 } # "Time of troubles"
+# = { unrest = 0 } # Order returned, Romanov dynasty

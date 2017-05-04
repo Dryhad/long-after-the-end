@@ -1,0 +1,30 @@
+#2422 - Veda-Suvar
+
+#owner = KAZ
+#controller = KAZ
+culture = kazani
+religion = sunni
+capital = "Veda-Suvar"
+trade_goods = grain
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 3
+is_city = no
+#add_core= KAZ
+
+
+
+discovered_by = high_american
+discovered_by = high_american
+#discovered_by = nomad_group
+discovered_by = indian
+
+
+# = {
+	#owner = RUS 
+	#controller = RUS
+	#add_core= RUS 
+	remove_core = KAZ 
+} # Russian conquest of Kazan
+# = { culture = russian religion = orthodox capital = "Cheboksary" }

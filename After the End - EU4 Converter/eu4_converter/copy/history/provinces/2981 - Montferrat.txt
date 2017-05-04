@@ -1,0 +1,19 @@
+#2981 - Montferrat
+
+#owner = MFA
+#controller = MFA
+culture = piedmontese
+religion = hellenic_pagan
+hre = no
+base_tax = 5
+base_production = 5
+trade_goods = wine
+base_manpower = 2
+capital = Montferrat
+is_city = no
+#add_core= MFA
+
+
+
+discovered_by = high_american
+discovered_by = indian

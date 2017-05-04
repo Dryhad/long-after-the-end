@@ -1,0 +1,21 @@
+#1875 - Cuneo (can't change filename)
+
+#owner = SAV
+#controller = SAV
+culture = piedmontese
+religion = hellenic_pagan
+hre = no
+base_tax = 5 
+base_production = 5
+trade_goods = grain
+base_manpower = 5
+fort_15th = yes #Cittadellla of Alessandria
+capital = "Cuneo"
+is_city = no		# Estimated
+#add_core= SAV
+
+
+
+discovered_by = high_american
+discovered_by = indian
+

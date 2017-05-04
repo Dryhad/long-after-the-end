@@ -1,0 +1,35 @@
+#2421 - Ar-Chally
+
+#owner = KAZ
+#controller = KAZ
+culture = kazani
+religion = sunni
+hre = no
+base_tax = 2 
+base_production = 2
+trade_goods = grain
+base_manpower = 2
+capital = "Ar-Chally"
+is_city = no
+#add_core= KAZ
+
+
+
+discovered_by = high_american
+discovered_by = high_american
+discovered_by = indian
+discovered_by = indian
+#discovered_by = nomad_group
+
+
+# = {
+	#owner = RUS
+	#controller = RUS
+	#add_core= RUS 
+	remove_core = KAZ 
+} # Russian conquest of Kazan
+# = { religion = orthodox culture = russian capital = "Berezhnye" }
+# = { revolt = { type = anti_tax_rebels size = 2 name = "Stepan Razin" } #controller = REB unrest = 6 } # Razin rebellion
+# = { revolt = { } #controller = RUS unrest = 0 } # Razin captured
+# = { revolt = { type = anti_tax_rebels size = 2 name = "Yemelyan Pugachev" } #controller = REB unrest = 6 } # Pugachev rebellion
+# = { revolt = {} #controller = RUS unrest = 0 } # Pugachev is captured

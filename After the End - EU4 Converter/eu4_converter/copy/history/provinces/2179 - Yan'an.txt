@@ -1,0 +1,43 @@
+# 2179 - Yan'an
+
+#owner = MNG
+#controller = MNG
+#add_core= MNG
+culture = jin
+religion = confucianism
+capital = "Yan'an"
+trade_goods = grain
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = no
+#add_core= QIN
+#fort_15th = yes #the Nine Garrisons
+
+
+
+discovered_by = chinese
+#discovered_by = nomad_group
+
+
+# = {
+	revolt_risk = 0
+	#owner = CSH
+	#controller = CSH
+	#add_core= CSH
+} # Li Zicheng's Shun empire 
+# = {
+	#owner = QNG
+	#controller = QNG
+	#add_core= QNG
+}
+# = {
+	#owner = MNG
+	#controller = MNG
+}
+# = {
+	#owner = QNG
+	#controller = QNG
+}
+# = { discovered_by = SPA } #Ferdinand Verbiest

@@ -1,0 +1,7 @@
+government = papal_government
+government_rank = 2
+primary_culture = quebecois
+religion = ursuline
+technology_group = eastern
+capital = 4533	# Quebec
+fixed_capital = 4533  # Cannot move capital away from this province & no power cost to move to it

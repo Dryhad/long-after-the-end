@@ -1,0 +1,20 @@
+#53 - Lüneburg
+
+owner = BIZ
+controller = BIZ
+add_core= BIZ
+culture = hannoverian
+religion = thelemic
+capital = "Lüneburg"
+trade_goods = salt
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = yes
+
+
+
+discovered_by = high_american
+discovered_by = indian
+

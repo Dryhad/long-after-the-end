@@ -1,0 +1,20 @@
+#120 - Abbruzzi
+
+#owner = NAP
+#controller = NAP
+culture = neapolitan 
+religion = hellenic_pagan 
+hre = no 
+base_tax = 5 
+base_production = 5 
+trade_goods = wine 
+base_manpower = 3
+capital = "L'Aquila" 
+estate = estate_church
+is_city = no 
+#add_core= NAP
+
+
+
+discovered_by = high_american
+discovered_by = indian

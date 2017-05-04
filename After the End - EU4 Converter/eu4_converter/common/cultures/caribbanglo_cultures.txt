@@ -1,0 +1,23 @@
+caribbanglo = {
+	west_indian = {
+		dynasty_names = $west_indian$
+	}
+	calypsonian = {
+		dynasty_names = $calypsonian$
+	}
+	bermudian = {
+		dynasty_names = $bermudian$
+	}
+	garinagu = {
+		dynasty_names = $garinagu$
+	}
+	raizal = {
+		dynasty_names = $raizal$
+	}
+	kriol = {
+		dynasty_names = $kriol$
+	}
+	guyanese = {
+		dynasty_names = $guyanese$
+	}
+}

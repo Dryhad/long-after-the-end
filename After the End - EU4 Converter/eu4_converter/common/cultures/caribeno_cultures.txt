@@ -1,0 +1,14 @@
+caribeno = {
+	cubano = {
+		dynasty_names = $cubano$
+	}
+	dominicano = {
+		dynasty_names = $dominicano$
+	}
+	boricua = {
+		dynasty_names = $boricua$
+	}
+	nuyorican = {
+		dynasty_names = $nuyorican$
+	}
+}

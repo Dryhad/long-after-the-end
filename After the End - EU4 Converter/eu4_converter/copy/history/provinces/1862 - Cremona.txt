@@ -1,0 +1,19 @@
+#1862 - Cremona
+
+#owner = MLO
+#controller = MLO
+culture = lombard
+religion = hellenic_pagan
+hre = no
+base_tax = 8
+base_production = 8 
+trade_goods = grain
+base_manpower = 4
+capital = "Cremona"
+is_city = no	# Estimated
+#add_core= MLO
+
+
+
+discovered_by = high_american
+discovered_by = indian

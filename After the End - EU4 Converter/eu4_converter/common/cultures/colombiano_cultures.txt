@@ -1,0 +1,14 @@
+colombiano = {
+	paisa = {
+		primary = COL
+		dynasty_names = $paisa$
+	}
+	cartagenero = {
+		primary = COL
+		dynasty_names = $cartagenero$
+	}
+	rochela = {
+		primary = COL
+		dynasty_names = $rochela$
+	}
+}

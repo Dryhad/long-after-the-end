@@ -1,0 +1,35 @@
+# - Tarija
+
+#owner = CCQ
+#controller = CCQ
+#add_core= CCQ
+is_city = no
+culture = aimara
+
+
+
+discovered_by = south_american
+discovered_by = andean
+
+religion = inti
+capital = "Tarija"
+trade_goods = wool
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 1
+
+# = {
+	#owner = INC
+	#controller = INC
+	#add_core= INC
+}
+# = {
+	#discovered_by = SPA
+	#owner = SPA
+	#controller = SPA
+	#add_core= SPA
+	culture = castillian
+	religion = catholic
+}# The death of Atahualpa
+# = { revolt = { type = nationalist_rebels size = 2 } #controller = REB } # Bolivian War of Independence

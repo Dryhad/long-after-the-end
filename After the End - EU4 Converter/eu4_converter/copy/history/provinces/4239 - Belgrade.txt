@@ -1,0 +1,17 @@
+#4239 - Belgrade
+
+#owner = SER
+#controller = SER
+culture = serbian
+religion = matrem
+capital = "Belgrade"
+trade_goods = cloth
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 2
+is_city = yes
+fort_15th = yes
+#add_core = SER
+discovered_by = high_american
+discovered_by = indian

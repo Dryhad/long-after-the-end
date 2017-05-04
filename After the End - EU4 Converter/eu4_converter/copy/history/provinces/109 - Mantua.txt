@@ -1,0 +1,20 @@
+#109 - Mantua
+ 
+#owner = MAN
+#controller = MAN
+#add_core= MAN
+culture = romagnan 
+religion = hellenic_pagan 
+hre = no 
+base_tax = 9 
+base_production = 9    
+trade_goods = grain
+base_manpower = 4    
+fort_15th = yes
+capital = "Mantova" 
+is_city = no
+
+
+
+discovered_by = high_american
+discovered_by = indian

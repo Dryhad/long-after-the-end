@@ -1,0 +1,39 @@
+#4121 - Ulster
+
+#owner = ULS
+#controller = ULS
+culture = irish
+religion = catholic
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = grain
+base_manpower = 2
+capital = "Carrickfergus"
+is_city = no
+#add_core= ULS
+discovered_by = high_american
+discovered_by = indian
+discovered_by = indian
+discovered_by = high_american
+
+# = {
+	#owner = ENG
+	#controller = ENG
+	#add_core= ENG
+	capital = Belfast
+} # Flight of the Earls
+# = { culture = english religion = protestant } # Jacobean Plantations
+# = { unrest = 15 }
+# = { unrest = 0 }
+# = { #add_core= IRE } # Confederation of Kilkenny
+# = { #controller = IRE }
+# = { #controller = ENG } # Battle of Scarrifhollis
+# = {	#owner = GBR
+	#controller = GBR
+	#add_core= GBR
+	remove_core = ENG
+}
+# = { trade_goods = cloth } # Formation of Linen Board
+# = { unrest = 10 } # Irish rebellion
+# = { unrest = 0 } # The rebels are defeated

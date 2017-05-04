@@ -1,0 +1,31 @@
+#1843 - Kozuke
+
+#owner = UES
+#controller = UES
+culture = togoku
+religion = shinto
+capital = "Mayabashi"
+trade_goods = grain
+hre = no
+base_tax = 2 
+base_production = 3
+base_manpower = 2
+is_city = no
+#add_core= UES
+
+
+
+discovered_by = chinese
+discovered_by = MCH
+discovered_by = KHA
+discovered_by = OIR
+discovered_by = QNG
+discovered_by = ANU
+
+# = { discovered_by = POR }
+# = { #add_core= HJO }
+# = { #add_core= TKD }
+# = { #owner = TKD #controller = TKD }
+# = { remove_core = TKD }
+# = { #add_core= HJO #owner = HJO #controller = HJO }
+# = { remove_core = HJO remove_core = UES #add_core= TKG #owner = TKG #controller = TKG }

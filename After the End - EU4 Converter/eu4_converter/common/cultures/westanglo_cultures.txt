@@ -1,0 +1,14 @@
+west_anglo = {
+	grangelander = {
+		dynasty_names = $grangelander$
+	}
+	texan = {
+		dynasty_names = $texan$
+	}
+	arixan = {
+		dynasty_names = $arixan$
+	}
+	ozark = {
+		dynasty_names = $ozark$
+	}
+}

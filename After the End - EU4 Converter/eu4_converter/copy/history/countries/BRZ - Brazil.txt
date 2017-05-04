@@ -1,0 +1,14 @@
+# Brazilian Empire
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = south_american
+primary_culture = brazillian
+religion = candomble
+clear_scripted_personalities = yes
+capital = 763
+3053.1.1 = {
+	capital = 763
+	add_treasury = 0
+	add_prestige = 4
+}

@@ -1,0 +1,21 @@
+# 173 Labourd - Principal cities: Bayonne (can't change file name)
+
+#owner = ENG
+#controller = ENG
+capital = "Bayonne"
+is_city = no
+culture = basque
+religion = matrem
+hre = no
+base_tax = 3 
+base_production = 3
+trade_goods = wine
+base_manpower = 4
+#add_core= ENG
+#add_core= GUY
+fort_15th = yes
+
+
+
+discovered_by = high_american
+discovered_by = indian

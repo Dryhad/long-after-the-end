@@ -1,0 +1,21 @@
+#105 - Parma
+
+#owner = MLO
+#controller = MLO
+culture = romagnan 
+religion = hellenic_pagan 
+hre = no 
+base_tax = 6 
+base_production = 6 
+trade_goods = grain
+base_manpower = 4 
+capital = "Parma" 
+estate = estate_nobles
+is_city = no	# Estimated 
+#add_core= MLO
+#add_core= PAR
+
+
+
+discovered_by = high_american
+discovered_by = indian

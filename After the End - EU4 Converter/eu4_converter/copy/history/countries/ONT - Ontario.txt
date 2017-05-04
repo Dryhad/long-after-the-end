@@ -1,0 +1,5 @@
+government = feudal_monarchy
+technology_group = eastern
+religion = high_church
+primary_culture = ontarian
+capital = 991	# Ottawa

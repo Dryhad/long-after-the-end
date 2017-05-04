@@ -1,0 +1,6 @@
+# = {
+	#discovered_by = SPA		# Álvaro de Mendaña de Neira
+}
+# = {
+	#discovered_by = GBR		# John Byron, unknown date
+}

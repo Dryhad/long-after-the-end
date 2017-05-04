@@ -1,0 +1,37 @@
+# 2151 - Poyang
+
+#owner = MNG
+#controller = MNG
+#add_core= MNG
+culture = gan
+religion = confucianism
+capital = "Poyang"
+trade_goods = chinaware
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = no
+#add_core= NNG
+
+
+
+discovered_by = chinese
+#discovered_by = nomad_group
+
+# = { discovered_by = SPA }
+
+# = { #controller = MCH }
+# = { #controller = QNG }
+# = {
+	#owner = QNG
+	#add_core= QNG
+}
+# = {
+	#controller = MNG 
+	#owner = MNG
+}
+# = {
+	#owner = QNG
+	#controller = QNG
+}

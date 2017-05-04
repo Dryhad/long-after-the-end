@@ -1,0 +1,20 @@
+#389 - Hadramut
+
+owner = ADE
+controller = ADE
+culture = yemeni_culture
+religion = sunni
+capital = "Al Mukalla"
+trade_goods = sugar
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+add_core = ADE
+
+discovered_by = indian
+discovered_by = indian
+discovered_by = indian
+#discovered_by = nomad_group
+discovered_by = east_african

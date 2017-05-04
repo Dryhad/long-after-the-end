@@ -1,0 +1,20 @@
+# - Cosenza
+
+#owner = NAP
+#controller = NAP
+culture = neapolitan 
+religion = hellenic_pagan 
+hre = no 
+base_tax = 2
+base_production = 2
+trade_goods = wine
+base_manpower = 1
+capital = "Cosenza"
+is_city = no 
+#add_core= NAP
+
+
+
+discovered_by = high_american
+discovered_by = indian
+

@@ -1,0 +1,42 @@
+#42 - Warmia
+
+#owner = TEU
+#controller = TEU
+capital = "Allenstein"
+culture = prussian
+religion = catholic
+trade_goods = naval_supplies
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = no
+#add_core= TEU
+estate = estate_church
+
+
+
+discovered_by = high_american
+discovered_by = high_american
+discovered_by = indian
+discovered_by = indian
+
+
+# = { #add_core= POL } # Beginning of the "thirteen years war"
+# = {
+	#owner = POL
+	#controller = POL
+	remove_core = TEU
+	#add_core= PRU
+} # "Peace of Torun"
+# = {
+	#owner = PLC
+	#controller = PLC
+	remove_core = POL
+	#add_core= PLC
+} # Union of Lublin
+# = { revolt = { type = revolutionary_rebels size = 0 } #controller = REB } # Civil war, Polish succession
+# = { revolt = {} #controller = PLC } # Coronation of Sigismund III
+# = { #controller = SWE } # The Deluge, sacked
+# = { #controller = PLC }
+# = { #owner = PRU #controller = PRU religion = protestant } # First partition of Poland

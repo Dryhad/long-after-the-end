@@ -1,0 +1,8 @@
+centrolatino = {
+	chapin = {
+		dynasty_names = $chapin$
+	}
+	istmeno = {
+		dynasty_names = $istmeno$
+	}
+}

@@ -1,0 +1,33 @@
+#2685 - Gayo
+
+#owner = PSA
+#controller = PSA
+culture = sumatran
+religion = sunni
+capital = "Gayo"
+trade_goods = tropical_wood
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 1
+is_city = no
+#add_core= PSA
+
+
+
+discovered_by = chinese
+discovered_by = indian
+discovered_by = indian
+discovered_by = indian
+
+# = { discovered_by = MNG }
+
+# = { #add_core= ATJ }
+# = { discovered_by = POR }
+# = {
+	#owner = ATJ
+	#controller = ATJ
+	remove_core = PSA
+}
+# = { #owner = NED #controller = NED } # The Dutch gradually gained control
+# = { #add_core= NED }

@@ -1,0 +1,18 @@
+# 1868 - Augsburg
+owner = BIZ
+controller = BIZ
+add_core= BIZ
+culture = swabian
+religion = matrem
+base_tax = 7 
+base_production = 7
+trade_goods = cloth	#fustians
+base_manpower = 4
+capital = "Augsburg"
+is_city = no
+hre = no
+
+
+
+discovered_by = high_american
+discovered_by = indian

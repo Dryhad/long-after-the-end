@@ -1,0 +1,19 @@
+#64 - Straubing (includes Passau)
+
+owner = BIZ
+controller = BIZ
+add_core= BIZ
+culture = bavarian
+religion = matrem
+base_tax = 5 
+base_production = 5
+trade_goods = grain
+base_manpower = 1
+capital	= "Straubing" 
+is_city = yes
+hre = no
+
+
+
+discovered_by = high_american
+discovered_by = indian

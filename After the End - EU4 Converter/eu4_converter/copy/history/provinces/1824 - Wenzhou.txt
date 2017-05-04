@@ -1,0 +1,29 @@
+#1824 - Wenzhou
+
+#owner = MNG
+#controller = MNG
+#add_core= MNG
+culture = wu
+religion = confucianism
+capital = "Wenzhou"
+trade_goods = chinaware
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = no
+#add_core= WUU
+
+
+discovered_by = chinese
+#discovered_by = nomad_group
+
+
+# = { discovered_by = POR } # Tome Pires
+# = {
+	#owner = QNG
+	#controller = QNG
+	#add_core= QNG
+}
+# = { #controller = MNG }
+# = { #controller = QNG }

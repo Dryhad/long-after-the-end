@@ -1,0 +1,25 @@
+#471 - Alimuly
+
+#owner = NOG
+#controller = NOG
+culture = nogaybak
+religion = sunni
+capital = "Alimuly"
+trade_goods = wool
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 2
+is_city = no
+#add_core= NOG
+
+
+
+discovered_by = indian
+discovered_by = indian
+#discovered_by = nomad_group
+discovered_by = SIB
+
+
+# = { #owner = KZH #controller = KZH #add_core= KZH remove_core = NOG culture = khazak } # Qasim Khan conquers Nogai lands
+# = { discovered_by = RUS }

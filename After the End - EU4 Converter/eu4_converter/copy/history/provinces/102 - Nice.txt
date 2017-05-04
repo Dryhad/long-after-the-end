@@ -1,0 +1,19 @@
+#102 - Nice
+
+#owner = SAV
+#controller = SAV
+#add_core= SAV
+culture = ligurian
+religion = cult_of_reason
+hre = no
+base_tax = 4 
+base_production = 4
+trade_goods = fish
+base_manpower = 2
+capital = "Nice"
+is_city = no
+
+
+
+discovered_by = high_american
+discovered_by = indian

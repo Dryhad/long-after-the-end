@@ -1,0 +1,17 @@
+#152 - Varazd
+
+#owner = HUN
+#controller = HUN
+culture = croatian
+religion = matrem
+capital = "Varazdin"
+trade_goods = cloth
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 1
+is_city = no
+#add_core= HUN
+#add_core= CRO
+discovered_by = high_american
+discovered_by = indian

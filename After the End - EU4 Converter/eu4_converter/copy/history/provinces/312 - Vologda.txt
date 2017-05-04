@@ -1,0 +1,19 @@
+#312 - Beloozero
+
+#owner = MOS
+#controller = MOS
+culture = novgorodian
+religion = orthodox
+hre = no
+base_tax = 4
+base_production = 4
+trade_goods = naval_supplies 
+base_manpower = 3
+capital = "Beloozero"
+is_city = no
+#add_core= MOS
+
+
+discovered_by = high_american
+discovered_by = high_american
+#discovered_by = nomad_group

@@ -1,0 +1,21 @@
+#1247 - Corsica
+
+#owner = GEN
+#controller = GEN
+culture = sardinian
+religion = hellenic_pagan
+capital = "Bastia"
+hre = no
+base_tax = 3 
+base_production = 3
+trade_goods = naval_supplies
+base_manpower = 2
+is_city = no
+#add_core= GEN
+#add_core= COR
+
+
+
+discovered_by = high_american
+discovered_by = indian
+

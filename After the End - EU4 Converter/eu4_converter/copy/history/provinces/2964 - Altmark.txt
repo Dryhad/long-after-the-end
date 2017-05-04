@@ -1,0 +1,22 @@
+#52 - Altmark
+
+#owner = BRA
+#controller = BRA
+#add_core= BRA
+culture = saxon
+religion = catholic
+hre = no
+base_tax = 4
+base_production = 4
+trade_goods = cloth
+base_manpower = 2
+capital = "Stendal"
+estate = estate_burghers #Altmärkische Städtebund
+is_city = no
+
+
+
+discovered_by = high_american
+discovered_by = high_american
+discovered_by = indian
+discovered_by = indian

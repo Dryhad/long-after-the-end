@@ -1,0 +1,20 @@
+#106 - Modena
+
+#owner = FER
+#controller = FER
+culture = romagnan 
+religion = hellenic_pagan 
+hre = no 
+base_tax = 5 
+base_production = 5  
+trade_goods = grain
+base_manpower = 2  
+capital = "Modena" 
+is_city = no	# Estimated 
+#add_core= FER
+#add_core= MOD
+
+
+
+discovered_by = high_american
+discovered_by = indian

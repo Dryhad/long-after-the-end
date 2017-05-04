@@ -1,0 +1,18 @@
+#1148 - Gobir
+
+owner = NGR
+controller = NGR
+add_core = NGR
+culture = nigerian
+is_city = yes
+base_manpower = 3
+religion = ahmadi
+capital = "Birnin Lalle"
+trade_goods = iron
+hre = no
+base_tax = 3 
+base_production = 3
+
+
+
+discovered_by = sub_saharan

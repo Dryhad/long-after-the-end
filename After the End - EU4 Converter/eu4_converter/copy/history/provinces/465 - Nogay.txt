@@ -1,0 +1,21 @@
+#465 - Nogay
+
+#owner = NOG
+#controller = NOG
+culture = nogaybak
+religion = sunni
+capital = "Saraychik"
+trade_goods = salt
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 3
+is_city = no
+#add_core= NOG
+
+
+
+discovered_by = indian
+discovered_by = indian
+discovered_by = high_american
+#discovered_by = nomad_group

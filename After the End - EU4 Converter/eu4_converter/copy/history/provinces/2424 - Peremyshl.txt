@@ -1,0 +1,53 @@
+#2424 - Przemysl
+
+#owner = POL
+#controller = POL
+culture = ruthenian
+religion = orthodox
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = grain
+base_manpower = 1
+capital = "Przemysl"
+is_city = no
+estate = estate_nobles
+#add_core= POL
+#add_core= VOL
+
+
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
+discovered_by = high_american
+discovered_by = high_american
+discovered_by = indian
+discovered_by = indian
+
+# = { unrest = 0 } 
+
+# = {
+	#owner = PLC
+	#controller = PLC
+	remove_core = POL
+	#add_core= PLC
+} # Union of Lublin
+# = { unrest = 6 } # Sigismund II dies
+# = { revolt = { type = revolutionary_rebels size = 0 } #controller = REB } # Civil war
+# = { revolt = {} #controller = PLC unrest = 0 } # Coronation of Sigismund III
+# = { unrest = 5 } # Kosinski uprising
+# = { unrest = 0 }
+# = { unrest = 6 } # Nalewajko uprising
+# = { unrest = 0 } 
+# = { revolt = { type = nationalist_rebels size = 0 } #controller = REB #add_core= ZAZ } # Struggle for liberation, Bogdan Zenon Chmielnicki rebellion
+# = { revolt = {} #controller = PLC remove_core = ZAZ }
+# = { #controller = SWE } # The Deluge
+# = { #controller = PLC }
+# = {
+	#owner = HAB
+	#controller = HAB
+	#add_core= HAB
+	remove_core = PLC
+} # First partition of Poland

@@ -1,0 +1,21 @@
+#376 - Connaught
+
+#owner = CNN
+#controller = CNN
+culture = irish
+religion = catholic
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = fish
+base_manpower = 2
+capital = "Galway"
+is_city = no
+#add_core= CNN
+
+
+
+discovered_by = high_american
+discovered_by = indian
+discovered_by = indian
+discovered_by = high_american

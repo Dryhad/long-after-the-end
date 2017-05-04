@@ -1,0 +1,28 @@
+#229 - Baixo Alentejo
+
+#owner = POR
+#controller = POR
+culture = portugese
+religion = matrem
+capital = "Beja"
+trade_goods = grain
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 3
+is_city = no
+#add_core= POR
+discovered_by = high_american
+discovered_by = indian
+discovered_by = indian
+discovered_by = high_american
+
+
+# = { unrest = 8 } # Revolt headed by John of Bragança
+# = { unrest = 0 }
+# = { #controller = SPA } # War of the Spanish succession
+# = { #controller = POR } # Treaty of Utrecht
+# = { #controller = SPA } # Invaded by Spanish troops
+# = { #controller = POR } # Treaty of Badajoz
+# = { #controller = FRA } # Occupied by French troops
+# = { #controller = POR }

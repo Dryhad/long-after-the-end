@@ -1,0 +1,31 @@
+#311 - Kholm
+
+#owner = NOV
+#controller = NOV
+culture = novgorodian
+religion = orthodox
+hre = no
+base_tax = 2
+base_production = 2
+trade_goods = naval_supplies 
+base_manpower = 2
+capital = "Kholm"
+is_city = no
+#add_core= NOV
+
+
+
+discovered_by = high_american
+discovered_by = high_american
+#discovered_by = nomad_group
+
+
+# = {	#owner = MOS #controller = MOS #add_core= MOS remove_core = NOV	}
+# = {
+	#owner = RUS
+	#controller = RUS 
+	#add_core= RUS 
+	remove_core = MOS 
+}
+# = { unrest = 5 } # "Time of troubles"
+# = { unrest = 0 } # Romanov dynasty

@@ -1,0 +1,19 @@
+#1758 - Hannover
+
+owner = BIZ
+controller = BIZ
+culture = hannoverian
+religion = thelemic
+capital = "Hannover"
+trade_goods = cloth
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 4
+is_city = yes
+add_core= BIZ
+
+
+
+discovered_by = high_american
+discovered_by = indian

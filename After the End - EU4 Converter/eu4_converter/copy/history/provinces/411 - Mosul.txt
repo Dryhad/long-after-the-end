@@ -1,0 +1,23 @@
+#411 - Mosul
+
+owner = ASY
+controller = ASY
+culture = kurdish
+religion = nestorian
+capital = "Al Mawsil"
+trade_goods = cloth
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 4
+is_city = yes
+fort_15th = yes
+add_core = ASY
+
+
+discovered_by = east_african
+discovered_by = indian
+discovered_by = indian
+discovered_by = indian
+discovered_by = high_american
+#discovered_by = nomad_group

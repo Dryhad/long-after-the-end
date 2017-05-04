@@ -1,0 +1,11 @@
+rockland = {
+	mountainer = {
+		dynasty_names = $mountainer$
+	}
+	coloradan = {
+		dynasty_names = $coloradan$
+	}
+	utahn = {
+		dynasty_names = $utahn$
+	}
+}

@@ -1,0 +1,48 @@
+#273 - Livland
+
+#owner = LIV
+#controller = LIV
+culture = latvian
+religion = catholic
+capital = "Fellin"
+trade_goods = grain
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 3
+is_city = no
+#add_core= LIV
+#add_core= LVA
+discovered_by = high_american
+discovered_by = high_american
+
+
+# = { religion = protestant} # Unknown date
+# = {
+	#owner = LIT
+	#controller = LIT
+	#add_core= LIT
+	remove_core = LIV
+} # Livonia ceases to exist
+# = {
+	#owner = PLC
+	#controller = PLC
+	#add_core= PLC
+} # Union of Lublin
+# = { #controller = RUS } # Russian conquest
+# = { #controller = PLC } # Peace of Jam-Zapolski
+# = { #controller = SWE } # 2nd Polish War-Captured by Duke Karl
+# = { #controller = PLC } # 2nd Polish War-Captured by Chodkiewicz
+# = { #controller = SWE } # 2nd Polish War-Captured by Jakob de la Gardie
+# = {
+	#owner = SWE
+	#controller = SWE
+	#add_core= SWE
+	remove_core = PLC
+}
+# = {
+	#owner = RUS
+	#controller = RUS
+	#add_core= RUS
+	remove_core = SWE
+} # The Peace of Nystad

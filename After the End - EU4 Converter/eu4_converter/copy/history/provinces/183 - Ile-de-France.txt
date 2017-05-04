@@ -1,0 +1,21 @@
+# 183 Île-de-France - Principal cities: Paris
+
+owner = FRA
+controller = FRA
+capital = "Paris"
+is_city = yes
+culture = cosmopolitan_french
+religion = cult_of_reason
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = cloth
+base_manpower = 1
+add_core= FRA
+
+
+
+discovered_by = high_american
+discovered_by = indian
+
+fort_15th = yes

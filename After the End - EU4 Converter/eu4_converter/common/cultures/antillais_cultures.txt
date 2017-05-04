@@ -1,0 +1,12 @@
+antillais = {
+	haitian = {
+		primary = HAT
+		dynasty_names = $haitian$
+	}
+	venteux = {
+		dynasty_names = $venteux$
+	}
+	cayennais  = {
+		dynasty_names = $cayennais$
+	}
+}

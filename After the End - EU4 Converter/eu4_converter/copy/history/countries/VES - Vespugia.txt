@@ -1,0 +1,17 @@
+# Vespugia
+government = feudal_monarchy
+government_rank = 2
+technology_group = south_american
+primary_culture = welsh
+religion = candomble # for now
+capital = 780
+
+3050.1.1 = {
+	monarch = {
+		name = "Madog"
+		dynasty = "Branzillo"
+		adm = 3
+		dip = 4
+		mil = 4		
+	}
+}

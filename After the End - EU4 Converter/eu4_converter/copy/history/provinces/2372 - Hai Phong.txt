@@ -1,0 +1,49 @@
+#2372 - Hai Phong
+
+#owner = DAI
+#controller = DAI
+culture = vietnamese
+religion = mahayana
+capital = "Hai Phong"
+trade_goods = naval_supplies
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 3
+is_city = no
+#add_core= DAI
+
+
+
+discovered_by = chinese
+discovered_by = indian
+
+extra_cost = 10
+
+add_permanent_province_modifier = {
+	name = red_river_estuary_modifier
+	duration = -1
+}
+
+# = {
+	#owner = MNG
+	revolt = { type = nationalist_rebels size = 2 }
+	#controller = REB
+	#add_core= MNG
+} # Vietnam is invaded by Chinese troops after the Tran dynasty is overthrowned
+# = {
+	revolt = {}
+	#owner = DAI
+	#controller = DAI
+	remove_core = MNG
+} # The Le Dynasty
+# = { discovered_by = POR }
+# = { unrest = 10 } # Civil War in Dai Viet
+# = { unrest = 0 }
+# = { unrest = 5 } # Peasant revolt
+# = { unrest = 0 }
+# = {
+	#owner = ANN
+	#controller = ANN
+	remove_core = DAI
+} # Nguyen Phuc Anh annexed the Tay Son Dynasty

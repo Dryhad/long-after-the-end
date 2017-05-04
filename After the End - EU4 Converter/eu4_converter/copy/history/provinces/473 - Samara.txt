@@ -1,0 +1,30 @@
+#473 - Samara
+
+#owner = KAZ
+#controller = KAZ
+culture = kazani
+religion = sunni
+capital = "Samara"
+trade_goods = wool
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 1
+is_city = no
+#add_core= KAZ
+
+
+
+discovered_by = high_american
+discovered_by = high_american
+#discovered_by = nomad_group
+discovered_by = indian
+discovered_by = indian
+
+
+#	= { #owner = RUS #controller = RUS #add_core= RUS remove_core = KAZ } # Russian conquest of Kazan
+# = { culture = russian religion = orthodox } # Samara fortress founded
+# = { revolt = { type = anti_tax_rebels size = 2 name = "Stepan Razin" } #controller = REB unrest = 6 } # Razin rebellion
+# = { revolt = { } #controller = RUS unrest = 0 } # Razin captured
+# = { revolt = { type = anti_tax_rebels size = 2 name = "Yemelyan Pugachev" } #controller = REB unrest = 6 } # Pugachev rebellion
+# = { revolt = {} #controller = RUS unrest = 0 } # Pugachev is captured

@@ -1,0 +1,16 @@
+government = feudal_monarchy
+government_rank = 2
+primary_culture = gujarati
+religion = zoroastrian
+technology_group = indian
+capital = 2054	# Ahmadabad
+
+3050.1.1 = {
+	monarch = {
+		name = "Farrokh"
+		dynasty = "Bulsara"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}

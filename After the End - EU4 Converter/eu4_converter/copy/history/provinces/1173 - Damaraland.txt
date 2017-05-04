@@ -1,0 +1,4 @@
+#1173 - Namib Desert / Skeleton Coast
+
+
+discovered_by = central_african

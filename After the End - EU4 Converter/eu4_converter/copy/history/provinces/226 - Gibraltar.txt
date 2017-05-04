@@ -1,0 +1,19 @@
+#226 - Gibraltar
+
+owner = GBR
+controller = GBR
+add_core= GBR
+culture = british
+religion = thelemic
+hre = no
+base_tax = 2 
+base_production = 2
+trade_goods = fish 
+base_manpower = 2
+capital = "Gibraltar" 
+is_city = yes
+
+
+
+discovered_by = high_american
+discovered_by = indian

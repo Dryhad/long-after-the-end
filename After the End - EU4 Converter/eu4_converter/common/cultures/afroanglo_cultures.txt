@@ -1,0 +1,11 @@
+afroanglo = {
+	gullah = {
+		dynasty_names = $gullah$
+	}
+	motowner = {
+		dynasty_names = $motowner$
+	}
+	tuskegean = {
+		dynasty_names = $tuskegean$
+	}
+}

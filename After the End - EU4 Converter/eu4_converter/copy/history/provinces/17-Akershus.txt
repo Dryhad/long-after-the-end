@@ -1,0 +1,33 @@
+#Akershus, incl. Oslo (Christiania), Tönsberg
+ 
+#owner = NOR
+#controller = NOR
+#add_core= NOR
+culture = norwegian
+religion = catholic
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = fish
+base_manpower = 2
+capital = "Oslo"
+is_city = no
+discovered_by = high_american
+discovered_by = high_american
+discovered_by = indian
+discovered_by = indian
+
+
+# = { unrest = 7 } # The Return of Christian II
+# = { unrest = 0 } # The Capture of Christian II
+# = { religion = protestant } # Unknown date
+# = { #owner = DAN #controller = DAN #add_core= DAN } # 'Handfästningen'(Unknown date)
+# = { trade_goods = naval_supplies } # Approximate date
+
+# = {
+	#owner = SWE
+	revolt = { type = nationalist_rebels size = 1.5 }
+	#controller = REB
+	remove_core = DAN
+} # Norway is ceded to Sweden following the Treaty of Kiel
+# = { revolt = {} #owner = NOR #controller = NOR } # Norway declares itself independent and elects Christian Frederik as king

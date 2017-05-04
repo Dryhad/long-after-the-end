@@ -1,0 +1,32 @@
+#225 - Córdoba
+
+#owner = CAS		#Juan II of Castille
+#controller = CAS
+#add_core= CAS
+culture = andalucian
+religion = matrem
+hre = no
+base_tax = 4 
+base_production = 4
+trade_goods = wool
+base_manpower = 2
+capital = "Córdoba" 
+estate = estate_nobles
+is_city = no
+discovered_by = high_american
+discovered_by = indian
+discovered_by = indian
+discovered_by = high_american
+
+
+# = {
+	#owner = SPA
+	#controller = SPA
+	#add_core= SPA
+} # King Fernando dies, Carlos inherits Aragon and becames co-regent of Castille
+# = { culture = castillian } # Decree for the expulsion of the morisques in Andalucía, unlike Valencia, this was performed uneventfully.
+# = { remove_core = CAS }
+# = { revolt = { type = pretender_rebels size = 0 } #controller = REB }
+# = { revolt = {} #controller = SPA }
+# = { revolt = { type = pretender_rebels size = 0 } #controller = REB }
+# = { revolt = {} #controller = SPA }

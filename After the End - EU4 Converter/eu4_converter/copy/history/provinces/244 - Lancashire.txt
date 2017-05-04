@@ -1,0 +1,43 @@
+#244 - Lancashire
+
+#owner = ENG
+#controller = ENG
+culture = english
+religion = catholic
+hre = no
+base_tax = 5 
+base_production = 5
+trade_goods = wool
+base_manpower = 3
+capital = "Chester"
+is_city = no
+#add_core= ENG
+seat_in_parliament = yes
+
+
+
+discovered_by = high_american
+discovered_by = indian
+discovered_by = indian
+discovered_by = high_american
+
+
+# = { unrest = 5 } # Start of the War of the Roses
+# = { unrest = 2 } # Coronation of Edward IV
+# = { unrest = 5 } # Rivalry between Edward IV & Warwick
+# = { unrest = 8 } # Unpopularity of Warwick & War with Burgundy
+# = { unrest = 2 } # Murder of Henry VI & Restoration of Edward IV
+# = { unrest = 8 } # Revulsion at Supposed Murder of the Princes in the Tower
+# = { unrest = 0 } # Battle of Bosworth Field & the End of the War of the Roses
+# = { revolt = { type = revolutionary_rebels size = 1 } #controller = REB }
+# = { revolt = {} #controller = ENG }
+# = { capital = "Liverpool" } # Includes Manchester; Tax Assessor Estimated
+# = {	
+
+	seat_in_parliament = no
+	#owner = GBR
+	#controller = GBR
+	#add_core= GBR
+	remove_core = ENG
+	seat_in_parliament = yes
+}

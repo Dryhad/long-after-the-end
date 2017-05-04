@@ -1,0 +1,16 @@
+#1775 - Holstein
+
+owner = BIZ
+controller = BIZ
+add_core= BIZ
+culture = hannoverian
+religion = thelemic
+hre = no
+base_tax = 4
+base_production = 4
+trade_goods = fish
+base_manpower = 2
+capital = "Kiel"
+is_city = yes
+discovered_by = high_american
+discovered_by = indian

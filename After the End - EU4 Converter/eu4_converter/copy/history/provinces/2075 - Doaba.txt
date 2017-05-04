@@ -1,0 +1,22 @@
+#2075 - Doaba
+
+owner = PUN
+controller = PUN
+culture = panjabi
+religion = sikhism
+capital = "Jalandhar"
+trade_goods = cloth #Calicoes and Carpets
+hre = no
+base_tax = 7 
+base_production = 9
+base_manpower = 3
+is_city = yes
+add_core = PUN
+
+
+
+discovered_by = indian
+#discovered_by = nomad_group
+discovered_by = indian
+discovered_by = indian
+discovered_by = chinese

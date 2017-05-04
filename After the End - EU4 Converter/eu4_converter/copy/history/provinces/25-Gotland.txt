@@ -1,0 +1,36 @@
+#Gotland- Visby etc
+
+#owner = DAN 
+#controller = DAN
+#add_core= GOT
+#add_core= DAN
+#add_core= SWE
+culture = swedish
+religion = catholic
+hre = no
+base_tax = 4 
+base_production = 4
+trade_goods = wool
+base_manpower = 2
+ # Visborg Castle
+capital = "Visby"
+is_city = no
+fort_15th = yes
+estate = estate_burghers
+discovered_by = high_american
+discovered_by = high_american
+discovered_by = indian
+discovered_by = indian
+
+
+# = { revolt = { type = pretender_rebels size = 1 leader = "Eric Gryf" } #controller = REB } # Eric settles at Visborg Castle, living off piracy
+# = { #controller = DAN } # Eric surrenders the Castle to Denmark
+# = { revolt = { type = revolutionary_rebels size = 1 } #controller = REB } # Prelude to 'Grevefejden'(Sören Norrby)
+# = { revolt = {} #controller = DAN } # Recaptured after Sören Norrby left (date unknown)
+# = { religion = protestant} # Unknown date
+# = { #controller = SWE } # Torstenssons War-Captured by Erik Ryning
+# = { #owner = SWE fort_15th = no } # The Peace of Brömsebro
+# = { #owner = DAN #controller = DAN } # 1st Pommeranian War-Captured by Niels Juel
+# = { #owner = SWE #controller = SWE } # The Peace of Fontainbleau
+# = { #controller = RUS } # Conquered by Russian troops
+# = { #controller = SWE } # The Russians are defeated

@@ -1,0 +1,45 @@
+# - Tarnow
+
+#owner = POL
+#controller = POL
+capital = "Tarnow"
+culture = polish
+religion = catholic
+trade_goods = grain
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = no
+estate = estate_nobles
+#add_core= POL
+
+
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
+discovered_by = high_american
+discovered_by = high_american
+discovered_by = indian
+discovered_by = indian
+
+
+# = { religion = reformed }
+# = {
+	#owner = PLC
+	#controller = PLC
+	remove_core = POL
+	#add_core= PLC
+} # Union of Lublin
+# = { }
+# = { revolt = { type = revolutionary_rebels size = 0 } #controller = REB } # Civil war
+# = { revolt = {} #controller = PLC } # Coronation of Sigismund III
+# = { revolt = { type = revolutionary_rebels size = 2 } #controller = REB } # Civil war
+# = { revolt = {} #controller = PLC } # Minor victory of Sigismund
+# = { #controller = SWE } # The Deluge
+# = { #controller = PLC }
+# = { revolt = { type = revolutionary_rebels size = 0 } #controller = REB } # The war of Polish succession
+# = { revolt = {} #controller = PLC }
+# = { #owner = HAB #controller = HAB #add_core= HAB } #First Partition

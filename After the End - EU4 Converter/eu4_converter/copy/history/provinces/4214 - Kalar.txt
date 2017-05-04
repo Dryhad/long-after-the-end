@@ -1,0 +1,15 @@
+#4214 - Kalar
+
+owner = NRU
+controller = NRU
+add_core= NRU
+culture = novorusskiy
+religion = atomicist
+capital = "Kalar"
+trade_goods = fur
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+discovered_by = chinese

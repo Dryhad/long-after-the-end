@@ -1,0 +1,21 @@
+#415 - Sharazor
+
+owner = ASY
+controller = ASY
+culture = kurdish
+religion = nestorian
+capital = "Kirkuk"
+trade_goods = grain
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 3
+is_city = yes
+add_core = ASY
+
+discovered_by = east_african
+discovered_by = indian
+discovered_by = indian
+discovered_by = high_american
+discovered_by = indian
+#discovered_by = nomad_group

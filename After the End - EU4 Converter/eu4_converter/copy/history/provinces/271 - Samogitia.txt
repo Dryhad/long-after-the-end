@@ -1,0 +1,40 @@
+#271 - Samogitia
+
+#owner = LIT
+#controller = LIT
+culture = lithuanian
+religion = cult_of_reason
+capital = "Varniai"
+trade_goods = grain
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 3
+is_city = no
+estate = estate_nobles
+#add_core= LIT
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
+discovered_by = high_american
+discovered_by = high_american
+discovered_by = indian
+discovered_by = indian
+
+
+# = { capital = "Raseiniai" }
+# = {
+	#owner = PLC
+	#controller = PLC
+	#add_core= PLC
+} # Union of Lublin
+# = { #controller = SWE } # Swedish occupation
+# = { #controller = PLC } # Treaty of Altranstadt
+ # Great plague, lost almost two thirds of its population
+# = { unrest = 6 } # Kosciuszko uprising
+# = { unrest = 0 }
+# = { #owner = RUS #controller = RUS #add_core= RUS } # Annexed by Russia, third partition
+# = { #controller = FRA } # Occupied by French troops
+# = { #controller = RUS }

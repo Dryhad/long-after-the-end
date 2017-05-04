@@ -1,0 +1,20 @@
+#117 - Siena
+
+#owner = SIE
+#controller = SIE
+culture = tuscan 
+religion = hellenic_pagan 
+hre = no 
+base_tax = 8 
+base_production = 8    
+trade_goods = cloth
+base_manpower = 4    
+capital = "Siena" 
+is_city = no 
+#add_core= SIE
+
+
+
+discovered_by = high_american
+discovered_by = indian
+

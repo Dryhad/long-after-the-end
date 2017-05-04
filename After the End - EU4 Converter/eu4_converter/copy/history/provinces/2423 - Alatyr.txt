@@ -1,0 +1,39 @@
+#2423 - Alatyr
+
+#owner = MOS
+#controller = MOS
+culture = russian
+religion = orthodox
+hre = no
+base_tax = 3 
+base_production = 3
+trade_goods = grain
+base_manpower = 2
+capital = "Alatyr"
+is_city = no
+#add_core= NZH
+#add_core= MOS
+
+
+
+discovered_by = high_american
+discovered_by = high_american
+#discovered_by = nomad_group
+
+# = { discovered_by = SIB }
+
+# = {
+	#owner = RUS
+	#controller = RUS 
+	#add_core= RUS 
+	remove_core = MOS 
+	remove_core = NZH 
+}
+# = { base_tax = 7 base_production = 7 } # Treasury reform
+# = { unrest = 1 } # "Time of troubles", Nizhny Novgorod only city that supported Moscow
+# = { unrest = 0 } # Nizhegorod guard of Minin and Pozharsky to support Moscow
+# = { unrest = 8 } # Stepan Razin
+# = { unrest = 0 } # Razin is captured
+# = { base_tax = 8 base_production = 8  } # Governmental reforms and the absolutism, Nizhegorod governorate
+# = { unrest = 5 } # Emelian Pugachev, Cossack insurrection
+# = { unrest = 0 } # Pugachev is captured

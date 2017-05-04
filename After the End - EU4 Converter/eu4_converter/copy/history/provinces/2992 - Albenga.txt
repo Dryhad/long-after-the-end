@@ -1,0 +1,20 @@
+# - Albenga
+
+#owner = GEN
+#controller = GEN
+#add_core= GEN
+culture = ligurian
+religion = hellenic_pagan
+hre = no
+base_tax = 6
+base_production = 6
+trade_goods = naval_supplies
+base_manpower = 1
+capital = "Albenga"
+is_city = no # Estimated
+
+
+
+discovered_by = high_american
+discovered_by = indian
+

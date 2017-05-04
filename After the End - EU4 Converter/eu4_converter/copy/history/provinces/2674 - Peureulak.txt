@@ -1,0 +1,32 @@
+#2674 - Peureulak
+
+#owner = PSA
+#controller = PSA
+culture = sumatran
+religion = sunni
+capital = "Peureulak"
+trade_goods = spices
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 3
+is_city = no
+#add_core= PSA
+
+
+
+discovered_by = chinese
+discovered_by = indian
+discovered_by = indian
+discovered_by = indian
+
+# = { discovered_by = MNG }
+
+# = { #add_core= ATJ }
+# = { discovered_by = POR }
+# = {
+	#owner = ATJ
+	#controller = ATJ
+	remove_core = PSA
+}
+

@@ -1,0 +1,25 @@
+#4180 - Hyuga
+
+#owner = ITO
+#controller = ITO
+culture = kyushuan
+religion = shinto
+capital = "Obi"
+trade_goods = grain
+hre = no
+base_tax = 3
+base_manpower = 2
+base_production = 2
+is_city = no
+#add_core= ITO
+#add_core= SMZ
+discovered_by = chinese
+discovered_by = MCH
+discovered_by = KHA
+discovered_by = OIR
+discovered_by = QNG
+
+# = { discovered_by = POR }
+# = { #owner = SMZ #controller = SMZ }
+# = { #owner = ITO #controller = ITO }
+# = { remove_core = SMZ }

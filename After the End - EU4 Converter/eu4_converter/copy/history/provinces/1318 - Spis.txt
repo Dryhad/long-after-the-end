@@ -1,0 +1,49 @@
+#1318 - Spiš
+
+#owner = HUN
+#controller = HUN  
+culture = slovak
+religion = catholic
+capital = "Spiš"
+trade_goods = gold #Schemnitz / Banská Štiavnica
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 2
+is_city = no
+#add_core= HUN
+
+#add_core= SLO
+discovered_by = high_american
+discovered_by = high_american
+discovered_by = indian
+discovered_by = indian
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
+
+
+#  = { unrest = 10 } # The city is attacked by Hussites
+#  = { unrest = 0 }
+#  = { unrest = 10 } # Struggles between the supporters of Ladislaus and Elisabeth of Hungary
+#  = { unrest = 0 }
+#  = { #controller = HAB } # Occupied
+# = { #controller = HUN }
+# = {
+	#owner = HAB
+	#controller = HAB
+	#add_core= HAB
+} #Hungary fractured after Battle of Mohacs
+#  = { religion = protestant } # Synod of Erdod
+#  = { religion = reformed } # Synod of Debrecen
+##   = { remove_core = TRA	} #Treaty of Speyer
+#  = { revolt = { type = nationalist_rebels size = 2 } #controller = REB } # The nobility in Royal Hungary rebelled against Habsburg & Jesuit repression
+#  = { revolt = {} #controller = HAB religion = reformed } # Peace treaty, guaranteed religious toleration
+#  = { revolt = { type = nationalist_rebels size = 2 } #controller = REB } # Bethlen uprisings
+#  = { revolt = {} #controller = HAB   } # The 3rd Peace of Pressburg, puts an end to the Bethlen uprisings
+ # The area was largely depopulated under Ottoman rule, new settlement policy under Habsburg rule
+#  = { revolt = { type = nationalist_rebels size = 2 } #controller = REB } # Kuruc rebellion, lead by Francisc Rakoczy
+#  = { revolt = {} } # Plague
+#  = { #controller = HAB } # The House of Habsburg recognized as the new ruler

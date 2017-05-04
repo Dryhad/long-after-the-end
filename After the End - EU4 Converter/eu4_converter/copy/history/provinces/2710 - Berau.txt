@@ -1,0 +1,25 @@
+#2710 - Berau
+
+#owner = KUT
+#controller = KUT
+culture = bornean
+religion = hinduism
+capital = "Berau"
+trade_goods = fish
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 2
+is_city = no
+#add_core= KUT
+
+
+
+discovered_by = chinese
+discovered_by = indian
+discovered_by = indian
+discovered_by = indian
+
+# = { discovered_by = POR }
+
+# = { religion = sunni }

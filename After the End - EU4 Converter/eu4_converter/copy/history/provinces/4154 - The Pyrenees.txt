@@ -1,0 +1,7 @@
+#Natural borders between france and spain.
+
+
+discovered_by = high_american
+discovered_by = high_american
+discovered_by = indian
+discovered_by = indian

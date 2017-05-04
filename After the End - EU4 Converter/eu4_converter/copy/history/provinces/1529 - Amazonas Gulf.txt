@@ -1,0 +1,8 @@
+
+
+
+
+discovered_by = south_american
+# = { discovered_by = CAS discovered_by = POR }
+# = { discovered_by = SPA }
+

@@ -1,0 +1,31 @@
+#2411 - Mansur
+
+#owner = CRI
+#controller = CRI
+culture = crimean
+religion = sunni
+hre = no
+base_tax = 3 
+base_production = 3
+trade_goods = grain
+base_manpower = 2
+capital = "Mansur"
+is_city = no
+#add_core= CRI
+discovered_by = high_american
+discovered_by = high_american
+discovered_by = indian
+discovered_by = indian
+#discovered_by = nomad_group
+
+# = {
+	#owner = ZAZ 
+	#controller = ZAZ 
+	remove_core = CRI 
+	culture = ruthenian 
+	religion = orthodox 
+} # Fortified military camp, independent state
+# = { #owner = RUS #controller = RUS #add_core= RUS } # Treaty of Constantinople
+# = { #owner = TUR #controller = TUR #add_core= TUR remove_core = RUS } # Treaty of Adrianople
+# = { #controller = RUS } # Taken by the army during the Russo-Turkish War
+# = { #owner = RUS #add_core= RUS remove_core = TUR capital = "Ekaterinoslav" } # Treaty of Belgrad

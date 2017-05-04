@@ -1,0 +1,27 @@
+#474 - Yaik
+
+#owner = NOG
+#controller = NOG
+culture = nogaybak
+religion = sunni
+capital = "Yaik"
+trade_goods = iron
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 2
+is_city = no
+#add_core= NOG
+
+
+
+discovered_by = indian
+discovered_by = indian
+discovered_by = high_american
+#discovered_by = nomad_group
+
+
+# = { #owner = RUS #controller = RUS #add_core= RUS remove_core = NOG culture = russian religion = orthodox capital = "Yaitsky Gorodok" } # Yaik Cossacks settle the area
+# = { revolt = { type = anti_tax_rebels size = 4 leader = "Yemelyan Pugachev" } #controller = REB revolt_risk = 6 } # Pugachev rebellion begins here
+# = { revolt = {} #controller = RUS revolt_risk = 0 capital = "Uralsk" base_tax = 4 
+base_production = 4 base_manpower = 4 } # Pugachev is captured, city renamed

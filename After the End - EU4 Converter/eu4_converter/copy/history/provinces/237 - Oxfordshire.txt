@@ -1,0 +1,45 @@
+#237 - Oxfordshire
+#Includes Bukinghamshire, Berkshire, Bedfordshire, Huntingdonshire, part of Cambridgeshire.
+
+#owner = ENG
+#controller = ENG
+culture = english
+religion = catholic
+hre = no
+base_tax = 6 
+base_production = 5
+trade_goods = grain
+base_manpower = 3
+capital = "Oxford"
+is_city = no # Includes Reading
+#add_core= ENG
+seat_in_parliament = yes
+
+
+
+discovered_by = high_american
+discovered_by = indian
+discovered_by = indian
+discovered_by = high_american
+
+
+# = { unrest = 5 } # Start of the War of the Roses
+# = { unrest = 2 } # Coronation of Edward IV
+# = { unrest = 5 } # Rivalry between Edward IV & Warwick
+# = { unrest = 8 } # Unpopularity of Warwick & War with Burgundy
+# = { unrest = 2 } # Murder of Henry VI & Restoration of Edward IV
+# = { unrest = 8 } # Revulsion at Supposed Murder of the Princes in the Tower
+# = { unrest = 0 } # Battle of Bosworth Field & the End of the War of the Roses
+# = { religion = protestant }
+# = { revolt = { type = revolutionary_rebels size = 0 } #controller = REB }
+# = { revolt = {} #controller = ENG }
+# = {	
+
+
+	seat_in_parliament = yes
+	#owner = GBR
+	#controller = GBR
+	#add_core= GBR
+	remove_core = ENG
+	seat_in_parliament = yes
+}

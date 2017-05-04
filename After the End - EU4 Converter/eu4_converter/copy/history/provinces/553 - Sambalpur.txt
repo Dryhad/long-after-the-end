@@ -1,0 +1,44 @@
+#553 - Sambalpur
+
+#owner = GRJ
+#controller = GRJ
+culture = garjati
+religion = hinduism
+capital = "Sambalpur"
+trade_goods = cotton
+hre = no
+base_tax = 2
+base_production = 1
+base_manpower = 1
+is_city = no
+#add_core= GRJ
+
+
+
+discovered_by = indian
+discovered_by = indian
+discovered_by = indian
+#discovered_by = nomad_group
+discovered_by = chinese
+
+# = { discovered_by = POR }
+
+# = {
+	#owner = NAG
+	#controller = NAG
+	#add_core= NAG
+} # Marathas
+# = {
+	#owner = GBR
+	#controller = GBR
+}
+# = {
+	#owner = NAG
+	#controller = NAG
+} # Restored to Nagpur
+# = {
+	#owner = GBR
+	#controller = GBR
+	#add_core= GBR
+	remove_core = NAG
+}

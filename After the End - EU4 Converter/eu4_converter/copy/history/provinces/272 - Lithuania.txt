@@ -1,0 +1,22 @@
+#272 Lithuania
+
+#owner = LIT
+#controller = LIT
+capital = "Vilna"
+is_city = no
+culture = lithuanian
+religion = catholic
+trade_goods = grain
+hre = no
+base_tax = 6 
+base_production = 6
+base_manpower = 4
+#fort_15th = yes #Vilnius Castle Complex
+#add_core= LIT
+
+
+discovered_by = high_american
+discovered_by = high_american
+discovered_by = indian
+discovered_by = indian
+#discovered_by = nomad_group

@@ -1,0 +1,6 @@
+#Mountains blocking movement in central europe
+
+discovered_by = high_american
+discovered_by = high_american
+discovered_by = indian
+discovered_by = indian

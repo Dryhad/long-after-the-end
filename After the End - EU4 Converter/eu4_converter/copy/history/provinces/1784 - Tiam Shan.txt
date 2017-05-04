@@ -1,0 +1,9 @@
+#1784 - Tian Shan
+
+
+
+
+#discovered_by = nomad_group
+discovered_by = chinese
+
+# = { discovered_by = RUS }

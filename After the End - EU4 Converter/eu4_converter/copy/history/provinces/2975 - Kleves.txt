@@ -1,0 +1,15 @@
+owner = BIZ #In reality Kleves and Berg are not united before 1510.
+controller = BIZ
+add_core= BIZ
+culture = hessian
+religion = thelemic
+trade_goods = cloth
+capital = "Kleves"
+base_tax = 5
+base_production = 5
+base_manpower = 2
+is_city = yes
+discovered_by = high_american
+discovered_by = indian
+
+hre = no

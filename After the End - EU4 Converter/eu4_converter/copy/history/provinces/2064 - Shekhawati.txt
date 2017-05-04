@@ -1,0 +1,47 @@
+#2064 - Shekhawati
+
+#owner = DHU
+#controller = DHU
+culture = rajput
+religion = hinduism
+capital = "Sikar"
+trade_goods = copper
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 1
+is_city = no
+estate = estate_nobles
+#add_core= DHU
+
+
+
+#discovered_by = nomad_group
+discovered_by = indian
+discovered_by = indian 
+discovered_by = indian
+discovered_by = chinese
+
+
+# = {
+	#owner = MUG
+	#controller = MUG
+} # Mughal Conquest
+# = {
+	#owner = DHU
+	#controller = DHU
+} # Independent again after Mughals lose Delhi
+# = {
+	#owner = BNG
+	#controller = BNG
+} # Sur expansion
+# = {
+	#owner = DHU
+	#controller = DHU
+} # Independent again after death of Shere Shah Sur
+
+
+
+# = { discovered_by = ENG }
+# = { discovered_by = GBR }
+

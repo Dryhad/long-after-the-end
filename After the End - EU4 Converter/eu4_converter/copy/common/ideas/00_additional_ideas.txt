@@ -1,0 +1,71 @@
+TXK_ideas = {
+	start = {
+		trade_efficiency = 0.05
+		discipline = 0.05
+	}
+	bonus = {
+		prestige = 1
+	}
+	trigger = {
+		tag = TXK
+	}
+	free = yes
+
+	great_collegium = {
+		global_institution_spread = 0.1
+	}
+	vaquero_supreme_of_the_plains = {
+		cavalry_power = 0.15
+	}
+	holy_scourge = {
+		cb_on_religious_enemies = yes
+	}
+	nomad_overlordship = {
+		manpower_recovery_speed = 0.2
+	}
+	rediscovery = {
+		technology_cost = -0.1
+	}
+	civilizing_the_plains = {
+		war_exhaustion_cost = -0.10
+	}
+	orbis_judicans_conscientiae = {
+		tolerance_own = 2
+		church_power_modifier = 0.10
+	}
+}
+mormon_ideas = {
+	start = {
+		global_missionary_strength = 0.02
+	}
+	bonus = { global_unrest = -1 }
+	trigger = {
+		religion_group = latter_day_saints
+	}
+	free = yes
+
+	two_year_missions = {
+		missionaries = 1
+	}
+	legacy_joseph_smith = {
+		tolerance_own = 3
+	}
+	theodemocracy = {
+		republican_tradition = 0.5
+		devotion = 1
+	}
+	plat_of_zion = {
+		build_cost = -0.1
+	}
+	ward_and_stake = {
+		stability_cost_modifier = -0.10
+	}
+	american_zion = {
+		core_creation = -0.25
+	}
+	mormon_trail = {
+		colonists = 1
+	}
+}
+
+

@@ -1,0 +1,16 @@
+# 4111 - Saintonge and Vendee
+
+owner = MEL
+controller = MEL
+capital = "Saintes"
+is_city = yes
+culture = cosmopolitan_french
+religion = cult_of_reason 
+hre = no
+base_tax = 5 
+base_production = 5
+trade_goods = salt
+base_manpower = 3
+add_core= MEL
+discovered_by = high_american
+discovered_by = indian

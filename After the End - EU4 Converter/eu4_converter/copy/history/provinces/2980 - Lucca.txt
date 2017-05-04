@@ -1,0 +1,19 @@
+# Lucca
+
+#owner = LUC
+#controller = LUC
+#add_core= LUC
+culture = tuscan
+religion = hellenic_pagan
+hre = no
+base_tax = 6
+base_production = 6
+trade_goods = cloth
+base_manpower = 2
+capital = "Lucca"
+is_city = no # Estimated
+
+
+
+discovered_by = high_american
+discovered_by = indian

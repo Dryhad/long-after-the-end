@@ -1,0 +1,19 @@
+# - Esmeraldas
+
+owner = ECU
+controller = ECU
+culture = quiteno
+religion = cult_of_saints
+capital = "Esmeraldas"
+is_city = yes
+trade_goods = fish
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 1
+add_core = ECU
+
+
+
+discovered_by = south_american
+discovered_by = andean

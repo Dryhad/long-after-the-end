@@ -1,0 +1,18 @@
+#Ingermanland, incl. Ivangorod, Jama, and Kopore.
+
+#owner = NOV
+#controller = NOV
+#add_core= NOV
+culture = novgorodian
+religion = finnish_pagan_reformed
+hre = no
+base_tax = 3 
+base_production = 3
+trade_goods = fur
+base_manpower = 1
+capital = "Koporye"
+is_city = no
+
+
+
+discovered_by = high_american

@@ -1,0 +1,20 @@
+#159 - Silistria
+
+#owner = TUR
+#controller = TUR
+culture = bulgarian
+religion = hellenic_pagan
+capital = "Silistra"
+trade_goods = fish
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 4
+is_city = no
+#add_core= TUR
+#add_core= BUL
+
+
+
+discovered_by = high_american
+discovered_by = indian

@@ -1,0 +1,19 @@
+#114 - Romagna
+
+#owner = PAP		#Bologna was independent until 1506, but the rest of Romagna was mainly under Papal control.
+#controller = PAP
+culture = romagnan 
+religion = hellenic_pagan 
+hre = no 
+base_tax = 6 
+base_production = 6    
+trade_goods = salt
+base_manpower = 4    
+capital = "Bologna"
+is_city = no	# Estimated 
+#add_core= PAP
+
+
+
+discovered_by = high_american
+discovered_by = indian

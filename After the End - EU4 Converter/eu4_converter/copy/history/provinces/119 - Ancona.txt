@@ -1,0 +1,21 @@
+#119 - Ancona
+
+#owner = PAP
+#controller = PAP
+culture = umbrian 
+religion = hellenic_pagan 
+hre = no 
+base_tax = 5 
+base_production = 5    
+trade_goods = fish
+base_manpower = 4    
+capital = "Ancona" 
+is_city = no 
+estate = estate_burghers #Or nobles
+#add_core= PAP
+
+
+
+discovered_by = high_american
+discovered_by = indian
+

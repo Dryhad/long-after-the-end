@@ -1,0 +1,19 @@
+#103 - Piedmont
+
+#owner = SAV
+#controller = SAV
+culture = piedmontese
+religion = hellenic_pagan
+hre = no
+base_tax = 7 
+base_production = 7
+trade_goods = wine
+base_manpower = 3
+capital = "Torino"
+is_city = no
+#add_core= SAV
+
+
+
+discovered_by = high_american
+discovered_by = indian

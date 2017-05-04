@@ -1,0 +1,14 @@
+government = feudal_monarchy
+technology_group = chinese
+religion = animism # dreaming
+primary_culture = aboriginal
+capital = 2731
+
+3050.1.1 = {
+	monarch = {
+		name = "Wagwan"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}

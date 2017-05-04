@@ -1,0 +1,11 @@
+#2426 - Yamal
+
+
+
+
+discovered_by = NOV
+
+# = { discovered_by = SIB }
+# = { discovered_by = NOV }
+# = { discovered_by = RUS }
+

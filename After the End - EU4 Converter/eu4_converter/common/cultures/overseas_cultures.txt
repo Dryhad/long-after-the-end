@@ -1,0 +1,47 @@
+#singaporean
+#hawaiian
+malay = {
+	singaporean = {
+		primary = SGP
+		dynasty_names = $singaporean$
+	}
+	hawaiian = { # Could just be polynesian? Or maybe a new group?
+		primary = HWI
+		dynasty_names = $hawaiian$
+	}
+}
+#nigerian
+west_african = {
+	nigerian = {
+		primary = NGR
+		dynasty_names = $nigerian$
+	}
+}
+#edokko
+japanese = {
+	edokko = {
+		primary = JAP
+		dynasty_names = $edokko$
+	}
+}
+#british
+british = {
+	british = {
+		primary = GBR
+		dynasty_names = $british$
+	}
+}
+#brazillian
+iberian = {
+	brazillian = {
+		primary = BRZ
+		dynasty_names = $brazillian$
+	}
+}
+#novorusskiy
+east_slavic = { # Or Tatar?
+	novorusskiy = {
+		primary = NRU
+		dynasty_names = $novorusskiy$
+	}
+}

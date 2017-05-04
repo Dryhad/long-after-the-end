@@ -1,0 +1,33 @@
+#1749 - Cadiz
+
+#owner = CAS		#Enrique III of Castille
+#controller = CAS
+#add_core= CAS
+culture = andalucian
+religion = matrem
+hre = no
+base_tax = 5 
+base_production = 4
+trade_goods = naval_supplies
+base_manpower = 3
+capital = "Cadiz" 
+estate = estate_nobles
+is_city = no
+
+
+
+discovered_by = high_american
+discovered_by = indian
+discovered_by = indian
+discovered_by = high_american
+
+
+# = {
+	#controller = SPA
+	#owner = SPA
+	#add_core= SPA
+} # King Fernando dies, Carlos inherits Aragon and becames co-regent of Castille
+# = { culture = castillian } # Decree for the expulsion of the morisques in Andalucía, unlike Valencia, this was performed uneventfully.
+# = { remove_core = CAS }
+# = { revolt = { type = pretender_rebels size = 0.5 } #controller = REB }
+# = { revolt = {} #controller = SPA }

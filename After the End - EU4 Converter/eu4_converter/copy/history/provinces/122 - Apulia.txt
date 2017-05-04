@@ -1,0 +1,21 @@
+#122 - Apulia
+
+#owner = NAP
+#controller = NAP
+culture = neapolitan 
+religion = hellenic_pagan 
+hre = no 
+base_tax = 3 
+base_production = 3
+trade_goods = wine
+base_manpower = 2
+capital = "Taranto"
+estate = estate_nobles
+is_city = no 
+#add_core= NAP
+
+
+
+discovered_by = high_american
+discovered_by = indian
+

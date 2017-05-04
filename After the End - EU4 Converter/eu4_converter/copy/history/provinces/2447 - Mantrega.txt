@@ -1,0 +1,30 @@
+#2447 - Mantrega
+
+#owner = GEN
+#controller = GEN
+culture = pontic_greek
+religion = orthodox
+hre = no
+base_tax = 2 
+base_production = 2
+trade_goods = grain
+base_manpower = 1
+capital = "Mantrega"
+is_city = no
+#add_core= GEN
+#add_core= CIR
+#add_core= CRI
+
+
+discovered_by = high_american
+discovered_by = high_american
+discovered_by = indian
+discovered_by = indian
+#discovered_by = nomad_group
+
+
+# = { #owner = TUR #controller = TUR #add_core= TUR }
+# = { capital = "Anapa" }
+# = { culture = nogaybak religion = sunni }
+# = { #controller = RUS } # War
+# = { #owner = RUS #controller = RUS #add_core= RUS culture = russian religion = orthodox }

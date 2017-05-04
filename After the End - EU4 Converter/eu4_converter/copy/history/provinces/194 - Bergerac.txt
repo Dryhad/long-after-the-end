@@ -1,0 +1,16 @@
+# 194 Périgord - Principal cities: Bergerac
+
+owner = MEL
+controller = MEL
+capital = "Bergerac"
+is_city = yes
+culture = gascon
+religion = cult_of_reason
+hre = no
+base_tax = 4 
+base_production = 4
+trade_goods = wine
+base_manpower = 4
+add_core= MEL
+discovered_by = high_american
+discovered_by = indian

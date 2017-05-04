@@ -1,0 +1,7 @@
+# Hutt River
+government = feudal_monarchy
+government_rank = 1
+technology_group = chinese
+primary_culture = strayan
+religion = atomicist
+capital = 2726 # Nain

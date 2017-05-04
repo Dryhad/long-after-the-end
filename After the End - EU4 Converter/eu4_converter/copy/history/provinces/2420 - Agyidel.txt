@@ -1,0 +1,36 @@
+#2420 - Agyidel
+
+#owner = NOG
+#controller = NOG
+culture = bashkir
+religion = sunni
+hre = no
+base_tax = 4 
+base_production = 4
+trade_goods = iron
+base_manpower = 3
+capital = "Agyidel"
+is_city = no
+#add_core= NOG
+#add_core= BSH
+
+
+discovered_by = high_american
+discovered_by = indian
+discovered_by = indian
+#discovered_by = nomad_group
+
+
+# = {
+	#owner = KAZ
+	#controller = KAZ 
+	#add_core= KAZ
+	remove_core = NOG 
+} 
+# = {
+	#owner = RUS 
+	#controller = RUS
+	#add_core= RUS
+	remove_core = KAZ 
+} # Russian conquest of Kazan
+# = { culture = russian religion = orthodox capital = "Orenburg" remove_core = BSH }

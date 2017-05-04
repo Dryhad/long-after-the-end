@@ -1,0 +1,43 @@
+#263 - Ratibor
+
+#owner = SIL
+#controller = SIL
+culture = schlesian
+religion = catholic
+hre = no
+base_tax = 3 
+base_production = 3
+capital = "Ratibor"
+is_city = no
+trade_goods = wine
+base_manpower = 2
+#add_core= SIL
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
+discovered_by = high_american
+discovered_by = high_american
+discovered_by = indian
+discovered_by = indian
+
+
+# = { religion = protestant }
+# = { unrest = 5 } # Religious struggles
+# = { unrest = 0 }
+# = {
+	#owner = HAB
+	#controller = HAB
+	#add_core= HAB
+} # Annexed by the Habsburgs, death of the last Piast duke
+# = {
+	base_tax = 4 
+	base_production = 4
+}
+# = { #add_core= PRU } # 1st Silesian war against Austria
+# = { #owner = PRU #controller = PRU } # Peace of Dresden, 2nd Silesian war
+# = { base_tax = 5 
+base_production = 5 base_manpower = 3}
+# = { remove_core = HAB } # End of 3rd Silesian war
+# = { hre = no } # The Holy Roman Empire is dissolved

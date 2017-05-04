@@ -1,0 +1,18 @@
+# - Buzau
+
+#owner = WAL
+#controller = WAL  
+culture = romanian
+religion = hellenic_pagan
+capital = "Buzau"
+trade_goods = grain
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 3
+is_city = no
+#add_core= WAL
+
+
+discovered_by = high_american
+discovered_by = indian

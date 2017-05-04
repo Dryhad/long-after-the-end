@@ -1,0 +1,55 @@
+# - Syracusa
+
+#owner = SIC
+#controller = SIC
+culture = sicilian 
+religion = hellenic_pagan 
+hre = no 
+base_tax = 6
+base_production = 6
+trade_goods = wine
+base_manpower = 4
+capital = "Syracusa"
+is_city = no
+#add_core= SIC
+#add_core= NAP
+
+
+
+discovered_by = high_american
+discovered_by = high_american
+discovered_by = indian
+discovered_by = indian
+
+
+# = {
+	#owner = ARA
+	#controller = ARA
+	#add_core= ARA
+} # Martin I inherits Sicily from his son
+# = {
+	#owner = SPA
+	#controller = SPA
+	#add_core= SPA
+	remove_core = ARA
+} # Unification of Spain
+# = { #controller = SAV }
+# = { #owner = NAP #controller = NAP remove_core = SPA }
+# = {
+	#owner = HAB
+	#controller = HAB
+	#add_core= HAB
+}
+# = {
+	#owner = NAP
+	#controller = NAP
+	remove_core = HAB
+}
+# = {
+	#owner = SIC
+	#controller = SIC
+} # Ferdinand flees to Sicily
+# = {
+	#owner = NAP
+	#controller = NAP
+} # The Kingdom is restored to Ferdinand

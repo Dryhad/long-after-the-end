@@ -1,0 +1,17 @@
+amerodeutsch = {
+	deitsch = {
+		dynasty_names = $deitsch$
+	}
+	rostmann = {
+		dynasty_names = $rostmann$
+	}
+	dellsman = {
+		dynasty_names = $dellsman$
+	}
+	yooper = {
+		dynasty_names = $yooper$
+	}
+	northlander = {
+		dynasty_names = $northlander$
+	}
+}

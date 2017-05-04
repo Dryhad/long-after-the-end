@@ -1,0 +1,27 @@
+#1969 - Syghnak
+
+#owner = SHY
+#controller = SHY
+culture = khazak
+religion = sunni
+capital = "Sozak"
+trade_goods = salt
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+hre = no
+is_city = no
+#add_core= SHY
+#add_core= KZH
+discovered_by = KAS
+discovered_by = indian
+discovered_by = indian
+#discovered_by = nomad_group
+
+
+# = { #owner = KZH #controller = KZH remove_core = SHY } # Kazakhs take over, first capital
+# = { discovered_by = RUS }
+# = { #owner = OIR #controller = OIR } # Dzungarian invasion
+# = { #owner = KZH #controller = KZH }
+# = { #owner = OIR #controller = OIR } # Dzungarian invasion
+# = { #owner = KZH #controller = KZH }

@@ -1,0 +1,27 @@
+#4190 - Shimousa
+
+#owner = CBA
+#controller = CBA
+culture = togoku
+religion = shinto
+capital = "Sakura"
+trade_goods = fish
+hre = no
+base_tax = 2
+base_manpower = 2
+base_production = 1
+is_city = no
+#add_core= CBA
+discovered_by = chinese
+discovered_by = MCH
+discovered_by = KHA
+discovered_by = OIR
+discovered_by = QNG
+discovered_by = ANU
+
+# = { discovered_by = POR }
+# = { #add_core= HJO } # The Hojo expands the territory into Shimousa
+# = { #owner = HJO #controller = HJO #add_core= HJO remove_core = CBA } # The Chiba clan became vassal of the Hojo
+# Battle of Konodai
+# = { remove_core = HJO #add_core= TKG #owner = TKG #controller = TKG }
+# Tokugawa shogunate founded

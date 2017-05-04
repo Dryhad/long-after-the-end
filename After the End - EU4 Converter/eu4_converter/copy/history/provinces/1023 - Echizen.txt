@@ -1,0 +1,35 @@
+#1023 - Echizen
+
+#owner = SBA
+#controller = SBA
+culture = japanese
+religion = shinto
+capital = "Takefu"
+trade_goods = silk
+hre = no
+base_tax = 3
+base_production = 4
+base_manpower = 2
+is_city = no
+#add_core= SBA
+
+
+
+discovered_by = chinese
+discovered_by = MCH
+discovered_by = KHA
+discovered_by = OIR
+discovered_by = QNG
+discovered_by = ANU
+
+
+# = { #add_core= ASA }
+# = { #owner = ASA #controller = ASA }
+# = { capital = "Ichijodani" }
+# = { remove_core = SBA }
+# = { discovered_by = POR }
+# = { #add_core= ODA }
+# = { #owner = ODA #controller = ODA remove_core = ASA }
+# = { capital = "Kitanosho" }
+# = { capital = "Fukui" }
+# = { #add_core= TKG #owner = TKG #controller = TKG remove_core = ODA }

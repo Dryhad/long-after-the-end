@@ -1,0 +1,21 @@
+#51 - Ruppin
+
+#owner = BRA
+#controller = BRA
+#add_core= BRA
+culture = saxon
+religion = catholic
+hre = no
+base_tax = 3 
+base_production = 3
+trade_goods = grain
+base_manpower = 1
+capital = "Neuruppin"
+is_city = no
+
+
+
+discovered_by = high_american
+discovered_by = high_american
+discovered_by = indian
+discovered_by = indian

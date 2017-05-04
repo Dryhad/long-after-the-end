@@ -1,0 +1,21 @@
+#374 - Leinster
+
+#owner = LEI
+#controller = LEI
+culture = irish
+religion = catholic
+hre = no
+base_tax = 4 
+base_production = 4
+trade_goods = fish
+base_manpower = 2
+capital = "Wexford"
+is_city = no
+#add_core= LEI
+
+
+
+discovered_by = high_american
+discovered_by = indian
+discovered_by = indian
+discovered_by = high_american

@@ -1,0 +1,37 @@
+#294 - Tver
+
+#owner = TVE
+#controller = TVE  
+culture = russian
+religion = orthodox
+hre = no
+base_tax = 5
+base_production = 5
+trade_goods = grain  
+base_manpower = 3
+capital = "Tver"
+is_city = no
+#add_core= TVE
+
+
+
+discovered_by = high_american
+discovered_by = high_american
+#discovered_by = nomad_group
+discovered_by = KAZ
+
+# = { discovered_by = SIB }
+
+# = {	#owner = MOS #controller = MOS #add_core= MOS remove_core = TVE } # Muscovite conquest
+# = {
+	#owner = RUS
+	#controller = RUS
+	#add_core= RUS
+	remove_core = MOS
+}
+# = { base_tax = 6 
+base_production = 6 } # Treasury reforms
+# = { unrest = 5 } # "Time of troubles"
+# = { unrest = 0 } # Order returned, Romanov dynasty
+# = { base_tax = 7 base_production = 7 } # Governmental reforms and the absolutism
+# = { base_tax = 8 base_production = 8 } # Legislative reform

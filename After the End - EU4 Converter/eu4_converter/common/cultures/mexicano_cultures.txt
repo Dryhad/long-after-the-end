@@ -1,0 +1,32 @@
+mexicano = {
+	tejano = {
+		dynasty_names = $tejano$
+	}
+	norteno = {
+		dynasty_names = $norteno$
+	}
+	neomexicano = {
+		dynasty_names = $neomexicano$
+	}
+	tapatio = {
+		primary = MEX
+		dynasty_names = $tapatio$
+	}
+	jarocho = {
+		primary = MEX
+		dynasty_names = $jarocho$
+	}
+	sonorense = {
+		dynasty_names = $sonorense$
+	}
+	californio = {
+		dynasty_names = $californio$
+	}
+	chilango = {
+		primary = MEX
+		dynasty_names = $chilango$
+	}
+	chino = {
+		dynasty_names = $chino$
+	}
+}

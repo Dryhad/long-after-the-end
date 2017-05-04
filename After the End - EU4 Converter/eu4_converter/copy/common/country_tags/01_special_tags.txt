@@ -1,0 +1,44 @@
+# Converter
+NRU = countries/NewRussia.txt
+ONT = countries/Ontario.txt
+URS = countries/Ursuline.txt
+CAL = countries/California.txt
+TXK = countries/Texarkana.txt
+
+# South America
+VES = countries/Vespugia.txt
+ECU = countries/Ecuador.txt
+MES = countries/Mesopotamia.txt
+CDB = countries/Cordoba.txt
+
+# Europe
+BIZ = countries/Bizonia.txt
+BWD = countries/BloodWood.txt
+MEL = countries/Malevil.txt
+TIZ = countries/Trizonesia.txt
+
+# Africa
+KIM = countries/Kimberley.txt
+SEF = countries/Setheefrika.txt
+ZUL = countries/KwaZulu.txt
+NGR = countries/Nigeria.txt
+CVD = countries/CapeVerde.txt
+KTG = countries/Katanga.txt
+KRZ = countries/Kurtz.txt
+GQA = countries/Griqualand.txt
+
+# Middle East
+ISR = countries/Israel.txt
+ASY = countries/Assyria.txt
+KUW = countries/Kuwait.txt
+
+# India
+BOL = countries/Bollywood.txt
+
+# Pacific
+AUR = countries/Auralia.txt
+BBQ = countries/BabaKiueria.txt
+HTR = countries/HuttRiver.txt
+HWI = countries/Hawaii.txt
+SGP = countries/Singapore.txt
+UTP = countries/Utopia.txt

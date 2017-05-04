@@ -1,0 +1,34 @@
+#2687 - Pakuan
+
+#owner = SUN
+#controller = SUN
+#add_core= SUN
+culture = javanese
+religion = hinduism
+capital = "Pakuan"
+trade_goods = spices
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = no
+
+
+
+discovered_by = chinese
+discovered_by = indian
+discovered_by = indian
+discovered_by = indian
+
+# = { discovered_by = POR }
+
+# = {
+	#owner = BAN
+	#controller = BAN
+	#add_core= BAN
+	is_city = no
+	remove_core = SUN
+} # Conquered by the Cirebonese Army and Banten Sultanate was established
+# = { religion = sunni }
+# = { discovered_by = ENG } # English settlement
+# = { discovered_by = GBR }

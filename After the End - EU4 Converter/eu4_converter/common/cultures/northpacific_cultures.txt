@@ -1,0 +1,11 @@
+north_pacific = {
+	cascadian = {
+		dynasty_names = $cascadian$
+	}
+	portlander = {
+		dynasty_names = $portlander$
+	}
+	canuck = {
+		dynasty_names = $canuck$
+	}
+}

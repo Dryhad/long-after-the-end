@@ -1,0 +1,18 @@
+# 1769 - Görz
+#owner = HAB
+#controller = HAB
+#add_core= HAB
+culture = austrian
+religion = hellenic_pagan
+base_tax = 5 
+base_production = 5
+trade_goods = iron
+base_manpower = 2
+capital = "Gorizia"
+is_city = no
+hre = no
+
+
+
+discovered_by = high_american
+discovered_by = indian

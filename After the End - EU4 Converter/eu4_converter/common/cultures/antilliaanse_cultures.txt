@@ -1,0 +1,8 @@
+antilliaanse = {
+	papiamen = {
+		dynasty_names = $papiamen$
+	}
+	sranan = {
+		dynasty_names = $sranan$
+	}
+}

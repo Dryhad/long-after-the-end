@@ -1,0 +1,31 @@
+#211 - Pirineo
+
+#owner = ARA		#Alfons V of Aragon
+#controller = ARA
+#add_core= ARA
+culture = aragonese
+religion = matrem
+hre = no
+base_tax = 3 
+base_production = 2
+trade_goods = wool
+base_manpower = 2
+capital = "Huesca" 
+is_city = no
+discovered_by = high_american
+discovered_by = high_american
+discovered_by = indian
+discovered_by = indian
+
+#fort_15th = yes #Castiello de Lobarre
+
+# = {	#controller = SPA
+	#owner = SPA
+	#add_core= SPA
+} # King Fernando dies, Carlos inherits Aragon and becames co-regent of Castille
+# = { fort_16th = yes } #Star Fort of Jaca
+# = { #controller = HAB } # Aragon joins the Austrian side in the War of Spanish Succession
+# = { #controller = SPA } # Aragon surrenders
+# = { remove_core = ARA }
+# = { revolt = { type = pretender_rebels size = 1 } #controller = REB }
+# = { revolt = {} #controller = SPA }

@@ -1,0 +1,16 @@
+#1954 - Torontál
+
+#owner = HUN
+#controller = HUN 
+culture = hungarian
+religion = tengri_pagan_reformed
+capital = "Nagybecskerek"
+trade_goods = grain
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = no
+#add_core= HUN
+discovered_by = high_american
+discovered_by = indian

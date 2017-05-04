@@ -1,0 +1,23 @@
+#2067 - Gorwar
+
+owner = MAW
+controller = MAW
+culture = rajput
+religion = jain
+capital = "Jalor"
+trade_goods = cotton
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 3
+is_city = yes
+estate = estate_nobles
+add_core = MAW
+
+
+
+discovered_by = indian
+#discovered_by = nomad_group
+discovered_by = indian
+discovered_by = indian
+discovered_by = chinese

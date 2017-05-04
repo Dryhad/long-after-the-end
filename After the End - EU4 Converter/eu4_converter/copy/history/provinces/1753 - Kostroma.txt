@@ -1,0 +1,21 @@
+#1753 - Kostroma
+
+#owner = MOS
+#controller = MOS
+culture = russian 
+religion = orthodox
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = cloth
+base_manpower = 3
+capital = "Kostroma"
+is_city = no
+#add_core= MOS
+discovered_by = high_american
+discovered_by = high_american
+#discovered_by = nomad_group
+
+# = { #owner = RUS #controller = RUS #add_core= RUS remove_core = MOS }
+# = { unrest = 5 } # "Time of troubles"
+# = { unrest = 0 } # Pozharsky army moves through Kostroma

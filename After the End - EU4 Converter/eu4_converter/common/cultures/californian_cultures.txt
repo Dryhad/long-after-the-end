@@ -1,0 +1,14 @@
+californian = {
+	angeleno = {
+		dynasty_names = $angeleno$
+	}
+	bayfolk = {
+		dynasty_names = $bayfolk$
+	}
+	valleyan = {
+		dynasty_names = $valleyan$
+	}
+	calaotian = {
+		dynasty_names = $calaotian$
+	}
+}

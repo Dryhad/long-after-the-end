@@ -1,0 +1,27 @@
+#230 - Algarve
+
+#owner = POR
+#controller = POR
+culture = portugese
+religion = matrem
+capital = "Faro"
+trade_goods = fish
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = no 
+#add_core= POR
+
+
+
+discovered_by = high_american
+discovered_by = indian
+discovered_by = indian
+discovered_by = high_american
+
+
+# = { unrest = 8 } # Revolt headed by John of Bragança
+# = { unrest = 0 }
+# = { #controller = FRA } # Occupied by troops led by Manuel Godoy
+# = { #controller = POR } # Revolt in Olhão

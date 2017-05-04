@@ -1,0 +1,34 @@
+#2688 - Cirebon
+
+#owner = SUN
+#controller = SUN
+#add_core= SUN
+culture = javanese
+religion = hinduism
+capital = "Cirebon"
+trade_goods = spices
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 3
+is_city = no
+
+
+
+discovered_by = chinese
+discovered_by = indian
+discovered_by = indian
+discovered_by = indian
+
+
+# = {
+	#owner = CRB
+	#controller = CRB
+	#add_core= CRB
+	remove_core = SUN
+	religion = sunni
+}
+# = { discovered_by = POR }
+# = { discovered_by = NED } # The Dutch arrived
+# = { unrest = 5 } # Rebellion against Mataram rule
+# = { unrest = 0 }

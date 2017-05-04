@@ -1,0 +1,21 @@
+#2332 - Truba
+
+owner = HED
+controller = HED
+culture = bedouin_arabic
+religion = sunni
+capital = "Truba"
+trade_goods = wool
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+add_core = HED
+
+discovered_by = indian
+discovered_by = indian
+discovered_by = high_american
+discovered_by = indian
+#discovered_by = nomad_group
+discovered_by = east_african

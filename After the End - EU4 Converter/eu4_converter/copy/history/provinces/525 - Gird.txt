@@ -1,0 +1,94 @@
+#525 - Gird
+
+#owner = GWA
+#controller = GWA
+culture = kanauji
+religion = hinduism
+capital = "Gwalior"
+trade_goods = dyes
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = no
+#add_core= GWA
+fort_15th = yes #"Gibraltar of India"
+
+
+
+discovered_by = indian
+discovered_by = indiandiscovered_by = indian
+#discovered_by = nomad_group
+discovered_by = chinese
+
+
+# = { #owner = DLH #controller = DLH } #Conquered by Ibrahim Lodi
+# = {
+	#owner = GWA
+	#controller = GWA
+} # Panipat
+# = {
+	#owner = MUG
+	#controller = MUG
+	#add_core= MUG
+} # Conquered by Mughals
+# = {
+	#owner = GWA
+	#controller = GWA
+} # Sher Shah Conquers Delhi
+# = { 
+	#owner = BNG
+	#controller = BNG
+	#add_core= BNG
+	fort_15th = no
+	fort_16th = yes
+} # Suri Expansion
+# = {
+	#owner = DLH
+	#controller = DLH
+	remove_core = BNG
+} #Death of Islam Shah Sur, Suri empire split
+# = { #controller = MUG }	#Gwalior surrenders after almost a two year seige
+# = { #owner = MUG}
+# = {
+	#controller = REB
+	revolt = {
+		type = pretender_rebels
+		size = 3
+		name = "Khurrams Faction"
+		leader = "Shah Jahan Timurid"
+	}
+} #Should be named Khurram at this point
+# = {
+	revolt = {
+		type = pretender_rebels
+		size = 0
+		name = "Khurrams Faction"
+		leader = "Shah Jahan Timurid"
+	}
+} #Should be named Khurram at this point
+# = { #controller = MUG revolt = { } } #Defeated and flees south to Khandesh
+# = {
+	#controller = REB
+	revolt = {
+		type = pretender_rebels
+		size = 0
+		name = "Aurangzeb's Faction"
+		leader = "Aurangzeb Alamgir Timurid"
+	}
+} # Battle of Dharmat, Murad Bakhsh and Aurangzeb beat Shah Jahans army
+# = {
+	#controller = MUG
+	revolt = { }
+} #Shah Jahan surrenders and becomes the prisoner of his son Aurangzeb
+
+
+
+# = { discovered_by = ENG }
+# = { discovered_by = GBR }
+
+# = {
+	#owner = GWA
+	#controller = GWA
+	remove_core = MUG
+}

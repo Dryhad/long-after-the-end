@@ -1,0 +1,19 @@
+#2417 - Kuma
+
+culture = mongol
+religion = buddhism
+hre = no
+base_tax = 2 
+base_production = 2
+trade_goods = unknown 
+base_manpower = 2
+capital = "Kuma"
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+
+
+
+discovered_by = high_american
+discovered_by = indian
+#discovered_by = nomad_group

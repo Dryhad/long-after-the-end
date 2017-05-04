@@ -1,0 +1,36 @@
+#1970 - Syghnak
+
+#owner = SHY
+#controller = SHY
+culture = khazak
+religion = sunni
+capital = "Syghnak"
+trade_goods = wool
+base_tax = 2 
+base_production = 2
+base_manpower = 2
+hre = no
+is_city = no
+#add_core= KZH
+#add_core= SHY
+
+
+
+discovered_by = KAS
+discovered_by = indian
+discovered_by = indian
+#discovered_by = nomad_group
+
+
+# = { 
+	#owner = BUK
+	#add_core= BUK
+	#controller = BUK
+	remove_core = SHY
+} # The Uzbek Shaybanids brings an end to the Timurid dynasty
+# = { #owner = KZH #controller = KZH remove_core = BUK } # Qasim Khan conquers Syghnak
+# = { discovered_by = RUS }
+# = { #owner = OIR #controller = OIR } # Dzungarian invasion
+# = { #owner = KZH #controller = KZH }
+# = { #owner = OIR #controller = OIR } # Dzungarian invasion
+# = { #owner = KZH #controller = KZH }

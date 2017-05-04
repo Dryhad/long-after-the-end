@@ -1,0 +1,58 @@
+#528 - Hadoti
+
+#owner = HAD
+#controller = HAD
+culture = rajput
+religion = hinduism
+capital = "Kota"
+trade_goods = cotton
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 3
+is_city = no
+#add_core= HAD
+
+
+
+discovered_by = indian
+discovered_by = indian 
+discovered_by = indian
+#discovered_by = nomad_group
+discovered_by = chinese
+
+
+# = { #controller = MLW } # Conquest by Malwa
+# = {
+	#owner = MLW
+	#add_core= MLW
+} # Conquest by Malwa
+# = { discovered_by = POR }
+# = {
+	#owner = HAD
+	#controller = HAD
+	remove_core = MLW
+}
+# = {
+	#owner = BNG
+	#controller = BNG
+	#add_core= BNG
+} # Sur expansion
+
+# = {
+	#owner = HAD
+	#controller = HAD
+	remove_core = BNG
+} # Independent
+# = { discovered_by = ENG }
+# = { discovered_by = GBR }
+# = {
+	#owner = GWA
+	#controller = GWA
+	#add_core= GWA
+}
+# = {
+	#owner = HAD
+	#controller = HAD
+	remove_core = GWA
+} # Independent (british dependency)

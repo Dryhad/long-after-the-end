@@ -1,0 +1,20 @@
+#205 - Savoie
+
+#owner = SAV
+#controller = SAV
+culture = piedmontese
+religion = cult_of_reason
+hre = no
+base_tax = 9
+base_production = 9
+trade_goods = cloth
+base_manpower = 5
+capital = "Chambéry"
+is_city = no	
+#add_core= SAV
+
+
+
+discovered_by = high_american
+discovered_by = indian
+

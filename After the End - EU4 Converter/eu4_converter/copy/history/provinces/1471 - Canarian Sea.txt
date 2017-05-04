@@ -1,0 +1,3 @@
+discovered_by = high_american
+discovered_by = indian
+discovered_by = sub_saharan

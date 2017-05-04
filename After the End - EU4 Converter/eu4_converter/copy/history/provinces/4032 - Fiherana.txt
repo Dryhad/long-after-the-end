@@ -1,0 +1,14 @@
+#4032 - Fiherana
+
+owner = MIR
+controller = MIR
+add_core = MIR
+culture = madagasque
+religion = zanahary
+capital = "Fiherana"
+trade_goods = fish
+hre = no
+base_tax = 2 
+base_production = 1
+base_manpower = 2
+discovered_by = east_african

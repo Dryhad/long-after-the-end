@@ -1,0 +1,17 @@
+#153 - Pest
+
+owner = HUN
+controller = HUN 
+culture = hungarian
+religion = tengri_pagan_reformed # Osmagyar Taltos Church holy site
+capital = "Budapest"
+trade_goods = grain
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 2
+is_city = yes
+add_core= HUN
+
+discovered_by = high_american
+discovered_by = indian

@@ -1,0 +1,34 @@
+# - Sucre
+
+#owner = CRA
+#controller = CRA
+#add_core= CRA
+culture = aimara
+
+
+
+discovered_by = south_american
+discovered_by = andean
+
+religion = inti
+capital = "Sucre"
+trade_goods = cloth
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 1
+is_city = no
+
+# = {
+	#owner = INC
+	#controller = INC
+	#add_core= INC
+}
+# = {	#discovered_by = SPA
+	#owner = SPA
+	#controller = SPA
+	#add_core= SPA
+	culture = castillian
+	religion = catholic
+}# The death of Atahualpa
+# = { revolt = { type = nationalist_rebels size = 0 } #controller = REB } # Bolivian War of Independence

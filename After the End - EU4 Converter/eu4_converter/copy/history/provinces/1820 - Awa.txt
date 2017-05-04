@@ -1,0 +1,29 @@
+#1820 - Awa
+
+#owner = HSK
+#controller = HSK
+culture = japanese
+religion = shinto
+capital = "Tokushima"
+trade_goods = fish
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = no
+#add_core= HSK
+
+
+
+discovered_by = chinese
+discovered_by = MCH
+discovered_by = KHA
+discovered_by = OIR
+discovered_by = QNG
+
+# = { discovered_by = POR }
+
+# = { #add_core= CSK}
+# = { #owner = CSK #controller = CSK remove_core = HSK }
+# = { #owner = ODA #controller = ODA #add_core= ODA remove_core = CSK }
+# = { #owner = TKG #controller = TKG #add_core= TKG remove_core = ODA }

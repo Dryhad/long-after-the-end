@@ -1,0 +1,20 @@
+# - Capitanata
+
+#owner = NAP
+#controller = NAP
+culture = neapolitan 
+religion = hellenic_pagan 
+hre = no 
+base_tax = 4
+base_production = 4
+trade_goods = grain
+base_manpower = 2
+capital = "Foggia"
+is_city = no # Estimated 
+#add_core= NAP
+
+
+
+discovered_by = high_american
+discovered_by = indian
+
