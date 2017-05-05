@@ -1,3 +1,4 @@
+capital = "Thunder Bay"
 culture = piman
 religion = totemism 
 trade_goods = unknown 
