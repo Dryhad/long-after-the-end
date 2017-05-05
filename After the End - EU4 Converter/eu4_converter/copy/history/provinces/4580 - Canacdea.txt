@@ -1,3 +1,4 @@
+capital = "Hornell"
 culture = piman
 religion = totemism 
 trade_goods = unknown 
