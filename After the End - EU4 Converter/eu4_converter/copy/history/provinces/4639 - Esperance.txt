@@ -1,5 +1,9 @@
-culture = aboriginal
-religion = animism 
+owner = AUR
+controller = AUR
+add_core = AUR
+is_city = yes
+culture = strayan
+religion = atomicist 
 trade_goods = unknown 
 hre = no 
 base_tax = 1
