@@ -930,6 +930,15 @@ canada_region = {
 		huronia_area
 		upper_ontario_area
 		greenland_area
+		shield_area
+		talbot_area
+		greater_toronto_area
+		quinte_area
+		stadacona_area
+		restigouche_area
+		upper_acadia_area
+		nova_scotia_area
+		cape_breton_area
 	}
 }
 
