@@ -1,3 +1,4 @@
+capital = "Oshawa" #The Shwaaaaa
 culture = piman
 religion = totemism 
 trade_goods = unknown 

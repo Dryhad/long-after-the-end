@@ -1,3 +1,4 @@
+capital = "Hermann"
 culture = piman
 religion = totemism 
 trade_goods = unknown 

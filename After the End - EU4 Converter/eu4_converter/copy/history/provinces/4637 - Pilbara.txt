@@ -1,4 +1,4 @@
-
+capital = "Karratha"
 owner = HTR
 controller = HTR
 add_core = HTR

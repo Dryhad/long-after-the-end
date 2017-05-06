@@ -1,3 +1,4 @@
+capital = "Belleville"
 culture = piman
 religion = totemism 
 trade_goods = unknown 
