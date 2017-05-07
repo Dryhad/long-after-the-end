@@ -3507,7 +3507,11 @@ inner_australia_area = {
 }
 
 new_south_wales_area = {
-	4630 1088 4629 
+	4630 1088 4629 4724
+}
+
+lingiary_area = {
+	4722 4723 4720 4721
 }
 
 #Carribean

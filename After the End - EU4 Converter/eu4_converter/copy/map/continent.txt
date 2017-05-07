@@ -208,6 +208,9 @@ africa = {
 	2024
 	1649 #Great Lakes Trade Node
 	4167 4168 4169#Atlas Mountains
+	
+	#LAtE Additions
+	4726 4727 4728 4729 4730 4731 4732 4733 4734
 }
 
 north_america = {
@@ -295,6 +298,10 @@ oceania = {
 	2726 2727 2728 2729 2730 2731 2732 2733 2734 2735 2736
 	2737 2738 2739
 	1412 #Australia Tradenode
+	#LAtE Additions
+	4628 4629 4630 4631 4632 4633 4634 4635 4636 4637 4638 4639 4640
+	4720 4721 4723 4724
+
 }
 
 # Used for RNW
