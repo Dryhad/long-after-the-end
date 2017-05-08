@@ -9,6 +9,7 @@ capital = 2054	# Ahmadabad
 	monarch = {
 		name = "Farrokh"
 		dynasty = "Bulsara"
+		birth_date = 3026.9.5
 		adm = 3
 		dip = 4
 		mil = 2
