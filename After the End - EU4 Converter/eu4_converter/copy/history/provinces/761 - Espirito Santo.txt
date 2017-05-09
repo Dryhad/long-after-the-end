@@ -23,7 +23,7 @@ native_hostileness = 3
 	#owner = POR
 	#controller = POR
 	#add_core= POR
-	culture = portugese
-	religion = catholic
+	culture = brazilian
+	religion = candomble
 } # Founded by Vasco Fernandes Coutinho
 # = { capital = "Vitória" }

@@ -19,9 +19,9 @@ native_hostileness = 2
 	#controller = POR
 	#add_core= POR
 	is_city = no
-	culture = portugese
-	religion = catholic
+	culture = brazilian
+	religion = candomble
 	trade_goods = slaves
-} # Portugese settlement
+} # brazilian settlement
 # = { discovered_by = ENG } # Drake
 # = { capital = "São Paulo" } # São Paulo was made the administrative capital

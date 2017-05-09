@@ -19,8 +19,8 @@ native_hostileness = 2
 	#owner = POR
 	#controller = POR
 	#add_core= POR
-	culture = portugese
-	religion = catholic
+	culture = brazilian
+	religion = candomble
 	trade_goods = tropical_wood
 }
 # = { unrest = 3 } # Expulsion of the buccaneers that had taken over the territory
@@ -34,12 +34,12 @@ native_hostileness = 2
 	#add_core= NED
 	culture = dutch
 	religion = reformed
-} # The battleground between the Dutch & the Portugese, under Dutch rule
-# = { unrest = 7 } # Religious confrontations between the Portugese-Brazilian and the Dutch Calvinists
+} # The battleground between the Dutch & the brazilian, under Dutch rule
+# = { unrest = 7 } # Religious confrontations between the brazilian-Brazilian and the Dutch Calvinists
 # = { unrest = 0 } # The dutch are chased out
 # = {
 	#owner = POR
 	#controller = POR
 	remove_core = NED
-	culture = portugese
+	culture = brazilian
 } # The Netherlands formally ceded their Brazilian territories

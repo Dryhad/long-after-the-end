@@ -2,8 +2,8 @@
 
 #owner = ENG
 #controller = ENG
-culture = english
-religion = catholic
+culture = british
+religion = thelemic
 hre = no
 base_tax = 6 
 base_production = 7
@@ -37,7 +37,7 @@ discovered_by = high_american
 # = { unrest = 0 } # Battle of Bosworth Field & the End of the War of the Roses
 # = { religion = protestant  }
 # = { revolt = { type = revolutionary_rebels size = 2 } #controller = REB } # Battle of Marston Moor
-# = { revolt = {} #controller = ENG } # End of First English Civil War
+# = { revolt = {} #controller = ENG } # End of First british Civil War
 # = {	#owner = GBR
 	#controller = GBR
 	#add_core= GBR

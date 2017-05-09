@@ -3,8 +3,8 @@
 
 #owner = ENG
 #controller = ENG
-culture = english
-religion = catholic
+culture = british
+religion = thelemic
 hre = no
 base_tax = 5 
 base_production = 5
@@ -31,10 +31,10 @@ discovered_by = high_american
 # = { unrest = 0 } # Battle of Bosworth Field & the End of the War of the Roses
 # = { religion = protestant } # Gloucester Cathedral, from a Dissolved Benedictine Priory
 # = { base_tax = 7 base_production = 7 }
-# = { revolt = { type = revolutionary_rebels size = 0 } #controller = REB } # Start of First English Civil War
+# = { revolt = { type = revolutionary_rebels size = 0 } #controller = REB } # Start of First british Civil War
 # = { revolt = {} #controller = ENG }
 # = { revolt = { type = revolutionary_rebels size = 0 } #controller = REB } # Surrender of Bristol
-# = { revolt = {} #controller = ENG } # End of First English Civil War
+# = { revolt = {} #controller = ENG } # End of First british Civil War
 # = {
 	#owner = GBR
 	#controller = GBR

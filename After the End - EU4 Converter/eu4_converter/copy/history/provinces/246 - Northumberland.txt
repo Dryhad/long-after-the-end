@@ -3,8 +3,8 @@
 
 #owner = ENG
 #controller = ENG
-culture = english
-religion = catholic
+culture = british
+religion = thelemic
 hre = no
 base_tax = 5
 base_production = 5
@@ -36,7 +36,7 @@ discovered_by = high_american
 # = { #controller = SCO }
 # = { #controller = ENG }
 # = { #controller = SCO }
-# = { #controller = ENG } # End of First English Civil War
+# = { #controller = ENG } # End of First british Civil War
 # = {
 	#owner = GBR
 	#controller = GBR
