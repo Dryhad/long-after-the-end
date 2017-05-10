@@ -3,7 +3,7 @@
 #owner = ULS
 #controller = ULS
 culture = irish
-religion = catholic
+religion = thelemic
 hre = no
 base_tax = 1
 base_production = 1
@@ -23,7 +23,7 @@ discovered_by = high_american
 	#add_core= ENG
 	capital = Belfast
 } # Flight of the Earls
-# = { culture = english religion = protestant } # Jacobean Plantations
+# = { culture = british religion = protestant } # Jacobean Plantations
 # = { unrest = 15 }
 # = { unrest = 0 }
 # = { #add_core= IRE } # Confederation of Kilkenny

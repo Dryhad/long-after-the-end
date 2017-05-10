@@ -1,2 +1,1 @@
-# = { discovered_by = POR }
-# = { discovered_by = GBR }
+discovered_by = chinese

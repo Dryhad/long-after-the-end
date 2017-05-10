@@ -20,8 +20,8 @@ native_hostileness = 3
 	#add_core= POR
 	is_city = no
 	trade_goods = tropical_wood
-	culture = portugese
-	religion = catholic
+	culture = brazilian
+	religion = candomble
 }
 # = { capital = "São Cristóvão" }
 # = {
@@ -35,8 +35,8 @@ native_hostileness = 3
 	#owner = POR
 	#controller = POR
 	remove_core = NED
-	culture = portugese
-	religion = catholic
+	culture = brazilian
+	religion = candomble
 }
 # = { unrest = 4 } # Resistance from Maroon dwellers
 # = { unrest = 0 } # Zumbi, their leader is captured

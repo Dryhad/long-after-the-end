@@ -8,6 +8,7 @@ capital = 174 # Bordeaux
 	monarch = {
 		name = "Emanuel"
 		dynasty = "Comte"
+		birth_date = 3010.1.1 # "Barely in my forties"
 		adm = 4
 		dip = 5
 		mil = 1		

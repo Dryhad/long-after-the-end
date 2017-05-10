@@ -1,3 +1,4 @@
+capital = "Mutitjulu"
 culture = aboriginal
 religion = animism 
 trade_goods = unknown 

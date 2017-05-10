@@ -2,7 +2,7 @@
 
 culture = guarani
 discovered_by = south_american
-religion = animism
+religion = candomble
 capital = "Guayra"
 trade_goods = unknown
 hre = no
@@ -31,5 +31,5 @@ native_hostileness = 5
 	#controller = POR
 	#add_core= POR
 	remove_core = SPA
-	culture = portugese
+	culture = brazilian
 }

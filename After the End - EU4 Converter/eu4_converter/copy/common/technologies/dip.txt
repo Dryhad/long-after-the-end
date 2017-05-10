@@ -9,8 +9,7 @@ ahead_of_time = {
 # Pre-era techs
 technology = {
 	# Tech 0
-	Year = 2959
-
+	year = 2950
 	
 	naval_morale			=	2.0
 	range					=	60
@@ -20,8 +19,7 @@ technology = {
 
 technology = {
 	# Tech 1
-	Year = 2999
-
+	year = 2990
 	
 	merchants = yes
 	trade_range				=	100
@@ -30,8 +28,7 @@ technology = {
 
 technology = {
 	# Tech 2
-	Year = 3029
-
+	year = 3020
 	
 	
 	enable = barque
@@ -45,8 +42,7 @@ technology = {
 
 technology = {
 	# Tech 3
-	Year = 3049
-
+	year = 3040
 
 	naval_morale			=	0.1
 	naval_maintenance		= 	0.1
@@ -61,8 +57,7 @@ technology = {
 
 technology = {
 	# Tech 4
-	Year = 3062
-
+	year = 3053
 		
 	trade_range	= 10
 	marketplace = yes 
@@ -72,8 +67,7 @@ technology = {
 
 technology = {
 	# Tech 5
-	Year = 3075
-
+	year = 3066
 	
 	naval_maintenance		=	0.1	
 	trade_efficiency 		= 	0.05
@@ -82,8 +76,7 @@ technology = {
 
 technology = {
 	# Tech 6
-	Year = 3088
-
+	year = 3079
 	
 	dock = yes	
 	may_steal_maps = yes
@@ -92,8 +85,7 @@ technology = {
 
 technology = {
 	# Tech 7
-	Year = 3101
-
+	year = 3092
 	
 	naval_morale			=	0.3
 	range					= 	115
@@ -102,8 +94,7 @@ technology = {
 
 technology  = {
 	# Tech 8
-	Year = 3114
-
+	year = 3105
 	
 	num_accepted_cultures = 1
 	shipyard = yes
@@ -115,8 +106,7 @@ technology  = {
 
 technology = {
 	# Tech 9
-	Year = 3127
-
+	year = 3118
 	
 	naval_maintenance		= 	0.1
 	range					=	50
@@ -129,8 +119,7 @@ technology = {
 
 technology = {
 	# Tech 10
-	Year = 3140
-
+	year = 3131
 	
 	trade_efficiency		= 	0.05
 	trade_range				=	20
@@ -141,8 +130,7 @@ technology = {
 
 technology = {
 	# Tech 11
-	Year = 3153
-
+	year = 3144
 	
 	range					= 	100
 
@@ -152,8 +140,7 @@ technology = {
 
 technology = {
 	# Tech 12
-	Year = 3166
-
+	year = 3157
 	naval_morale			=	0.4
 	may_slander_merchants = yes
 
@@ -162,8 +149,7 @@ technology = {
 
 technology = {
 	# Tech 13
-	Year = 3179
-
+	year = 3170
 	
 	trade_efficiency 		= 	0.05
 	enable = brig
@@ -172,8 +158,7 @@ technology = {
 
 technology = {
 	# Tech 14
-	Year = 3192
-
+	year = 3183
 	
 	tradecompany = yes
 	num_accepted_cultures = 1
@@ -184,8 +169,7 @@ technology = {
 
 technology = {
 	# Tech 15
-	Year = 3205
-
+	year = 3196
 	
 	naval_maintenance		= 	0.1
 	range					=	50
@@ -199,8 +183,7 @@ technology = {
 
 technology = {
 	# Tech 16
-	Year = 3218
-
+	year = 3209
 	
 	trade_efficiency 		= 	0.05
 	trade_range				=	20
@@ -209,8 +192,7 @@ technology = {
 
 technology = {
 	# Tech 17
-	Year = 3231
-
+	year = 3222
 	
 	trade_range				=	20
 	range					=	50
@@ -224,8 +206,7 @@ technology = {
 
 technology = {
 	# Tech 18
-	year = 3244
-
+	year = 3235
 	
 	enable = galiot
 	naval_morale			=	0.5
@@ -236,8 +217,7 @@ technology = {
 
 technology = {
 	# Tech 19
-	year = 3257
-
+	year = 3248
 	
 	naval_maintenance		= 	0.1	
 	range					=	50
@@ -251,8 +231,7 @@ technology = {
 
 technology = {
 	# Tech 20
-	year = 3270
-
+	year = 3261
 
 	trade_efficiency 		= 	0.05
 	trade_range				=	20
@@ -262,8 +241,7 @@ technology = {
 
 technology = {
 	# Tech 21
-	year = 3283
-
+	year = 3274
 	
 
 	enable = chebeck
@@ -273,8 +251,7 @@ technology = {
 
 technology = {
 	# Tech 22
-	year = 3296
-
+	year = 3287
 	
 	naval_morale			=	0.5
 	naval_maintenance		= 	0.1
@@ -289,8 +266,7 @@ technology = {
 
 technology = {
 	# Tech 23
-	year = 3309
-
+	year = 3300
 	
 	global_colonial_growth  = 	25	
 	range					=	150
@@ -302,8 +278,7 @@ technology = {
 
 technology = {
 	# Tech 24
-	year = 3324
-
+	year = 3315
 	
 	
 	grand_shipyard = yes 
@@ -318,8 +293,7 @@ technology = {
 
 technology = {
 	# Tech 25
-	year = 3339
-
+	year = 3330
 	
 	naval_morale			=	0.5
 	naval_maintenance		= 	0.1
@@ -329,8 +303,7 @@ technology = {
 
 technology = {
 	# Tech 26
-	year = 3354
-
+	year = 3345
 	
 	range					=	200
 	global_colonial_growth  = 	25
@@ -342,8 +315,7 @@ technology = {
 
 technology = {
 	# Tech 27
-	year = 3369
-
+	year = 3360
 	
 	naval_morale			=	0.5
 	naval_maintenance		= 	0.1
@@ -353,8 +325,7 @@ technology = {
 
 technology = {
 	# Tech 28
-	year = 3384
-
+	year = 3375
 	
 	trade_efficiency 		= 	0.05
 	trade_range				=	20
@@ -362,8 +333,7 @@ technology = {
 
 technology = {
 	# Tech 29
-	year = 3399
-
+	year = 3390
 	
 	naval_morale			=	0.5
 	naval_maintenance		= 	0.1
@@ -371,8 +341,7 @@ technology = {
 
 technology = {
 	# Tech 30
-	year = 3414
-
+	year = 3405
 	
 	trade_efficiency 		= 	0.05
 	trade_range				=	20
@@ -381,8 +350,7 @@ technology = {
 
 technology = {
 	# Tech 31
-	year = 3429
-
+	year = 3420
 	
 	naval_morale			=	0.5
 	naval_maintenance		= 	0.1	
@@ -391,8 +359,7 @@ technology = {
 
 technology = {
 	# Tech 32
-	year = 3444
-
+	year = 3435
 	
 	trade_efficiency 		= 	0.05
 	trade_range				=	20

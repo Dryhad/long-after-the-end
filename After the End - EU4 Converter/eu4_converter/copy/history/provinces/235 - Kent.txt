@@ -3,8 +3,8 @@
 
 #owner = ENG
 #controller = ENG
-culture = english
-religion = catholic
+culture = british
+religion = thelemic
 hre = no
 base_tax = 1
 base_production = 1
@@ -36,8 +36,8 @@ discovered_by = high_american
 # = { unrest = 0 } # Battle of Bosworth Field & the End of the War of the Roses
 # = { religion = protestant }
 # = { religion = reformed }
-# = { revolt = { type = revolutionary_rebels size = 0 } #controller = REB } # Start of First English Civil War
-# = { revolt = {} #controller = ENG } # End of First English Civil War
+# = { revolt = { type = revolutionary_rebels size = 0 } #controller = REB } # Start of First british Civil War
+# = { revolt = {} #controller = ENG } # End of First british Civil War
 # = { revolt = { type = revolutionary_rebels size = 0 } #controller = REB }
 # = { revolt = {} #controller = ENG }
 # = {

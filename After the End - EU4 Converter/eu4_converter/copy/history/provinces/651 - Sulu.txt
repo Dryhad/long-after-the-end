@@ -1,9 +1,9 @@
 #651 - Sulu
 
 culture = filipino
-religion = sunni
+religion = cult_of_saints
 capital = "Jolo"
-trade_goods = unknown
+trade_goods = naval_supplies
 hre = no
 base_tax = 4 
 base_production = 4
@@ -16,15 +16,3 @@ native_hostileness = 9
 
 discovered_by = chinese
 discovered_by = indian
-discovered_by = indian
-discovered_by = indian
-
-
-# = {
-	#owner = SUL
-	#controller = SUL
-	#add_core= SUL
-	is_city = no
-	trade_goods = naval_supplies
-} # The Sulu Sultanate
-# = { discovered_by = SPA } # Ferdinand Magellan 

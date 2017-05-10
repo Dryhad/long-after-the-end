@@ -3,8 +3,8 @@
 
 #owner = ENG
 #controller = ENG
-culture = english
-religion = catholic
+culture = british
+religion = thelemic
 hre = no
 base_tax = 1
 base_production = 1

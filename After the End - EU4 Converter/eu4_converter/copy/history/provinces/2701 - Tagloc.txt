@@ -1,7 +1,7 @@
 #2701 - Tagloc
 
 culture = filipino
-religion = animism
+religion = cult_of_saints
 capital = "Tagloc"
 trade_goods = unknown
 hre = no
@@ -15,14 +15,3 @@ native_hostileness = 9
 
 
 discovered_by = chinese
-
-
-# = { religion = sunni }
-# = {
-	#owner = MGD
-	#controller = MGD
-	#add_core= MGD
-	is_city = no
-	trade_goods = naval_supplies
-} # Sultanate of Maguindanao
-# = { discovered_by = SPA } # Ferdinand Magellan

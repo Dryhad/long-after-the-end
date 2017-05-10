@@ -1,3 +1,4 @@
+capital = "Brunswick"
 culture = piman
 religion = totemism 
 trade_goods = unknown 

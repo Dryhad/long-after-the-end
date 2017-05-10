@@ -3,8 +3,8 @@
 
 #owner = ENG
 #controller = ENG
-culture = english
-religion = catholic
+culture = british
+religion = thelemic
 hre = no
 base_tax = 1
 base_production = 1
@@ -50,8 +50,8 @@ add_permanent_province_modifier = {
 # = { base_tax = 1
 base_production = 1}
 # = { fort_15th = no fort_16th = yes }
-# = { revolt = { type = revolutionary_rebels size = 2 leader = "Oliver Cromwell" } #controller = REB } # Start of First English Civil War
-# = { revolt = {} #controller = ENG } # End of First English Civil War
+# = { revolt = { type = revolutionary_rebels size = 2 leader = "Oliver Cromwell" } #controller = REB } # Start of First british Civil War
+# = { revolt = {} #controller = ENG } # End of First british Civil War
 # = { fort_16th = no fort_17th = yes }
 # = {  base_tax = 1
 base_production = 1}

@@ -10,6 +10,7 @@ capital = 280
 		name = "Alachia"
 		dynasty = "Ni'Fairra"
 		female = yes
+		birth_date = 3027.1.1
 		adm = 3
 		dip = 3
 		mil = 3		

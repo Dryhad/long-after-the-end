@@ -1,7 +1,7 @@
 #2697 - Tondo
 
 culture = filipino
-religion = animism
+religion = cult_of_saints
 capital = "Tondo"
 trade_goods = unknown
 hre = no

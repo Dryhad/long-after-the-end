@@ -3,7 +3,7 @@
 #owner = SCO
 #controller = SCO
 culture = highland_scottish #Mix of Highland and Lowland Scotts 
-religion = catholic
+religion = thelemic
 hre = no
 base_tax = 1
 base_production = 1

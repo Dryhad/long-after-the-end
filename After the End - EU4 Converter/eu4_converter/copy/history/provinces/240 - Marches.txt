@@ -3,8 +3,8 @@
 
 #owner = ENG
 #controller = ENG
-culture = english
-religion = catholic
+culture = british
+religion = thelemic
 hre = no
 base_tax = 1
 base_production = 1
@@ -39,7 +39,7 @@ discovered_by = high_american
 base_production = 1
 # = { religion = reformed }
 # = { revolt = { type = revolutionary_rebels size = 0 } #controller = REB }
-# = { revolt = {} #controller = ENG } # End of First English Civil War
+# = { revolt = {} #controller = ENG } # End of First british Civil War
 # = {	#owner = GBR
 	#controller = GBR
 	#add_core= GBR
