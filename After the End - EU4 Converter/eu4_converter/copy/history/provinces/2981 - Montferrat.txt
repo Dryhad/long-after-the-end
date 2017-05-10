@@ -1,19 +1,62 @@
 #2981 - Montferrat
 
-#owner = MFA
-#controller = MFA
+# = MFA
+# = MFA
 culture = piedmontese
-religion = hellenic_pagan
-hre = no
-base_tax = 5
-base_production = 5
-trade_goods = wine
-base_manpower = 2
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
 capital = Montferrat
-is_city = no
-#add_core= MFA
+is_city = yes
+# = MFA
 
 
 
 discovered_by = high_american
 discovered_by = indian
+
+
+
+
+# = { hre = no }
+# = {
+	# = SPA
+	# = SPA
+	# = SPA
+}
+# = { #Granted to Federico II Gonzaga
+	# = MAN
+	# = MAN
+	# = MAN
+	# = SPA
+}
+# = {
+	# = SAV
+	# = SAV
+	# = SAV
+	# = MAN
+}
+# = {
+	# = SIC
+	# = SIC
+	# = SIC
+	# = SAV
+} # Treaty of Utrecht
+# = {
+	# = SPI
+	# = SPI
+	# = SPI
+	# = SIC
+} # Kingdom of Piedmont-Sardinia
+# = { # = FRA } # Occupied by French troops
+# = {	# = FRA
+	# = FRA
+} # Savoie is annexed
+# = {
+	# = SPI
+	# = SPI
+	# = FRA
+} # Napoleon abdicates and Victor Emmanuel is able to return to Turin

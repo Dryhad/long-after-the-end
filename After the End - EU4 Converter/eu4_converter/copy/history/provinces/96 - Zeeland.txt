@@ -8,10 +8,10 @@ capital = "Middelburg"
 culture = dutch
 religion = cult_of_reason
 hre = no
-base_tax = 8 
-base_production = 8
-trade_goods = salt
-base_manpower = 3
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
 
 
 
@@ -25,8 +25,8 @@ discovered_by = indian
 # = { #owner = NED #controller = NED #add_core= NED remove_core = SPA }
 # = { religion = reformed }
 # = { hre = no } # The Peace of Westphalia
-# = { base_tax = 6 
-base_production = 6 } # Protestants expelled from France
+# = { base_tax = 1
+base_production = 1 # Protestants expelled from France
 # = {
 	#owner = FRA
 	#controller = FRA

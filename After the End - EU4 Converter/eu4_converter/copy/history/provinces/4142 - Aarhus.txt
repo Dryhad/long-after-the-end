@@ -6,10 +6,10 @@
 culture = danish
 religion = catholic
 hre = no
-base_tax = 4
-base_production = 4
-trade_goods = naval_supplies
-base_manpower = 3
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
 capital = "Aarhus"
 is_city = no
 estate = estate_burghers

@@ -5,11 +5,11 @@
 culture = hungarian
 religion = finnish_pagan_reformed # Yotengrit, I think
 capital = "Sopron"
-trade_goods = grain
+trade_goods = unknown
 hre = no
-base_tax = 5 
-base_production = 5
-base_manpower = 2
+base_tax = 1
+base_production = 1
+base_manpower = 1
 is_city = no
 estate = estate_church
 #add_core= HUN

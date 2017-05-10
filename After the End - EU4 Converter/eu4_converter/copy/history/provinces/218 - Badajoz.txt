@@ -6,10 +6,10 @@
 culture = castillian
 religion = matrem
 hre = no
-base_tax = 4
-base_production = 4
-trade_goods = wool 
-base_manpower = 4
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
 capital = "Badajoz" 
 estate = estate_nobles
 is_city = no

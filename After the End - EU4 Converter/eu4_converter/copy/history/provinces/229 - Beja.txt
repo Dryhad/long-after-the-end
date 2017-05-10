@@ -5,11 +5,11 @@
 culture = portugese
 religion = matrem
 capital = "Beja"
-trade_goods = grain
+trade_goods = unknown
 hre = no
-base_tax = 3
-base_production = 3
-base_manpower = 3
+base_tax = 1
+base_production = 1
+base_manpower = 1
 is_city = no
 #add_core= POR
 discovered_by = high_american

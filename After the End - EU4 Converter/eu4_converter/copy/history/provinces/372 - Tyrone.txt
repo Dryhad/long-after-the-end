@@ -5,10 +5,10 @@
 culture = irish
 religion = thelemic
 hre = no
-base_tax = 4
-base_production = 4
-trade_goods = wool
-base_manpower = 3
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
 capital = "Dungannon"
 is_city = no
 #add_core= TYR
@@ -33,7 +33,7 @@ discovered_by = high_american
 	#add_core= GBR
 	remove_core = ENG
 }
-# = { trade_goods = cloth } # Formation of Linen Board
+# = { trade_goods = unknownof Linen Board
 # = { capital = "Omagh" }
 # = { unrest = 10 } # Irish rebellion
 # = { unrest = 0 } # The rebels are defeated

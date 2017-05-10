@@ -1,23 +1,25 @@
 #101 - Liguria
 
-#owner = GEN
-#controller = GEN
-#add_core= GEN
+# = GEN
+# = GEN
+# = GEN
 culture = ligurian
-religion = hellenic_pagan
-hre = no
-base_tax = 10 
-base_production = 10
-trade_goods = cloth
-base_manpower = 5
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
 fort_15th = yes
 capital = "Genova"
-is_city = no
+is_city = yes
 
 
 
 discovered_by = high_american
 discovered_by = indian
+
+
 
 extra_cost = 10
 
@@ -25,3 +27,38 @@ add_permanent_province_modifier = {
 	name = center_of_trade_modifier
 	duration = -1
 }
+
+# = { revolt = { type = revolutionary_rebels size = 2 } # = REB }
+# = { revolt = {} # = GEN }
+# = { revolt = { type = revolutionary_rebels size = 2 } # = REB }
+# = { revolt = {} # = GEN }
+# = { revolt = { type = revolutionary_rebels size = 2 } # = REB }
+# = { revolt = {} # = GEN }
+# = { hre = no }
+# = {
+	# = FRA
+	# = FRA
+	# = FRA
+}
+# = { revolt = { type = nationalist_rebels size = 2 } # = REB }
+# = { revolt = {} # = FRA }
+# = { revolt = { type = nationalist_rebels size = 2 } # = REB }
+# = { revolt = {} # = FRA }
+# = { # = GEN # = GEN }
+# = { # = FRA # = FRA }
+# = { # = GEN # = GEN # = FRA } #Andrea Doria
+# = { fort_15th = no fort_16th = yes }
+# = { fort_16th = no fort_17th = yes }
+# = { fort_17th = no fort_18th = yes }
+# = {
+	# = FRA
+	# = FRA
+	# = FRA
+}# Annexed by France
+# = { hre = no } # The Holy Roman Empire is dissolved
+# = {
+	# = SPI
+	# = SPI
+	# = SPI
+	# = FRA
+}# Incorporated into the kingdom of Sardinia

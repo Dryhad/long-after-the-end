@@ -6,10 +6,10 @@
 culture = pommeranian
 religion = catholic
 hre = no
-base_tax = 2
-base_production = 2
-trade_goods = salt
-base_manpower = 2
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
 capital = "Greifswald"
 is_city = no
 
@@ -23,7 +23,7 @@ discovered_by = indian
 
 # = { #add_core= BRA }
 # = { religion = protestant  }
-# = { base_tax = 4 } # Devastating population losses in Thirty Years War
+# = { base_tax = 1 # Devastating population losses in Thirty Years War
 # = {
 	#owner = SWE
 	#controller = SWE

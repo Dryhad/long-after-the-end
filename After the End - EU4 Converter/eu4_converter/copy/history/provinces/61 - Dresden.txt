@@ -5,11 +5,11 @@
 culture = saxon
 religion = catholic
 capital = "Meissen"
-trade_goods = iron
+trade_goods = unknown
 hre = no
-base_tax = 6
-base_production = 6
-base_manpower = 2
+base_tax = 1
+base_production = 1
+base_manpower = 1
 is_city = no
 fort_15th = yes
 #add_core= MEI

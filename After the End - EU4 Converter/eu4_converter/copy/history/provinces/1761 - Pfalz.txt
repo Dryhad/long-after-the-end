@@ -3,11 +3,11 @@
 capital = "Worms"
 culture = hessian
 religion = cult_of_reason
-trade_goods = wine
+trade_goods = unknown
 owner = PAL
-base_tax = 6 
-base_production = 6
-base_manpower = 3
+base_tax = 1
+base_production = 1
+base_manpower = 1
 is_city = yes
 controller = PAL
 add_core= PAL

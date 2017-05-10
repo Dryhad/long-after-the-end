@@ -8,10 +8,10 @@ capital = "'s Hertogenbosch"
 culture = dutch
 religion = cult_of_reason
 hre = no
-base_tax = 7 
-base_production = 7
-trade_goods = cloth
-base_manpower = 4
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
 
 discovered_by = high_american
 discovered_by = high_american
@@ -31,8 +31,8 @@ discovered_by = indian
 # = { capital = "Breda" }
 # = { #controller = FRA } # France blitzes through the Lowlands in the Franco-Dutch War
 # = { #controller = NED } # Peace of Nijmegen (Netherlands-France)
-# = { base_tax = 10 
-base_production = 10 } # Protestants expelled from France
+# = { base_tax = 1
+base_production = 1} # Protestants expelled from France
 # = { #controller = FRA } # French troops storm and take Bergen-op-Zoom
 # = { #controller = NED } # Peace of Aachen
 # = {

@@ -6,9 +6,9 @@
 culture = bai
 religion = buddhism
 capital = "Guangnan"
-trade_goods = copper
+trade_goods = unknown
 hre = no
-base_tax = 1 
+base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = no
@@ -27,7 +27,7 @@ discovered_by = indian
 	#controller = CZH
 	#add_core= CZH
 } # Three Feudatories - Wu Sangui titled as Prince of Pingxi in Yunnan
-# = { trade_goods = iron } # Mining became the main focus during the Qing Dynasty.
+# = { trade_goods = unknownme the main focus during the Qing Dynasty.
 # = {
 	#owner = QNG
 	#controller = QNG

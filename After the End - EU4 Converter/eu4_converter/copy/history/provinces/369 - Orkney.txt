@@ -5,9 +5,9 @@
 culture = norwegian
 religion = thelemic
 hre = no
-base_tax = 1 
+base_tax = 1
 base_production = 1
-trade_goods = fish
+trade_goods = unknown
 base_manpower = 1
 capital = "Kirkwall"
 is_city = no

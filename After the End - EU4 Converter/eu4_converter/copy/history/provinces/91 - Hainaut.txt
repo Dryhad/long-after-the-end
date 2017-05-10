@@ -8,10 +8,10 @@ is_city = no
 culture = wallonian
 religion = cult_of_reason
 hre = no
-base_tax = 6 
-base_production = 6
-trade_goods = cloth
-base_manpower = 3
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
 #add_core= HAI
 discovered_by = high_american
 discovered_by = high_american
@@ -36,7 +36,7 @@ discovered_by = indian
 # = { unrest = 0 } # Union of Arras established
 # = { #controller = FRA } # French troops capture parts of the Southern Lowlands
 # = { #controller = SPA } # Peace of Münster/Westphalia
-# = { trade_goods = iron textile = no } # Focus more and more on iron & coal industry
+# = { trade_goods = unknown# Focus more and more on iron & coal industry
 # = { add_claim = FRA } # Louis XIV's father-in-law, Philip IV of Spain, dies
 # = { #controller = FRA } # Maréchal captures alot of cities in the region for Louis XIV
 # = { #controller = SPA } # Peace of Aachen

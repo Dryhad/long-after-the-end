@@ -1,20 +1,43 @@
 #109 - Mantua
  
-#owner = MAN
-#controller = MAN
-#add_core= MAN
+# = MAN
+# = MAN
+# = MAN
 culture = romagnan 
-religion = hellenic_pagan 
-hre = no 
-base_tax = 9 
-base_production = 9    
-trade_goods = grain
-base_manpower = 4    
+religion = catholic 
+hre = yes 
+base_tax = 1
+base_production = 1  
+trade_goods = unknown
+base_manpower = 1  
 fort_15th = yes
 capital = "Mantova" 
-is_city = no
+is_city = yes
 
 
 
 discovered_by = high_american
 discovered_by = indian
+
+
+
+
+# = { hre = no }
+# = { fort_15th = no fort_16th = yes }
+# = { # = HAB # = HAB # = HAB } # Annexed to Austria
+# = { # = FRA } # Besieged by the French
+# = { # = HAB } # The French are driven off by Austrian and Russian forces
+# = { # = FRA } # Mantua surrenders to the French forces
+# = { # = FRA # = FRA # = HAB } # Treaty of Campo Formio
+# = {
+	# = ITA
+	# = ITA
+	# = ITA
+} # Cisalpine Republic
+# = { hre = no } # The Holy Roman Empire is dissolved
+# = {
+	# = HAB
+	# = HAB
+	# = HAB
+	# = ITA
+} # Treaty of Fontainebleau, Napoleon abdicates unconditionally

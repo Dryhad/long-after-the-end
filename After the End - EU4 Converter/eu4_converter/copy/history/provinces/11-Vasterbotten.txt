@@ -6,9 +6,9 @@
 culture = swedish
 religion = catholic
 hre = no
-base_tax = 1 
+base_tax = 1
 base_production = 1
-trade_goods = fur
+trade_goods = unknown
 base_manpower = 1
 capital = "Umeå"
 is_city = no
@@ -20,6 +20,6 @@ discovered_by = high_american
 
 
 # = { religion = protestant}
-# = { trade_goods = naval_supplies }
+# = { trade_goods = unknown
 # = { #controller = RUS } # Conquered by Barclay de Tolly
 # = { #controller = SWE } # Treaty of Fredrikshamn

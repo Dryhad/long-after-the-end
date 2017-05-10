@@ -1,21 +1,49 @@
 #1875 - Cuneo (can't change filename)
 
-#owner = SAV
-#controller = SAV
+# = SAV
+# = SAV
 culture = piedmontese
-religion = hellenic_pagan
-hre = no
-base_tax = 5 
-base_production = 5
-trade_goods = grain
-base_manpower = 5
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
 fort_15th = yes #Cittadellla of Alessandria
 capital = "Cuneo"
-is_city = no		# Estimated
-#add_core= SAV
+is_city = yes		# Estimated
+# = SAV
 
 
 
 discovered_by = high_american
 discovered_by = indian
 
+
+
+
+# = { hre = no }
+# = { # = FRA # = FRA # = FRA } 
+# = { # = SAV # = SAV # = FRA } 
+# = { fort_15th = no fort_16th = yes }
+# = { fort_16th = no fort_17th = yes }
+# = {
+	# = SIC
+	# = SIC
+	# = SIC
+} # Treaty of Utrecht
+# = { fort_17th = no fort_18th = yes } 
+# = {
+	# = SPI
+	# = SPI
+	# = SPI
+	# = SIC
+} # Kingdom of Piedmont-Sardinia
+# = { # = FRA } # Conquered by the French
+# = { # = FRA # = FRA } # The Republic of Alba
+# = { hre = no } # The Holy Roman Empire is dissolved
+# = {
+	# = SPI
+	# = SPI
+	# = FRA
+} # Napoleon abdicates and Victor Emmanuel is able to return to Turin

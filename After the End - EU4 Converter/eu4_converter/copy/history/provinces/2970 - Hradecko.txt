@@ -6,11 +6,11 @@
 capital = "Hradec Králové"
 culture = czech
 religion = catholic
-trade_goods = grain 
+trade_goods = unknown
 hre = no
-base_tax = 5
-base_production = 5
-base_manpower = 2
+base_tax = 1
+base_production = 1
+base_manpower = 1
 estate = estate_nobles
 is_city = no
 discovered_by = KAZ

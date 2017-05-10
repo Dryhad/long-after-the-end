@@ -7,10 +7,10 @@ is_city = no
 culture = normand
 religion = cult_of_reason
 hre = no
-base_tax = 6 
-base_production = 6
-trade_goods = naval_supplies
-base_manpower = 5
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
 
 
 
@@ -38,4 +38,4 @@ fort_15th = yes
 # = { unrest = 0 }
 # = { fort_16th = no fort_17th = yes }
 # = { fort_17th = no fort_18th = yes }
-# = { base_tax = 5 base_production = 5 } # The Eden Agreement
+# = { base_tax = 1ase_production = 1 # The Eden Agreement

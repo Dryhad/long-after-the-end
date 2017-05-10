@@ -5,11 +5,11 @@
 culture = serbian
 religion = matrem
 capital = "Smederevo"
-trade_goods = grain
+trade_goods = unknown
 hre = no
-base_tax = 4
-base_production = 3
-base_manpower = 3
+base_tax = 1
+base_production = 1
+base_manpower = 1
 is_city = no
 #add_core= SER
 discovered_by = KAZ

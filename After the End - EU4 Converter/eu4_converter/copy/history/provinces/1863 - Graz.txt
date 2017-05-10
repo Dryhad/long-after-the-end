@@ -6,10 +6,10 @@
 #add_core= HAB
 culture = austrian
 religion = celticist
-base_tax = 5 
-base_production = 5
-trade_goods = grain
-base_manpower = 3
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
 capital = "Graz" 
 is_city = no
 hre = no

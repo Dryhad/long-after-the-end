@@ -6,10 +6,10 @@
 culture = basque
 religion = matrem
 hre = no
-base_tax = 3 
-base_production = 2
-trade_goods = iron
-base_manpower = 2 
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
 #fort_15th = yes #Fortifications of Pamplona and Saint-Jean-Pied-de-Port
 capital = "Pamplona" 
 is_city = no

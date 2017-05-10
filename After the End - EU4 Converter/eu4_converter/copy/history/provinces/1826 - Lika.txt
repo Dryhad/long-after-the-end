@@ -1,50 +1,50 @@
 #1826 - Lika
 
-#owner = HUN
-#controller = HUN
+# = HUN
+# = HUN
 culture = croatian
-religion = hellenic_pagan
+religion = catholic
 capital = "Rijeka"
-trade_goods = cloth
+trade_goods = unknown
 hre = no
-base_tax = 5 
-base_production = 5
-base_manpower = 2
-is_city = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
 estate = estate_nobles
-#add_core= HUN
-#add_core= CRO
+# = HUN
+# = CRO
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL
 discovered_by = AST
 discovered_by = QAS
 discovered_by = high_american
-discovered_by = high_american
 discovered_by = indian
-discovered_by = indian
+
+
 
 ## City of Rijeka itself now directly Habsburg
 # = {
-	#owner = HAB
-	#controller = HAB
-	#add_core= HAB
+	# = HAB
+	# = HAB
+	# = HAB
 } # Battle of Mohács, west area under Habsburg rule
-# = { revolt = { type = anti_tax_rebels size = 1 } #controller = REB } # Peasant uprising against Habsburg rule & the feudal system
-# = { revolt = {} #controller = HAB } # Decisively defeated
+# = { revolt = { type = anti_tax_rebels size = 1 } # = REB } # Peasant uprising against Habsburg rule & the feudal system
+# = { revolt = {} # = HAB } # Decisively defeated
 # = { unrest = 5 } # Conspiracy against Habsburg rule uncovered
 # = { unrest = 0 } # Estimated, the conspirators are executed
 # = { unrest = 7 } # Reforms to introduce German as the official language
 # = { unrest = 0 } # Most of the unpopular reforms were cancelled
 # = {
-	#owner = FRA
-	#controller = FRA
-	#add_core= FRA
-	remove_core = HAB
+	# = FRA
+	# = FRA
+	# = FRA
+	# = HAB
 } # Treaty of Pressburg
-# = { #controller = HAB } # Occupied by Austrian forces
+# = { # = HAB } # Occupied by Austrian forces
 # = {
-	#owner = HAB
-	#add_core= HAB
-	remove_core = FRA
+	# = HAB
+	# = HAB
+	# = FRA
 } # Napoleon abdicates

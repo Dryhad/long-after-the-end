@@ -5,10 +5,10 @@
 capital = "Usolye Kamskoye"
 culture = uralic
 religion = finnish_pagan_reformed #Sami Shamanism
-trade_goods = salt # was center of salt mining
+trade_goods = unknown salt mining
 hre = no
-base_tax = 3 
-base_production = 5 #Salt Mines
+base_tax = 1
+base_production = 1Salt Mines
 base_manpower = 1
 is_city = no
 #add_core= PRM

@@ -7,9 +7,9 @@
 culture = norwegian
 religion = catholic
 hre = no
-base_tax = 1 
+base_tax = 1
 base_production = 1
-trade_goods = fish
+trade_goods = unknown
 base_manpower = 1
 capital = "Akureyri"
 add_local_autonomy = 25
@@ -21,4 +21,4 @@ discovered_by = high_american
 
 
 # = { religion = protestant #owner = DAN #controller = DAN #add_core= DAN }
-# = { trade_goods = wool } # Wool becomes more important.
+# = { trade_goods = unknowns more important.

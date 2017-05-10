@@ -5,11 +5,11 @@
 culture = portugese
 religion = matrem
 capital = "Évora"
-trade_goods = wine
+trade_goods = unknown
 hre = no
-base_tax = 3
-base_production = 2
-base_manpower = 2
+base_tax = 1
+base_production = 1
+base_manpower = 1
 is_city = no
 #add_core= POR
 #fort_15th = yes

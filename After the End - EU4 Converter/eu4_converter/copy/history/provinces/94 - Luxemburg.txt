@@ -8,10 +8,10 @@ is_city = no
 culture = wallonian
 religion = cult_of_reason 
 hre = no
-base_tax = 6 
-base_production = 6
-trade_goods = iron
-base_manpower = 2
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
 #add_core= LUX
 fort_15th = yes
 
@@ -42,8 +42,8 @@ discovered_by = indian
 # = { #owner = FRA #controller = FRA } # Louis XIV annexes Luxembourg
 # = { #owner = SPA #controller = SPA } # Peace of Rijswijck
 # = { #owner = HAB #controller = HAB #add_core= HAB remove_core = SPA } # Treaty of Utrecht
-# = { base_tax = 9 
-base_production = 9 } # The General Estates
+# = { base_tax = 1
+base_production = 1 # The General Estates
 # = { #add_core= FRA } # The storming of the Bastille
 # = { #controller = FRA } # Conquered by the French troops under Dumouriez
 # = { #controller = HAB } # Reconquered by Prince Josias of Coburg

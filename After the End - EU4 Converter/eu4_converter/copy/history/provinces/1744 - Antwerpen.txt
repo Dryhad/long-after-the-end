@@ -9,10 +9,10 @@ estate = estate_burghers
 hre = no
 culture = flemish
 religion = cult_of_reason
-base_tax = 8 
-base_production = 8
-trade_goods = cloth
-base_manpower = 3
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
 fort_15th = yes
 
 

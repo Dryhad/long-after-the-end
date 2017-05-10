@@ -5,10 +5,10 @@
 culture = russian
 religion = orthodox
 hre = no
-base_tax = 6
-base_production = 6
-trade_goods = iron  
-base_manpower = 5
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
 capital = "Vladimir"
 is_city = no
 #add_core= MOS
@@ -31,7 +31,7 @@ discovered_by = high_american
 }
 # = { unrest = 5 } # "Time of troubles"
 # = { unrest = 0 } # Order returned, Romanov dynasty
-# = { base_tax = 4 base_production = 4 } # Governmental refoms and the absolutism
-# = { base_tax = 5 base_production = 5 } # Legislative reform
+# = { base_tax = 1ase_production = 1 # Governmental refoms and the absolutism
+# = { base_tax = 1ase_production = 1 # Legislative reform
 # = { unrest = 5 } # Emelian Pugachev, Cossack insurrection
 # = { unrest = 0 } # Pugachev is captured

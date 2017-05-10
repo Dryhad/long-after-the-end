@@ -6,9 +6,9 @@
 culture = manchu
 religion = tengri_pagan_reformed
 capital = "Niuman"
-trade_goods = fur
+trade_goods = unknown
 hre = no
-base_tax = 1 
+base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = no
@@ -32,5 +32,5 @@ discovered_by = chinese
 	#add_core= QNG
 	culture = manchu
 	religion = confucianism
-	trade_goods = fish
+	trade_goods = unknown
 } # Treaty of Nerchinsk

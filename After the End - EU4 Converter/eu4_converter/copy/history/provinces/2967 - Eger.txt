@@ -6,11 +6,11 @@
 capital = "Eger"
 culture = czech
 religion = catholic
-trade_goods = gold #Joachimstal mines
+trade_goods = unknownnes
 hre = no
-base_tax = 4
-base_production = 5
-base_manpower = 2
+base_tax = 1
+base_production = 1
+base_manpower = 1
 is_city = no
 discovered_by = high_american
 discovered_by = high_american

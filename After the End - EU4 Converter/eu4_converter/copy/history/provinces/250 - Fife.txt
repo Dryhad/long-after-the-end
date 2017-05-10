@@ -5,10 +5,10 @@
 culture = scottish
 religion = thelemic
 hre = no
-base_tax = 6
-base_production = 6
-trade_goods = fish
-base_manpower = 7
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
 capital = "Dundee"
 #fort_15th = yes
 is_city = no

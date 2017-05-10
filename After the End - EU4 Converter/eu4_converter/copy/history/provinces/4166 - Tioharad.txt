@@ -1,14 +1,14 @@
 #Western Småland - Tiohärads Lagsaga, ie: Värend, Finnveden och Njudung
 
-#add_core= SWE
-#owner = SWE
-#controller = SWE
+##= SWE
+## = SWE
+## = SWE
 culture = swedish
 religion = catholic
 hre = no
 base_tax = 1
 base_production = 1
-trade_goods = naval_supplies
+trade_goods = unknown
 base_manpower = 1
 capital = "Växjö"
 is_city = no
@@ -17,20 +17,20 @@ discovered_by = high_american
 discovered_by = indian
 discovered_by = indian
 
-# = { #owner = DAN #controller = DAN }
-# = { #owner = SWE #controller = SWE } # date unknown
-# = { revolt = { type = revolutionary_rebels size = 0 } #controller = REB } # The Axelsson Tott Family
-# = { revolt = {} #controller = SWE } # The Demise of the Axelsson Tott Family
-# = { #controller = DAN } # Conquered by King Hans at high summer
-# = { #controller = SWE } # Hans I become King and Sweden a Danish Vassal
-# = { #owner = DAN #controller = DAN } # Danish loyalists at Swedish DoW and breaking of vassalage
-# = { #owner = SWE #controller = SWE } # Retaken by Sweden
-# = { #owner = DAN #controller = DAN } # The Council accept Christian II as King
-# = { #owner = SWE #controller = SWE } # Kalmar falls to Sweden
+# = { ## = DAN ## = DAN }
+# = { ## = SWE ## = SWE } # date unknown
+# = { revolt = { type = revolutionary_rebels size = 0 } ## = REB } # The Axelsson Tott Family
+# = { revolt = {} ## = SWE } # The Demise of the Axelsson Tott Family
+# = { ## = DAN } # Conquered by King Hans at high summer
+# = { ## = SWE } # Hans I become King and Sweden a Danish Vassal
+# = { ## = DAN ## = DAN } # Danish loyalists at Swedish DoW and breaking of vassalage
+# = { ## = SWE ## = SWE } # Retaken by Sweden
+# = { ## = DAN ## = DAN } # The Council accept Christian II as King
+# = { ## = SWE ## = SWE } # Kalmar falls to Sweden
 # = { religion = protestant}
-# = { #controller = PLC } # Sigismund tries to reconquer his crown
-# = { #controller = SWE } # Duke Karl get it back
-# = { #controller = DAN } # The War of Kalmar-Captured by Christian IV
-# = { #controller = SWE }# The Peace of Knäred
-# = { base_manpower = 2 } # Småland did a huge contribution in number of regiments
+# = { ## = PLC } # Sigismund tries to reconquer his crown
+# = { ## = SWE } # Duke Karl get it back
+# = { ## = DAN } # The War of Kalmar-Captured by Christian IV
+# = { ## = SWE }# The Peace of Knäred
+# = { base_manpower = 1# Småland did a huge contribution in number of regiments
 

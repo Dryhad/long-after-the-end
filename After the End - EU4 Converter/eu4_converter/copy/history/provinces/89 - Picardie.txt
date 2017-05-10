@@ -9,10 +9,10 @@ estate = estate_nobles
 culture = cosmopolitan_french
 religion = cult_of_reason
 hre = no
-base_tax = 6 
-base_production = 6
-trade_goods = grain
-base_manpower = 5
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
 #add_core= PIC
 fort_15th = yes
 
@@ -65,6 +65,6 @@ discovered_by = indian
 # = { unrest = 3 }
 # = { unrest = 0 }
 # = {
-	base_tax = 5 
-	base_production = 5
+	base_tax = 1
+	base_production = 1
 } # The Eden Agreement

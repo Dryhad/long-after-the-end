@@ -6,10 +6,10 @@
 culture = norwegian
 religion = catholic
 hre = no
-base_tax = 3
-base_production = 3
-trade_goods = naval_supplies
-base_manpower = 2
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
 capital = "Moss"
 is_city = no
 estate = estate_church

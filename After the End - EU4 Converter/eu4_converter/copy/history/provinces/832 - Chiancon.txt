@@ -1,40 +1,40 @@
 #832 - Tunja
 
-#owner = MCA
-#controller = MCA
+## = MCA
+## = MCA
 culture = muisca
 religion = inti
 capital = "Tunja"
 is_city = no
-trade_goods = salt
+trade_goods = unknown
 hre = no
-base_tax = 5 
-base_production = 5
-base_manpower = 2
-#add_core= MCA
+base_tax = 1
+base_production = 1
+base_manpower = 1
+##= MCA
 
 
 
-discovered_by = western 
-discovered_by = eastern 
-discovered_by = muslim 
-discovered_by = ottoman
+discovered_by = high_american 
+discovered_by = indian 
+ 
+
 discovered_by =  south_american
 discovered_by = MCA
 
 
 # = {
 	#discovered_by = SPA
-	#owner = SPA
-	#controller = SPA
-	#add_core= SPA
+	## = SPA
+	## = SPA
+	##= SPA
 	culture = castillian
 	religion = catholic
-	trade_goods = coffee
+	trade_goods = unknown
 }
 # = {
-	#owner = COL
-	#controller = COL
-	#add_core= COL
+	## = COL
+	## = COL
+	##= COL
 } # Colombia declares independence
-# = { remove_core = SPA } # Colombia's independence is recongnized
+# = { # = SPA } # Colombia's independence is recongnized

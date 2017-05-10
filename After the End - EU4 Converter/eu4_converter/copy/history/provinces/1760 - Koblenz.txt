@@ -2,14 +2,14 @@ owner = BIZ
 controller = BIZ
 culture = hessian
 religion = thelemic
-trade_goods = grain
+trade_goods = unknown
 capital = "Bonn"
-base_tax = 4 
-base_production = 4
+base_tax = 1
+base_production = 1
 is_city = yes
 fort_15th = yes #Eltz & Stolzenfels Castles
 add_core= BIZ
-base_manpower = 2
+base_manpower = 1
 hre = no
 
 

@@ -5,10 +5,10 @@
 culture = irish
 religion = thelemic
 hre = no
-base_tax = 3
-base_production = 3
-trade_goods = grain
-base_manpower = 2
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
 capital = "Carrickfergus"
 is_city = no
 #add_core= ULS
@@ -34,6 +34,6 @@ discovered_by = high_american
 	#add_core= GBR
 	remove_core = ENG
 }
-# = { trade_goods = cloth } # Formation of Linen Board
+# = { trade_goods = unknownof Linen Board
 # = { unrest = 10 } # Irish rebellion
 # = { unrest = 0 } # The rebels are defeated

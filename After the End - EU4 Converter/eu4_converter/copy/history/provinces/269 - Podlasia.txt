@@ -5,10 +5,10 @@
 culture = polish
 religion = catholic
 hre = no
-trade_goods = grain
-base_tax = 5
-base_production = 5
-base_manpower = 3
+trade_goods = unknown
+base_tax = 1
+base_production = 1
+base_manpower = 1
 capital = "Bialystok"
 is_city = no
 #add_core= LIT

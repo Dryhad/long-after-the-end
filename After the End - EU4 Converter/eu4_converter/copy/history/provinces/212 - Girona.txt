@@ -7,10 +7,10 @@
 culture = catalan
 religion = matrem
 hre = no
-base_tax = 3 
-base_production = 3
-trade_goods = fish 
-base_manpower = 3
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
 capital = "Girona" 
 estate = estate_nobles
 is_city = no		# census of 1462, also includes the town of Figueres 

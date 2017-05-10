@@ -6,9 +6,9 @@
 culture = latvian
 religion = catholic
 hre = no
-base_tax = 3
-base_production = 3
-trade_goods = naval_supplies
+base_tax = 1
+base_production = 1
+trade_goods = unknown
 base_manpower = 1
 capital = "Goldingen"
 estate = estate_church #Pilten

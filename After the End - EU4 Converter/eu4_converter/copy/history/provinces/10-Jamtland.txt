@@ -5,9 +5,9 @@
 culture = norwegian # They were actually Jämts - the unique blend of Swedish, Norwegian and local tendencies
 religion = catholic
 hre = no
-base_tax = 1 
+base_tax = 1
 base_production = 1
-trade_goods = fur
+trade_goods = unknown
 base_manpower = 1
 capital = "Frösön"
 add_local_autonomy = 25

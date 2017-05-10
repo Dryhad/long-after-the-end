@@ -8,10 +8,10 @@ estate = estate_burghers
 culture = burgundian
 religion = cult_of_reason
 hre = no
-base_tax = 6 
-base_production = 6
-trade_goods = iron
-base_manpower = 5
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
 #add_core= LOR
 
 
@@ -36,5 +36,5 @@ discovered_by = indian
 # = { unrest = 4 } # An unstable peace is concluded
 # = { unrest = 7 } # Mazarin returns from exile, Condé sides with Spain, situation heats up again
 # = { unrest = 0 } # The King is allowed to enter Paris again, Mazarin leaves France for good. Second Fronde over.
-# = { base_tax = 8 base_production = 8 } # Machault & the 5% tax
+# = { base_tax = 1ase_production = 1 # Machault & the 5% tax
 # = { hre = no } # The Holy Roman Empire is dissolved

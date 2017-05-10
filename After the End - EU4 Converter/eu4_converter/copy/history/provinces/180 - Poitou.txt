@@ -7,10 +7,10 @@ is_city = no
 culture = cosmopolitan_french
 religion = cult_of_reason 
 hre = no
-base_tax = 5
-base_production = 4
-trade_goods = grain
-base_manpower = 4
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
 #add_core= FRA
 fort_15th = yes
 
@@ -49,4 +49,4 @@ discovered_by = indian
 # = { religion = cult_of_reason } # Dragonnard campaign succesful: region reverts back to cult_of_reasonism
 # = { unrest = 0 } # War of the Grand Alliance erupts: Louis XIV can't persue his religious policy anymore
 # = { fort_17th = no fort_18th = yes }
-# = { base_tax = 6 base_production = 6 } # Machault and the 5% tax
+# = { base_tax = 1ase_production = 1 # Machault and the 5% tax

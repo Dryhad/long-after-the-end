@@ -6,11 +6,11 @@
 capital = "Praha"
 culture = czech
 religion = catholic
-trade_goods = cloth 
+trade_goods = unknown
 hre = no
-base_tax = 8 
-base_production = 8
-base_manpower = 5
+base_tax = 1
+base_production = 1
+base_manpower = 1
 is_city = no
 fort_15th = yes
 discovered_by = KAZ
