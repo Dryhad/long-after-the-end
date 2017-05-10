@@ -6,10 +6,10 @@
 culture = swedish
 religion = catholic
 hre = no
-base_tax = 2 
-base_production = 3
-trade_goods = iron
-base_manpower = 2
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
 capital = "Västerås"
 is_city = no
 discovered_by = high_american
@@ -32,5 +32,5 @@ discovered_by = indian
 # # = { #owner = DAN #controller = DAN } # The Council accept Christian II as King
 # # = { #owner = SWE #controller = SWE } # Liberated by Gustav Eriksson Wasa
 # = { religion = protestant}
-# = { base_tax = 4 base_production = 4 } # Iron is king!
+# = { base_tax = 1ase_production = 1 # Iron is king!
 

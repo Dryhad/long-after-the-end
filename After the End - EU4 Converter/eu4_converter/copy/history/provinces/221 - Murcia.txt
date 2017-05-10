@@ -6,10 +6,10 @@
 culture = andalucian
 religion = matrem 
 hre = no
-base_tax = 5 
-base_production = 4 
-trade_goods = grain 
-base_manpower = 5
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
 capital = "Cartagena" 
 estate = estate_burghers
 is_city = no

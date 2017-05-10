@@ -5,9 +5,9 @@
 culture = novgorodian
 religion = orthodox
 hre = no
-base_tax = 2
-base_production = 2
-trade_goods = naval_supplies 
+base_tax = 1
+base_production = 1
+trade_goods = unknown
 base_manpower = 1
 capital = "Bezhetsk"
 is_city = no
@@ -23,5 +23,5 @@ discovered_by = high_american
 	#add_core= RUS 
 	remove_core = MOS
 }
-# = { unrest = 5 base_manpower = 5 } # "Time of troubles", peasantry brought into serfdom
+# = { unrest = 5 base_manpower = 1 # "Time of troubles", peasantry brought into serfdom
 # = { unrest = 0 } # Order returned, Romanov dynasty

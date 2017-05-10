@@ -7,10 +7,10 @@ is_city = no
 culture = breton
 religion = cult_of_reason
 hre = no
-base_tax = 5 
-base_production = 5
-trade_goods = cloth
-base_manpower = 5
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
 estate = estate_church
 #add_core= BRI
 
@@ -32,4 +32,4 @@ discovered_by = indian
 # = { unrest = 3 } 
 # = { unrest = 0 }
 # = { religion = cult_of_reason } # Dragonnard campaign succesful: region reverts back to cult_of_reasonism
-# = { base_tax = 6 base_production = 6 } # The Eden Agreement }
+# = { base_tax = 1ase_production = 1 # The Eden Agreement }

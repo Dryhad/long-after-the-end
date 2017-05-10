@@ -8,10 +8,10 @@ is_city = no
 culture = wallonian
 religion = cult_of_reason
 hre = no
-base_tax = 6 
-base_production = 6
-trade_goods = cloth
-base_manpower = 3
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
 #add_core= PIC
 
 
@@ -42,6 +42,6 @@ discovered_by = indian
 # = { #controller = FRA } # French troops capture most of the area
 # = { #owner = FRA remove_core = SPA } # Peace of the Pyrenees
 # = { culture = cosmopolitan_french }
-# = { base_tax = 10 
-base_production = 10 } # The General Estates
+# = { base_tax = 1
+base_production = 1} # The General Estates
 # = { hre = no } # The Holy Roman Empire is dissolved

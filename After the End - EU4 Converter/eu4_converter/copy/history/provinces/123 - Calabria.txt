@@ -1,20 +1,42 @@
 #123 - Calabria
 
-#owner = NAP
-#controller = NAP
+# = NAP
+# = NAP
 culture = sicilian 
-religion = hellenic_pagan 
+religion = catholic 
 hre = no 
-base_tax = 2 
-base_production = 2
-trade_goods = fish
-base_manpower = 2
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
 capital = "Reggio di Calabria"
-is_city = no 
-#add_core= NAP
+is_city = yes 
+# = NAP
 
 
 
 discovered_by = high_american
 discovered_by = indian
 
+
+
+
+# = { # = FRA } # Angevine claims
+# = { # = FRA } # Charles VIII invades Naples
+# = { # = NAP } # Charles VIII leaves Italy
+# = { # = FRA # = FRA } # France and Aragon partitions Naples
+# = { # = ARA # = ARA # = ARA } # France forced to withdraw
+# = { # = FRA } # Treaty of Lyon
+# = {
+	# = SPA
+	# = SPA
+	# = SPA
+	# = ARA
+} # Unification of Spain
+# = {
+	# = HAB
+	# = HAB
+	# = HAB
+	# = SPA
+}
+# = { # = NAP # = NAP # = HAB }

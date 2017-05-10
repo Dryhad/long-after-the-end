@@ -7,10 +7,10 @@ is_city = no
 culture = dutch
 religion = cult_of_reason
 hre = no
-base_tax = 6 
-base_production = 6
-trade_goods = grain
-base_manpower = 3
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
 #add_core= GEL
 
 
@@ -56,8 +56,8 @@ discovered_by = indian
 # = { hre = no } # The Peace of Westphalia
 # = { #controller = FRA } # France blitzes through the Lowlands in the Franco-Dutch War
 # = { #controller = NED } # Peace of Nijmegen (Netherlands-France)
-# = { base_tax = 9 
-base_production = 9 } # Protestants expelled from France
+# = { base_tax = 1
+base_production = 1 # Protestants expelled from France
 # = {	
 	#owner = FRA
 	#controller = FRA

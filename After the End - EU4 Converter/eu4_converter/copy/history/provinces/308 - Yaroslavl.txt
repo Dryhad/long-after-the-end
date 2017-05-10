@@ -5,10 +5,10 @@
 culture = russian
 religion = orthodox
 hre = no 
-base_tax = 4
-base_production = 4
-trade_goods = grain 
-base_manpower = 4
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
 capital = "Yaroslavl"
 is_city = no
 fort_15th = yes
@@ -26,11 +26,11 @@ discovered_by = high_american
 	#add_core= RUS 
 	remove_core = MOS
 }
-# = { base_tax = 4 base_production = 4 } # Treasury reforms
-# = { unrest = 5 base_manpower = 4 } # "Time of troubles", peasantry brought into serfdom
+# = { base_tax = 1ase_production = 1 # Treasury reforms
+# = { unrest = 5 base_manpower = 1 # "Time of troubles", peasantry brought into serfdom
 # = { unrest = 0 } # Pozharsky forces arrive in the city
 # = { revolt = { type = nationalist_rebels size = 1 leader = "Stenka Razin" } #controller = REB } # Peasant uprising, Stenka Razin
 # = { revolt = {} #controller = RUS } # Crushed by the Tsar's army
  # First large factories appeared in the Yaroslavl region, linen, silk
-# = { base_tax = 5 base_production = 5  } # Governmental reforms and the absolutism
-# = { base_tax = 6 base_production = 6 } # Legislative reforms 
+# = { base_tax = 1ase_production = 1} # Governmental reforms and the absolutism
+# = { base_tax = 1ase_production = 1 # Legislative reforms 

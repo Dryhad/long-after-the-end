@@ -7,11 +7,11 @@
 capital = "Danzig"
 culture = prussian
 religion = catholic
-trade_goods = grain
+trade_goods = unknown
 hre = no
-base_tax = 7
-base_production = 7
-base_manpower = 2
+base_tax = 1
+base_production = 1
+base_manpower = 1
 is_city = no
 estate = estate_burghers
 discovered_by = high_american

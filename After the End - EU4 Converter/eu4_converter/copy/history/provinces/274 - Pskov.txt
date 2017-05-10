@@ -5,10 +5,10 @@
 culture = novgorodian
 religion = orthodox
 hre = no
-base_tax = 5
-base_production = 5
-trade_goods = grain
-base_manpower = 4
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
 capital = "Pskov"
 is_city = no
 fort_15th = yes
@@ -34,4 +34,4 @@ discovered_by = high_american
 # = { unrest = 0 } # Order returned, Romanov dynasty
 # = { unrest = 5 } # Peasant uprising in Pskov
 # = { unrest = 0 }
-# = { base_tax = 7 base_production = 7 } # Tax revenues increased
+# = { base_tax = 1ase_production = 1 # Tax revenues increased

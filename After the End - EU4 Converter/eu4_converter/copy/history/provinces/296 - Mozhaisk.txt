@@ -5,10 +5,10 @@
 culture = russian
 religion = orthodox
 hre = no
-base_tax = 4
-base_production = 4
-trade_goods = grain  
-base_manpower = 3
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
 capital = "Mozhaisk"
 is_city = no
 #add_core= MOS
@@ -24,6 +24,6 @@ discovered_by = KAZ
 # = { #controller = PLC } # Polish-Lithuanian occupation
 # = { #controller = RUS } # Poles driven out
 # = { unrest = 0 } # Order returned, Romanov dynasty
-# = { base_tax = 6 base_production = 6 } # Governmental reforms and the absolutism
-# = { base_tax = 7 base_production = 7 } # Legislative reform
+# = { base_tax = 1ase_production = 1 # Governmental reforms and the absolutism
+# = { base_tax = 1ase_production = 1 # Legislative reform
 

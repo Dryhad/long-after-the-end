@@ -6,11 +6,11 @@
 culture = zhongyuan
 religion = confucianism
 capital = "Nanyang"
-trade_goods = cotton
+trade_goods = unknown
 hre = no
-base_tax = 4 
-base_production = 4
-base_manpower = 2
+base_tax = 1
+base_production = 1
+base_manpower = 1
 is_city = no
 #add_core= TNG
 #add_core= LNG

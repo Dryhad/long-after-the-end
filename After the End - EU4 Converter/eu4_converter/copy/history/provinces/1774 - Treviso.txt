@@ -1,44 +1,44 @@
 #1774 - Treviso
-#owner = VEN
-#controller = VEN
+# = VEN
+# = VEN
 culture = venetian 
-religion = hellenic_pagan 
+religion = catholic 
 hre = no
-base_tax = 7 
-base_production = 7 
-trade_goods = grain
-base_manpower = 4  
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
 capital = "Treviso" 
-is_city = no	# Estimated 
+is_city = yes	# Estimated 
 fort_15th = yes
 
 
 
 discovered_by = high_american
-discovered_by = high_american
-discovered_by = indian
 discovered_by = indian
 
 
-# = { #add_core= VEN }
+
+
+# = { # = VEN }
 # = { fort_15th = no fort_16th = yes }
 # = { fort_16th = no fort_17th = yes }
 # = { fort_17th = no fort_18th = yes } 
 # = {
-	#owner = HAB
-	#controller = HAB
-	#add_core= HAB
+	# = HAB
+	# = HAB
+	# = HAB
 } # Treaty of Campo Formio
 # = {
-	#owner = ITA
-	#controller = ITA
-	#add_core= ITA
-	remove_core = HAB
+	# = ITA
+	# = ITA
+	# = ITA
+	# = HAB
 } # Treaty of Pressburg
 # = { hre = no } # The Holy Roman Empire is dissolved
 # = {
-	#owner = HAB
-	#controller = HAB
-	#add_core= HAB
-	remove_core = ITA
+	# = HAB
+	# = HAB
+	# = HAB
+	# = ITA
 } # Treaty of Fontainebleau, Napoleon abdicates unconditionally

@@ -5,9 +5,9 @@
 culture = mishary
 religion = sunni
 hre = no
-base_tax = 3
-base_production = 3
-trade_goods = grain
+base_tax = 1
+base_production = 1
+trade_goods = unknown
 base_manpower = 1
 capital = "Yelets"
 is_city = no

@@ -1,19 +1,49 @@
 #107 - Brescia
 
-#owner = MLO		# From 1426
-#controller = MLO
+# = MLO		# From 1426
+# = MLO
 culture = lombard 
-religion = hellenic_pagan 
-hre = no 
-base_tax = 8 
-base_production = 8    
-trade_goods = cloth
-base_manpower = 4    
+religion = catholic 
+hre = yes 
+base_tax = 1
+base_production = 1  
+trade_goods = unknown
+base_manpower = 1  
 capital = "Brescia" 
-is_city = no
-#add_core= MLO
+is_city = yes
+# = MLO
 
 
 
 discovered_by = high_american
 discovered_by = indian
+
+
+
+
+# = {	# = VEN
+	# = VEN
+	# = VEN
+}
+# = { hre = no }
+# = { # = FRA } # Venice collapses
+# = { # = VEN } # Brescia revolts
+# = { # = FRA } # Sack of Brescia
+# = { # = FRA # = FRA }
+# = { # = VEN # = VEN }
+# = { # = FRA }
+# = {	# = FRA
+	# = FRA
+	# = FRA
+} # Treaty of Campo Formio
+# = {	# = ITA
+	# = ITA
+	# = ITA
+	# = FRA
+} # Merged with the Cisalpine Republic
+# = { hre = no } # The Holy Roman Empire is dissolved
+# = {	# = HAB
+	# = HAB
+	# = HAB
+	# = ITA
+} # Treaty of Fontainebleau, Napoleon abdicates unconditionally

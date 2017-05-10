@@ -1,49 +1,49 @@
 #136 - Dalmatia
 
-#owner = HUN
-#controller = HUN
+# = HUN
+# = HUN
 culture = croatian
-religion = hellenic_pagan
+religion = catholic
 capital = "Zadar"
-trade_goods = wool
+trade_goods = unknown
 hre = no
-base_tax = 6 
-base_production = 4
-base_manpower = 3
-is_city = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
 fort_15th = yes # Klis Fortress
-#add_core= HUN
-#add_core= CRO
+# = HUN
+# = CRO
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL
 discovered_by = AST
 discovered_by = QAS
 discovered_by = high_american
-discovered_by = high_american
-discovered_by = indian
 discovered_by = indian
 
 
-# = { #owner = VEN #controller = VEN #add_core= VEN remove_core = HUN }
-# = { #owner = TUR #controller = TUR #add_core= TUR } # A large part of Dalmatia is incorporated into the Ottoman empire
-# = { #owner = VEN #controller = VEN remove_core = TUR } # Peace of Karlowitz, Dalmatian hinterland given to Venice
+
+
+# = { # = VEN # = VEN # = VEN # = HUN }
+# = { # = TUR # = TUR # = TUR } # A large part of Dalmatia is incorporated into the Ottoman empire
+# = { # = VEN # = VEN # = TUR } # Peace of Karlowitz, Dalmatian hinterland given to Venice
 # = { fort_15th = no fort_17th = yes }
 # = {
-	#owner = HAB
-	#controller = HAB
-	#add_core= HAB
+	# = HAB
+	# = HAB
+	# = HAB
 } # Treaty of Campo Formio
 # = {
-	#owner = FRA
-	#controller = FRA
-	#add_core= FRA
-	remove_core = HAB
+	# = FRA
+	# = FRA
+	# = FRA
+	# = HAB
 } # Treaty of Pressburg
-# = { #controller = HAB } # Occupied by Austrian forces
+# = { # = HAB } # Occupied by Austrian forces
 # = {
-	#owner = HAB
-	#add_core= HAB
-	remove_core = FRA
+	# = HAB
+	# = HAB
+	# = FRA
 } # Napoleon abdicates
 

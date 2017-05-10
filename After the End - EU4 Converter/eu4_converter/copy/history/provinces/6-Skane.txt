@@ -6,11 +6,11 @@
 culture = danish
 religion = catholic
 hre = no
-base_tax = 7
-base_production = 7
-#trade_goods = grain
-trade_goods = fish #The Great Herring Market of Skåne
-base_manpower = 6
+base_tax = 1
+base_production = 1
+#trade_goods = unknown
+trade_goods = unknowning Market of Skåne
+base_manpower = 1
 capital = "Lund"
 is_city = no
 estate = estate_nobles
@@ -31,7 +31,7 @@ discovered_by = indian
 # = { revolt = {} #controller = DAN } # Liberated by Sweden
 # = { religion = protestant} # Unknown date
 # = {
-	trade_goods = grain #Herring runs out
+	trade_goods = unknownout
 	remove_province_modifier = skanemarket
 }
 # = {

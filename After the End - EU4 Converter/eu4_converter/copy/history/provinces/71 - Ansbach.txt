@@ -6,12 +6,12 @@ add_core= BIZ
 culture = franconian
 religion = matrem
 hre = no
-trade_goods = salt
+trade_goods = unknown
 capital = "Hall"
 is_city = yes
 base_manpower = 1
-base_tax = 3
-base_production = 3
+base_tax = 1
+base_production = 1
 
 
 

@@ -5,10 +5,10 @@
 culture = schlesian
 religion = catholic
 capital = "Glogau"
-trade_goods = grain
+trade_goods = unknown
 hre = no
-base_tax = 4
-base_production = 4
+base_tax = 1
+base_production = 1
 is_city = no
 base_manpower = 1
 #add_core= SIL
@@ -42,6 +42,6 @@ discovered_by = indian
 # = { unrest = 0 }
 # = { unrest = 4 } # Religious oppositions
 # = { #owner = PRU #controller = PRU #add_core= PRU } # Peace of Breslau, 1 st Silesian war against Austria
-# = { base_tax = 8 base_production = 8 base_manpower = 13 }
+# = { base_tax = 1ase_production = 1ase_manpower = 1}
 # = { remove_core = HAB } # End of 3rd Silesian war
 # = { hre = no } # The Holy Roman Empire is dissolved

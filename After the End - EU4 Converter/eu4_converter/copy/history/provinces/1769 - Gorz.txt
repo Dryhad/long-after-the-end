@@ -1,18 +1,39 @@
 # 1769 - Görz
-#owner = HAB
-#controller = HAB
-#add_core= HAB
+# = HAB
+# = HAB
+# = HAB
 culture = austrian
-religion = hellenic_pagan
-base_tax = 5 
-base_production = 5
-trade_goods = iron
-base_manpower = 2
+religion = catholic
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
 capital = "Gorizia"
-is_city = no
-hre = no
+estate = estate_nobles
+is_city = yes
+hre = yes
 
 
 
 discovered_by = high_american
 discovered_by = indian
+
+
+
+
+# = {
+	# = STY
+	capital = "Görz"
+} # To the Habsburgs
+# = {
+	# = STY
+	# = STY
+}
+# = {	
+	# = HAB
+	# = HAB
+	# = STY
+}
+# = { unrest = 5 } # Farmer insurrections 
+# = { unrest = 0 }
+# = { hre = no } # The Holy Roman Empire is dissolved

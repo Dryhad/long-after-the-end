@@ -6,10 +6,10 @@
 culture = swabian
 religion = cult_of_reason
 hre = no
-base_tax = 5
-base_production = 5
-trade_goods = cloth
-base_manpower = 3
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
 capital = "Memmingen" 
 is_city = no
 

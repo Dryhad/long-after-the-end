@@ -5,11 +5,11 @@
 culture = swiss
 religion = cult_of_reason
 capital = "Zürich"
-trade_goods = wool
+trade_goods = unknown
 hre = no
-base_tax = 4 
-base_production = 4
-base_manpower = 2
+base_tax = 1
+base_production = 1
+base_manpower = 1
 is_city = no
 estate = estate_burghers
 #add_core= SWI

@@ -5,9 +5,9 @@
 culture = russian
 religion = orthodox
 hre = no
-base_tax = 3
-base_production = 3
-trade_goods = grain  
+base_tax = 1
+base_production = 1
+trade_goods = unknown
 base_manpower = 1
 add_local_autonomy = 25 #Until 1477 half of this province is nominally independent.
 capital = "Rostov"
@@ -26,9 +26,9 @@ discovered_by = KAZ
 	#add_core= RUS
 	remove_core = MOS
 }
-# = { base_tax = 4 
-base_production = 4 } # Treasury reforms
+# = { base_tax = 1
+base_production = 1 # Treasury reforms
 # = { unrest = 5 } # "Time of troubles"
 # = { unrest = 0 } # Order returned, Romanov dynasty
-# = { base_tax = 7 base_production = 7 } # Governmental reforms and the absolutism
-# = { base_tax = 8 base_production = 8 } # Legislative reform
+# = { base_tax = 1ase_production = 1 # Governmental reforms and the absolutism
+# = { base_tax = 1ase_production = 1 # Legislative reform

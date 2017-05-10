@@ -9,7 +9,7 @@ religion = cult_of_reason
 hre = no
 base_tax = 1
 base_production = 1
-trade_goods = cloth
+trade_goods = unknown
 base_manpower = 1
 add_core= FRA
 

@@ -5,11 +5,11 @@
 culture = vietnamese
 religion = mahayana
 capital = "Hai Phong"
-trade_goods = naval_supplies
+trade_goods = unknown
 hre = no
-base_tax = 5
-base_production = 5
-base_manpower = 3
+base_tax = 1
+base_production = 1
+base_manpower = 1
 is_city = no
 #add_core= DAI
 

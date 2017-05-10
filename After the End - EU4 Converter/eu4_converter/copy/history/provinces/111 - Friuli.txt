@@ -1,48 +1,48 @@
 #111 - Friuli
 
-#owner = AQU
-#controller = AQU
+# = AQU
+# = AQU
 culture = venetian 
-religion = hellenic_pagan 
+religion = catholic 
 hre = no 
-base_tax = 6 
-base_production = 6    
-trade_goods = wine
-base_manpower = 2    
+base_tax = 1
+base_production = 1  
+trade_goods = unknown
+base_manpower = 1  
 capital = "Udine" 
-is_city = no # Estimated
+is_city = yes # Estimated
 estate = estate_church
-#add_core= AQU
+# = AQU
 
 
 
 discovered_by = high_american
-discovered_by = high_american
 discovered_by = indian
-discovered_by = indian
+
+
 
 
 # = {
-	#owner = VEN
-	#controller = VEN
-	#add_core= VEN
+	# = VEN
+	# = VEN
+	# = VEN
 } # To Venice
 # = { fort_16th = yes } 
 # = {
-	#owner = HAB
-	#controller = HAB
-	#add_core= HAB
+	# = HAB
+	# = HAB
+	# = HAB
 } # Treaty of Campo Formio
 # = {
-	#owner = ITA
-	#controller = ITA
-	#add_core= ITA
-	remove_core = HAB
+	# = ITA
+	# = ITA
+	# = ITA
+	# = HAB
 } # Treaty of Pressburg
 # = { hre = no } # The Holy Roman Empire is dissolved
 # = {
-	#owner = HAB
-	#controller = HAB
-	#add_core= HAB
-	remove_core = ITA
+	# = HAB
+	# = HAB
+	# = HAB
+	# = ITA
 } # Treaty of Fontainebleau, Napoleon abdicates unconditionally

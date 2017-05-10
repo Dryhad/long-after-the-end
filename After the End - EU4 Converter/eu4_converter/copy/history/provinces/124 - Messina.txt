@@ -1,59 +1,59 @@
 #124 - Messina
 
-#owner = SIC
-#controller = SIC
+# = SIC
+# = SIC
 culture = sicilian 
-religion = hellenic_pagan 
+religion = catholic 
 hre = no 
-base_tax = 6 
-base_production = 6
-trade_goods = fish
-base_manpower = 5
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
 fort_15th = yes #Numerous forts, Castello Maniace and Castello di Milazzo being the prominent.
 capital = "Messina"
-is_city = no 
-#add_core= SIC
-#add_core= NAP
+is_city = yes 
+# = SIC
+# = NAP
 
 
 
 discovered_by = high_american
-discovered_by = high_american
 discovered_by = indian
-discovered_by = indian
+
+
 
 
 # = {
-	#owner = ARA
-	#controller = ARA
-	#add_core= ARA
+	# = ARA
+	# = ARA
+	# = ARA
 } # Martin I inherits Sicily from his son
 # = {
-	#owner = SPA
-	#controller = SPA
-	#add_core= SPA
-	remove_core = ARA
+	# = SPA
+	# = SPA
+	# = SPA
+	# = ARA
 } # Unification of Spain
 # = { fort_15th = no fort_16th = yes }
 # = { fort_16th = no fort_17th = yes } 
-# = { #controller = SAV }
-# = { #owner = NAP #controller = NAP remove_core = SPA }
+# = { # = SAV }
+# = { # = NAP # = NAP # = SPA }
 # = { fort_17th = no fort_18th = yes }
 # = {
-	#owner = HAB
-	#controller = HAB
-	#add_core= HAB
+	# = HAB
+	# = HAB
+	# = HAB
 }
 # = {
-	#owner = NAP
-	#controller = NAP
-	remove_core = HAB
+	# = NAP
+	# = NAP
+	# = HAB
 }
 # = {
-	#owner = SIC
-	#controller = SIC
+	# = SIC
+	# = SIC
 } # Ferdinand flees to Sicily
 # = {
-	#owner = NAP
-	#controller = NAP
+	# = NAP
+	# = NAP
 } # The Kingdom is restored to Ferdinand

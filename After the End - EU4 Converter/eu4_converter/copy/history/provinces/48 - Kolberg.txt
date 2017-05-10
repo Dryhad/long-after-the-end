@@ -6,10 +6,10 @@
 culture = pommeranian
 religion = catholic
 hre = no
-base_tax = 3 
-base_production = 3
-trade_goods = fish
-base_manpower = 2
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
 capital = "Kolberg"
 estate = estate_church #Bishopric of Cammin
 is_city = no
@@ -24,8 +24,8 @@ discovered_by = indian
 
 # = { #add_core= BRA }
 # = { religion = protestant }
-# = { base_tax = 4 
-base_production = 4 }
+# = { base_tax = 1
+base_production = 1
 # = { #owner = BRA #controller = BRA }
 # = {
 	#owner = PRU

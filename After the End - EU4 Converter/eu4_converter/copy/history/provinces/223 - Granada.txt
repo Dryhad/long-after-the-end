@@ -6,10 +6,10 @@
 culture = andalucian
 religion = matrem
 hre = no
-base_tax = 6 
-base_production = 6
-trade_goods = salt
-base_manpower = 3 
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
 fort_15th = yes
 capital = "Granada"
 is_city = no

@@ -1,53 +1,53 @@
 #125 - Palermo
 
-#owner = SIC
-#controller = SIC
+# = SIC
+# = SIC
 culture = sicilian 
-religion = hellenic_pagan 
+religion = catholic 
 hre = no 
-base_tax = 8 
-base_production = 8
-trade_goods = wine
-base_manpower = 4
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
 capital = "Palermo"
-is_city = no
-#add_core= SIC
-#add_core= NAP
+is_city = yes
+# = SIC
+# = NAP
 
 
 
 discovered_by = high_american
-discovered_by = high_american
 discovered_by = indian
-discovered_by = indian
+
+
 
 
 # = {
-	#owner = ARA
-	#controller = ARA
-	#add_core= ARA
+	# = ARA
+	# = ARA
+	# = ARA
 } # Martin I inherits Sicily from his son
-# = {	#owner = SPA
-	#controller = SPA
-	#add_core= SPA
-	remove_core = ARA
+# = {	# = SPA
+	# = SPA
+	# = SPA
+	# = ARA
 } # Unification of Spain
-# = { #controller = SAV }
-# = {	#owner = NAP
-	#controller = NAP
-	remove_core = SPA
+# = { # = SAV }
+# = {	# = NAP
+	# = NAP
+	# = SPA
 }
-# = {	#owner = HAB
-	#controller = HAB
-	#add_core= HAB
+# = {	# = HAB
+	# = HAB
+	# = HAB
 }
-# = {	#owner = NAP
-	#controller = NAP
-	remove_core = HAB
+# = {	# = NAP
+	# = NAP
+	# = HAB
 }
-# = {	#owner = SIC
-	#controller = SIC
+# = {	# = SIC
+	# = SIC
 } # Ferdinand flees to Sicily
-# = {	#owner = NAP
-	#controller = NAP
+# = {	# = NAP
+	# = NAP
 } # The Kingdom is restored to Ferdinand

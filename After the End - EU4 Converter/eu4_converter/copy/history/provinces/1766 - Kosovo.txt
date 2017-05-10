@@ -1,38 +1,38 @@
 #1766 - Kosovo
 
-#owner = SER
-#controller = SER
+# = SER
+# = SER
 culture = serbian
-religion = sunni
+religion = orthodox
 capital = "Pristina"
-trade_goods = gold #Novo Brdo and other Silver mines in this area
+trade_goods = unknownmines in this area
 hre = no
-base_tax = 3 
-base_production = 3
-base_manpower = 2
-is_city = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
 estate = estate_church
-#add_core= SER
+# = SER
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL
 discovered_by = AST
 discovered_by = QAS
 discovered_by = high_american
-discovered_by = high_american
 discovered_by = indian
-discovered_by = indian
+
+
 
 
 # = {
-	#owner = TUR
-	#controller = TUR
-	#add_core= TUR
+	# = TUR
+	# = TUR
+	# = TUR
 }
 # = { unrest = 7 } # Serb rebellion under D. Brankovic
-# = { #controller = HAB } # Occupied by Austrian forces
-# = { #controller = TUR }
-# = { revolt = { type = nationalist_rebels size = 1 } #controller = REB } # Belgrade is occupied by Serbian rebels
-# = { revolt = {} #controller = TUR }
-# = { revolt = { type = nationalist_rebels size = 1 } #controller = REB } # The Second Serbian uprising
-# = { revolt = {} #controller = TUR }
+# = { # = HAB } # Occupied by Austrian forces
+# = { # = TUR }
+# = { revolt = { type = nationalist_rebels size = 1 } # = REB } # Belgrade is occupied by Serbian rebels
+# = { revolt = {} # = TUR }
+# = { revolt = { type = nationalist_rebels size = 1 } # = REB } # The Second Serbian uprising
+# = { revolt = {} # = TUR }

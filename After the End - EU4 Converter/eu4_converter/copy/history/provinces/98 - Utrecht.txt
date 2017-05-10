@@ -7,10 +7,10 @@ is_city = no
 culture = dutch
 religion = cult_of_reason
 hre = no
-base_tax = 7 
-base_production = 7
-trade_goods = cloth
-base_manpower = 3
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
 #add_core= UTR
 fort_15th = yes
 
@@ -39,8 +39,8 @@ discovered_by = indian
 # = { hre = no } # The Peace of Westphalia
 # = { #controller = FRA } # France blitzes through the Lowlands in the Franco-Dutch War and even takes Utrecht!
 # = { #controller = NED } # Peace of Nijmegen (France-Netherlands)
-# = { base_tax = 10 
-base_production = 10 } # Protestants expelled from France
+# = { base_tax = 1
+base_production = 1} # Protestants expelled from France
 # = { unrest = 7 } # Unrest in Utrecht
 # = { revolt = { type = revolutionary_rebels size = 2 } #controller = REB } # 'The Patriots' take control of Utrecht
 # = { revolt = {} #controller = NED } # With the help of 20,000 Prussians, the Dutch government regains control

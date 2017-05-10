@@ -6,10 +6,10 @@
 culture = norwegian
 religion = catholic
 hre = no
-base_tax = 3
-base_production = 3
-trade_goods = fish
-base_manpower = 2
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
 capital = "Oslo"
 is_city = no
 discovered_by = high_american
@@ -22,7 +22,7 @@ discovered_by = indian
 # = { unrest = 0 } # The Capture of Christian II
 # = { religion = protestant } # Unknown date
 # = { #owner = DAN #controller = DAN #add_core= DAN } # 'Handfästningen'(Unknown date)
-# = { trade_goods = naval_supplies } # Approximate date
+# = { trade_goods = unknownpproximate date
 
 # = {
 	#owner = SWE

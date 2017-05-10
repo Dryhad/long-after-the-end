@@ -5,7 +5,7 @@ culture = uralic
 religion = finnish_pagan_reformed #Sami Shamanism
 trade_goods = unknown
 hre = no
-base_tax = 1 
+base_tax = 1
 base_production = 1
 base_manpower = 1
 native_size = 50
@@ -25,6 +25,6 @@ native_hostileness = 5
 	religion = orthodox
 	culture = russian
 	is_city = no
-	trade_goods = iron
+	trade_goods = unknown
 } # Pelym built
 # = { capital = "Nizhny Tagil" }

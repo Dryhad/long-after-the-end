@@ -5,7 +5,7 @@ religion = tengri_pagan_reformed
 capital = "Igarka"
 trade_goods = unknown
 hre = no
-base_tax = 1 
+base_tax = 1
 base_production = 1
 base_manpower = 1
 native_size = 8
@@ -19,6 +19,6 @@ native_hostileness = 3
 	religion = orthodox
 	culture = russian
 	is_city = no
-	trade_goods = gold
+	trade_goods = unknown
 }
 # = { #add_core= RUS }

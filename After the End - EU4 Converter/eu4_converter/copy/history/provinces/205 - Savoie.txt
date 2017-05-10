@@ -1,20 +1,52 @@
 #205 - Savoie
 
-#owner = SAV
-#controller = SAV
+# = SAV
+# = SAV
 culture = piedmontese
-religion = cult_of_reason
-hre = no
-base_tax = 9
-base_production = 9
-trade_goods = cloth
-base_manpower = 5
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
 capital = "Chambéry"
-is_city = no	
-#add_core= SAV
+is_city = yes	
+# = SAV
 
 
 
-discovered_by = high_american
 discovered_by = indian
+discovered_by = high_american
 
+
+
+
+# = { hre = no }
+# = { # = FRA # = FRA # = FRA } 
+# = { # = SAV # = SAV } 
+# = { # = FRA } 
+# = { # = FRA } # Treaty of Nice
+# = { # = SAV # = SAV # = FRA } 
+# = {
+	# = SIC
+	# = SIC
+	# = SIC
+	# = SAV
+} # Treaty of Utrecht(2) gave Sicily to the House of Savoy 
+# = {
+	# = SPI
+	# = SPI
+	# = SPI
+	# = SIC
+} # Kingdom of Piedmont-Sardinia
+# = { # = FRA } # Occupied by French troops
+# = {
+	# = FRA
+	# = FRA
+} # Savoie is annexed
+# = { hre = no } # The Holy Roman Empire is dissolved
+# = {
+	# = SPI
+	# = SPI
+	# = FRA
+} # Napoleon abdicates and Victor Emmanuel is able to return to Turin

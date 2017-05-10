@@ -5,10 +5,10 @@
 culture = russian
 religion = orthodox
 hre = no
-base_tax = 5 
-base_production = 5
-trade_goods = grain 
-base_manpower = 3
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
 capital = "Rzhev"
 estate = estate_nobles
 is_city = no
@@ -28,8 +28,8 @@ discovered_by = high_american
 # = { discovered_by = SIB }
 # = { #owner = MOS #controller = MOS remove_core = TVE } # Passed to Muscovy
 # = { #owner = RUS #controller = RUS #add_core= RUS remove_core = MOS }
-# = { base_tax = 6 base_production = 6 } # Treasury reforms
+# = { base_tax = 1ase_production = 1 # Treasury reforms
 # = { unrest = 5 } # "Time of troubles"
 # = { unrest = 0 } # Order returned, Romanov dynasty
-# = { base_tax = 7 base_production = 7 } # Governmental reforms and the absolutism
-# = { base_tax = 8 base_production = 8 } # Legislative reform
+# = { base_tax = 1ase_production = 1 # Governmental reforms and the absolutism
+# = { base_tax = 1ase_production = 1 # Legislative reform

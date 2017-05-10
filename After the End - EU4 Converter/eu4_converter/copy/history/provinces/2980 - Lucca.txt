@@ -1,19 +1,35 @@
 # Lucca
 
-#owner = LUC
-#controller = LUC
-#add_core= LUC
+# = LUC
+# = LUC
+# = LUC
 culture = tuscan
-religion = hellenic_pagan
-hre = no
-base_tax = 6
-base_production = 6
-trade_goods = cloth
-base_manpower = 2
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
 capital = "Lucca"
-is_city = no # Estimated
+is_city = yes # Estimated
 
 
 
 discovered_by = high_american
 discovered_by = indian
+
+
+
+
+# = { hre = no }
+# = {
+	# = FRA
+	# = FRA
+	# = FRA
+}# Annexed by France
+# = { hre = no } # The Holy Roman Empire is dissolved
+# = {
+	# = LUC
+	# = LUC
+	# = FRA
+} # Treaty of Fontainebleau, Napoleon abdicates unconditionally

@@ -1,17 +1,17 @@
 #137 - Ragusa
 
-#owner = RAG
-#controller = RAG
+# = RAG
+# = RAG
 culture = croatian
-religion = hellenic_pagan
+religion = catholic
 capital = "Ragusa"
-trade_goods = naval_supplies
+trade_goods = unknown
 hre = no
-base_tax = 5 
-base_production = 6
-base_manpower = 3
-is_city = no
-#add_core= RAG
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+# = RAG
 
 discovered_by = KAZ
 discovered_by = CRI
@@ -19,9 +19,9 @@ discovered_by = GOL
 discovered_by = AST
 discovered_by = QAS
 discovered_by = high_american
-discovered_by = high_american
 discovered_by = indian
-discovered_by = indian
+
+
 
 extra_cost = 15
 
@@ -30,21 +30,21 @@ add_permanent_province_modifier = {
 	duration = -1
 }
 
-# = { #controller = FRA } # Occupied by French troops
-# = { #controller = RAG } # The French are defeated
-# = { #controller = FRA }
-# = { #owner = FRA #add_core= FRA } # Treaty of Tilsit
+# = { # = FRA } # Occupied by French troops
+# = { # = RAG } # The French are defeated
+# = { # = FRA }
+# = { # = FRA # = FRA } # Treaty of Tilsit
 # = {
-	#owner = ITA
-	#controller = ITA
+	# = ITA
+	# = ITA
 } # Marshal Marmont abolishes the Republic of Ragusa and merges the territory into the Napoleonic Kingdom of Italy
 # = {
-	#owner = FRA
-	#controller = FRA
+	# = FRA
+	# = FRA
 } # Ragusa with all Dalmatia went to the newly created French Illyrian Provinces
-# = { #controller = HAB } # Occupied by Austrian forces
+# = { # = HAB } # Occupied by Austrian forces
 # = {
-	#owner = HAB
-	#add_core= HAB
-	remove_core = FRA
+	# = HAB
+	# = HAB
+	# = FRA
 }# Napoleon abdicates

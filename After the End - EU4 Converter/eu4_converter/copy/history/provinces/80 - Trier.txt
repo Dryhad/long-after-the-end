@@ -2,13 +2,13 @@ owner = TRI
 controller = TRI
 culture = hessian
 religion = cult_of_reason
-trade_goods = grain
+trade_goods = unknown
 capital = "Trier"
-base_tax = 5
-base_production = 5
+base_tax = 1
+base_production = 1
 is_city = yes
 add_core= TRI
-base_manpower = 2
+base_manpower = 1
 hre = no
 
 

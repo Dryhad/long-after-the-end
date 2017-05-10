@@ -6,9 +6,9 @@
 culture = swedish
 religion = catholic
 hre = no
-base_tax = 2
-base_production = 2
-trade_goods = naval_supplies
+base_tax = 1
+base_production = 1
+trade_goods = unknown
 base_manpower = 1
 capital = "Kalmar"
 is_city = no
@@ -33,5 +33,5 @@ discovered_by = indian
 # = { #controller = SWE } # Duke Karl get it back
 # = { #controller = DAN } # The War of Kalmar-Captured by Christian IV
 # = { #controller = SWE }# The Peace of Knäred
-# = { base_manpower = 4 } # Småland did a huge contribution in number of regiments
+# = { base_manpower = 1 # Småland did a huge contribution in number of regiments
 

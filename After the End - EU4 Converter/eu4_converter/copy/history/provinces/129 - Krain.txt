@@ -5,10 +5,10 @@
 #add_core= STY
 culture = austrian
 religion = celticist
-base_tax = 7 
-base_production = 7
-trade_goods = grain
-base_manpower = 2
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
 capital = "Laibach"
 is_city = no
 hre = no

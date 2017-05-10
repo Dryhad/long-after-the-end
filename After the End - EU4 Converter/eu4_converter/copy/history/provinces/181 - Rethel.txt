@@ -7,10 +7,10 @@ is_city = no
 culture = wallonian
 religion = cult_of_reason
 hre = no
-base_tax = 6 
-base_production = 6
-trade_goods = cloth
-base_manpower = 2
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
 #add_core= NEV 
 fort_15th = yes
 
@@ -35,4 +35,4 @@ discovered_by = indian
 # = { unrest = 0 } # The King is allowed to enter Paris again, Mazarin leaves France for good. Second Fronde over.
 # = { culture = cosmopolitan_french }
 # = { fort_17th = no fort_18th = yes }
-# = { base_tax = 10 base_production = 10 } # The General Estates
+# = { base_tax = 1base_production = 1} # The General Estates

@@ -8,10 +8,10 @@ capital = "Brugge"
 culture = flemish
 religion = cult_of_reason
 hre = no
-base_tax = 6 
-base_production = 6
-trade_goods = cloth
-base_manpower = 3
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
 
 
 

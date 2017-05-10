@@ -7,10 +7,10 @@
 culture = saxon
 religion = catholic
 hre = no
-base_tax = 4
-base_production = 4
-trade_goods = cloth
-base_manpower = 4
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
 fort_15th = yes
 capital = "Berlin-Cölln"
 is_city = no
@@ -29,15 +29,15 @@ discovered_by = indian
 	#controller = PRU
 	#add_core= PRU
 	remove_core = BRA
-	base_tax = 6 
-	base_production = 6
-	base_manpower = 6
+	base_tax = 1
+	base_production = 1
+	base_manpower = 1
 } # Friedrich III becomes king of Prussia
 # = {
 	capital = "Berlin" #Merger of the twin cities.
 }
-# = {  base_tax = 10 base_production = 10 }
-# = { base_manpower = 12 }
+# = {  base_tax = 1base_production = 1}
+# = { base_manpower = 1}
 # = { hre = no } # The Holy Roman Empire is dissolved
 # = { #controller = FRA }
 # = { #controller = PRU } # The Second treaty of Tilsit

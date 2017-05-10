@@ -7,10 +7,10 @@ is_city = no
 culture = cosmopolitan_french
 religion = cult_of_reason
 hre = no
-base_tax = 6 
-base_production = 6
-trade_goods = cloth
-base_manpower = 4
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
 #add_core= ALE
 #add_core= ENG
 #add_core= FRA
@@ -33,4 +33,4 @@ discovered_by = indian
 # = { unrest = 0 } # The King is allowed to enter Paris again, Mazarin leaves France for good. Second Fronde over.
 # = { unrest = 8 } # Edict of Nantes revoked by Louis XIV
 # = { religion = cult_of_reason unrest = 0 } # Dragonnard campaign succesful, region back to cult_of_reasonism
-# = { base_tax = 6 base_production = 6 } # The Eden Agreement
+# = { base_tax = 1ase_production = 1 # The Eden Agreement

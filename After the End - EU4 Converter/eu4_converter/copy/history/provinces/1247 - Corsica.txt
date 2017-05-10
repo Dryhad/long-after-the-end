@@ -1,21 +1,62 @@
 #1247 - Corsica
 
-#owner = GEN
-#controller = GEN
+# = GEN
+# = GEN
 culture = sardinian
-religion = hellenic_pagan
+religion = catholic
 capital = "Bastia"
-hre = no
-base_tax = 3 
-base_production = 3
-trade_goods = naval_supplies
-base_manpower = 2
-is_city = no
-#add_core= GEN
-#add_core= COR
+hre = yes
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
+is_city = yes
+# = GEN
+# = COR
 
 
 
 discovered_by = high_american
 discovered_by = indian
 
+
+
+
+# = {
+	# = MLO
+	# = MLO
+	# = MLO
+}
+# = { revolt = { type = revolutionary_rebels size = 2 } # = REB }
+# = { revolt = {} # = MLO }
+# = { hre = no }
+# = {
+	# = GEN
+	# = GEN
+	# = MLO
+}
+# = {
+	# = FRA
+	# = FRA
+	# = FRA
+} # Occupied by the French
+# = {
+	# = GEN
+	# = GEN
+	# = FRA
+} # Treaty of Cateau-Cambrésis
+# = { unrest = 7 } # Revolt against the Genoese
+# = { unrest = 3 } # Charles VI sends military assistance & the rebels surrender
+# = { unrest = 5 } # Mistrust in the Genoese administration resulted in another Corsican revolt
+# = { unrest = 0 revolt = { type = nationalist_rebels size = 3 } # = REB } # The Corsican assembly declared Corsica independent
+# = { revolt = {} # = COR # = COR }
+# = { # = GEN # = GEN } # The Corsicans laid down their arms
+# = { revolt = { type = nationalist_rebels size = 3 } # = REB } # Third Corsican revolt, declared themselves independent in 1746
+# = { revolt = {} # = COR # = COR }
+# = { revolt = { type = nationalist_rebels size = 3 } # = REB } # Fourth Corsican revolt lead by Pascal Paoli
+# = {
+	# = FRA
+	# = FRA
+	# = GEN
+} # Ceded to France, since the Republic of Genoa is unable to restore control
+# = { revolt = {} # = FRA } # France managed to overcome the resistance & Paoli flees
