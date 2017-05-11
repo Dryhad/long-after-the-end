@@ -1,9 +1,9 @@
 #655 - Palawan
 
 culture = filipino
-religion = animism
+religion = cult_of_saints
 capital = "Palawan"
-trade_goods = unknown
+trade_goods = fish
 hre = no
 base_tax = 3
 base_production = 3
@@ -15,22 +15,3 @@ native_hostileness = 9
 
 
 discovered_by = chinese
-
-
-# = { religion = sunni }
-# = {	
-	#owner = BEI
-	#controller = BEI
-	#add_core= BEI
-	is_city = no
-	trade_goods = fish
-	
-} # Brunei kingdom, Bolkiah
-# = { discovered_by = SPA } # Ferdinand Magellan 
-# = {
-	#owner = SPA
-	#controller = SPA
-	culture = castillian
-	religion = catholic
-} # Palawan is ceded to Spain
-# = { #add_core= SPA }

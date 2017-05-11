@@ -24,7 +24,7 @@ native_hostileness = 1
 	#add_core= SPA
 	is_city = no
 	trade_goods = tea
-	religion = catholic
+	religion = candomble
 	culture = castillian
 }
 # = {
@@ -32,5 +32,5 @@ native_hostileness = 1
 	#controller = POR
 	#add_core= POR
 	remove_core = SPA
-	culture = portugese
+	culture = brazilian
 }

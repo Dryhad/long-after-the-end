@@ -1,3 +1,4 @@
+capital = "London" #London, Ontario
 culture = piman
 religion = totemism 
 trade_goods = unknown 

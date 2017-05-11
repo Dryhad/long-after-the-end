@@ -33,7 +33,7 @@ british = {
 }
 #brazillian
 iberian = {
-	brazillian = {
+	brazilian = {
 		primary = BRZ
 		dynasty_names = $brazillian$
 	}

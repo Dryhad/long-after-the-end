@@ -20,8 +20,8 @@ native_hostileness = 3
 	#add_core= POR
 	trade_goods = sugar
 	is_city = no
-	culture = portugese
-	religion = catholic
+	culture = brazilian
+	religion = candomble
 }
 # = {
 	#owner = NED
@@ -34,8 +34,8 @@ native_hostileness = 3
 	#owner = POR
 	#controller = POR
 	remove_core = NED
-	culture = portugese
-	religion = catholic
+	culture = brazilian
+	religion = candomble
 }
 # = { unrest = 4 } # Resistance from Maroon dwellers
 # = { unrest = 0 } # Zumbi, their leader is captured

@@ -5,7 +5,7 @@ technology_group = western
 capital = 2022 #Haida
 
 
-1444.11.11 = {
+3053.1.1 = {
 	monarch = {
 		name = "Native Council"
 		adm = 3

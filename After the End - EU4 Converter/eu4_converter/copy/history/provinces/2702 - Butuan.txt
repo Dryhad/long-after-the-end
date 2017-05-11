@@ -1,9 +1,9 @@
 #2702 - Butuan
 
 culture = filipino
-religion = animism
+religion = cult_of_saints
 capital = "Butuan"
-trade_goods = unknown
+trade_goods = grain
 hre = no
 base_tax = 2 
 base_production = 2
@@ -15,14 +15,3 @@ native_hostileness = 9
 
 
 discovered_by = chinese
-
-
-# = { religion = sunni }
-# = {
-	#owner = MGD
-	#controller = MGD
-	#add_core= MGD
-	is_city = no
-	trade_goods = grain
-} # Sultanate of Maguindanao
-# = { discovered_by = SPA }

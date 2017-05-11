@@ -1,1 +1,1 @@
-# = { discovered_by = NED } # Willem de Vlamingh
+discovered_by = chinese

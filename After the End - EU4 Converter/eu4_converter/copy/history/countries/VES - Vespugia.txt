@@ -10,6 +10,7 @@ capital = 780
 	monarch = {
 		name = "Madog"
 		dynasty = "Branzillo"
+		birth_date = 2989.1.1
 		adm = 3
 		dip = 4
 		mil = 4		

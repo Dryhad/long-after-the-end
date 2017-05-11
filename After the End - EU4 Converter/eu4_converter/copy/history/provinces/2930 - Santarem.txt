@@ -18,8 +18,8 @@ native_hostileness = 6
 	#owner = POR
 	#controller = POR
 	#add_core= POR
-	culture = portugese
-	religion = catholic
+	culture = brazilian
+	religion = candomble
 	trade_goods = tropical_wood
 	is_city = no 
 }

@@ -25,8 +25,8 @@ native_hostileness = 3
 	#add_core= POR
 	is_city = no
 	capital = "Vigia"
-	culture = portugese
-	religion = catholic
+	culture = brazilian
+	religion = candomble
 	trade_goods = sugar
 }
 # = { capital = "Breves" }

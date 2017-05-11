@@ -1,3 +1,4 @@
+capital = "Everglades City"
 culture = piman
 religion = totemism 
 trade_goods = unknown 

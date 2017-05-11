@@ -5,3 +5,14 @@ technology_group = chinese
 primary_culture = strayan
 religion = atomicist
 capital = 2726 # Nain
+
+
+3050.1.1 = {
+	monarch = {
+		name = "Ian"
+		dynasty = "Casey"
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}

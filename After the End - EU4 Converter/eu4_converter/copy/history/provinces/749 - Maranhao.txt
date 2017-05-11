@@ -1,10 +1,10 @@
 #749 - Maranhao
 
-culture = ge
+culture = brazilian
 discovered_by = south_american
-religion = animism
-capital = "Maranhao"
-trade_goods = unknown
+religion = candomble
+capital = "São Luis"
+trade_goods = tropical_wood
 hre = no
 base_tax = 3
 base_production = 3
@@ -12,44 +12,3 @@ base_manpower = 1
 native_size = 15
 native_ferocity = 1
 native_hostileness = 3
-
-
-
-
-# = { discovered_by = POR } # Pedro Álvares Cabral
-# = { discovered_by = CAS } # Vicente Yáñez Pinzõn, couldn't make a claim due to the Treaty of Tordesillas
-# = { discovered_by = SPA }
-# = { discovered_by = FRA }
-
-# = {
-	#owner = FRA
-	#controller = FRA
-	#add_core= FRA
-	capital = "Saint Louis"
-	is_city = no
-	religion = catholic
-	culture = cosmopolitan_french
-	trade_goods = tropical_wood
-} # Founded by the French
-# = {
-	#owner = POR
-	#controller = POR
-	#add_core= POR
-	remove_core = FRA
-	culture = portugese
-	capital = "São Luis"
-} # Conquered by Portugal, the French are expelled, and Saint Louis is renamed
-# = {	#owner = NED
-	#controller = NED
-	culture = dutch
-	religion = reformed
-} # Held by the Dutch
-# = {	#owner = POR
-	#controller = POR
-	culture = portugese
-	religion = catholic	  	
-}
-# = { unrest = 5 } # Jesuits are expelled from Maranhao
-# = { unrest = 0 }
-# = { unrest = 6 } # Natives led by Mandu Ladino rebelled against the Portugese expansion
-# = { unrest = 0 } # The rebellion is subdued

@@ -1,3 +1,4 @@
+capital = "Repentigny"
 culture = piman
 religion = totemism 
 trade_goods = unknown 

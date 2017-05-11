@@ -9,6 +9,7 @@ capital = 1088	# Ballarat
 		name = "Layla"
 		dynasty = "Peters"
 		female = yes
+		birth_date = 3027.2.5
 		adm = 3
 		dip = 2
 		mil = 5
