@@ -1,0 +1,38 @@
+st_marys_river_modifier = {					#Channel btwn Lake Huron and Lake Superior. Menominee.
+	province_trade_power_value = 10
+	picture = "estuary_icon"
+}
+
+mackinac_straits_modifier = {		#Machilimackinac
+	province_trade_power_value = 10
+	picture = "estuary_icon"
+}
+
+chicago_canal_modifier = {			#Chicago
+	province_trade_power_value = 10
+	picture = "estuary_icon"
+}
+
+niagara_river_modifier = {				#giving this to Welland on the Canadian side.
+	province_trade_power_value = 10
+	picture = "estuary_icon"
+}
+
+detroit_river_modifier = {			#Detroit
+	province_trade_power_value = 10
+	picture = "estuary_icon"
+}
+roanoke_estuary_modifier = {			#Roanoke
+	province_trade_power_value = 10
+	picture = "estuary_icon"
+}
+
+cape_fear_estuary_modifier = {			#Roanoke
+	province_trade_power_value = 10
+	picture = "estuary_icon"
+}
+
+savannah_estuary_modifier = {			#Savannah
+	province_trade_power_value = 10
+	picture = "estuary_icon"
+}

@@ -1286,9 +1286,9 @@ quelimane_area = { #3
 	1183 1186 1192
 }
 
-limpopo_area = { #4
-	789 1181 1182 1800
-}
+# limpopo_area = { #4
+	# 789 1181 1182 1800
+# }
 
 central_swahili_coast_area = { #5
 	1196 1197 1198 1199 1201
@@ -1658,7 +1658,7 @@ kongo_area = { #5
 }
 
 angola_namibia_area = { #4
-	1167 1171 1172 1174
+	1167 1171 1172 
 }
 
 cape_of_good_hope_area = { #5
@@ -3533,6 +3533,20 @@ florida_area = { #3
 
 north_florida_area = { #3
 	927 928 2534 926
+}
+
+#Africa
+
+nambia_area = {
+	4734 4732 4733 1174 
+}
+
+limpopo_area = { #Natal
+	789 1181 1182 1800 4731 
+}
+
+actual_limpopo_area = {
+	4727 4726 4728 4729 4730
 }
 
 #Sea Areas
