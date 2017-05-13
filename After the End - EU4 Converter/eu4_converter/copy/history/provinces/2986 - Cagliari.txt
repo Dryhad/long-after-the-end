@@ -1,43 +1,19 @@
 # - Cagliari
 
-# = SAR
-# = SAR
+#owner = SAR
+#controller = SAR
 culture = sardinian 
-religion = catholic 
+religion = hellenic_pagan 
 hre = no 
 base_tax = 1
 base_production = 1
-trade_goods = unknown
+trade_goods = copper
 base_manpower = 1
 capital = "Cagliari" 
-is_city = yes # Estimated 
-# = SAR
+is_city = no # Estimated 
+#add_core= SAR
 
 
 
 discovered_by = high_american
 discovered_by = indian
-
-
-
-
-# = { # = ARA # = ARA # = ARA } # Conquered by Aragon
-# = {	# = SPA
-	# = SPA
-	# = SPA
-	# = ARA
-} # Unification of Spain
-# = {
-	# = HAB
-	# = HAB
-	# = HAB
-	# = SPA
-}
-# = {
-	# = SPI
-	# = SPI
-	# = SPI
-	# = HAB
-} # Kingdom of Piedmont-Sardinia
-# = { # = FRA } # French invasion
-# = { # = SPI } # Peace between Sardinia and France

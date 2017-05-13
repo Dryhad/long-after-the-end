@@ -1,51 +1,51 @@
 #131 - Zagorje
 
-# = HUN
-# = HUN
+#owner = HUN
+#controller = HUN
 culture = croatian
-religion = catholic
+religion = hellenic_pagan
 capital = "Zagreb"
-trade_goods = unknown
+trade_goods = cloth
 hre = no
 base_tax = 1
 base_production = 1
 base_manpower = 1
-is_city = yes
+is_city = no
 fort_15th = yes
 estate = estate_nobles
-# = HUN
-# = CRO
+#add_core= HUN
+#add_core= CRO
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL
 discovered_by = AST
 discovered_by = QAS
 discovered_by = high_american
+discovered_by = high_american
+discovered_by = indian
 discovered_by = indian
 
 
-
-
 # = {
-	# = HAB
-	# = HAB
-	# = HAB
+	#owner = HAB
+	#controller = HAB
+	#add_core= HAB
 } # Battle of Mohács
-# = { revolt = { type = anti_tax_rebels size = 1 } # = REB } # Peasant uprising against Habsburg rule & the feudal system
-# = { revolt = {} # = HAB } # Decisively defeated
+# = { revolt = { type = anti_tax_rebels size = 1 } #controller = REB } # Peasant uprising against Habsburg rule & the feudal system
+# = { revolt = {} } # Decisively defeated
 # = { unrest = 5 } # Conspiracy against Habsburg rule uncovered
 # = { unrest = 0 }
 # = { unrest = 7 } # Reforms to introduce German as the official language
 # = { unrest = 0 } # Most of the unpopular reforms were cancelled
 # = {
-	# = FRA
-	# = FRA
-	# = FRA
-	# = HAB
+	#owner = FRA
+	#controller = FRA
+	#add_core= FRA
+	remove_core = HAB
 } # Treaty of Pressburg
-# = { # = HAB } # Occupied by Austrian forces
+# = { #controller = HAB } # Occupied by Austrian forces
 # = {
-	# = HAB
-	# = HAB
-	# = FRA
+	#owner = HAB
+	#add_core= HAB
+	remove_core = FRA
 } # Napoleon abdicates

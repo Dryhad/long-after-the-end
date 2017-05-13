@@ -1,50 +1,15 @@
 #1826 - Lika
 
-# = HUN
-# = HUN
+#owner = HUN
+#controller = HUN
 culture = croatian
-religion = catholic
+religion = hellenic_pagan
 capital = "Rijeka"
-trade_goods = unknown
+trade_goods = cloth
 hre = no
 base_tax = 1
 base_production = 1
 base_manpower = 1
-is_city = yes
-estate = estate_nobles
-# = HUN
-# = CRO
-discovered_by = KAZ
-discovered_by = CRI
-discovered_by = GOL
-discovered_by = AST
-discovered_by = QAS
+is_city = no
 discovered_by = high_american
 discovered_by = indian
-
-
-
-## City of Rijeka itself now directly Habsburg
-# = {
-	# = HAB
-	# = HAB
-	# = HAB
-} # Battle of Mohács, west area under Habsburg rule
-# = { revolt = { type = anti_tax_rebels size = 1 } # = REB } # Peasant uprising against Habsburg rule & the feudal system
-# = { revolt = {} # = HAB } # Decisively defeated
-# = { unrest = 5 } # Conspiracy against Habsburg rule uncovered
-# = { unrest = 0 } # Estimated, the conspirators are executed
-# = { unrest = 7 } # Reforms to introduce German as the official language
-# = { unrest = 0 } # Most of the unpopular reforms were cancelled
-# = {
-	# = FRA
-	# = FRA
-	# = FRA
-	# = HAB
-} # Treaty of Pressburg
-# = { # = HAB } # Occupied by Austrian forces
-# = {
-	# = HAB
-	# = HAB
-	# = FRA
-} # Napoleon abdicates

@@ -1,35 +1,17 @@
 #138 - Zeta
 
-# = MON
-# = MON
+#owner = MON
+#controller = MON
 culture = serbian
-religion = orthodox
+religion = hellenic_pagan
 capital = "Zabljak"
-trade_goods = unknown
+trade_goods = fish
 hre = no
 base_tax = 1
 base_production = 1
 base_manpower = 1
-is_city = yes
-estate = estate_nobles
-# = MON
-# = VEN #Venetian Albania
-discovered_by = KAZ
-discovered_by = CRI
-discovered_by = GOL
-discovered_by = AST
-discovered_by = QAS
+is_city = no
+#add_core= MON
+#add_core= VEN #Venetian Albania
 discovered_by = high_american
 discovered_by = indian
-
-
-
-
-# = { # = SER # = SER # = SER } # Annexed to Serbia
-# = { # = MON # = MON # = SER }
-# = { # = TUR } # Conquered Zabljak, but never fully conquered Zeta
-# = { capital = "Cetinje" }
-# = { # = TUR # = TUR }
-# = { # = MON # = MON # = TUR } # Prince-bishops of Cetinje
-# = { unrest = 5 } # Montenegro's Muslim converts were massacred at Vladika Danilo's order
-# = { unrest = 2 } # Cetinje sacked again as a response

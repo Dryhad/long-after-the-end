@@ -1,34 +1,21 @@
 # - Umbria
 
-# = PAP
-# = PAP
+#owner = PAP
+#controller = PAP
 culture = umbrian 
-religion = catholic 
+religion = hellenic_pagan 
 hre = no
 base_tax = 1
 base_production = 1
-trade_goods = unknown
+trade_goods = wine
 base_manpower = 1
 capital = "Perugia" 
-is_city = yes
-# = PAP
+is_city = no
+#add_core= PAP
 
 
 
 discovered_by = high_american
 discovered_by = indian
 
-
-
 extra_cost = 10
-
-# = { # = NAP # = NAP # = NAP } # Ladislas takes control of Ancona
-# = { # = PAP # = PAP # = NAP }
-# = { # = ITA } 
-# = { # = FRA } # Occupied by French troops
-# = { # = FRA # = FRA } # Treaty of Schönbrunn
-# = {
-	# = PAP
-	# = PAP
-	# = FRA
-} # Treaty of Fontainebleau, Napoleon abdicates unconditionally

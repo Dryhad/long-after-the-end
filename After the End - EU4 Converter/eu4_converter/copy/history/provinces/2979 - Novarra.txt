@@ -1,67 +1,19 @@
 # - Novara
 
-# = MLO
-# = MLO
+#owner = MLO
+#controller = MLO
 culture = lombard
-religion = catholic
-hre = yes
+religion = hellenic_pagan
+hre = no
 base_tax = 1
 base_production = 1
-trade_goods = unknown
+trade_goods = grain
 base_manpower = 1
 capital = "Novara"
-is_city = yes	# Estimated
-# = MLO
+is_city = no	# Estimated
+#add_core= MLO
 
 
 
 discovered_by = high_american
 discovered_by = indian
-
-
-
-
-# = { hre = no }
-# = { # = FRA } # Louis XII of France invades...
-# = { # = FRA # = FRA } # ...and seizes Milan, Treaty of Lyon
-# = { # = MLO # = MLO } # Massimiliano Sforza restored by the Swiss
-# = { # = FRA } # Francis I of France invades...
-# = { # = FRA } # ...and seizes Milan, Treaty of Noyon
-# = { # = SPA } # The Spanish invades...
-# = { # = MLO # = MLO } # ...and restores the Sforzas
-# = { # = HAB } # Milan joined the League of Cognac, and is invaded by the Emperor
-# = { # = MLO # = FRA } # Treaty of Cambrai restores the Sforzas and includes renounciation of French claims
-# = {
-	# = SPA
-	# = SPA
-	# = SPA
-} # Annexed to Spain after the last Sforza died
-# = {
-	# = SIC
-	# = SIC
-	# = SIC
-	# = SPA
-}
-# = {
-	# = HAB
-	# = HAB
-	# = HAB
-	# = SIC
-} # Treaty of Baden
-# = {
-	# = SPI
-	# = SPI
-	# = SPI
-	# = HAB
-}
-# = { # = FRA } # Occupied by French troops
-# = {
-	# = FRA
-	# = FRA
-} # Savoie is annexed
-# = { hre = no } # The Holy Roman Empire is dissolved
-# = {
-	# = SPI
-	# = SPI
-	# = FRA
-} # Napoleon abdicates and Victor Emmanuel is able to return to Turin

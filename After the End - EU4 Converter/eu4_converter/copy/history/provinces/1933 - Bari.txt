@@ -1,42 +1,20 @@
 #1933 - Bari
 
-# = NAP
-# = NAP
+#owner = NAP
+#controller = NAP
 culture = neapolitan 
-religion = catholic 
+religion = hellenic_pagan 
 hre = no 
 base_tax = 1
 base_production = 1
-trade_goods = unknown
+trade_goods = wine
 base_manpower = 1
 capital = "Bari"
-is_city = yes # Estimated 
-# = NAP
+is_city = no # Estimated 
+#add_core= NAP
 
 
 
 discovered_by = high_american
 discovered_by = indian
 
-
-
-
-# = { # = FRA } # Angevine claims
-# = { # = FRA } # Charles VIII invades Naples
-# = { # = NAP } # Charles VIII leaves Italy
-# = { # = FRA # = FRA } # France and Aragon partition Naples
-# = { # = ARA # = ARA # = ARA } # France forced to withdraw
-# = { # = FRA } # Treaty of Lyon
-# = {
-	# = SPA
-	# = SPA
-	# = SPA
-	# = ARA
-} # Unification of Spain
-# = {
-	# = HAB
-	# = HAB
-	# = HAB
-	# = SPA
-}
-# = { # = NAP # = NAP # = HAB }

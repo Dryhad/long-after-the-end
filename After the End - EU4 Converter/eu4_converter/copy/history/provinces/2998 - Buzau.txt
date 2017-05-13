@@ -1,47 +1,18 @@
 # - Buzau
 
-# = WAL
-# = WAL  
+#owner = WAL
+#controller = WAL  
 culture = romanian
-religion = orthodox
+religion = hellenic_pagan
 capital = "Buzau"
-trade_goods = unknown
+trade_goods = grain
 hre = no
 base_tax = 1
 base_production = 1
 base_manpower = 1
-is_city = yes
-# = WAL
-discovered_by = KAZ
-discovered_by = CRI
-discovered_by = GOL
-discovered_by = AST
-discovered_by = QAS
+is_city = no
+#add_core= WAL
+
+
 discovered_by = high_american
 discovered_by = indian
-
-
-
-
-# = { unrest = 7 } # Wallachian rising, the Turks & Tatars are expelled
-# = { unrest = 0  } # The Turks take control of most of Wallachia again
-# = { revolt = { type = noble_rebels size = 1 } # = REB } # Boyar rebellions
-# = { revolt = {} # = WAL }
-# = { unrest = 7 } # Cantacuzino is murdered, struggle for power between the boyars
-# = { unrest = 0 } # Period of stability, Constantine Brancoveanu reigns
-# = { capital = "Bucuresti" }
-# = {
-	# = HAB 
-	# = HAB
-	# = HAB
-} # Ceded to Austria
-# = {
-	# = WAL 
-	# = WAL
-	# = HAB
-	# = TUR
-} # The Ottomans regained Wallachia
-# = { # = HAB } # Occupied by Austrian troops
-#  = { # = WAL } # Treaty of Sistova
-# = { # = RUS } # Occupied by Russian troops
-# = { # = WAL } # Treaty of Bucharest

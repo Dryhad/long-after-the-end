@@ -1,84 +1,17 @@
 #157 - Bihar
 
-# = HUN
-# = HUN 
-culture = transylvanian
-religion = orthodox
+#owner = HUN
+#controller = HUN 
+culture = romanian
+religion = hellenic_pagan
 capital = "Oradea"
-trade_goods = unknown
+trade_goods = naval_supplies
 hre = no
 base_tax = 1
 base_production = 1
 base_manpower = 1
-is_city = yes
-# = HUN
-# = TRA
-discovered_by = KAZ
-discovered_by = CRI
-discovered_by = GOL
-discovered_by = AST
-discovered_by = QAS
+is_city = no
+#add_core= HUN
+#add_core= TRA
 discovered_by = high_american
 discovered_by = indian
-
-
-
-
-# = { revolt = { type = anti_tax_rebels size = 0.5 } # = REB } # Szekely rebellion
-# = { revolt = {} # = HUN }
-# = { revolt = { type = anti_tax_rebels size = 0.5 } # = REB } # Peasant rebellion against Hungary's magnates
-# = { revolt = {} # = HUN }
-# = { revolt = { type = anti_tax_rebels size = 1 } # = REB } # Szekely rebellion
-# = { revolt = {} # = HUN }
-# = {
-	# = TRA
-	# = TRA
-	# = HAB
-} # Battle of Mohács, the end of the independent Kingdom of Hungary
-# = { religion = reformed }
-# = {
-	# = HAB
-	# = HAB
-} # Ferdinand gains Transylvania from Treaty of Weissenburg
-# = { # = TRA # = TRA } # Isabella Jagiello is restored as queen of Transylvania
-# = { revolt = { type = nationalist_rebels size = 1 } # = REB } # Szekely rebellion
-# = { revolt = {} # = TRA }
-# = { religion = reformed } # Synod of Debrecen
-# = {
-	fort_15th = no
-	fort_16th = yes
-}
-# = { # = HAB } # Treaty of Speyer, Habsburgs drop claims
-# = {
-	# = WAL
-	# = WAL
-	# = WAL
-} # Battle of Selimbar, Michael the brave gained control
-# = {
-	# = TRA
-	# = TRA
-	# = WAL
-} # Michael is assasinated
-# = { # = HAB # = HAB }
-# = { revolt = { type = nationalist_rebels size = 1 } # = REB } # Estimated, rebellion (Stephen Bocskai) against Austrian rule
-# = { revolt = {} # = TRA # = TRA } # Stephen becomes prince of Transylvania
-# = {
-	fort_16th = no
-	fort_17th = yes
-}
-# = {
-	# = HAB
-}
-# = {
-	# = HAB 
-	# = HAB
-} # Ceded to Austria
-# = { unrest = 6 } # Kuruc rebellion, lead by Francisc Rakoczy
-# = {
-	unrest = 0
-	# = HAB
-	# = HAB
-	# = HAB
-	# = TRA
-} # The treaty of Szatmar
-
