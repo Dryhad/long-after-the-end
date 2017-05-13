@@ -2,9 +2,9 @@
 
 culture = charruan
 discovered_by = south_american
-religion = animism
+religion = candomble
 capital = "Montevideo"
-trade_goods = unknown
+trade_goods = grain
 hre = no
 base_tax = 2 
 base_production = 1
@@ -24,7 +24,7 @@ native_hostileness = 5
 	#controller = SPA
 	#add_core= SPA
 	culture = castillian
-	religion = catholic
+	religion = candomble
 	trade_goods = grain
 } # Portugese colony
 # = {	is_city = no }
