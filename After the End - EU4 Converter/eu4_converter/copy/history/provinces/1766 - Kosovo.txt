@@ -1,38 +1,15 @@
 #1766 - Kosovo
 
-# = SER
-# = SER
+#owner = SER
+#controller = SER
 culture = serbian
-religion = orthodox
+religion = sunni
 capital = "Pristina"
-trade_goods = unknownmines in this area
+trade_goods = gold #Novo Brdo and other Silver mines in this area
 hre = no
 base_tax = 1
 base_production = 1
 base_manpower = 1
-is_city = yes
-estate = estate_church
-# = SER
-discovered_by = KAZ
-discovered_by = CRI
-discovered_by = GOL
-discovered_by = AST
-discovered_by = QAS
+is_city = no
 discovered_by = high_american
 discovered_by = indian
-
-
-
-
-# = {
-	# = TUR
-	# = TUR
-	# = TUR
-}
-# = { unrest = 7 } # Serb rebellion under D. Brankovic
-# = { # = HAB } # Occupied by Austrian forces
-# = { # = TUR }
-# = { revolt = { type = nationalist_rebels size = 1 } # = REB } # Belgrade is occupied by Serbian rebels
-# = { revolt = {} # = TUR }
-# = { revolt = { type = nationalist_rebels size = 1 } # = REB } # The Second Serbian uprising
-# = { revolt = {} # = TUR }

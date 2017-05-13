@@ -1,63 +1,20 @@
 #117 - Siena
 
-# = SIE
-# = SIE
+#owner = SIE
+#controller = SIE
 culture = tuscan 
-religion = catholic 
-hre = yes 
+religion = hellenic_pagan 
+hre = no 
 base_tax = 1
-base_production = 1  
-trade_goods = unknown
-base_manpower = 1  
+base_production = 1
+trade_goods = cloth
+base_manpower = 1
 capital = "Siena" 
-is_city = yes 
-# = SIE
+is_city = no 
+#add_core= SIE
 
 
 
 discovered_by = high_american
 discovered_by = indian
 
-
-
-
-# = { unrest = 3 # = MLO # = MLO } # The city's seigniory given to Gian Galeazzo, Visconti of Milan
-# = { unrest = 0 # = SIE # = SIE } # Visconti is driven out
-# = { hre = no }
-# = { # = SPA # = SPA # = SPA }
-# = { # = FRA # = FRA # = FRA }
-# = { # = SPA # = SPA # = FRA }
-# = {
-	# = LAN
-	# = LAN
-	# = LAN
-	# = SPA
-}
-# = {
-	# = TUS
-	# = TUS
-	# = TUS
-	# = LAN
-}
-# = { fort_16th = yes } #Medicean Walls
-# = { # = ITA } 
-# = {
-	# = FRA
-	# = FRA
-	# = FRA
-} # The Treaty of Lunéville
-# = {
-	# = ETR
-	# = ETR
-	# = ETR
-} # The Kingdom of Etruria
-# = {
-	# = FRA
-	# = FRA
-	# = ETR
-} # Etruria is annexed to France
-# = {
-	# = TUS
-	# = TUS
-	# = FRA
-} # Treaty of Fontainebleu, Napoleon abdicates and Tuscany is restored

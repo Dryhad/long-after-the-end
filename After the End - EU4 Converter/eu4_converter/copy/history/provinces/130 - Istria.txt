@@ -1,43 +1,43 @@
 #130 - Istria
 
-# = VEN
-# = VEN
+#owner = VEN
+#controller = VEN
 culture = croatian
-religion = catholic
+religion = hellenic_pagan
 capital = "Trieste"
-trade_goods = unknowntal Salt imports of Venice
-#trade_goods = unknowng Centre
+trade_goods = salt #Accounted for 1/4 of the total Salt imports of Venice
+#trade_goods = naval_supplies #Major Shipbuilding Centre
 hre = no
 base_tax = 1
 base_production = 1
 base_manpower = 1
-is_city = yes
-# = VEN
+is_city = no
+#add_core= VEN
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL
 discovered_by = AST
 discovered_by = QAS
 discovered_by = high_american
+discovered_by = high_american
+discovered_by = indian
 discovered_by = indian
 
 
-
-
 # = {
-	# = HAB
-	# = HAB
-	# = HAB
+	#owner = HAB
+	#controller = HAB
+	#add_core= HAB
 } # Treaty of Campo Formio
 # = {
-	# = FRA
-	# = FRA
-	# = FRA
-	# = HAB
+	#owner = FRA
+	#controller = FRA
+	#add_core= FRA
+	remove_core = HAB
 } # Treaty of Pressburg
-# = { # = HAB } # Occupied by Austrian forces
+# = { #controller = HAB } # Occupied by Austrian forces
 # = {
-	# = HAB
-	# = HAB
-	# = FRA
+	#owner = HAB
+	#add_core= HAB
+	remove_core = FRA
 } # Napoleon abdicates

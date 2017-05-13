@@ -1,48 +1,48 @@
 #145 - Morea
 
-# = BYZ
-# = BYZ
+#owner = BYZ
+#controller = BYZ
 culture = greek
-religion = orthodox
+religion = hellenic_pagan
 capital = "Mystras"
-trade_goods = unknown
+trade_goods = wine
 hre = no
 base_tax = 1
 base_production = 1
 base_manpower = 1
-is_city = yes
+is_city = no
 estate = estate_nobles
 fort_15th = yes #Castles of the Morea, Monemvasia, etc.
-# = MOE
-# = BYZ
-
-
+#add_core= MOE
+#add_core= BYZ
 
 
 
 discovered_by = indian
+discovered_by = indian
 discovered_by = high_american
-discovered_by = nomad_group
+discovered_by = high_american
+#discovered_by = nomad_group
 
 
 # = {
-	# = MOE
-	# = MOE
-	# = TUR
+	#owner = MOE
+	#controller = MOE
+	#add_core= TUR
 } # The fall of the Byzantine Empire
-# = { # = TUR # = TUR }
-# = { # = VEN }
-# = { # = TUR }
-# = { # = BYZ }
-# = { revolt = { type = nationalist_rebels size = 2 } # = REB } # Rebellion against Ottoman rule
-# = { revolt = {} # = TUR }
+# = { #owner = TUR #controller = TUR }
+# = { #controller = VEN }
+# = { #controller = TUR }
+# = { remove_core = BYZ }
+# = { revolt = { type = nationalist_rebels size = 2 } #controller = REB } # Rebellion against Ottoman rule
+# = { revolt = {} #controller = TUR }
 # = { unrest = 5 } # General discontent with the Janissaries' dominance
 # = { unrest = 0 }
-# = { revolt = { type = nationalist_rebels size = 1 } # = REB } # Rebellion against Ottoman rule
-# = { revolt = {} # = TUR }
-# = { # = VEN } # Occupied by Venice
-# = { base_tax = 1
-base_production = 1 #The Decentralizing Effect of the Provincial System
-# = { # = VEN # = VEN } # Annexed by the Venetian republic
-# = { # = TUR # = TUR # = VEN }
-# = { # = GRE }
+# = { revolt = { type = nationalist_rebels size = 1 } #controller = REB } # Rebellion against Ottoman rule
+# = { revolt = {} #controller = TUR }
+# = { #controller = VEN } # Occupied by Venice
+# = { base_tax = 1 
+base_production = 1 } #The Decentralizing Effect of the Provincial System
+# = { #owner = VEN #add_core= VEN } # Annexed by the Venetian republic
+# = { #owner = TUR #controller = TUR remove_core = VEN }
+# = { #add_core= GRE }

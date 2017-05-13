@@ -1,71 +1,19 @@
 #1951 - Hunyad
 
-# = HUN
-# = HUN 
-culture = transylvanian #Transylvanian Saxons
-religion = catholic
+#owner = HUN
+#controller = HUN 
+culture = romanian #Transylvanian Saxons
+religion = hellenic_pagan
 capital = "Sibiu"
-trade_goods = unknown
+trade_goods = cloth
 estate = estate_burghers
 hre = no
 base_tax = 1
 base_production = 1
 base_manpower = 1
-is_city = yes
+is_city = no
 fort_15th = yes #Fortified Region
-# = HUN
-# = TRA
-discovered_by = KAZ
-discovered_by = CRI
-discovered_by = GOL
-discovered_by = AST
-discovered_by = QAS
+#add_core= HUN
+#add_core= TRA
 discovered_by = high_american
 discovered_by = indian
-
-
-
-# = { revolt = { type = nationalist_rebels size = 2 } # = REB } # Szekely rebellion
-# = { revolt = {} # = HUN } # Estimated
-# = { revolt = { type = anti_tax_rebels size = 0 } # = REB } # Peasant rebellion against Hungary's magnates
-# = { revolt = {} # = HUN } # Estimated, the rebellions is put down by Szapolyiai
-# = {
-	# = TRA 
-	# = TRA
-	# = HAB
-} #Hungary fractured after Battle of Mohacs
-# = { # = TUR }
-# = {
-	# = HAB
-	# = HAB
-} # Ferdinand gains Transylvania from Treaty of Weissenburg
-# = { # = TRA # = TRA } # Isabella Jagiello is restored as queen of Transylvania
-# = { revolt = { type = nationalist_rebels size = 1 } # = REB } # Szekely rebellion
-# = { # = HAB } # End of Ottoman-Habsburg War
-# = { revolt = {} # = TRA } # Estimated
-# = { religion = reformed } # Synod of Debrecen
-# = {
-	# = WAL
-	# = WAL
-	# = WAL
-} # Battle of Selimbar, Michael the brave gained control
-# = {
-	# = TRA
-	# = TRA
-	# = WAL
-} # Michael is assasinated
-# = { # = HAB # = HAB }
-# = { revolt = { type = nationalist_rebels size = 1 } # = REB } # Estimated, rebellion (Stephen Bocskai) against Austrian rule
-# = { revolt = {} # = TRA # = TRA } # Stephen becomes prince of Transylvania
-# = {
-	# = HAB 
-	# = HAB
-	# = HAB
-	# = TUR
-} # Ceded to Austria
-# = { revolt = { type = nationalist_rebels size = 1.5 } # = REB } # Kuruc rebellion, led by Francisc Rakoczy
-# = { revolt = {} # = HAB } # The treaty of Szatmar, Austrian governors replaced the prince of Transylvania
-# = { revolt = { type = heretic_rebels size = 2 } # = REB } # Visarion Sarai stir up an orthodox rebellion against the Uniate church
-# = { revolt = {} # = HAB } # Estimated, Visarion Sarai is arrested and executed
-# = { revolt = { type = anti_tax_rebels size = 2 } # = REB } # Peasant rebellion against the nobles
-# = { revolt = {} # = HAB } # The leaders are arrested and executed

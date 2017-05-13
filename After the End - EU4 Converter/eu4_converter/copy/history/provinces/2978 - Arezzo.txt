@@ -1,54 +1,19 @@
 # - Arezzo
 
-# = LAN
-# = LAN
+#owner = LAN
+#controller = LAN
 culture = tuscan 
-religion = catholic 
-hre = yes 
+religion = hellenic_pagan 
+hre = no 
 base_tax = 1
 base_production = 1
-trade_goods = unknown
+trade_goods = grain
 base_manpower = 1
 capital = "Arezzo" 
-is_city = yes # Estimated 
-# = LAN
+is_city = no # Estimated 
+#add_core= LAN
 
 
 
 discovered_by = high_american
 discovered_by = indian
-
-
-
-
-# = { hre = no }
-# = { # = SPA } # War of the League of Cognac
-# = { # = LAN } # Treaty of Cambrai
-# = {
-	# = TUS
-	# = TUS
-	# = TUS
-	# = LAN
-}
-# = { # = ITA } 
-# = {
-	# = FRA
-	# = FRA
-	# = FRA
-} # The Treaty of Lunéville
-# = {
-	# = ETR
-	# = ETR
-	# = ETR
-} # The Kingdom of Etruria
-# = { hre = no } # The Holy Roman Empire is dissolved
-# = {
-	# = FRA
-	# = FRA
-	# = ETR
-} # Etruria is annexed to France
-# = {
-	# = TUS
-	# = TUS
-	# = FRA
-} # Napoleon abdicates and Tuscany is restored

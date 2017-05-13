@@ -1,25 +1,25 @@
 #112 - Venezia
 
-# = VEN
-# = VEN
+#owner = VEN
+#controller = VEN
 culture = venetian 
-religion = catholic 
+religion = hellenic_pagan 
 hre = no 
 base_tax = 1
 base_production = 1
-trade_goods = unknown
+trade_goods = cloth
 base_manpower = 1
 capital = "Venezia" 
-is_city = yes	# Estimated 
+is_city = no	# Estimated 
 shipyard = yes
-# = VEN
+#add_core= VEN
 
 
 
 discovered_by = high_american
+discovered_by = high_american
 discovered_by = indian
-
-
+discovered_by = indian
 
 extra_cost = 15
 
@@ -29,20 +29,20 @@ add_permanent_province_modifier = {
 }
 
 # = {
-	# = HAB
-	# = HAB
-	# = HAB
+	#owner = HAB
+	#controller = HAB
+	#add_core= HAB
 } # Treaty of Campo Formio
 # = {
-	# = ITA
-	# = ITA
-	# = ITA
-	# = HAB
+	#owner = ITA
+	#controller = ITA
+	#add_core= ITA
+	remove_core = HAB
 } # Treaty of Pressburg
 # = { hre = no } # The Holy Roman Empire is dissolved
 # = {
-	# = HAB
-	# = HAB
-	# = HAB
-	# = ITA
+	#owner = HAB
+	#controller = HAB
+	#add_core= HAB
+	remove_core = ITA
 } # Treaty of Fontainebleau, Napoleon abdicates unconditionally

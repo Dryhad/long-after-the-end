@@ -1,37 +1,20 @@
 #119 - Ancona
 
-# = PAP
-# = PAP
+#owner = PAP
+#controller = PAP
 culture = umbrian 
-religion = catholic 
+religion = hellenic_pagan 
 hre = no 
 base_tax = 1
-base_production = 1  
-trade_goods = unknown
-base_manpower = 1  
+base_production = 1
+trade_goods = fish
+base_manpower = 1
 capital = "Ancona" 
-is_city = yes 
-estate = estate_burghers #Or nobles
-# = PAP
+is_city = no 
+#add_core= PAP
 
 
 
 discovered_by = high_american
 discovered_by = indian
 
-
-
-
-# = { # = ITA }
-# = {
-	# = FRA
-	# = FRA
-	# = FRA
-	# = PAP
-} # Treaty of Pressburg
-# = {
-	# = PAP
-	# = PAP
-	# = PAP
-	# = FRA
-} # Treaty of Fontainebleau, Napoleon abdicates unconditionally

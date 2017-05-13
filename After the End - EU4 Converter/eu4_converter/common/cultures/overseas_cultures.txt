@@ -31,11 +31,11 @@ british = {
 		dynasty_names = $british$
 	}
 }
-#brazillian
+#brazilian
 iberian = {
 	brazilian = {
 		primary = BRZ
-		dynasty_names = $brazillian$
+		dynasty_names = $brazilian$
 	}
 }
 #novorusskiy

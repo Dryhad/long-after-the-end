@@ -1,40 +1,43 @@
 #160 - Oltenia
 
-# = WAL
-# = WAL 
+#owner = WAL
+#controller = WAL 
 culture = romanian
-religion = orthodox
+religion = hellenic_pagan
 capital = "Craiova"
-trade_goods = unknown
+trade_goods = wool
 hre = no
 base_tax = 1
 base_production = 1
 base_manpower = 1
 estate = estate_nobles
-is_city = yes
-# = WAL
+is_city = no
+#add_core= WAL
+
+
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL
 discovered_by = AST
 discovered_by = QAS
 discovered_by = high_american
+discovered_by = high_american
+discovered_by = indian
 discovered_by = indian
 
 
-
-
-# = { revolt = { type = noble_rebels size = 2 } # = REB } # Boyar rebellions
-# = { revolt = {} # = WAL }
+# = { revolt = { type = noble_rebels size = 2 } #controller = REB } # Boyar rebellions
+# = { revolt = {} #controller = WAL }
 # = { unrest = 7 } # Cantacuzino is murdered, struggle for power between the boyars
 # = { unrest = 0 } # Period of stability, Constantine Brancoveanu reigns
 # = {
-	# = HAB
-	# = HAB
-	# = HAB
+	#owner = HAB
+	#controller = HAB
+	#add_core= HAB
+	remove_core = TUR
 } # Treaty of Passarowitz, Banat & Oltenia passed to the Habsburg empire
-# = { # = WAL # = WAL # = HAB } # Returned to Wallachia after the Russian-Austrian-Turkish war
-# = { # = HAB } # Occupied by Austrian troops
-# = { # = WAL } # Treaty of Sistova
-# = { # = RUS } # Occupied by Russian troops
-# = { # = WAL } # Treaty of Bucharest
+# = { #owner = WAL #controller = WAL remove_core = HAB } # Returned to Wallachia after the Russian-Austrian-Turkish war
+# = { #controller = HAB } # Occupied by Austrian troops
+# = { #controller = WAL } # Treaty of Sistova
+# = { #controller = RUS } # Occupied by Russian troops
+# = { #controller = WAL } # Treaty of Bucharest

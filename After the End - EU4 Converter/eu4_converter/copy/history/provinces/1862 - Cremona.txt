@@ -1,62 +1,19 @@
 #1862 - Cremona
 
-# = MLO
-# = MLO
+#owner = MLO
+#controller = MLO
 culture = lombard
-religion = catholic
-hre = yes
+religion = hellenic_pagan
+hre = no
 base_tax = 1
 base_production = 1
-trade_goods = unknown
+trade_goods = grain
 base_manpower = 1
 capital = "Cremona"
-is_city = yes	# Estimated
-# = MLO
+is_city = no	# Estimated
+#add_core= MLO
 
 
 
 discovered_by = high_american
 discovered_by = indian
-
-
-
-
-# = { hre = no }
-# = { # = FRA } # Louis XII of France invades...
-# = { # = FRA # = FRA } # ...and seizes Milan, Treaty of Lyon
-# = { # = MLO # = MLO } # Massimiliano Sforza restored by the Swiss
-# = { # = FRA } # Francis I of France invades...
-# = { # = FRA } # ...and seizes Milan, Treaty of Noyon
-# = { # = SPA } # The Spanish invades...
-# = { # = MLO # = MLO } # ...and restores the Sforzas
-# = { # = HAB } # Milan joined the League of Cognac, and is invaded by the Emperor
-# = { # = MLO # = FRA } # Treaty of Cambrai restores the Sforzas
-# = {
-	# = SPA
-	# = SPA
-	# = SPA
-} # Annexed to Spain after the last Sforza died
-# = {
-	# = HAB
-	# = HAB
-	# = HAB
-	# = SPA
-} # Treaty of Baden
-# = {
-	# = MLO
-	# = MLO
-	# = HAB
-} # Transpadane Republic
-# = {
-	# = ITA
-	# = ITA
-	# = ITA
-} # Cisalpine Republic
-# = { hre = no } # The Holy Roman Empire is dissolved
-# = {
-	# = HAB
-	# = HAB
-	# = HAB
-	# = ITA
-} # Treaty of Fontainebleau, Napoleon abdicates unconditionally
-# = { revolt = { type = nationalist_rebels size = 2 } # = REB } # The Milan insurrection

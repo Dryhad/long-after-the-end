@@ -1,35 +1,20 @@
 #106 - Modena
 
-# = FER
-# = FER
+#owner = FER
+#controller = FER
 culture = romagnan 
-religion = catholic 
-hre = yes 
+religion = hellenic_pagan 
+hre = no 
 base_tax = 1
 base_production = 1
-trade_goods = unknown
+trade_goods = grain
 base_manpower = 1
 capital = "Modena" 
-is_city = yes	# Estimated 
-# = FER
-# = MOD
+is_city = no	# Estimated 
+#add_core= FER
+#add_core= MOD
 
 
 
 discovered_by = high_american
 discovered_by = indian
-
-
-
-
-# = { hre = no }
-# = {
-	# = MOD
-	# = MOD
-}
-# = {
-	# = ITA
-	# = ITA
-	# = ITA
-} # Transpadane and Cispadane Merge
-# = { # = MOD # = MOD # = ITA }

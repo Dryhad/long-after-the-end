@@ -1,62 +1,62 @@
 #110 - Trent
 
-# = HAB
-# = HAB
-# = HAB
-# = TIR
+#owner = HAB
+#controller = HAB
+#add_core= HAB
+#add_core= TIR
 culture = venetian
-religion = catholic
-hre = yes
+religion = hellenic_pagan
+hre = no
 base_tax = 1
 base_production = 1
-trade_goods = unknown
+trade_goods = iron 
 base_manpower = 1
 capital = "Trent"
 estate = estate_church
-is_city = yes
+is_city = no
 discovered_by = high_american
+discovered_by = high_american
+discovered_by = indian
 discovered_by = indian
 
 
-
-
 # = {
-	# = STY
-	# = STY
-	# = STY
+	#owner = STY
+	#controller = STY
+	#add_core= STY
 }
 # = {	
-	# = HAB
-	# = HAB
-	# = STY
+	#owner = HAB
+	#controller = HAB
+	remove_core = STY
 }
-# = { base_manpower = 1 # Landslibell - Tyrolean's only military duty is the defence of their homeland. 
+# = { base_manpower = 1 } # Landslibell - Tyrolean's only military duty is the defence of their homeland. 
 # = { unrest = 8 }
 # = { unrest = 0 }
-# = { base_manpower = 1 #Ferdinand I dies, Habsburgs split in 3 lines
-# = { base_tax = 1
-base_production = 1 #Minting moves from Meran to Hall
-# = { base_tax = 1
-base_production = 1 #Maximilian's economic reforms
+# = { base_manpower = 1 } #Ferdinand I dies, Habsburgs split in 3 lines
+# = { base_tax = 3 
+base_production = 3 } #Minting moves from Meran to Hall
+# = { base_tax = 4 
+base_production = 4 } #Maximilian's economic reforms
 # = { 
-	# = HAB
-	# = HAB
-	base_manpower = 1
+	#owner = HAB
+	#controller = HAB
+	base_manpower = 1 
 }# base_manpower decreased as Landslibell is still in effect under foreign governance
 # = {	
-	# = BAV
-	# = BAV
-	# = BAV
-	# = HAB
+	#owner = BAV
+	#controller = BAV
+	#add_core= BAV
+	remove_core = HAB
 } # The Treaty of Pressburg
 # = { hre = no } # The Holy Roman Empire is dissolved
-# = {	# = ITA
-	# = ITA
-	# = ITA
-	# = BAV
+# = {	#owner = ITA
+	#controller = ITA
+	#add_core= ITA
+	remove_core = BAV
 } # Incorporated into the Kingdom of Italy after the treaty of Schönbrunn
-# = {	# = HAB
-	# = HAB
-	# = HAB
-	# = ITA
+# = {	#owner = HAB
+	#controller = HAB
+	#add_core= HAB
+	remove_core = ITA
 } # Treaty of Fontainebleau, Napoleon abdicates unconditionally

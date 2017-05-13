@@ -1,45 +1,21 @@
 # - Salerno
 
-# = NAP
-# = NAP
+#owner = NAP
+#controller = NAP
 culture = neapolitan 
-religion = catholic 
+religion = hellenic_pagan 
 hre = no 
 base_tax = 1
 base_production = 1
-trade_goods = unknown
+trade_goods = fish 
 base_manpower = 1
 capital = "Salerno" 
 estate = estate_nobles
-is_city = yes	# Estimated
-# = NAP
+is_city = no	# Estimated
+#add_core= NAP
 
 
 
 discovered_by = high_american
 discovered_by = indian
 
-
-
-
-# = { # = FRA } # Angevine claims
-# = { # = FRA } # Charles VIII takes Napoli
-# = { # = NAP } # Charles VIII leaves Italy
-# = { # = FRA # = FRA } # France and Aragon partitions Naples
-# = { # = ARA # = ARA # = ARA } # France forced to withdraw
-# = { # = FRA } # The Treaty of Lyon in 1504
-# = {
-	# = SPA
-	# = SPA
-	# = SPA
-	# = ARA
-} # Unification of Spain
-# = {
-	# = HAB
-	# = HAB
-	# = HAB
-	# = SPA
-}
-# = { # = NAP # = NAP # = HAB }
-# = { # = FRA } # French troops invade
-# = { # = NAP } # Joseph Bonaparte becomes king of the new Kingdom of Naples

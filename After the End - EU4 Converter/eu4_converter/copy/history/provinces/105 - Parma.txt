@@ -1,55 +1,21 @@
 #105 - Parma
 
-# = MLO
-# = MLO
+#owner = MLO
+#controller = MLO
 culture = romagnan 
-religion = catholic 
-hre = yes 
+religion = hellenic_pagan 
+hre = no 
 base_tax = 1
 base_production = 1
-trade_goods = unknown
+trade_goods = grain
 base_manpower = 1
 capital = "Parma" 
 estate = estate_nobles
-is_city = yes	# Estimated 
-# = MLO
-# = PAR
+is_city = no	# Estimated 
+#add_core= MLO
+#add_core= PAR
 
 
 
 discovered_by = high_american
 discovered_by = indian
-
-
-
-
-# = { hre = no }
-# = { # = FRA } # Louis XII of France invades...
-# = { # = FRA # = FRA } # ...and seizes Milan (and Parma)
-# = { # = PAP # = PAP # = PAP } # Papal control
-# = { # = FRA } # French occupation
-# = { # = FRA } # The Pope makes peace
-# = { # = PAP # = PAP # = FRA }
-# = { # = PAR # = PAR } # Duchy created for the son of Pope Paul III.
-# = { fort_16th = yes }
-# = {
-	# = HAB
-	# = HAB
-	# = HAB
-}
-# = {
-	# = PAR
-	# = PAR
-	# = HAB
-}
-# = {
-	# = FRA
-	# = FRA
-	# = FRA
-} # Treaty of Aranjuez, ceded to France
-# = { hre = no } # The Holy Roman Empire is dissolved
-# = {
-	# = PAR
-	# = PAR
-	# = FRA
-} # Treaty of Fontainebleau, Napoleon abdicates unconditionally

@@ -1,44 +1,4 @@
-#140 - Core of Bosnian kingdom, Soli+Usora+Most of Vrhbosna
+#140 - Balkan Waste
 
-#owner = BOS # Part of the Bosnian kingdom
-#controller = BOS
-culture = serbian
-religion = matrem
-capital = "Doboj" #or Srebrenik
-trade_goods = unknown
-hre = no
-base_tax = 1
-base_production = 1
-base_manpower = 1
-is_city = no
-#add_core= BOS
-discovered_by = KAZ
-discovered_by = CRI
-discovered_by = GOL
-discovered_by = AST
-discovered_by = QAS
-discovered_by = high_american
 discovered_by = high_american
 discovered_by = indian
-discovered_by = indian
-
-
-# = {
-	#owner = TUR
-	#controller = TUR
-	#add_core= TUR
-} # The Ottoman province of Bosnia
-# = { fort_16th = yes }
-# = { unrest = 3 } # Fighting began in northwestern Bosnia, sparked Habsburg-Ottoman conflict
-# = { unrest = 0 } # Temporarty peace
-# = { unrest = 6 } # Heavy fighting & destruction in western Bosnia
-# = { unrest = 0 } # Flood of Muslim refugees from Slavonia & Ottoman Hungary 
-# = { #controller = HAB } # Occupied by Habsburg
-# = { #controller = TUR }
-# = { #controller = HAB } # Occupied by Habsburg again
-# = { unrest = 5 } # The constant fighting, increased taxation caused tax revolts
-# = { #controller = TUR } # Treaty of Belgrade, Habsburg gave up its claim to the territory
-# = { unrest = 8 }
-# = { unrest = 0 }
-# = { #controller = HAB } # Habsburg invasion
-# = { #controller = TUR } # Treaty of Sistova

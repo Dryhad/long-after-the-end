@@ -1,51 +1,15 @@
 #1773 - Achaea
 
-# = ACH
-# = ACH
+#owner = ACH
+#controller = ACH
 culture = greek
-religion = orthodox
+religion = hellenic_pagan
 capital = "Nafplio"
-trade_goods = unknown
+trade_goods = wine
 hre = no
 base_tax = 1
 base_production = 1
 base_manpower = 1
-is_city = yes
-# = ACH
-# = MOE
-# = BYZ
-
-
-
-
-
+is_city = no
 discovered_by = indian
 discovered_by = high_american
-discovered_by = nomad_group
-
-
-# = {
-	# = BYZ
-	# = BYZ
-} # To Morea
-# = {
-	# = ACH
-	# = ACH
-} # The fall of the Byzantine Empire
-# = { # = MOE # = MOE # = ACH }
-# = { # = TUR # = TUR # = TUR }
-# = { # = VEN }
-# = { # = TUR }
-# = { # = BYZ }
-# = { revolt = { type = nationalist_rebels size = 1 } # = REB } # Rebellion against the Ottoman rule
-# = { revolt = {} # = TUR }
-# = { unrest = 5 } # General discontent with the Janissaries' dominance
-# = { unrest = 0 }
-# = { revolt = { type = nationalist_rebels size = 1 } # = REB } # Rebellion against Ottoman rule
-# = { revolt = {} # = TUR } # Estimated
-# = { # = VEN } # Occupied by Venice
-# = { base_tax = 1
-base_production = 1 #The Decentralizing Effect of the Provincial System
-# = { # = VEN # = VEN } # Annexed by the Venetian republic
-# = { # = TUR # = TUR # = VEN }
-# = { # = GRE }
