@@ -3,7 +3,7 @@
 culture = filipino
 religion = cult_of_saints
 capital = "Tondo"
-trade_goods = unknown
+trade_goods = sugar
 hre = no
 base_tax = 5
 base_production = 5
@@ -15,23 +15,3 @@ native_hostileness = 9
 
 
 discovered_by = chinese
-
-# = { discovered_by = SPA } # Ferdinand Magellan 
-
-# = {
-	#owner = SPA
-	#controller = SPA
-	culture = castillian
-	religion = catholic
-}
-# = { 
-	#add_core= SPA 
-	is_city = no 
-	trade_goods = sugar 
-}
-# = {
-	#controller = GBR
-	unrest = 6
-} # Captured by the British East India Company. Diego Silang rebellion
-# = { #controller = SPA } # Spain regained control
-# = { unrest = 0 } # The revolts are defeated
