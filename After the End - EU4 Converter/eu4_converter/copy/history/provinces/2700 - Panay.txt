@@ -1,7 +1,7 @@
 #2700 - Panay
 
 culture = filipino
-religion = animism
+religion = cult_of_saints
 capital = "Panay"
 trade_goods = sugar
 hre = no

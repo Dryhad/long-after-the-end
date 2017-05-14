@@ -1,7 +1,7 @@
 #658 - Cagayan
 
 culture = filipino
-religion = animism
+religion = cult_of_saints
 capital = "Cagayan"
 trade_goods = unknown
 hre = no
@@ -11,17 +11,3 @@ base_manpower = 2
 native_size = 50
 native_ferocity = 1
 native_hostileness = 3
-
-
-
-discovered_by = chinese
-
-# = { discovered_by = SPA } # Ferdinand Magellan
-
-# = {	#owner = SPA
-	#controller = SPA
-	culture = castillian
-	religion = catholic
-	capital = "Nueva Segovia"
-}
-# = { #add_core= SPA trade_goods = grain is_city = no }
