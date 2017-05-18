@@ -17,15 +17,3 @@ is_city = no
 
 discovered_by = chinese
 discovered_by = indian
-discovered_by = indian
-discovered_by = indian
-
-# = { discovered_by = POR }
-
-# = { revolt = { type = revolutionary_rebels size = 0 } #controller = REB } # Civil war over succession
-# = { revolt = {} #controller = BEI }
-# = {	#owner = SUL
-	#controller = SUL
-	#add_core= SUL
-	remove_core = BEI
-} # Ceded to the Sultanate of Sulu

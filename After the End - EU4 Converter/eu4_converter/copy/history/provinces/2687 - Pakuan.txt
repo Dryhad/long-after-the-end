@@ -4,7 +4,7 @@
 #controller = SUN
 #add_core= SUN
 culture = javanese
-religion = hinduism
+religion = sunni
 capital = "Pakuan"
 trade_goods = spices
 hre = no
@@ -17,18 +17,3 @@ is_city = no
 
 discovered_by = chinese
 discovered_by = indian
-discovered_by = indian
-discovered_by = indian
-
-# = { discovered_by = POR }
-
-# = {
-	#owner = BAN
-	#controller = BAN
-	#add_core= BAN
-	is_city = no
-	remove_core = SUN
-} # Conquered by the Cirebonese Army and Banten Sultanate was established
-# = { religion = sunni }
-# = { discovered_by = ENG } # English settlement
-# = { discovered_by = GBR }

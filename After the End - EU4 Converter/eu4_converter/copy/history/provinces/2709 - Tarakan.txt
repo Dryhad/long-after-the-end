@@ -3,7 +3,7 @@
 #owner = KUT
 #controller = KUT
 culture = bornean
-religion = hinduism
+religion = sunni
 capital = "Tarakan"
 trade_goods = fish
 hre = no
@@ -17,14 +17,3 @@ is_city = no
 
 discovered_by = chinese
 discovered_by = indian
-discovered_by = indian
-discovered_by = indian
-
-# = { discovered_by = POR }
-
-# = { religion = sunni }
-# = {	#owner = SUL
-	#controller = SUL
-	#add_core= SUL
-	remove_core = KUT
-} # Ceded to the Sultanate of Sulu

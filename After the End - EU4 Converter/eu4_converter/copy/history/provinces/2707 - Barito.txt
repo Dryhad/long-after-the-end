@@ -1,9 +1,9 @@
 #2707 - Barito
 
 culture = bornean
-religion = hinduism
+religion = sunni
 capital = "Barito"
-trade_goods = unknown
+trade_goods = spices
 hre = no
 base_tax = 3
 base_production = 3
@@ -16,16 +16,3 @@ native_hostileness = 5
 
 discovered_by = chinese
 discovered_by = indian
-discovered_by = indian
-discovered_by = indian
-
-# = { discovered_by = POR }
-
-# = {
-	#owner = BNJ
-	#controller = BNJ
-	#add_core= BNJ
-	is_city = no
-	religion = sunni
-	trade_goods = spices
-} # Banjar Sultanate was founded

@@ -17,12 +17,3 @@ is_city = no
 
 discovered_by = chinese
 discovered_by = indian
-discovered_by = indian
-discovered_by = indian
-
-# = { discovered_by = SPA }
-
-# = { #owner = SPA #controller = SPA } # Captured by Spain
-# = { #owner = BEI #controller = BEI }
-# = { revolt = { type = revolutionary_rebels size = 2 } #controller = REB } # Civil war over succession
-# = { revolt = {} #controller = BEI }

@@ -4,7 +4,7 @@
 #controller = MAJ
 #add_core= MAJ
 culture = javanese
-religion = hinduism
+religion = sunni
 capital = "Kediri"
 trade_goods = fish
 hre = no
@@ -17,27 +17,3 @@ is_city = no
 
 discovered_by = chinese
 discovered_by = indian
-discovered_by = indian
-discovered_by = indian
-
-# = { discovered_by = POR }
-
-# = {
-	#owner = DMK
-	#controller = DMK
-	#add_core= DMK
-	remove_core = MAJ
-} # Demak Sultanate conquered Majapahit
-# = { religion = sunni }
-# = {
-	#owner = BLM
-	#controller = BLM
-	#add_core= BLM
-	remove_core = DMK
-} # The Fall of Demak Sultanate
-# = {
-	#owner = MTR
-	#controller = MTR
-	#add_core= MTR
-	remove_core = BLM
-} # Mataram conquered Surabaya after several years of struggle

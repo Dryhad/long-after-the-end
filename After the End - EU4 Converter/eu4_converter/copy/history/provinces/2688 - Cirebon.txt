@@ -4,7 +4,7 @@
 #controller = SUN
 #add_core= SUN
 culture = javanese
-religion = hinduism
+religion = sunni
 capital = "Cirebon"
 trade_goods = spices
 hre = no
@@ -17,18 +17,3 @@ is_city = no
 
 discovered_by = chinese
 discovered_by = indian
-discovered_by = indian
-discovered_by = indian
-
-
-# = {
-	#owner = CRB
-	#controller = CRB
-	#add_core= CRB
-	remove_core = SUN
-	religion = sunni
-}
-# = { discovered_by = POR }
-# = { discovered_by = NED } # The Dutch arrived
-# = { unrest = 5 } # Rebellion against Mataram rule
-# = { unrest = 0 }
