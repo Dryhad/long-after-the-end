@@ -456,16 +456,16 @@ on_battle_lost_country = {
 		}
 		FROM = { country_event = { id = saints.8 } }
 	}
-	#Elder Sora
+	#Maria Kannon
 	if = {
 		limit = {
 			ROOT = {
-				NOT = { has_unlocked_cult = elder_sora }
+				NOT = { has_unlocked_cult = maria_kannon }
 				religion = cult_of_saints
 			}
 			FROM = {
 				religion = cult_of_saints
-				has_unlocked_cult = elder_sora
+				has_unlocked_cult = maria_kannon
 			}
 		}
 		ROOT = { country_event = { id = saints.9 } }
@@ -473,12 +473,12 @@ on_battle_lost_country = {
 	if = {
 		limit = {
 			FROM = {
-				NOT = { has_unlocked_cult = elder_sora }
+				NOT = { has_unlocked_cult = maria_kannon }
 				religion = cult_of_saints
 			}
 			ROOT = {
 				religion = cult_of_saints
-				has_unlocked_cult = elder_sora
+				has_unlocked_cult = maria_kannon
 			}
 		}
 		FROM = { country_event = { id = saints.9 } }
