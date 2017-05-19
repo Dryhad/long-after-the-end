@@ -177,7 +177,7 @@ country_event = {
 		unlock_cult = jose_rizal 
 	}
 }
-#Discovering Elder Sora
+#Discovering Maria Kannon
 country_event = {
 	id = saints.9
 	title = saints.9.t
@@ -196,7 +196,7 @@ country_event = {
 
 	option = {
 		name = saints.9.a
-		unlock_cult = elder_sora 
+		unlock_cult = maria_kannon 
 	}
 }
 #Unlocking cults from other religions
@@ -582,7 +582,7 @@ country_event = {
 		unlock_cult = jose_rizal
 	}
 }
-#Unlocking Elder Sora
+#Unlocking Maria Kannon
 country_event = {
 	id = saints.19
 	title = saints.9.t
@@ -592,10 +592,10 @@ country_event = {
 	trigger = {
 		religion = cult_of_saints
 		has_dlc = "Rights of Man"
-		NOT = { has_unlocked_cult = elder_sora }
+		NOT = { has_unlocked_cult = maria_kannon }
 		any_neighbor_country = {
 			religion = cult_of_saints
-			has_adopted_cult = elder_sora
+			has_adopted_cult = maria_kannon
 		}
 	}
 
@@ -605,7 +605,7 @@ country_event = {
 
 	option = {
 		name = saints.9.a
-		unlock_cult = elder_sora
+		unlock_cult = maria_kannon
 	}
 }
 #Unlocking cults from other religions
