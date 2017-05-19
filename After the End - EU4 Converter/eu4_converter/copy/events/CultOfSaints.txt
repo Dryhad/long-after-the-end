@@ -177,7 +177,7 @@ country_event = {
 		unlock_cult = jose_rizal 
 	}
 }
-#Discovering Maria Kannon
+#Discovering Elder Sora
 country_event = {
 	id = saints.9
 	title = saints.9.t
@@ -196,7 +196,7 @@ country_event = {
 
 	option = {
 		name = saints.9.a
-		unlock_cult = maria_kannon 
+		unlock_cult = elder_sora 
 	}
 }
 #Unlocking cults from other religions
@@ -582,7 +582,7 @@ country_event = {
 		unlock_cult = jose_rizal
 	}
 }
-#Unlocking Maria Kannon
+#Unlocking Elder Sora
 country_event = {
 	id = saints.19
 	title = saints.9.t
@@ -592,10 +592,10 @@ country_event = {
 	trigger = {
 		religion = cult_of_saints
 		has_dlc = "Rights of Man"
-		NOT = { has_unlocked_cult = maria_kannon }
+		NOT = { has_unlocked_cult = elder_sora }
 		any_neighbor_country = {
 			religion = cult_of_saints
-			has_adopted_cult = maria_kannon
+			has_adopted_cult = elder_sora
 		}
 	}
 
@@ -605,7 +605,7 @@ country_event = {
 
 	option = {
 		name = saints.9.a
-		unlock_cult = maria_kannon
+		unlock_cult = elder_sora
 	}
 }
 #Unlocking cults from other religions
@@ -955,5 +955,48 @@ country_event = {
 	option = {
 		name = saints.28.a
 		unlock_cult = machine_saints
+	}
+}
+
+#Setting up cults for converted countries
+country_event = {
+	id = saints.100
+	title = saints.100.t
+	desc = saints.100.t
+	picture = POPE_PREACHING_eventPicture #Never Seen
+	
+	hidden = yes
+	
+	is_triggered_only = yes
+	
+	trigger = {
+		has_dlc = "Rights of Man"
+		religion = cult_of_saints
+		OR = {
+			ruler_has_personality = marian_personality
+			ruler_has_personality = gracia_personality
+		}
+	}
+	
+	immediate = {
+		if = {
+			limit = {
+				ruler_has_personality = gracia_personality
+			}
+			change_technology_group = ottoman
+			remove_ruler_personality = gracia_personality
+		}
+		if = {
+			limit = {
+				ruler_has_personality = marian_personality
+				technology_group = ottoman
+			}
+			change_technology_group = muslim
+			remove_ruler_personality = marian_personality
+		}
+	}
+	
+	option = {
+		name = "OK"
 	}
 }
