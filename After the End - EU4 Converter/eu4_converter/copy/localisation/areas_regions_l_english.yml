@@ -2606,5 +2606,21 @@
  nambia_area:0 "Nambia"
  nambia_area_name:0 "Nambia"
  nambia_area_adj:0 "Nambian"
+ kern_area:0 "Kern"
+ kern_area_name:0 "`Kern"
+ kern_area_adj:0 "Kernan"
+ los_padres_area:0 "Los Padres"
+ los_padres_area_name:0 "Los Padres"
+ los_padres_area_adj:0 "Los Padre"
+ central_valley_area:0 "Central Valley"
+ central_valley_area_name:0 "Central Valley"
+ central_valley_area_adj:0 "Central Valleyan"
+ wineland_area:0 "Wineland"
+ wineland_area_name:0 "Wineland"
+ wineland_area_adj:0 "Winelander"
+ motherlode_area:0 "Motherlode"
+ motherlode_area_name:0 "Motherlode"
+ motherlode_area_adj:0 "Motherlodian"
+
 
 

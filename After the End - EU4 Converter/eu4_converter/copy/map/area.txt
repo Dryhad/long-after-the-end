@@ -3060,13 +3060,13 @@ arizona_area = { #4
     867 876 879 2491
 }
 
-california_area = { #5
-    868 871 869 2021 2476
-}
+# california_area = { #5
+    # 868 871 869 2021 2476
+# }
  
-central_valley_area = { #5
-    870 2477 2478 2479 2480
-}
+# central_valley_area = { #5
+    # 870 2477 2478 2479 2480
+# }
 
 baja_california_area = { #4
     865 866 2620 
@@ -3170,15 +3170,31 @@ windward_islands_area = { #5
 #California
 
 gran_francisco_area = {
-	871 2021 4595 4596
+	2021 4595 4596
+}
+
+wineland_area = {
+	4676 4658 871
 }
 
 salinas_area = {
-	4504 869 868
+	4504 869 4735 4550
 }
 
-south_valley_area = {
-	4503 4505 870 4506
+south_valley_area = {	#Central Valley
+	2537 4575 4505 
+}
+
+kern_area = {
+	870 4739 4506
+}
+
+motherlode_area = {
+	4598 4740 4503 4502
+}
+
+los_padres_area = {
+	868 4736 4737
 }
 
 socal_area = {
@@ -3186,7 +3202,7 @@ socal_area = {
 }
 
 north_valley_area = {
-	4501 2480 2479 4502
+	4501 2480 2479 4738
 }
 
 redwoods_area = {
@@ -3425,7 +3441,7 @@ south_carolina_area = { #Lowcountry
 }
 
 santee_area = {
-	4659 4658 4655 4653 4654 2541 
+	4659 4655 4653 4654 2541 
 }
 
 american_georgia_area = { 
