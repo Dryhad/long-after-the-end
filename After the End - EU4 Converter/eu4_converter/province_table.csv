@@ -1406,31 +1406,31 @@ c_modoc;4514;4514 - Lassen; Modoc - Lassen
 d_sacramento;4502;4502 - Sacramento;Duchy Sacramento - Sacramento
 c_sacramento;4502;4502 - Sacramento;Sacramento - Sacramento
 
-d_motherlode;4503;4503 - Motherlode;Duchy Motherlode - Motherlode
-c_san_joaquin;4503;4503 - Motherlode;San Joaquin - Motherlode
-c_dorado;4503;4503 - Motherlode;Dorado - Motherlode
-c_tuolumne;4503;4503 - Motherlode;Tuolumne - Motherlode
-c_tahoe;4503;4503 - Motherlode;Tahoe - Motherlode
+d_motherlode;4503;4503 - Motherlode;Duchy Motherlode - El Dorado
+c_san_joaquin;4598;4598 - San Joaquin;San Joaquin - San Joaquin
+c_dorado;4503;4503 - Motherlode;Dorado - El Dorado
+c_tuolumne;4740;4740 - Tuolumne;Tuolumne - Tuolumne
+c_tahoe;4503;4503 - Motherlode;Tahoe - El Dorado
 
-d_north_valley;2479;2479 - Maidu;North Valley - Maidu
+d_north_valley;2479;2479 - Maidu;North Valley - Sutter
 c_yuba;2479;2479 - Maidu;Yuba - Maidu
 c_butte;2479;2479 - Maidu;Butte - Maidu
-c_colusa;2479;2479 - Maidu;Colusa - Maidu
-c_glenn;2479;2479 - Maidu;Glenn - Maidu
-c_yolo;2479;2479 - Maidu;Yolo - Maidu
+c_colusa;4738;4738 - Glenn;Colusa - Glenn
+c_glenn;4738;4738 - Glenn;Glenn - Glenn
+c_yolo;4738;4738 - Glenn;Yolo - Glenn
 
-d_central_valley;870;870 - Yorkuts;Central Valley - Yorkuts
-c_fresno;870;870 - Yorkuts;Fresno - Yorkuts
-c_madera;870;870 - Yorkuts;Madera - Yorkuts
+d_central_valley;2437;2537 - Hitchiti;Central Valley - Fresno
+c_fresno;2437;2537 - Hitchiti;Fresno - Fresno
+c_madera;4505;4505 - Mariposa;Madera - Mariposa
 
-c_mariposa;4505;4505 - Central Valley;Marioposa - Central Valley
-c_stanislaus;4505;4505 - Central Valley;Stanislaus - Central Valley
+c_mariposa;4505;4505 - Mariposa;Mariposa - Mariposa
+c_stanislaus;4575;4575 - Stanislaus;Stanislaus - Stanislaus
 
-d_kern;4506;4506 - Kern; Duchy Kern - Kern
-c_bako;4506;4506 - Kern;Bako - Kern
-c_avenal;4506;4506 - Kern;Avenal - Kern
-c_tollhouse;4506;4506 - Kern;Tollhouse - Kern
-c_tulare;4506;4506 - Kern;Tulare - Kern
+d_kern;4506;4506 - Kern; Duchy Kern - Bako
+c_bako;4506;4506 - Kern;Bako - Bako
+c_avenal;4739;4739 - Avenal;Avenal - Avenal
+c_tollhouse;870;870 - Yorkuts;Tollhouse - Tulare
+c_tulare;870;870 - Yorkuts;Tulare - Tulare
 
 d_death_valley;4513;4513 - Death Valley;Duchy Death Valley - Death Valley
 c_inyo;4513;4513 - Death Valley;Inyo - Death Valley
@@ -1439,11 +1439,11 @@ c_ridgecrest;4513;4513 - Death Valley;Ridgecrest - Death Valley
 
 # Gran Francisco
 
-d_wineland;871;871 - Pomo;Wineland - Pomo
-c_napa;871;871 - Pomo;Napa - Pomo
-c_lake;871;871 - Pomo;Lake - Pomo
-c_sonoma;871;871 - Pomo;Sonoma - Pomo
-c_solano;871;871 - Pomo;Solano - Pomo
+d_wineland;4676;4676 - Napa;Wineland - Napa
+c_napa;4676;4676 - Napa;Napa - Napa
+c_lake;4676;4676 - Napa;Lake - Napa
+c_sonoma;871;871 - Pomo;Sonoma - Sonoma
+c_solano;4658;4658 - Saluda;Solano - Saluda
 
 d_goldengate;2021;2021 - Miwok;Goldengate - Miwok
 c_san_francisco;2021;2021 - Miwok;San Francisco - Miwok
@@ -1456,21 +1456,22 @@ c_contra_costa;4595;4595 - Hayward;Contra Costa - Hayward
 
 d_salinas;4504;4504 - Santa Cruz;Duhcy Salinas - Santa Cruz
 c_santa_cruz;4504;4504 - Santa Cruz;Santa Cruz - Santa Cruz
-c_monterey;4504;4504 - Santa Cruz;Montery - Santa Cruz
-c_san_benito;869;869 - Salinan;San Benito - Salinan
-c_obispo;869;869 - Salinan;Obispo - Salinan
+c_monterey;869;869 - Salinan;Montery - Montery
+c_san_benito;4550;4550 - Chignecto;San Benito - San Benito
+c_obispo;4735;4735 - Obispo;Obispo - Obispo
 
 # Socal
 
 d_los_angeles;4507;4507 - Los Angeles;Duchy Los Angeles - Los Angeles
 c_los_angeles;4507;4507 - Los Angeles;Los Angeles - Los Angeles
 c_orange;4507;4507 - Los Angeles;Orange - Los Angeles
-d_los_padres;868;868 - Chumash;Los Padres - Chumash
-c_ventura;868;868 - Chumash;Ventura - Chumash
+
+d_los_padres;4736;4736 - Ventura;Los Padres - Ventura
+c_ventura;4736;4736 - Ventura;Ventura - Ventura
 c_channel_islands;4508;4508 - Santa Catalina;Channel Islands - Santa Catalina
 c_santa_barbara;868;868 - Chumash;Santa Barbara - Chumash
 
-c_tejon_pass;2478;2478 - Tachi;Tejon Pass - Tachi
+c_tejon_pass;4737;4737 - Tejon Pass;Tejon Pass - Tejon Pass
 c_antelope;2478;2478 - Tachi;Antelope - Tachi
 
 d_berdoo;867;867 - Mojave;Berdoo - Mojave

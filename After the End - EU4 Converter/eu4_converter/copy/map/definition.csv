@@ -2535,7 +2535,7 @@ province;red;green;blue;x;x
 2534;118;131;196;Yustaga;x
 2535;244;231;145;Calusa;x
 2536;16;19;95;Mayaimi;x
-2537;142;31;46;UNUSED;x		#UNUSED
+2537;142;31;46;Fresno;x		#LAtE California
 2538;79;131;246;Yamasee;x
 2539;205;1;196;Mocama;x
 2540;37;6;145;Coweta;x
@@ -4244,7 +4244,7 @@ province;red;green;blue;x;x
 4502;200;200;156;Sacramento;x
 4503;255;255;99;Motherlode;x
 4504;225;180;99;Santa Cruz;x
-4505;250;180;99;Central Valley;x
+4505;250;180;99;Central Valley;x	#Mariposa
 4506;255;180;99;Kern;x
 4507;200;150;100;Los Angeles;x
 4508;200;40;100;Santa Catalina Islands;x
@@ -4289,7 +4289,7 @@ province;red;green;blue;x;x
 4547;200;124;128;Riviere-Du-Loup;x
 4548;134;222;73;Menuxnekeag;x
 4549;238;77;17;Moncton;x
-4550;212;211;90;UNUSED;x	#Unused
+4550;212;211;90;San Benito;x	
 4551;245;99;99;Halifax;x
 4552;50;50;200;Tajaaw;x
 4553;200;133;44;Tl'aaj;x
@@ -4314,7 +4314,7 @@ province;red;green;blue;x;x
 4572;97;141;165;Lakehead;x
 4573;118;82;69;High Land;x
 4574;243;204;63;Cincinnatti;x
-4575;154;236;2;UNUSED;x			#Unused
+4575;154;236;2;Mariposa;x			#California - Mariposa
 4576;35;166;198;Scioto;x	
 4577;189;195;40;Erie;x
 4578;197;73;77;Niagara;x
@@ -4339,7 +4339,7 @@ province;red;green;blue;x;x
 4597;22;200;38;Cuivre;x
 4596;100;40;0;Marin;x
 4597;22;200;38;Cuivre;x
-4598;245;117;108;UNUSED;x		#Unused
+4598;245;117;108;San Joaqim;x		#California
 4599;164;251;108;Clearwater;x
 4600;134;254;72;Deer Lodge;x
 4601;236;89;11;High Springs;x
@@ -4399,7 +4399,7 @@ province;red;green;blue;x;x
 4655;5;205;177;Congaree;x
 4656;114;247;106;Greenwood;x
 4657;63;89;93;Keowee;x
-4658;252;226;39;Unused;x	#UNUSED
+4658;252;226;39;Solano;x	#California
 4659;23;179;44;Edisto;x
 4660;138;83;208;Oconee;x
 4661;180;114;248;Ogeechee;x
@@ -4417,7 +4417,7 @@ province;red;green;blue;x;x
 4673;207;40;201;Benning;x
 4674;97;79;147;Lagrange;x
 4675;155;135;201;Taladega;x
-4676;68;63;0;UNUSED;x		#UNUSED
+4676;68;63;0;Napa;x		#California
 4677;87;174;198;Coosa;x
 4678;98;61;207;Demopolis;x
 4679;187;48;31;Tuscaloosa;x
@@ -4476,6 +4476,14 @@ province;red;green;blue;x;x
 4732;44;187;225;Sperrgebiet;x
 4733;179;179;31;Naukluft;x
 4734;40;128;201;Il Karas;
+4735;149;130;78;Obispo;x
+4736;89;228;79;Ventura;x
+4737;0;197;184;Tejon Pass;x
+4738;218;63;13;Glenn;x
+4739;248;134;183;Avenal;x
+4740;206;194;241;Tolumne;x
+
+
 
 
 

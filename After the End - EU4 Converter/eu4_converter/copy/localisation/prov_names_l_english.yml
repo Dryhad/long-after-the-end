@@ -866,10 +866,10 @@
  PROV865:0 "Cochimi"
  PROV866:0 "Guaycura"
  PROV867:0 "Cahuilla"
- PROV868:0 "Chumash"
- PROV869:0 "Salinan"
- PROV870:0 "Yokuts"
- PROV871:0 "Pomo"
+ PROV868:0 "Santa Barbara" #Was Chumash
+ PROV869:0 "Montery"	
+ PROV870:0 "Tulare"	#Was Yokuts
+ PROV871:0 "Sonoma"	#Was Pomo
  PROV872:0 "Siuslaw"
  PROV873:0 "Chinook"
  PROV874:0 "Salish"
@@ -986,7 +986,7 @@
  PROV985:0 "Mikmaq"
  PROV986:0 "Kespek"
  PROV987:0 "Welland" #Was Niagra
- PROV988:0 "Huron"
+ PROV988:0 "Simcoe"	#Was Huron
  PROV989:0 "Thousand Islands" #Was Ontario
  PROV990:0 "Maisouna"
  PROV991:0 "Nipissing"
@@ -2476,7 +2476,7 @@
  PROV2476:0 "Kumeyaay"
  PROV2477:0 "Yuki"
  PROV2478:0 "Tachi"
- PROV2479:0 "Maidu"
+ PROV2479:0 "Sutter"	#Was Maidu
  PROV2480:0 "Shasta"
  PROV2481:0 "Josephine" #Was Klamath
  PROV2482:0 "Kalapuya"
@@ -2534,7 +2534,7 @@
  PROV2534:0 "Yustaga"
  PROV2535:0 "Calusa"
  PROV2536:0 "Mayaimi"
- PROV2537:0 "Hitchiti"
+ PROV2537:0 "Fresno" #Was Hitchiti
  PROV2538:0 "Yamasee"
  PROV2539:0 "Mocama"
  PROV2540:0 "Coweta"
@@ -2583,8 +2583,8 @@
  PROV2583:0 "Etchemins"
  PROV2584:0 "Loup"
  PROV2585:0 "Kichesipi"
- PROV2586:0 "Tionontate"
- PROV2587:0 "Odawa"
+ PROV2586:0 "Wellington"	#Was Tionontate
+ PROV2587:0 "Huron"	#Was Odawa
  PROV2588:0 "Piscatang"
  PROV2589:0 "Kesagami"
  PROV2590:0 "Shaggami"
@@ -2667,7 +2667,7 @@
  PROV2667:0 "Cacaxtes"
  PROV2668:0 "Borrado"
  PROV2669:0 "Hasinai"
- PROV2670:0 "Tkaronto"
+ PROV2670:0 "Toronto" #Was Tkaronto
  PROV2671:0 "Missisage"
  PROV2672:0 "Kitkehaki"
  PROV2673:0 "Pasai"
@@ -3320,10 +3320,10 @@
  PROV4500:0 "Eureka"
  PROV4501:0 "Klamath"
  PROV4502:0 "Sacramento"
- PROV4503:0 "Motherlode"
+ PROV4503:0 "El Dorado"	#Was Motherlode
  PROV4504:0 "Santa Cruz"
- PROV4505:0 "Central Valley"
- PROV4506:0 "Kern"
+ PROV4505:0 "Mariposa"	#Was Central Valley
+ PROV4506:0 "Bako"
  PROV4507:0 "Los Angeles"
  PROV4508:0 "Santa Catalina Islands"
  PROV4509:0 "San Diego"
@@ -3367,7 +3367,7 @@
  PROV4547:0 "Riviere-Du-Loup"
  PROV4548:0 "Menuxnekeag"
  PROV4549:0 "Moncton"
- PROV4550:0 "Chignecto" #Removed
+ PROV4550:0 "San Benito" #Was Chignecto
  PROV4551:0 "Halifax"
  PROV4552:0 "Tajaaw"
  PROV4553:0 "Tl'aaj"
@@ -3392,7 +3392,7 @@
  PROV4572:0 "Lakehead"
  PROV4573:0 "Vincennes" #Was Kentuckiana
  PROV4574:0 "Cincinnatti"
- PROV4575:0 "Miami Valley" #Removed
+ PROV4575:0 "Stanislaus" 
  PROV4576:0 "Scioto"
  PROV4577:0 "Erie"
  PROV4578:0 "Niagara"
@@ -3415,7 +3415,7 @@
  PROV4595:0 "Hayward"
  PROV4596:0 "Marin"
  PROV4597:0 "Cuivre"
- PROV4598:0 "Kootenay"
+ PROV4598:0 "San Joaquin"
  PROV4599:0 "Clearwater"
  PROV4600:0 "Deer Lodge"
  PROV4601:0 "High Springs"
@@ -3475,7 +3475,7 @@
  PROV4655:0 "Congaree"
  PROV4656:0 "Greenwood"
  PROV4657:0 "Keowee"
- PROV4658:0 "Saluda"
+ PROV4658:0 "Solano"
  PROV4659:0 "Edisto"
  PROV4660:0 "Oconee"
  PROV4661:0 "Ogeechee"
@@ -3493,7 +3493,7 @@
  PROV4673:0 "Benning"
  PROV4674:0 "Lagrange"
  PROV4675:0 "Taladega"
- PROV4676:0 "Montgomery"
+ PROV4676:0 "Napa"	#Was Montgomery
  PROV4677:0 "Coosa"
  PROV4678:0 "Demopolis"
  PROV4679:0 "Tuscaloosa"
@@ -3552,5 +3552,12 @@
  PROV4732:0 "Sperrgebiet"
  PROV4733:0 "Naukluft"
  PROV4734:0 "Il Karas"
+ PROV4735:0 "Obispo"
+ PROV4736:0 "Ventura"
+ PROV4737:0 "Tejon Pass"
+ PROV4738:0 "Glenn"
+ PROV4739:0 "Avenal"
+ PROV4740:0 "Tuolumne"
+
 
 
