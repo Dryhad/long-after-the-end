@@ -93,7 +93,7 @@
  DUN: "Dunedin"
  DUN_ADJ: "Dunedain"
  SPE: "The Speewah"
- SPE: "Speewan"
+ SPE_ADJ: "Speewan"
  ahmadi: "Ahmadi"
  ahmadi_religion_desc: "Ahmadis believe that prior to the great cataclysm, the world was unified in one Islamic faith by the Mahdi. The cataclysm heralded the begining of a new cycle, with a new Adam."
  yazidi: "Yazidi"

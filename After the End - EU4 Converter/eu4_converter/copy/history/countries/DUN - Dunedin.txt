@@ -1,4 +1,4 @@
-government = tribal_monarchy
+government = tribal_kingdom
 government_rank = 1
 technology_group = chinese
 religion = animism # for now
