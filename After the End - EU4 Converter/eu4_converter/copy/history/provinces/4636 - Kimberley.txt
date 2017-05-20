@@ -1,5 +1,9 @@
+owner = SPE
+controller = SPE
+add_core = SPE
+is_city = yes
 culture = strayan
-religion = atomicist 
+religion = animist 
 trade_goods = unknown 
 hre = no 
 base_tax = 1

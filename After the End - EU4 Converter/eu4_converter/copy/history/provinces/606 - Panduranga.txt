@@ -1,25 +1,16 @@
 #606 - Panduranga
 
-#owner = CHA
-#controller = CHA
+owner = DAI
+controller = DAI
 culture = cham
-religion = hinduism
+religion = mahayana
 capital = "Panduranga"
 trade_goods = fish
 hre = no
-base_tax = 4
-base_production = 4
-base_manpower = 2
-is_city = no
-#add_core= CHA
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+add_core= DAI
 discovered_by = chinese
 discovered_by = indian
-discovered_by = indian
-discovered_by = indian
-
-# = { discovered_by = POR }
-# = { religion = sunni } # muslim conversion
-# = { unrest = 6 } # Rebellion against the Vietnamese
-# = { unrest = 0 } # Plague
-# = { unrest = 5 } # Unsuccessful revolt
-# = { unrest = 0 }
