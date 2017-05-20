@@ -175,13 +175,13 @@ jose_rizal = {
 	}
 }
 
-elder_sora = {
+maria_kannon = {
 	land_attrition = -0.15
 
 	allow = {
 		religion = cult_of_saints
 		OR = {
-			has_unlocked_cult = elder_sora
+			has_unlocked_cult = maria_kannon
 			technology_group = chinese
 		}
 	}

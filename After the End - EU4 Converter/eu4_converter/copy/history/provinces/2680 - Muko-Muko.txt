@@ -3,7 +3,7 @@
 #owner = PGR
 #controller = PGR
 culture = sumatran
-religion = buddhism
+religion = sunni
 capital = "Muko-Muko"
 trade_goods = grain
 hre = no
@@ -17,9 +17,4 @@ is_city = no
 
 discovered_by = chinese
 discovered_by = indian
-discovered_by = indian
-discovered_by = indian
-
-# = { discovered_by = MNG }
-# = { discovered_by = POR }
 

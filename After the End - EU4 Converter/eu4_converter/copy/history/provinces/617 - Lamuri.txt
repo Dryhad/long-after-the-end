@@ -16,17 +16,4 @@ is_city = no
 
 
 discovered_by = indian
-discovered_by = indian
-discovered_by = indian
 discovered_by = chinese
-
-# = { discovered_by = MNG }
-
-# = {
-	#owner = ATJ
-	#controller = ATJ
-	#add_core= ATJ
-	remove_core = PSA
-}
-# = { capital = "Kutaraja" }
-# = { discovered_by = POR }

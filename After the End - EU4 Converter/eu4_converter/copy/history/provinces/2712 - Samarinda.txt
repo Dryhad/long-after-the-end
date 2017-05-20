@@ -3,7 +3,7 @@
 #owner = KUT
 #controller = KUT
 culture = bornean
-religion = hinduism
+religion = sunni
 capital = "Samarinda"
 trade_goods = spices
 hre = no
@@ -17,9 +17,3 @@ is_city = no
 
 discovered_by = chinese
 discovered_by = indian
-discovered_by = indian
-discovered_by = indian
-
-# = { discovered_by = POR }
-
-# = { religion = sunni }

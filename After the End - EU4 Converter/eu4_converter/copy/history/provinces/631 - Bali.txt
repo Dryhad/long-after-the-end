@@ -18,19 +18,3 @@ is_city = no
 
 discovered_by = chinese
 discovered_by = indian
-discovered_by = indian
-discovered_by = indian
-
-# = { discovered_by = MNG }
-
-# = {
-	#owner = BLI
-	#controller = BLI
-	#add_core= BLI
-	remove_core = MAJ
-
-} # The fall of the Majapahit Empire
-# = { discovered_by = POR }
-# = { discovered_by = NED } # Cornelis de Houtman
-# = { unrest = 6 } # Mataram rebellion against the court & the VOC
-# = { unrest = 0 }

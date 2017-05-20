@@ -1,42 +1,16 @@
 #102 - Nice
 
-# = SAV
-# = SAV
-# = SAV
 culture = ligurian
-religion = catholic
+religion = cult_of_reason
 hre = yes
 base_tax = 1
 base_production = 1
 trade_goods = unknown
 base_manpower = 1
 capital = "Nice"
-is_city = yes
+is_city = no
 
 
 
 discovered_by = indian
 discovered_by = high_american
-
-
-
-
-# = { hre = no }
-# = {
-	# = SIC
-	# = SIC
-	# = SIC
-} # Treaty of Utrecht(2) gave Sicily to House of Savoy 
-# = {
-	# = SPI
-	# = SPI
-	# = SPI
-	# = SIC
-} # Kingdom of Piedmont-Sardinia
-# = { # = FRA # = FRA # = FRA } # Treaty of Campo Formio
-# = { hre = no } # The Holy Roman Empire is dissolved
-# = {
-	# = SPI
-	# = SPI
-	# = FRA
-} # Treaty of Fontainebleau, Napoleon abdicates unconditionally
