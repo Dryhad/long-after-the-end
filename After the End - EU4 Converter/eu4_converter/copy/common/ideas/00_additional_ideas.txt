@@ -34,11 +34,46 @@ TXK_ideas = {
 		church_power_modifier = 0.10
 	}
 }
+ONT_ideas = {
+	start = {
+		stability_cost_modifier = -0.1
+		global_tax_modifier = 0.1
+	}
+	bonus = {
+		global_colonial_growth = 25
+	}
+	trigger = {
+		tag = ONT
+	}
+	free = yes
+
+	lakes_of_ontario = {
+		galley_power = 0.15
+	}
+	trent_severn_canal = {
+		global_prov_trade_power_modifier = 0.2
+	}
+	reclaim_the_north = {
+		colonists = 1
+	}
+	peace_order_good_government = {
+		stability_cost_modifier = -0.1
+	}
+	reestablish_the_old_four = {
+		global_institution_spread = 0.1
+	}
+	canadian_cornucopia = {
+		global_trade_goods_size_modifier = 0.1
+	}
+	repel_the_americans = {
+		defensiveness = 0.2
+	}
+}
 mormon_ideas = {
 	start = {
 		global_missionary_strength = 0.02
 	}
-	bonus = { global_unrest = -1 }
+	bonus = { global_unrest = -2 }
 	trigger = {
 		religion_group = latter_day_saints
 	}
@@ -65,6 +100,80 @@ mormon_ideas = {
 	}
 	mormon_trail = {
 		colonists = 1
+	}
+}
+deitsch_ideas = {
+	start = {
+		tolerance_heathen = 2
+		tolerance_heretic = 2
+	}
+	bonus = { num_accepted_cultures = 2 }
+	trigger = {
+		religion = anabaptist
+		culture = deitsch
+	}
+	free = yes
+
+	agricultural_legacy = {
+		global_trade_goods_size_modifier = 0.1
+	}
+	rumspringa = {
+		global_unrest = -1
+	}
+	simple_living = {
+		stability_cost_modifier = -0.1
+	}
+	barn_raising = {
+		development_cost = -0.1
+	}
+	nonviolence = {
+		diplomatic_reputation = 1
+	}
+	demut = {
+		tolerance_own = 3
+	}
+	nonconformation = {
+		enemy_core_creation = 0.5
+	}
+}
+californian_ideas = {
+	start = {
+		land_morale = 0.2
+		diplomatic_reputation = 1
+	}
+	bonus = { 
+		legitimacy = 1
+		meritocracy = 1
+	}
+	trigger = {
+		OR = {
+			culture_group = californian
+			tag = CAL
+		}
+	}
+	free = yes
+
+	philosopher_emperors = {
+		idea_cost = -0.1
+	}
+	ancient_velocipedes = {
+		movement_speed = 0.15
+	}
+	pacific_line = {
+		trade_efficiency = 0.1
+	}
+	hydraulic_empire = {
+		development_cost = -0.1
+		stability_cost_modifier = -0.1
+	}
+	bureaucratic_infrastructure = {
+		advisor_cost = -0.15
+	}
+	hollywood = {
+		prestige = 1
+	}
+	hawaiian_guard = {
+		global_manpower_modifier = 0.1
 	}
 }
 
