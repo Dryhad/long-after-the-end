@@ -176,5 +176,47 @@ californian_ideas = {
 		global_manpower_modifier = 0.1
 	}
 }
+ostmann_ideas = {
+    start = {
+        development_cost = -0.1
+        infantry_power = 0.2
+    }
+    bonus = {
+            technology_cost = -0.1  
+            }
 
+    trigger = {
+       culture = rostmann
+       OR = {
+        religion = rust_cultist
+        religion_group = christian
+     }
+    }
+
+    free = yes
+
+    the_rust_belt = {
+        loot_amount = 0.1
+    }
+    gewalthaufen = {
+        shock_damage_received = -0.2
+    }
+    dienstmann = {
+        advisor_pool = 1
+        manpower_recovery_speed = 0.2
+    }
+    rost_sprachraum = {
+        num_accepted_cultures = 2
+    }
+    mittelstand  = {
+        production_efficiency = 0.1
+    }
+    heilkraft = {
+        prestige = 1
+        army_tradition = 1
+    }
+    ordnungssinn = {
+        stability_cost_modifier = -0.1
+    }
+}
 
