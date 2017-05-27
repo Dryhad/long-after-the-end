@@ -176,7 +176,7 @@ californian_ideas = {
 		global_manpower_modifier = 0.1
 	}
 }
-ostmann_ideas = {
+rostmann_ideas = {
     start = {
         development_cost = -0.1
         infantry_power = 0.2
@@ -218,5 +218,3 @@ ostmann_ideas = {
     ordnungssinn = {
         stability_cost_modifier = -0.1
     }
-}
-
