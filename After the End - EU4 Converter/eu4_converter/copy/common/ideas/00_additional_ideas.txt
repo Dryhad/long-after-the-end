@@ -218,3 +218,4 @@ rostmann_ideas = {
     ordnungssinn = {
         stability_cost_modifier = -0.1
     }
+}
