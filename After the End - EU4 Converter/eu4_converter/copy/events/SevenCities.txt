@@ -8,7 +8,7 @@ namespace = seven_cities_events
 
 ### Start: Event chains for Empty Provinces ###
 
-# El Dorado
+# Rome
 province_event = {
 	id = seven_cities_events.1
 	title = seven_cities_events.1.t
@@ -23,17 +23,11 @@ province_event = {
 			NOT = {
 				OR = {
 					has_country_flag = sce_eventchain_flag
-					has_country_flag = sce_end_eldorado_flag
+					has_country_flag = sce_end_rome_flag
 				}
 			}
 		}
-		OR = {
-			continent = new_world
-			continent = south_america
-			any_neighbor_province = {
-				continent = south_america
-			}
-		}
+		region = italy_region
 	}
 	
 	mean_time_to_happen = {
@@ -45,36 +39,36 @@ province_event = {
 		}
 		modifier = {
 			factor = 0.5
-			has_global_flag = sce_ultimate_eldorado
+			has_global_flag = sce_ultimate_rome
 		}
 		modifier = {
 			factor = 0.5
-			has_global_flag = sce_ultimate_fountainofyouth
+			has_global_flag = sce_ultimate_paris
 		}
 		modifier = {
 			factor = 0.5
-			has_global_flag = sce_ultimate_cibola
+			has_global_flag = sce_ultimate_amsterdam
 		}
 		modifier = {
 			factor = 0.5
-			has_global_flag = sce_ultimate_cityofcaesars
+			has_global_flag = sce_ultimate_amberroom
 		}
 		modifier = {
 			factor = 0.5
-			has_global_flag = sce_ultimate_sierradelaplata
+			has_global_flag = sce_ultimate_csstexas
 		}
 		modifier = {
 			factor = 0.5
-			has_global_flag = sce_ultimate_norumbega
+			has_global_flag = sce_ultimate_shanghai
 		}
 		modifier = {
 			factor = 0.5
-			has_global_flag = sce_ultimate_saguenay
+			has_global_flag = sce_ultimate_xanadu
 		}
-		modifier = {
-			factor = 0.5
-			has_global_flag = sce_ultimate_quivira
-		}
+		#modifier = {
+		#	factor = 0.5
+		#	has_global_flag = sce_ultimate_quivira
+		#}
 	}
 	
 	option = {
@@ -82,7 +76,7 @@ province_event = {
 		FROM = {
 			set_country_flag = sce_eventchain_flag
 			add_country_modifier = {
-				name = sce_search_eldorado
+				name = sce_search_rome
 				duration = -1
 			}
 		}
@@ -90,13 +84,13 @@ province_event = {
 	option = {
 		name = seven_cities_events.1.b
 		FROM = {
-			set_country_flag = sce_end_eldorado_flag
+			set_country_flag = sce_end_rome_flag
 			add_adm_power = 50
 		}
 	}
 }
 
-# Fountain of Youth
+# Paris
 province_event = {
 	id = seven_cities_events.2
 	title = seven_cities_events.2.t
@@ -111,17 +105,11 @@ province_event = {
 			NOT = {
 				OR = {
 					has_country_flag = sce_eventchain_flag
-					has_country_flag = sce_end_fountainofyouth_flag
+					has_country_flag = sce_end_paris_flag
 				}
 			}
 		}
-		OR = {
-			continent = new_world
-			continent = south_america
-			any_neighbor_province = {
-				continent = south_america
-			}
-		}
+		region = france_region
 	}
 	
 	mean_time_to_happen = {
@@ -133,36 +121,36 @@ province_event = {
 		}
 		modifier = {
 			factor = 0.5
-			has_global_flag = sce_ultimate_eldorado
+			has_global_flag = sce_ultimate_rome
 		}
 		modifier = {
 			factor = 0.5
-			has_global_flag = sce_ultimate_fountainofyouth
+			has_global_flag = sce_ultimate_paris
 		}
 		modifier = {
 			factor = 0.5
-			has_global_flag = sce_ultimate_cibola
+			has_global_flag = sce_ultimate_amsterdam
 		}
 		modifier = {
 			factor = 0.5
-			has_global_flag = sce_ultimate_cityofcaesars
+			has_global_flag = sce_ultimate_amberroom
 		}
 		modifier = {
 			factor = 0.5
-			has_global_flag = sce_ultimate_sierradelaplata
+			has_global_flag = sce_ultimate_csstexas
 		}
 		modifier = {
 			factor = 0.5
-			has_global_flag = sce_ultimate_norumbega
+			has_global_flag = sce_ultimate_shanghai
 		}
 		modifier = {
 			factor = 0.5
-			has_global_flag = sce_ultimate_saguenay
+			has_global_flag = sce_ultimate_xanadu
 		}
-		modifier = {
-			factor = 0.5
-			has_global_flag = sce_ultimate_quivira
-		}
+		#modifier = {
+		#	factor = 0.5
+		#	has_global_flag = sce_ultimate_quivira
+		#}
 	}
 	
 	option = {
@@ -171,7 +159,7 @@ province_event = {
 			set_country_flag = sce_eventchain_flag
 			add_years_of_income = -0.25
 			add_country_modifier = {
-				name = sce_search_fountainofyouth
+				name = sce_search_paris
 				duration = -1
 			}
 		}
@@ -179,13 +167,13 @@ province_event = {
 	option = {
 		name = seven_cities_events.2.b
 		FROM = {
-			set_country_flag = sce_end_fountainofyouth_flag
+			set_country_flag = sce_end_paris_flag
 			add_adm_power = 50
 		}
 	}
 }
 
-# Cibola
+# Amsterdam
 province_event = {
 	id = seven_cities_events.3
 	title = seven_cities_events.3.t
@@ -200,22 +188,16 @@ province_event = {
 			NOT = {
 				OR = {
 					has_country_flag = sce_eventchain_flag
-					has_country_flag = sce_end_cibola_flag
+					has_country_flag = sce_end_amsterdam_flag
 				}
 			}
 		}
 		OR = {
-			continent = new_world
-			continent = south_america
-			region = mexico_region
-			region = central_america_region
-			any_neighbor_province = {
-				OR = {
-					continent = south_america
-					region = central_america_region
-					region = mexico_region
-				}
-			}
+			area = weser_area
+			area = frisia_area
+			area = netherlands_area
+			area = flanders_area
+			area = picardy_area
 		}
 	}
 	
@@ -228,36 +210,36 @@ province_event = {
 		}
 		modifier = {
 			factor = 0.5
-			has_global_flag = sce_ultimate_eldorado
+			has_global_flag = sce_ultimate_rome
 		}
 		modifier = {
 			factor = 0.5
-			has_global_flag = sce_ultimate_fountainofyouth
+			has_global_flag = sce_ultimate_paris
 		}
 		modifier = {
 			factor = 0.5
-			has_global_flag = sce_ultimate_cibola
+			has_global_flag = sce_ultimate_amsterdam
 		}
 		modifier = {
 			factor = 0.5
-			has_global_flag = sce_ultimate_cityofcaesars
+			has_global_flag = sce_ultimate_amberroom
 		}
 		modifier = {
 			factor = 0.5
-			has_global_flag = sce_ultimate_sierradelaplata
+			has_global_flag = sce_ultimate_csstexas
 		}
 		modifier = {
 			factor = 0.5
-			has_global_flag = sce_ultimate_norumbega
+			has_global_flag = sce_ultimate_shanghai
 		}
 		modifier = {
 			factor = 0.5
-			has_global_flag = sce_ultimate_saguenay
+			has_global_flag = sce_ultimate_xanadu
 		}
-		modifier = {
-			factor = 0.5
-			has_global_flag = sce_ultimate_quivira
-		}
+		#modifier = {
+		#	factor = 0.5
+		#	has_global_flag = sce_ultimate_quivira
+		#}
 	}
 	
 	option = {
@@ -265,7 +247,7 @@ province_event = {
 		FROM = {
 			set_country_flag = sce_eventchain_flag
 			add_country_modifier = {
-				name = sce_search_cibola
+				name = sce_search_amsterdam
 				duration = -1
 			}
 		}
@@ -273,13 +255,13 @@ province_event = {
 	option = {
 		name = seven_cities_events.3.b
 		FROM = {
-			set_country_flag = sce_end_cibola_flag
+			set_country_flag = sce_end_amsterdam_flag
 			add_prestige = 5
 		}
 	}
 }
 
-# City of the Caesars
+# Amber Room
 province_event = {
 	id = seven_cities_events.4
 	title = seven_cities_events.4.t
@@ -294,25 +276,13 @@ province_event = {
 			NOT = {
 				OR = {
 					has_country_flag = sce_eventchain_flag
-					has_country_flag = sce_end_cityofcaesars_flag
+					has_country_flag = sce_end_amberroom_flag
 				}
 			}
 		}
 		OR = {
-			area = patagonia_area
-			area = southern_pampas_area
-			area = patagonian_andes
-			area = bahia_blanca_area
-			area = nehuenken_area
-			any_neighbor_province = {
-				OR = {
-					area = patagonia_area
-					area = southern_pampas_area
-					area = patagonian_andes
-					area = bahia_blanca_area
-					area = nehuenken_area
-				}
-			}
+			region = baltic_region
+			region = russia_region
 		}
 	}
 	
@@ -326,36 +296,36 @@ province_event = {
 		}
 		modifier = {
 			factor = 0.5
-			has_global_flag = sce_ultimate_eldorado
+			has_global_flag = sce_ultimate_rome
 		}
 		modifier = {
 			factor = 0.5
-			has_global_flag = sce_ultimate_fountainofyouth
+			has_global_flag = sce_ultimate_paris
 		}
 		modifier = {
 			factor = 0.5
-			has_global_flag = sce_ultimate_cibola
+			has_global_flag = sce_ultimate_amsterdam
 		}
 		modifier = {
 			factor = 0.5
-			has_global_flag = sce_ultimate_cityofcaesars
+			has_global_flag = sce_ultimate_amberroom
 		}
 		modifier = {
 			factor = 0.5
-			has_global_flag = sce_ultimate_sierradelaplata
+			has_global_flag = sce_ultimate_csstexas
 		}
 		modifier = {
 			factor = 0.5
-			has_global_flag = sce_ultimate_norumbega
+			has_global_flag = sce_ultimate_shanghai
 		}
 		modifier = {
 			factor = 0.5
-			has_global_flag = sce_ultimate_saguenay
+			has_global_flag = sce_ultimate_xanadu
 		}
-		modifier = {
-			factor = 0.5
-			has_global_flag = sce_ultimate_quivira
-		}
+		#modifier = {
+		#	factor = 0.5
+		#	has_global_flag = sce_ultimate_quivira
+		#}
 	}
 	
 	option = {
@@ -364,7 +334,7 @@ province_event = {
 			set_country_flag = sce_eventchain_flag
 			add_years_of_income = -0.25
 			add_country_modifier = {
-				name = sce_search_cityofcaesars
+				name = sce_search_amberroom
 				duration = -1
 			}
 		}
@@ -372,13 +342,13 @@ province_event = {
 	option = {
 		name = seven_cities_events.4.b
 		FROM = {
-			set_country_flag = sce_end_cityofcaesars_flag
+			set_country_flag = sce_end_amberroom_flag
 			add_dip_power = 50
 		}
 	}
 }
 
-# Sierra de la Plata
+# CSS Texas
 province_event = {
 	id = seven_cities_events.5
 	title = seven_cities_events.5.t
@@ -393,16 +363,14 @@ province_event = {
 			NOT = {
 				OR = {
 					has_country_flag = sce_eventchain_flag
-					has_country_flag = sce_end_cityofcaesars_flag
+					has_country_flag = sce_end_csstexas_flag
 				}
 			}
 		}
 		OR = {
-			region = peru_region
-			region = la_plata_region
-			any_neighbor_province = {
-				region = peru_region
-			}
+			region = niger_region
+			region = guinea_region
+			region = sahel_region
 		}
 	}
 	
@@ -415,36 +383,36 @@ province_event = {
 		}
 		modifier = {
 			factor = 0.5
-			has_global_flag = sce_ultimate_eldorado
+			has_global_flag = sce_ultimate_rome
 		}
 		modifier = {
 			factor = 0.5
-			has_global_flag = sce_ultimate_fountainofyouth
+			has_global_flag = sce_ultimate_paris
 		}
 		modifier = {
 			factor = 0.5
-			has_global_flag = sce_ultimate_cibola
+			has_global_flag = sce_ultimate_amsterdam
 		}
 		modifier = {
 			factor = 0.5
-			has_global_flag = sce_ultimate_cityofcaesars
+			has_global_flag = sce_ultimate_amberroom
 		}
 		modifier = {
 			factor = 0.5
-			has_global_flag = sce_ultimate_sierradelaplata
+			has_global_flag = sce_ultimate_csstexas
 		}
 		modifier = {
 			factor = 0.5
-			has_global_flag = sce_ultimate_norumbega
+			has_global_flag = sce_ultimate_shanghai
 		}
 		modifier = {
 			factor = 0.5
-			has_global_flag = sce_ultimate_saguenay
+			has_global_flag = sce_ultimate_xanadu
 		}
-		modifier = {
-			factor = 0.5
-			has_global_flag = sce_ultimate_quivira
-		}
+		#modifier = {
+		#	factor = 0.5
+		#	has_global_flag = sce_ultimate_quivira
+		#}
 	}
 	
 	option = {
@@ -452,7 +420,7 @@ province_event = {
 		FROM = {
 			set_country_flag = sce_eventchain_flag
 			add_country_modifier = {
-				name = sce_search_sierradelaplata
+				name = sce_search_csstexas
 				duration = -1
 			}
 		}
@@ -460,13 +428,13 @@ province_event = {
 	option = {
 		name = seven_cities_events.5.b
 		FROM = {
-			set_country_flag = sce_end_cityofcaesars_flag
+			set_country_flag = sce_end_csstexas_flag
 			add_adm_power = 50
 		}
 	}
 }
 
-# Norumbega
+# Shanghai
 province_event = {
 	id = seven_cities_events.6
 	title = seven_cities_events.6.t
@@ -481,28 +449,11 @@ province_event = {
 			NOT = {
 				OR = {
 					has_country_flag = sce_eventchain_flag
-					has_country_flag = sce_end_norumbega_flag 
+					has_country_flag = sce_end_shanghai_flag 
 				}
 			}
 		}
-		OR = {
-			region = canada_region
-			area = james_bay_area
-			area = hudson_bay_area
-			area = inner_ontario_area
-			region = northeast_america_region
-			region = southeast_america_region
-			any_neighbor_province = {
-				OR = {
-					region = canada_region
-					area = james_bay_area
-					area = inner_ontario_area
-					area = hudson_bay_area
-					region = northeast_america_region
-					region = southeast_america_region
-				}
-			}
-		}
+		region = south_china_region
 	}
 	
 	mean_time_to_happen = {
@@ -514,36 +465,36 @@ province_event = {
 		}
 		modifier = {
 			factor = 0.5
-			has_global_flag = sce_ultimate_eldorado
+			has_global_flag = sce_ultimate_rome
 		}
 		modifier = {
 			factor = 0.5
-			has_global_flag = sce_ultimate_fountainofyouth
+			has_global_flag = sce_ultimate_paris
 		}
 		modifier = {
 			factor = 0.5
-			has_global_flag = sce_ultimate_cibola
+			has_global_flag = sce_ultimate_amsterdam
 		}
 		modifier = {
 			factor = 0.5
-			has_global_flag = sce_ultimate_cityofcaesars
+			has_global_flag = sce_ultimate_amberroom
 		}
 		modifier = {
 			factor = 0.5
-			has_global_flag = sce_ultimate_sierradelaplata
+			has_global_flag = sce_ultimate_csstexas
 		}
 		modifier = {
 			factor = 0.5
-			has_global_flag = sce_ultimate_norumbega
+			has_global_flag = sce_ultimate_shanghai
 		}
 		modifier = {
 			factor = 0.5
-			has_global_flag = sce_ultimate_saguenay
+			has_global_flag = sce_ultimate_xanadu
 		}
-		modifier = {
-			factor = 0.5
-			has_global_flag = sce_ultimate_quivira
-		}
+		#modifier = {
+		#	factor = 0.5
+		#	has_global_flag = sce_ultimate_quivira
+		#}
 	}
 	
 	option = {
@@ -551,7 +502,7 @@ province_event = {
 		FROM = {
 			set_country_flag = sce_eventchain_flag
 			add_country_modifier = {
-				name = sce_search_norumbega
+				name = sce_search_shanghai
 				duration = -1
 			}
 		}
@@ -559,13 +510,13 @@ province_event = {
 	option = {
 		name = seven_cities_events.6.b
 		FROM = {
-			set_country_flag = sce_end_norumbega_flag
+			set_country_flag = sce_end_shanghai_flag
 			add_prestige = 5
 		}
 	}
 }
 
-# Kingdom of Saguenay
+# Xanadu
 province_event = {
 	id = seven_cities_events.7
 	title = seven_cities_events.7.t
@@ -580,37 +531,20 @@ province_event = {
 			NOT = {
 				OR = {
 					has_country_flag = sce_eventchain_flag
-						has_country_flag = sce_end_saguenay_flag 
+						has_country_flag = sce_end_xanadu_flag 
 				}
 			}
 		}
-		OR = {
-			region = canada_region
-			area = james_bay_area
-			area = inner_ontario_area
-			area = hudson_bay_area
-			region = northeast_america_region
-			region = southeast_america_region
-			any_neighbor_province = {
-				OR = {
-					region = canada_region
-					area = james_bay_area
-					area = inner_ontario_area
-					area = hudson_bay_area
-					region = northeast_america_region
-					region = southeast_america_region
-				}
-			}
-		}
+		region = north_china_region
 	}
 	
 	mean_time_to_happen = {
 		days = 1
 		
-		modifier = {
-			factor = 2
-			culture_group = iroquoian
-		}
+		#modifier = {
+		#	factor = 2
+		#	culture_group = iroquoian
+		#}
 		
 		modifier = {
 			factor = 2.0
@@ -618,36 +552,36 @@ province_event = {
 		}
 		modifier = {
 			factor = 0.5
-			has_global_flag = sce_ultimate_eldorado
+			has_global_flag = sce_ultimate_rome
 		}
 		modifier = {
 			factor = 0.5
-			has_global_flag = sce_ultimate_fountainofyouth
+			has_global_flag = sce_ultimate_paris
 		}
 		modifier = {
 			factor = 0.5
-			has_global_flag = sce_ultimate_cibola
+			has_global_flag = sce_ultimate_amsterdam
 		}
 		modifier = {
 			factor = 0.5
-			has_global_flag = sce_ultimate_cityofcaesars
+			has_global_flag = sce_ultimate_amberroom
 		}
 		modifier = {
 			factor = 0.5
-			has_global_flag = sce_ultimate_sierradelaplata
+			has_global_flag = sce_ultimate_csstexas
 		}
 		modifier = {
 			factor = 0.5
-			has_global_flag = sce_ultimate_norumbega
+			has_global_flag = sce_ultimate_shanghai
 		}
 		modifier = {
 			factor = 0.5
-			has_global_flag = sce_ultimate_saguenay
+			has_global_flag = sce_ultimate_xanadu
 		}
-		modifier = {
-			factor = 0.5
-			has_global_flag = sce_ultimate_quivira
-		}
+		#modifier = {
+		#	factor = 0.5
+		#	has_global_flag = sce_ultimate_quivira
+		#}
 	}
 	
 	option = {
@@ -655,7 +589,7 @@ province_event = {
 		FROM = {
 			set_country_flag = sce_eventchain_flag
 			add_country_modifier = {
-				name = sce_search_saguenay
+				name = sce_search_xanadu
 				duration = -1
 			}
 		}
@@ -663,115 +597,115 @@ province_event = {
 	option = {
 		name = seven_cities_events.7.b
 		FROM = {
-			set_country_flag = sce_end_saguenay_flag
+			set_country_flag = sce_end_xanadu_flag
 			add_prestige = 5
 		}
 	}
 }
 
 # Quivira
-province_event = {
-	id = seven_cities_events.8
-	title = seven_cities_events.8.t
-	desc = seven_cities_events.8.d
-	picture = CONQUISTADORS_eventPicture
-
-	is_triggered_only = yes
-	
-	trigger = {
-		has_dlc = "El Dorado"
-		FROM = {
-			NOT = {
-				OR = {
-					has_country_flag = sce_eventchain_flag
-					has_country_flag = sce_end_quivira_flag
-				}
-			}
-		}
-		OR = {
-			region = canada_region
-			area = james_bay_area
-			area = inner_ontario_area
-			area = hudson_bay_area
-			region = northeast_america_region
-					region = southeast_america_region
-			any_neighbor_province = {
-				OR = {
-					region = canada_region
-					area = james_bay_area
-					area = inner_ontario_area
-					area = hudson_bay_area
-					region = northeast_america_region
-					region = southeast_america_region
-				}
-			}
-		}
-	}
-	
-	mean_time_to_happen = {
-		days = 1
-		
-		modifier = {
-			factor = 2
-			culture_group = iroquoian
-		}
-		
-		modifier = {
-			factor = 2.0
-			is_empty = no
-		}
-		modifier = {
-			factor = 0.5
-			has_global_flag = sce_ultimate_eldorado
-		}
-		modifier = {
-			factor = 0.5
-			has_global_flag = sce_ultimate_fountainofyouth
-		}
-		modifier = {
-			factor = 0.5
-			has_global_flag = sce_ultimate_cibola
-		}
-		modifier = {
-			factor = 0.5
-			has_global_flag = sce_ultimate_cityofcaesars
-		}
-		modifier = {
-			factor = 0.5
-			has_global_flag = sce_ultimate_sierradelaplata
-		}
-		modifier = {
-			factor = 0.5
-			has_global_flag = sce_ultimate_norumbega
-		}
-		modifier = {
-			factor = 0.5
-			has_global_flag = sce_ultimate_saguenay
-		}
-		modifier = {
-			factor = 0.5
-			has_global_flag = sce_ultimate_quivira
-		}
-	}
-	
-	option = {
-		name = seven_cities_events.8.a
-		FROM = {
-			set_country_flag = sce_eventchain_flag
-			add_country_modifier = {
-				name = sce_search_quivira
-				duration = -1
-			}
-		}
-	}
-	option = {
-		name = seven_cities_events.8.b
-		FROM = {
-			set_country_flag = sce_end_quivira_flag
-			add_prestige = 5
-		}
-	}
-}
+#province_event = {
+#	id = seven_cities_events.8
+#	title = seven_cities_events.8.t
+#	desc = seven_cities_events.8.d
+#	picture = CONQUISTADORS_eventPicture
+#
+#	is_triggered_only = yes
+#	
+#	trigger = {
+#		has_dlc = "El Dorado"
+#		FROM = {
+#			NOT = {
+#				OR = {
+#					has_country_flag = sce_eventchain_flag
+#					has_country_flag = sce_end_quivira_flag
+#				}
+#			}
+#		}
+#		OR = {
+#			region = canada_region
+#			area = james_bay_area
+#			area = inner_ontario_area
+#			area = hudson_bay_area
+#			region = northeast_america_region
+#					region = southeast_america_region
+#			any_neighbor_province = {
+#				OR = {
+#					region = canada_region
+#					area = james_bay_area
+#					area = inner_ontario_area
+#					area = hudson_bay_area
+#					region = northeast_america_region
+#					region = southeast_america_region
+#				}
+#			}
+#		}
+#	}
+#	
+#	mean_time_to_happen = {
+#		days = 1
+#		
+#		modifier = {
+#			factor = 2
+#			culture_group = iroquoian
+#		}
+#		
+#		modifier = {
+#			factor = 2.0
+#			is_empty = no
+#		}
+#		modifier = {
+#			factor = 0.5
+#			has_global_flag = sce_ultimate_rome
+#		}
+#		modifier = {
+#			factor = 0.5
+#			has_global_flag = sce_ultimate_paris
+#		}
+#		modifier = {
+#			factor = 0.5
+#			has_global_flag = sce_ultimate_amsterdam
+#		}
+#		modifier = {
+#			factor = 0.5
+#			has_global_flag = sce_ultimate_amberroom
+#		}
+#		modifier = {
+#			factor = 0.5
+#			has_global_flag = sce_ultimate_csstexas
+#		}
+#		modifier = {
+#			factor = 0.5
+#			has_global_flag = sce_ultimate_shanghai
+#		}
+#		modifier = {
+#			factor = 0.5
+#			has_global_flag = sce_ultimate_xanadu
+#		}
+#		modifier = {
+#			factor = 0.5
+#			has_global_flag = sce_ultimate_quivira
+#		}
+#	}
+#	
+#	option = {
+#		name = seven_cities_events.8.a
+#		FROM = {
+#			set_country_flag = sce_eventchain_flag
+#			add_country_modifier = {
+#				name = sce_search_quivira
+#				duration = -1
+#			}
+#		}
+#	}
+#	option = {
+#		name = seven_cities_events.8.b
+#		FROM = {
+#			set_country_flag = sce_end_quivira_flag
+#			add_prestige = 5
+#		}
+#	}
+#}
 
 ### Action: Event chains for Empty Provinces ###
 
@@ -805,13 +739,13 @@ province_event = {
 				set_country_flag = sce_action01_flag
 				clr_country_flag = sce_eventchain_flag
 				
-				remove_country_modifier = sce_search_eldorado
-	 			remove_country_modifier = sce_search_fountainofyouth
-	 			remove_country_modifier = sce_search_cibola
-	 			remove_country_modifier = sce_search_cityofcaesars
-	 			remove_country_modifier = sce_search_sierradelaplata
-	 			remove_country_modifier = sce_search_norumbega
-				remove_country_modifier = sce_search_saguenay
+				remove_country_modifier = sce_search_rome
+	 			remove_country_modifier = sce_search_paris
+	 			remove_country_modifier = sce_search_amsterdam
+	 			remove_country_modifier = sce_search_amberroom
+	 			remove_country_modifier = sce_search_csstexas
+	 			remove_country_modifier = sce_search_shanghai
+				remove_country_modifier = sce_search_xanadu
 				remove_country_modifier = sce_search_quivira
 			}
 			kill_leader = { 
@@ -1053,7 +987,7 @@ province_event = {
 
 ### Finish: Event chains for Empty Provinces ###
 
-# Bad End of El Dorado
+# Bad End of Rome
 province_event = {
 	id = seven_cities_events.200
 	title = seven_cities_events.200.t
@@ -1065,9 +999,9 @@ province_event = {
 	trigger = {
 		has_dlc = "El Dorado"
 		is_empty = yes
-		continent = south_america
+		region = region_italy
 		FROM = {
-			has_country_modifier = sce_search_eldorado
+			has_country_modifier = sce_search_rome
 			OR = {
 				has_country_flag = sce_action01_flag
 				has_country_flag = sce_action02_flag
@@ -1077,7 +1011,7 @@ province_event = {
 				has_country_flag = sce_action06_flag
 			}
 			NOT = {
-				has_country_flag = sce_end_eldorado_flag
+				has_country_flag = sce_end_rome_flag
 			}
 		}
 	}
@@ -1096,8 +1030,8 @@ province_event = {
 			clr_country_flag = sce_action06_flag
 			clr_country_flag = sce_eventchain_flag
 			
-			set_country_flag = sce_end_eldorado_flag
-			remove_country_modifier = sce_search_eldorado
+			set_country_flag = sce_end_rome_flag
+			remove_country_modifier = sce_search_rome
 		}
 	}
 	
@@ -1105,28 +1039,28 @@ province_event = {
 		name = seven_cities_events.200.a
 		FROM = {
 			tooltip = {
-				remove_country_modifier = sce_search_eldorado
+				remove_country_modifier = sce_search_rome
 			}
 			add_prestige = -10
 		}
 	}
 }
 
-# Good End of El Dorado
+# Many Popes end of Rome
 province_event = {
 	id = seven_cities_events.201
 	title = seven_cities_events.201.t
 	desc = seven_cities_events.201.d
-	picture = LAKE_TREASURE_eventPicture
+	picture = RELIGIOUS_WARS_eventPicture
 
 	is_triggered_only = yes
 	
 	trigger = {
 		has_dlc = "El Dorado"
 		is_empty = yes
-		continent = south_america
+		region = region_italy
 		FROM = {
-			has_country_modifier = sce_search_eldorado
+			has_country_modifier = sce_search_rome
 			OR = {
 				has_country_flag = sce_action01_flag
 				has_country_flag = sce_action02_flag
@@ -1134,10 +1068,10 @@ province_event = {
 				has_country_flag = sce_action04_flag
 				has_country_flag = sce_action05_flag
 				has_country_flag = sce_action06_flag
-				had_country_flag = { flag = sce_eldorado_flag days = 365 }
+				had_country_flag = { flag = sce_rome_flag days = 365 }
 			}
 			NOT = {
-				has_country_flag = sce_end_eldorado_flag
+				has_country_flag = sce_end_rome_flag
 			}
 		}
 	}
@@ -1157,8 +1091,8 @@ province_event = {
 				clr_country_flag = sce_action06_flag
 				clr_country_flag = sce_eventchain_flag
 				
-				set_country_flag = sce_end_eldorado_flag
-				remove_country_modifier = sce_search_eldorado
+				set_country_flag = sce_end_rome_flag
+				remove_country_modifier = sce_search_rome
 			}
 		}
 	}
@@ -1167,35 +1101,35 @@ province_event = {
 		name = seven_cities_events.201.a
 		FROM = {
 			tooltip = {
-				remove_country_modifier = sce_search_eldorado
+				remove_country_modifier = sce_search_rome
 			}
 			add_country_modifier = {
-				name = sce_lake_guatavita
+				name = sce_many_popes
 				duration = 18250
 			}
 		}
 	}
 }
 
-# Ultimate End of El Dorado
+# Ultimate End of Rome
 province_event = {
 	id = seven_cities_events.202
 	title = seven_cities_events.202.t
 	desc = seven_cities_events.202.d
-	picture = GOLDEN_CITY_eventPicture
+	picture = POPE_PREACHING_eventPicture
 
 	major = yes
 	is_triggered_only = yes
 	
 	trigger = {
 		has_dlc = "El Dorado"
-		continent = south_america
+		region = region_italy
 		NOT = {
-			has_global_flag = sce_ultimate_eldorado
+			has_global_flag = sce_ultimate_rome
 		}
 		is_empty = yes
 		FROM = {
-			has_country_modifier = sce_search_eldorado
+			has_country_modifier = sce_search_rome
 			OR = {
 				has_country_flag = sce_action01_flag
 				has_country_flag = sce_action02_flag
@@ -1203,10 +1137,10 @@ province_event = {
 				has_country_flag = sce_action04_flag
 				has_country_flag = sce_action05_flag
 				has_country_flag = sce_action06_flag
-				had_country_flag = { flag = sce_eldorado_flag days = 365 }
+				had_country_flag = { flag = sce_rome_flag days = 365 }
 			}
 			NOT = {
-				has_country_flag = sce_end_eldorado_flag
+				has_country_flag = sce_end_rome_flag
 			}
 		}
 	}
@@ -1218,7 +1152,7 @@ province_event = {
 	immediate = {
 		hidden_effect = {
 			FROM = {
-				set_global_flag = sce_ultimate_eldorado
+				set_global_flag = sce_ultimate_rome
 			
 				clr_country_flag = sce_action01_flag
 				clr_country_flag = sce_action02_flag
@@ -1228,8 +1162,8 @@ province_event = {
 				clr_country_flag = sce_action06_flag
 				clr_country_flag = sce_eventchain_flag
 				
-				set_country_flag = sce_end_eldorado_flag
-				remove_country_modifier = sce_search_eldorado
+				set_country_flag = sce_end_rome_flag
+				remove_country_modifier = sce_search_rome
 			}
 		}
 	}
@@ -1238,31 +1172,31 @@ province_event = {
 		name = seven_cities_events.202.a
 		FROM = {
 			tooltip = {
-				remove_country_modifier = sce_search_eldorado
+				remove_country_modifier = sce_search_rome
 			}
 			add_country_modifier = {
-				name = sce_el_dorado
+				name = sce_true_pope
 				duration = -1
 			}
 		}
 	}
 }
 
-# Bad End of Fountain of Youth
+# Bad End of Paris
 province_event = {
 	id = seven_cities_events.203
 	title = seven_cities_events.203.t
 	desc = seven_cities_events.203.d
-	picture = SMALLPOX_eventPicture
+	picture = NOTHING_FOUND_eventPicture
 
 	is_triggered_only = yes
 	
 	trigger = {
 		has_dlc = "El Dorado"
 		is_empty = yes
-		continent = south_america
+		region = france_region
 		FROM = {
-			has_country_modifier = sce_search_fountainofyouth
+			has_country_modifier = sce_search_paris
 			OR = {
 				has_country_flag = sce_action01_flag
 				has_country_flag = sce_action02_flag
@@ -1273,7 +1207,7 @@ province_event = {
 				had_country_flag = { flag = sce_eventchain_flag days = 365 }
 			}
 			NOT = {
-				has_country_flag = sce_end_fountainofyouth_flag
+				has_country_flag = sce_end_paris_flag
 			}
 		}
 	}
@@ -1285,9 +1219,9 @@ province_event = {
 	immediate = {
 		hidden_effect = {
 			FROM = {
-				set_country_flag = sce_end_fountainofyouth_flag
+				set_country_flag = sce_end_paris_flag
 				clr_country_flag = sce_eventchain_flag
-				remove_country_modifier = sce_search_fountainofyouth
+				remove_country_modifier = sce_search_paris
 				
 				clr_country_flag = sce_action01_flag
 				clr_country_flag = sce_action02_flag
@@ -1303,14 +1237,14 @@ province_event = {
 		name = seven_cities_events.203.a
 		FROM = {
 			tooltip = {
-				remove_country_modifier = sce_search_fountainofyouth
+				remove_country_modifier = sce_search_paris
 			}
 			add_prestige = -10
 		}
 	}
 }
 
-# Good End of Fountain of Youth
+# Good End of Paris
 province_event = {
 	id = seven_cities_events.204
 	title = seven_cities_events.204.t
@@ -1322,9 +1256,9 @@ province_event = {
 	trigger = {
 		has_dlc = "El Dorado"
 		is_empty = yes
-		continent = south_america
+		region = france_region
 		FROM = {
-			has_country_modifier = sce_search_fountainofyouth
+			has_country_modifier = sce_search_paris
 			OR = {
 				has_country_flag = sce_action01_flag
 				has_country_flag = sce_action02_flag
@@ -1335,7 +1269,7 @@ province_event = {
 				had_country_flag = { flag = sce_eventchain_flag days = 365 }
 			}
 			NOT = {
-				has_country_flag = sce_end_fountainofyouth_flag
+				has_country_flag = sce_end_paris_flag
 			}
 		}
 	}
@@ -1347,9 +1281,9 @@ province_event = {
 	immediate = {
 		hidden_effect = {
 			FROM = {
-				set_country_flag = sce_end_fountainofyouth_flag
+				set_country_flag = sce_end_paris_flag
 				clr_country_flag = sce_eventchain_flag
-				remove_country_modifier = sce_search_fountainofyouth
+				remove_country_modifier = sce_search_paris
 				
 				clr_country_flag = sce_action01_flag
 				clr_country_flag = sce_action02_flag
@@ -1365,18 +1299,18 @@ province_event = {
 		name = seven_cities_events.204.a
 		FROM = {
 			tooltip = {
-				remove_country_modifier = sce_search_fountainofyouth
+				remove_country_modifier = sce_search_paris
 			}
 			
 			add_country_modifier = {
-				name = sce_life_water
+				name = sce_paris_ruins
 				duration = 18250
 			}
 		}
 	}
 }
 
-# Ultimate End of Fountain of Youth
+# Ultimate End of Paris
 province_event = {
 	id = seven_cities_events.205
 	title = seven_cities_events.205.t
@@ -1389,12 +1323,12 @@ province_event = {
 	trigger = {
 		has_dlc = "El Dorado"
 		is_empty = yes
-		continent = south_america
+		region = france_region
 		NOT = {
-			has_global_flag = sce_ultimate_fountainofyouth
+			has_global_flag = sce_ultimate_paris
 		}
 		FROM = {
-			has_country_modifier = sce_search_fountainofyouth
+			has_country_modifier = sce_search_paris
 			OR = {
 				has_country_flag = sce_action01_flag
 				has_country_flag = sce_action02_flag
@@ -1405,7 +1339,7 @@ province_event = {
 				had_country_flag = { flag = sce_eventchain_flag days = 365 }
 			}
 			NOT = {
-				has_country_flag = sce_end_fountainofyouth_flag
+				has_country_flag = sce_end_paris_flag
 			}
 		}
 	}
@@ -1417,10 +1351,10 @@ province_event = {
 	immediate = {
 		hidden_effect = {
 			FROM = {
-				set_global_flag = sce_ultimate_fountainofyouth
-				set_country_flag = sce_end_fountainofyouth_flag
+				set_global_flag = sce_ultimate_paris
+				set_country_flag = sce_end_paris_flag
 				clr_country_flag = sce_eventchain_flag
-				remove_country_modifier = sce_search_fountainofyouth
+				remove_country_modifier = sce_search_paris
 				
 				clr_country_flag = sce_action01_flag
 				clr_country_flag = sce_action02_flag
@@ -1437,17 +1371,17 @@ province_event = {
 		name = seven_cities_events.205.a
 		FROM = {
 			add_country_modifier = {
-				name = sce_fountain_youth
+				name = sce_paris_gold
 				duration = -1
 			}
 			tooltip = {
-				remove_country_modifier = sce_search_fountainofyouth
+				remove_country_modifier = sce_search_paris
 			}
 		}
 	}
 }
 
-# Bad End of Cibola
+# Bad End of Amsterdam
 province_event = {
 	id = seven_cities_events.206
 	title = seven_cities_events.206.t
@@ -1460,13 +1394,14 @@ province_event = {
 		has_dlc = "El Dorado"
 		is_empty = yes
 		OR = {
-			continent = new_world
-			continent = south_america
-			region = mexico_region
-			region = central_america_region
+			area = weser_area
+			area = frisia_area
+			area = netherlands_area
+			area = flanders_area
+			area = picardy_area
 		}
 		FROM = {
-			has_country_modifier = sce_search_cibola
+			has_country_modifier = sce_search_amsterdam
 			OR = {
 				has_country_flag = sce_action01_flag
 				has_country_flag = sce_action02_flag
@@ -1477,7 +1412,7 @@ province_event = {
 				had_country_flag = { flag = sce_eventchain_flag days = 365 }
 			}
 			NOT = {
-				has_country_flag = sce_end_cibola_flag
+				has_country_flag = sce_end_amsterdam_flag
 			}
 		}
 	}
@@ -1489,9 +1424,9 @@ province_event = {
 	immediate = {
 		hidden_effect = {
 			FROM = {
-				set_country_flag = sce_end_cibola_flag
+				set_country_flag = sce_end_amsterdam_flag
 				clr_country_flag = sce_eventchain_flag
-				remove_country_modifier = sce_search_cibola
+				remove_country_modifier = sce_search_amsterdam
 				
 				clr_country_flag = sce_action01_flag
 				clr_country_flag = sce_action02_flag
@@ -1507,14 +1442,14 @@ province_event = {
 		name = seven_cities_events.206.a
 		FROM = {
 			tooltip = {
-				remove_country_modifier = sce_search_cibola
+				remove_country_modifier = sce_search_amsterdam
 			}				
 			add_prestige = -10
 		}
 	}
 }
 
-# Good End of Cibola
+# Good End of Amsterdam
 province_event = {
 	id = seven_cities_events.207
 	title = seven_cities_events.207.t
@@ -1527,13 +1462,14 @@ province_event = {
 		has_dlc = "El Dorado"
 		is_empty = yes
 		OR = {
-			continent = new_world
-			continent = south_america
-			region = mexico_region
-			region = central_america_region
+			area = weser_area
+			area = frisia_area
+			area = netherlands_area
+			area = flanders_area
+			area = picardy_area
 		}
 		FROM = {
-			has_country_modifier = sce_search_cibola
+			has_country_modifier = sce_search_amsterdam
 			OR = {
 				has_country_flag = sce_action01_flag
 				has_country_flag = sce_action02_flag
@@ -1544,7 +1480,7 @@ province_event = {
 				had_country_flag = { flag = sce_eventchain_flag days = 365 }
 			}
 			NOT = {
-				has_country_flag = sce_end_cibola_flag
+				has_country_flag = sce_end_amsterdam_flag
 			}
 		}
 	}
@@ -1556,9 +1492,9 @@ province_event = {
 	immediate = {
 		hidden_effect = {
 			FROM = {
-				set_country_flag = sce_end_cibola_flag
+				set_country_flag = sce_end_amsterdam_flag
 				clr_country_flag = sce_eventchain_flag
-				remove_country_modifier = sce_search_cibola
+				remove_country_modifier = sce_search_amsterdam
 				
 				clr_country_flag = sce_action01_flag
 				clr_country_flag = sce_action02_flag
@@ -1574,18 +1510,18 @@ province_event = {
 		name = seven_cities_events.207.a
 		FROM = {
 			tooltip = {
-				remove_country_modifier = sce_search_cibola
+				remove_country_modifier = sce_search_amsterdam
 			}
 			
 			add_country_modifier = {
-				name = sce_cibola_silver
+				name = sce_amsterdam_silver
 				duration = 18250
 			}
 		}
 	}
 }
 
-# Ultimate End of Cibola
+# Ultimate End of Amsterdam
 province_event = {
 	id = seven_cities_events.208
 	title = seven_cities_events.208.t
@@ -1598,17 +1534,18 @@ province_event = {
 	trigger = {
 		has_dlc = "El Dorado"
 		NOT = {
-			has_global_flag = sce_ultimate_cibola
+			has_global_flag = sce_ultimate_amsterdam
 		}
 		is_empty = yes
 		OR = {
-			continent = new_world
-			continent = south_america
-			region = mexico_region
-			region = central_america_region
+			area = weser_area
+			area = frisia_area
+			area = netherlands_area
+			area = flanders_area
+			area = picardy_area
 		}
 		FROM = {
-			has_country_modifier = sce_search_cibola
+			has_country_modifier = sce_search_amsterdam
 			OR = {
 				has_country_flag = sce_action01_flag
 				has_country_flag = sce_action02_flag
@@ -1619,7 +1556,7 @@ province_event = {
 				had_country_flag = { flag = sce_eventchain_flag days = 365 }
 			}
 			NOT = {
-				has_country_flag = sce_end_cibola_flag
+				has_country_flag = sce_end_amsterdam_flag
 			}
 		}
 	}
@@ -1631,10 +1568,10 @@ province_event = {
 	immediate = {
 		hidden_effect = {
 			FROM = {
-				set_global_flag = sce_ultimate_cibola
-				set_country_flag = sce_end_cibola_flag
+				set_global_flag = sce_ultimate_amsterdam
+				set_country_flag = sce_end_amsterdam_flag
 				clr_country_flag = sce_eventchain_flag
-				remove_country_modifier = sce_search_cibola
+				remove_country_modifier = sce_search_amsterdam
 				
 				clr_country_flag = sce_action01_flag
 				clr_country_flag = sce_action02_flag
@@ -1650,17 +1587,17 @@ province_event = {
 		name = seven_cities_events.208.a
 		FROM = {
 			tooltip = {
-				remove_country_modifier = sce_search_cibola
+				remove_country_modifier = sce_search_amsterdam
 			}
 			add_country_modifier = {
-				name = sce_cibola_gold
+				name = sce_amsterdam_gold
 				duration = -1
 			}
 		}
 	}
 }
 
-# Bad End of City of the Caesars
+# Bad End of Amber Room
 province_event = {
 	id = seven_cities_events.209
 	title = seven_cities_events.209.t
@@ -1673,14 +1610,11 @@ province_event = {
 		has_dlc = "El Dorado"
 		is_empty = yes
 		OR = {
-			area = patagonia_area
-			area = southern_pampas_area
-			area = patagonian_andes
-			area = bahia_blanca_area
-			area = nehuenken_area
+			region = baltic_region
+			region = russia_region
 		}
 		FROM = {
-			has_country_modifier = sce_search_cityofcaesars
+			has_country_modifier = sce_search_amberroom
 			OR = {
 				has_country_flag = sce_action01_flag
 				has_country_flag = sce_action02_flag
@@ -1691,7 +1625,7 @@ province_event = {
 				had_country_flag = { flag = sce_eventchain_flag days = 365 }
 			}
 			NOT = {
-				has_country_flag = sce_end_cityofcaesars_flag
+				has_country_flag = sce_end_amberroom_flag
 			}
 		}
 	}
@@ -1703,9 +1637,9 @@ province_event = {
 	immediate = {
 		hidden_effect = {
 			FROM = {
-				set_country_flag = sce_end_cityofcaesars_flag
+				set_country_flag = sce_end_amberroom_flag
 				clr_country_flag = sce_eventchain_flag
-				remove_country_modifier = sce_search_cityofcaesars
+				remove_country_modifier = sce_search_amberroom
 				
 				clr_country_flag = sce_action01_flag
 				clr_country_flag = sce_action02_flag
@@ -1721,14 +1655,14 @@ province_event = {
 		name = seven_cities_events.209.a
 		FROM = {
 			tooltip = {
-				remove_country_modifier = sce_search_cityofcaesars
+				remove_country_modifier = sce_search_amberroom
 			}
 			add_prestige = -10
 		}
 	}
 }
 
-# Good End of City of the Caesars
+# Good End of Amber Room
 province_event = {
 	id = seven_cities_events.210
 	title = seven_cities_events.210.t
@@ -1741,14 +1675,11 @@ province_event = {
 		has_dlc = "El Dorado"
 		is_empty = yes
 		OR = {
-			area = patagonia_area
-			area = southern_pampas_area
-			area = patagonian_andes
-			area = bahia_blanca_area
-			area = nehuenken_area
+			region = baltic_region
+			region = russia_region
 		}
 		FROM = {
-			has_country_modifier = sce_search_cityofcaesars
+			has_country_modifier = sce_search_amberroom
 			OR = {
 				has_country_flag = sce_action01_flag
 				has_country_flag = sce_action02_flag
@@ -1759,7 +1690,7 @@ province_event = {
 				had_country_flag = { flag = sce_eventchain_flag days = 365 }
 			}
 			NOT = {
-				has_country_flag = sce_end_cityofcaesars_flag
+				has_country_flag = sce_end_amberroom_flag
 			}
 		}
 	}
@@ -1771,9 +1702,9 @@ province_event = {
 	immediate = {
 		hidden_effect = {
 			FROM = {
-				set_country_flag = sce_end_cityofcaesars_flag
+				set_country_flag = sce_end_amberroom_flag
 				clr_country_flag = sce_eventchain_flag
-				remove_country_modifier = sce_search_cityofcaesars
+				remove_country_modifier = sce_search_amberroom
 				
 				clr_country_flag = sce_action01_flag
 				clr_country_flag = sce_action02_flag
@@ -1789,18 +1720,18 @@ province_event = {
 		name = seven_cities_events.210.a
 		FROM = {
 			tooltip = {
-				remove_country_modifier = sce_search_cityofcaesars
+				remove_country_modifier = sce_search_amberroom
 			}
 			
 			add_country_modifier = {
-				name = sce_citycaesars_quartz
+				name = sce_amberroom_fragments
 				duration = 18250
 			}
 		}
 	}
 }
 
-# Ultimate End of City of the Caesars
+# Ultimate End of Amber Room
 province_event = {
 	id = seven_cities_events.211
 	title = seven_cities_events.211.t
@@ -1813,18 +1744,15 @@ province_event = {
 	trigger = {
 		has_dlc = "El Dorado"
 		NOT = {
-			has_global_flag = sce_ultimate_cityofcaesars
+			has_global_flag = sce_ultimate_amberroom
 		}
 		is_empty = yes
 		OR = {
-			area = patagonia_area
-			area = southern_pampas_area
-			area = patagonian_andes
-			area = bahia_blanca_area
-			area = nehuenken_area
+			region = baltic_region
+			region = russia_region
 		}
 		FROM = {
-			has_country_modifier = sce_search_cityofcaesars
+			has_country_modifier = sce_search_amberroom
 			OR = {
 				has_country_flag = sce_action01_flag
 				has_country_flag = sce_action02_flag
@@ -1835,7 +1763,7 @@ province_event = {
 				had_country_flag = { flag = sce_eventchain_flag days = 365 }
 			}
 			NOT = {
-				has_country_flag = sce_end_cityofcaesars_flag
+				has_country_flag = sce_end_amberroom_flag
 			}
 			
 		}
@@ -1848,10 +1776,10 @@ province_event = {
 	immediate = {
 		hidden_effect = {
 			FROM = {
-				set_global_flag = sce_ultimate_cityofcaesars
-				set_country_flag = sce_end_cityofcaesars_flag
+				set_global_flag = sce_ultimate_amberroom
+				set_country_flag = sce_end_amberroom_flag
 				clr_country_flag = sce_eventchain_flag
-				remove_country_modifier = sce_search_cityofcaesars
+				remove_country_modifier = sce_search_amberroom
 				
 				clr_country_flag = sce_action01_flag
 				clr_country_flag = sce_action02_flag
@@ -1867,11 +1795,11 @@ province_event = {
 		name = seven_cities_events.211.a
 		FROM = {
 			tooltip = {
-				remove_country_modifier = sce_search_cityofcaesars
+				remove_country_modifier = sce_search_amberroom
 			}
 			
 			add_country_modifier = {
-				name = sce_city_of_caesars
+				name = sce_amberroom_gold
 				duration = -1
 			}
 			
@@ -1879,7 +1807,7 @@ province_event = {
 	}
 }
 
-# Bad End of Sierra de la Plata
+# Bad End of CSS Texas
 province_event = {
 	id = seven_cities_events.212
 	title = seven_cities_events.212.t
@@ -1892,17 +1820,12 @@ province_event = {
 		has_dlc = "El Dorado"
 		is_empty = yes
 		OR = {
-			region = peru_region
-			area = tucuman_area
-			area = cuyo_area
-			area = jujuy_area
-			area = nehuenken_area
-			area = southern_chile_area
-			area = northern_chile_area
-			area = central_chile_area
+			region = niger_region
+			region = guinea_region
+			region = sahel_region
 		}
 		FROM = {
-			has_country_modifier = sce_search_sierradelaplata
+			has_country_modifier = sce_search_csstexas
 			OR = {
 				has_country_flag = sce_action01_flag
 				has_country_flag = sce_action02_flag
@@ -1913,7 +1836,7 @@ province_event = {
 				had_country_flag = { flag = sce_eventchain_flag days = 365 }
 			}
 			NOT = {
-				has_country_flag = sce_end_sierradelaplata_flag
+				has_country_flag = sce_end_csstexas_flag
 			}
 			
 		}
@@ -1926,9 +1849,9 @@ province_event = {
 	immediate = {
 		hidden_effect = {
 			FROM = {
-				set_country_flag = sce_end_sierradelaplata_flag
+				set_country_flag = sce_end_csstexas_flag
 				clr_country_flag = sce_eventchain_flag
-				remove_country_modifier = sce_search_sierradelaplata
+				remove_country_modifier = sce_search_csstexas
 				
 				clr_country_flag = sce_action01_flag
 				clr_country_flag = sce_action02_flag
@@ -1944,7 +1867,7 @@ province_event = {
 		name = seven_cities_events.212.a
 		FROM = {
 			tooltip = {
-				remove_country_modifier = sce_search_sierradelaplata
+				remove_country_modifier = sce_search_csstexas
 			}
 			add_prestige = -10
 			
@@ -1952,7 +1875,7 @@ province_event = {
 	}
 }
 
-# Good End of Sierra de la Plata
+# Good End of CSS Texas
 province_event = {
 	id = seven_cities_events.213
 	title = seven_cities_events.213.t
@@ -1965,17 +1888,12 @@ province_event = {
 		has_dlc = "El Dorado"
 		is_empty = yes
 		OR = {
-			region = peru_region
-			area = tucuman_area
-			area = cuyo_area
-			area = jujuy_area
-			area = nehuenken_area
-			area = southern_chile_area
-			area = northern_chile_area
-			area = central_chile_area
+			region = niger_region
+			region = guinea_region
+			region = sahel_region
 		}
 		FROM = {
-			has_country_modifier = sce_search_sierradelaplata
+			has_country_modifier = sce_search_csstexas
 			OR = {
 				has_country_flag = sce_action01_flag
 				has_country_flag = sce_action02_flag
@@ -1986,7 +1904,7 @@ province_event = {
 				had_country_flag = { flag = sce_eventchain_flag days = 365 }
 			}
 			NOT = {
-				has_country_flag = sce_end_sierradelaplata_flag
+				has_country_flag = sce_end_csstexas_flag
 			}
 			
 		}
@@ -1999,9 +1917,9 @@ province_event = {
 	immediate = {
 		hidden_effect = {
 			FROM = {
-				set_country_flag = sce_end_sierradelaplata_flag
+				set_country_flag = sce_end_csstexas_flag
 				clr_country_flag = sce_eventchain_flag
-				remove_country_modifier = sce_search_sierradelaplata
+				remove_country_modifier = sce_search_csstexas
 				
 				clr_country_flag = sce_action01_flag
 				clr_country_flag = sce_action02_flag
@@ -2017,11 +1935,11 @@ province_event = {
 		name = seven_cities_events.213.a
 		FROM = {
 			tooltip = {
-				remove_country_modifier = sce_search_sierradelaplata
+				remove_country_modifier = sce_search_csstexas
 			}
 			
 			add_country_modifier = {
-				name = sce_sierradelaplata_quartz
+				name = sce_csstexas_fragments
 				duration = 18250
 			}
 			
@@ -2029,7 +1947,7 @@ province_event = {
 	}
 }
 
-# Ultimate End of Sierra de la Plata
+# Ultimate End of CSS Texas
 province_event = {
 	id = seven_cities_events.214
 	title = seven_cities_events.214.t
@@ -2042,21 +1960,16 @@ province_event = {
 	trigger = {
 		has_dlc = "El Dorado"
 		NOT = {
-			has_global_flag = sce_ultimate_sierradelaplata
+			has_global_flag = sce_ultimate_csstexas
 		}
 		is_empty = yes
 		OR = {
-			region = peru_region
-			area = tucuman_area
-			area = cuyo_area
-			area = jujuy_area
-			area = nehuenken_area
-			area = southern_chile_area
-			area = northern_chile_area
-			area = central_chile_area
+			region = niger_region
+			region = guinea_region
+			region = sahel_region
 		}
 		FROM = {
-			has_country_modifier = sce_search_sierradelaplata
+			has_country_modifier = sce_search_csstexas
 			OR = {
 				has_country_flag = sce_action01_flag
 				has_country_flag = sce_action02_flag
@@ -2067,7 +1980,7 @@ province_event = {
 				had_country_flag = { flag = sce_eventchain_flag days = 365 }
 			}
 			NOT = {
-				has_country_flag = sce_end_sierradelaplata_flag
+				has_country_flag = sce_end_csstexas_flag
 			}
 			
 		}
@@ -2080,10 +1993,10 @@ province_event = {
 	immediate = {
 		hidden_effect = {
 			FROM = {
-				set_global_flag = sce_ultimate_sierradelaplata
-				set_country_flag = sce_end_sierradelaplata_flag
+				set_global_flag = sce_ultimate_csstexas
+				set_country_flag = sce_end_csstexas_flag
 				clr_country_flag = sce_eventchain_flag
-				remove_country_modifier = sce_search_sierradelaplata
+				remove_country_modifier = sce_search_csstexas
 				
 				clr_country_flag = sce_action01_flag
 				clr_country_flag = sce_action02_flag
@@ -2099,11 +2012,11 @@ province_event = {
 		name = seven_cities_events.214.a
 		FROM = {
 			tooltip = {
-				remove_country_modifier = sce_search_sierradelaplata
+				remove_country_modifier = sce_search_csstexas
 			}
 			
 			add_country_modifier = {
-				name = sce_sierra_dela_plata
+				name = sce_csstexas_gold
 				duration = -1
 			}
 			
@@ -2111,7 +2024,7 @@ province_event = {
 	}
 }
 
-# Bad End of Norumbega
+# Bad End of Shanghai
 province_event = {
 	id = seven_cities_events.215
 	title = seven_cities_events.215.t
@@ -2123,16 +2036,9 @@ province_event = {
 	trigger = {
 		has_dlc = "El Dorado"
 		is_empty = yes
-		OR = {
-			region = canada_region
-			area = james_bay_area
-			area = inner_ontario_area
-			area = hudson_bay_area
-			region = northeast_america_region
-			region = southeast_america_region
-		}
+		region = south_china_region
 		FROM = {
-			has_country_modifier = sce_search_norumbega
+			has_country_modifier = sce_search_shanghai
 			OR = {
 				has_country_flag = sce_action01_flag
 				has_country_flag = sce_action02_flag
@@ -2143,7 +2049,7 @@ province_event = {
 				had_country_flag = { flag = sce_eventchain_flag days = 365 }
 			}
 			NOT = {
-				has_country_flag = sce_end_norumbega_flag
+				has_country_flag = sce_end_shanghai_flag
 			}
 			
 		}
@@ -2156,9 +2062,9 @@ province_event = {
 	immediate = {
 		hidden_effect = {
 			FROM = {
-				set_country_flag = sce_end_norumbega_flag
+				set_country_flag = sce_end_shanghai_flag
 				clr_country_flag = sce_eventchain_flag
-				remove_country_modifier = sce_search_norumbega
+				remove_country_modifier = sce_search_shanghai
 				
 				clr_country_flag = sce_action01_flag
 				clr_country_flag = sce_action02_flag
@@ -2174,14 +2080,14 @@ province_event = {
 		name = seven_cities_events.215.a
 		FROM = {
 			tooltip = {
-				remove_country_modifier = sce_search_norumbega
+				remove_country_modifier = sce_search_shanghai
 			}
 			add_prestige = -10
 		}
 	}
 }
 
-# Good End of Norumbega
+# Good End of Shanghai
 province_event = {
 	id = seven_cities_events.216
 	title = seven_cities_events.216.t
@@ -2193,16 +2099,9 @@ province_event = {
 	trigger = {
 		has_dlc = "El Dorado"
 		is_empty = yes
-		OR = {
-			region = canada_region
-			area = james_bay_area
-			area = inner_ontario_area
-			area = hudson_bay_area
-			region = northeast_america_region
-			region = southeast_america_region
-		}
+		region = south_china_region
 		FROM = {
-			has_country_modifier = sce_search_norumbega
+			has_country_modifier = sce_search_shanghai
 			OR = {
 				has_country_flag = sce_action01_flag
 				has_country_flag = sce_action02_flag
@@ -2213,7 +2112,7 @@ province_event = {
 				had_country_flag = { flag = sce_eventchain_flag days = 365 }
 			}
 			NOT = {
-				has_country_flag = sce_end_norumbega_flag
+				has_country_flag = sce_end_shanghai_flag
 			}
 			
 		}
@@ -2226,9 +2125,9 @@ province_event = {
 	immediate = {
 		hidden_effect = {
 			FROM = {
-				set_country_flag = sce_end_norumbega_flag
+				set_country_flag = sce_end_shanghai_flag
 				clr_country_flag = sce_eventchain_flag
-				remove_country_modifier = sce_search_norumbega
+				remove_country_modifier = sce_search_shanghai
 				
 				clr_country_flag = sce_action01_flag
 				clr_country_flag = sce_action02_flag
@@ -2244,11 +2143,11 @@ province_event = {
 		name = seven_cities_events.216.a
 		FROM = {
 			tooltip = {
-				remove_country_modifier = sce_search_norumbega
+				remove_country_modifier = sce_search_shanghai
 			}
 			
 			add_country_modifier = {
-				name = sce_norumbega_abandoned
+				name = sce_shanghai_abandoned
 				duration = 18250
 			}
 			
@@ -2256,7 +2155,7 @@ province_event = {
 	}
 }
 
-# Ultimate End of Norumbega
+# Ultimate End of Shanghai
 province_event = {
 	id = seven_cities_events.217
 	title = seven_cities_events.217.t
@@ -2269,19 +2168,12 @@ province_event = {
 	trigger = {
 		has_dlc = "El Dorado"
 		NOT = {
-			has_global_flag = sce_ultimate_norumbega
+			has_global_flag = sce_ultimate_shanghai
 		}
 		is_empty = yes
-		OR = {
-			region = canada_region
-			area = james_bay_area
-			area = inner_ontario_area
-			area = hudson_bay_area
-			region = northeast_america_region
-			region = southeast_america_region
-		}
+		region = south_china_region
 		FROM = {
-			has_country_modifier = sce_search_norumbega
+			has_country_modifier = sce_search_shanghai
 			OR = {
 				has_country_flag = sce_action01_flag
 				has_country_flag = sce_action02_flag
@@ -2292,7 +2184,7 @@ province_event = {
 				had_country_flag = { flag = sce_eventchain_flag days = 365 }
 			}
 			NOT = {
-				has_country_flag = sce_end_norumbega_flag
+				has_country_flag = sce_end_shanghai_flag
 			}
 		}
 	}
@@ -2304,10 +2196,10 @@ province_event = {
 	immediate = {
 		hidden_effect = {
 			FROM = {
-				set_global_flag = sce_ultimate_norumbega
-				set_country_flag = sce_end_norumbega_flag
+				set_global_flag = sce_ultimate_shanghai
+				set_country_flag = sce_end_shanghai_flag
 				clr_country_flag = sce_eventchain_flag
-				remove_country_modifier = sce_search_norumbega
+				remove_country_modifier = sce_search_shanghai
 				
 				clr_country_flag = sce_action01_flag
 				clr_country_flag = sce_action02_flag
@@ -2323,10 +2215,10 @@ province_event = {
 		name = seven_cities_events.217.a
 		FROM = {
 			tooltip = {
-				remove_country_modifier = sce_search_norumbega
+				remove_country_modifier = sce_search_shanghai
 			}
 			add_country_modifier = {
-				name = sce_norumbega
+				name = sce_shanghai_gold
 				duration = -1
 			}
 			
@@ -2334,7 +2226,7 @@ province_event = {
 	}
 }
 
-# Bad End of Kingdom of Saguenay
+# Bad End of Xanadu
 province_event = {
 	id = seven_cities_events.218
 	title = seven_cities_events.218.t
@@ -2346,16 +2238,9 @@ province_event = {
 	trigger = {
 		has_dlc = "El Dorado"
 		is_empty = yes
-		OR = {
-			region = canada_region
-			area = james_bay_area
-			area = inner_ontario_area
-			area = hudson_bay_area
-			region = northeast_america_region
-			region = southeast_america_region
-		}
+		region = north_china_region
 		FROM = {
-			has_country_modifier = sce_search_saguenay
+			has_country_modifier = sce_search_xanadu
 			OR = {
 				has_country_flag = sce_action01_flag
 				has_country_flag = sce_action02_flag
@@ -2366,7 +2251,7 @@ province_event = {
 				had_country_flag = { flag = sce_eventchain_flag days = 365 }
 			}
 			NOT = {
-				has_country_flag = sce_end_saguenay_flag
+				has_country_flag = sce_end_xanadu_flag
 			}
 			
 		}
@@ -2379,9 +2264,9 @@ province_event = {
 	immediate = {
 		hidden_effect = {
 			FROM = {
-				set_country_flag = sce_end_saguenay_flag
+				set_country_flag = sce_end_xanadu_flag
 				clr_country_flag = sce_eventchain_flag
-				remove_country_modifier = sce_search_saguenay
+				remove_country_modifier = sce_search_xanadu
 				
 				clr_country_flag = sce_action01_flag
 				clr_country_flag = sce_action02_flag
@@ -2397,14 +2282,14 @@ province_event = {
 		name = seven_cities_events.218.a
 		FROM = {
 			tooltip = {
-				remove_country_modifier = sce_search_saguenay
+				remove_country_modifier = sce_search_xanadu
 			}
 			add_prestige = -10
 		}
 	}
 }
 
-# Good End of Kingdom of Saguenay
+# Good End of Xanadu
 province_event = {
 	id = seven_cities_events.219
 	title = seven_cities_events.219.t
@@ -2416,16 +2301,9 @@ province_event = {
 	trigger = {
 		has_dlc = "El Dorado"
 		is_empty = yes
-		OR = {
-			region = canada_region
-			area = james_bay_area
-			area = inner_ontario_area
-			area = hudson_bay_area
-			region = northeast_america_region
-			region = southeast_america_region
-		}
+		region = north_china_region
 		FROM = {
-			has_country_modifier = sce_search_saguenay
+			has_country_modifier = sce_search_xanadu
 			OR = {
 				has_country_flag = sce_action01_flag
 				has_country_flag = sce_action02_flag
@@ -2436,7 +2314,7 @@ province_event = {
 				had_country_flag = { flag = sce_eventchain_flag days = 365 }
 			}
 			NOT = {
-				has_country_flag = sce_end_saguenay_flag
+				has_country_flag = sce_end_xanadu_flag
 			}
 			
 		}
@@ -2449,9 +2327,9 @@ province_event = {
 	immediate = {
 		hidden_effect = {
 			FROM = {
-				set_country_flag = sce_end_saguenay_flag
+				set_country_flag = sce_end_xanadu_flag
 				clr_country_flag = sce_eventchain_flag
-				remove_country_modifier = sce_search_saguenay
+				remove_country_modifier = sce_search_xanadu
 				
 				clr_country_flag = sce_action01_flag
 				clr_country_flag = sce_action02_flag
@@ -2467,10 +2345,10 @@ province_event = {
 		name = seven_cities_events.219.a
 		FROM = {
 			tooltip = {
-				remove_country_modifier = sce_search_saguenay
+				remove_country_modifier = sce_search_xanadu
 			}
 			add_country_modifier = {
-				name = sce_saguenay_abandoned
+				name = sce_xanadu_abandoned
 				duration = 18250
 			}
 			
@@ -2478,7 +2356,7 @@ province_event = {
 	}
 }
 
-# Ultimate End of Kingdom of Saguenay
+# Ultimate End of Xanadu
 province_event = {
 	id = seven_cities_events.220
 	title = seven_cities_events.220.t
@@ -2491,19 +2369,12 @@ province_event = {
 	trigger = {
 		has_dlc = "El Dorado"
 		NOT = {
-			has_global_flag = sce_ultimate_saguenay
+			has_global_flag = sce_ultimate_xanadu
 		}
 		is_empty = yes
-		OR = {
-			region = canada_region
-			area = james_bay_area
-			area = inner_ontario_area
-			area = hudson_bay_area
-			region = northeast_america_region
-			region = southeast_america_region
-		}
+		region = north_china_region
 		FROM = {
-			has_country_modifier = sce_search_saguenay
+			has_country_modifier = sce_search_xanadu
 			OR = {
 				has_country_flag = sce_action01_flag
 				has_country_flag = sce_action02_flag
@@ -2514,7 +2385,7 @@ province_event = {
 				had_country_flag = { flag = sce_eventchain_flag days = 365 }
 			}
 			NOT = {
-				has_country_flag = sce_end_saguenay_flag
+				has_country_flag = sce_end_xanadu_flag
 			}
 			
 		}
@@ -2527,10 +2398,10 @@ province_event = {
 	immediate = {
 		hidden_effect = {
 			FROM = {
-				set_global_flag = sce_ultimate_saguenay
-				set_country_flag = sce_end_saguenay_flag
+				set_global_flag = sce_ultimate_xanadu
+				set_country_flag = sce_end_xanadu_flag
 				clr_country_flag = sce_eventchain_flag
-				remove_country_modifier = sce_search_saguenay
+				remove_country_modifier = sce_search_xanadu
 				
 				clr_country_flag = sce_action01_flag
 				clr_country_flag = sce_action02_flag
@@ -2546,10 +2417,10 @@ province_event = {
 		name = seven_cities_events.220.a
 		FROM = {
 			tooltip = {
-				remove_country_modifier = sce_search_saguenay
+				remove_country_modifier = sce_search_xanadu
 			}
 			add_country_modifier = {
-				name = sce_saguenay
+				name = sce_xanadu_gold
 				duration = -1
 			}
 			
@@ -2558,223 +2429,223 @@ province_event = {
 }
 
 # Bad End of Quivira
-province_event = {
-	id = seven_cities_events.221
-	title = seven_cities_events.221.t
-	desc = seven_cities_events.221.d
-	picture = NOTHING_FOUND_eventPicture
-
-	is_triggered_only = yes
-	
-	trigger = {
-		has_dlc = "El Dorado"
-		is_empty = yes
-		OR = {
-			region = canada_region
-			area = james_bay_area
-			area = inner_ontario_area
-			area = hudson_bay_area
-			region = northeast_america_region
-			region = southeast_america_region
-		}
-		FROM = {
-			has_country_modifier = sce_search_quivira
-			OR = {
-				has_country_flag = sce_action01_flag
-				has_country_flag = sce_action02_flag
-				has_country_flag = sce_action03_flag
-				has_country_flag = sce_action04_flag
-				has_country_flag = sce_action05_flag
-				has_country_flag = sce_action06_flag
-			}
-			NOT = {
-				has_country_flag = sce_end_quivira_flag
-			}
-		}
-	}
-	
-	mean_time_to_happen = {
-		days = 1
-	}
-	
-	immediate = {
-		hidden_effect = {
-			FROM = {
-				clr_country_flag = sce_action01_flag
-				clr_country_flag = sce_action02_flag
-				clr_country_flag = sce_action03_flag
-				clr_country_flag = sce_action04_flag
-				clr_country_flag = sce_action05_flag
-				clr_country_flag = sce_action06_flag
-				clr_country_flag = sce_eventchain_flag
-				
-				set_country_flag = sce_end_quivira_flag
-				remove_country_modifier = sce_search_quivira
-			}
-		}
-	}
-	
-	option = {
-		name = seven_cities_events.221.a
-		FROM = {
-			tooltip = {
-				remove_country_modifier = sce_search_quivira
-			}
-			add_prestige = -10
-		}
-	}
-}
-
+#province_event = {
+#	id = seven_cities_events.221
+#	title = seven_cities_events.221.t
+#	desc = seven_cities_events.221.d
+#	picture = NOTHING_FOUND_eventPicture
+#
+#	is_triggered_only = yes
+#	
+#	trigger = {
+#		has_dlc = "El Dorado"
+#		is_empty = yes
+#		OR = {
+#			region = canada_region
+#			area = james_bay_area
+#			area = inner_ontario_area
+#			area = hudson_bay_area
+#			region = northeast_america_region
+#			region = southeast_america_region
+#		}
+#		FROM = {
+#			has_country_modifier = sce_search_quivira
+#			OR = {
+#				has_country_flag = sce_action01_flag
+#				has_country_flag = sce_action02_flag
+#				has_country_flag = sce_action03_flag
+#				has_country_flag = sce_action04_flag
+#				has_country_flag = sce_action05_flag
+#				has_country_flag = sce_action06_flag
+#			}
+#			NOT = {
+#				has_country_flag = sce_end_quivira_flag
+#			}
+#		}
+#	}
+#	
+#	mean_time_to_happen = {
+#		days = 1
+#	}
+#	
+#	immediate = {
+#		hidden_effect = {
+#			FROM = {
+#				clr_country_flag = sce_action01_flag
+#				clr_country_flag = sce_action02_flag
+#				clr_country_flag = sce_action03_flag
+#				clr_country_flag = sce_action04_flag
+#				clr_country_flag = sce_action05_flag
+#				clr_country_flag = sce_action06_flag
+#				clr_country_flag = sce_eventchain_flag
+#				
+#				set_country_flag = sce_end_quivira_flag
+#				remove_country_modifier = sce_search_quivira
+#			}
+#		}
+#	}
+#	
+#	option = {
+#		name = seven_cities_events.221.a
+#		FROM = {
+#			tooltip = {
+#				remove_country_modifier = sce_search_quivira
+#			}
+#			add_prestige = -10
+#		}
+#	}
+#}
+#
 # Good End of Quivira
-province_event = {
-	id = seven_cities_events.222
-	title = seven_cities_events.222.t
-	desc = seven_cities_events.222.d
-	picture = INCA_CITY_eventPicture
-
-	is_triggered_only = yes
-	
-	trigger = {
-		has_dlc = "El Dorado"
-		is_empty = yes
-		OR = {
-			region = canada_region
-			area = james_bay_area
-			area = inner_ontario_area
-			area = hudson_bay_area
-			region = northeast_america_region
-			region = southeast_america_region
-		}
-		FROM = {
-			has_country_modifier = sce_search_quivira
-			OR = {
-				has_country_flag = sce_action01_flag
-				has_country_flag = sce_action02_flag
-				has_country_flag = sce_action03_flag
-				has_country_flag = sce_action04_flag
-				has_country_flag = sce_action05_flag
-				has_country_flag = sce_action06_flag
-				had_country_flag = { flag = sce_eldorado_flag days = 365 }
-			}
-			NOT = {
-				has_country_flag = sce_end_quivira_flag
-			}
-		}
-	}
-	
-	mean_time_to_happen = {
-		days = 1
-	}
-	
-	immediate = {
-		hidden_effect = {
-			FROM = {
-				clr_country_flag = sce_action01_flag
-				clr_country_flag = sce_action02_flag
-				clr_country_flag = sce_action03_flag
-				clr_country_flag = sce_action04_flag
-				clr_country_flag = sce_action05_flag
-				clr_country_flag = sce_action06_flag
-				clr_country_flag = sce_eventchain_flag
-				
-				set_country_flag = sce_end_quivira_flag
-				remove_country_modifier = sce_search_quivira
-			}
-		}
-	}
-	
-	option = {
-		name = seven_cities_events.222.a
-		FROM = {
-			tooltip = {
-				remove_country_modifier = sce_search_quivira
-			}
-			add_country_modifier = {
-				name = sce_golden_cups
-				duration = 18250
-			}
-		}
-	}
-}
-
+#province_event = {
+#	id = seven_cities_events.222
+#	title = seven_cities_events.222.t
+#	desc = seven_cities_events.222.d
+#	picture = INCA_CITY_eventPicture
+#
+#	is_triggered_only = yes
+#	
+#	trigger = {
+#		has_dlc = "El Dorado"
+#		is_empty = yes
+#		OR = {
+#			region = canada_region
+#			area = james_bay_area
+#			area = inner_ontario_area
+#			area = hudson_bay_area
+#			region = northeast_america_region
+#			region = southeast_america_region
+#		}
+#		FROM = {
+#			has_country_modifier = sce_search_quivira
+#			OR = {
+#				has_country_flag = sce_action01_flag
+#				has_country_flag = sce_action02_flag
+#				has_country_flag = sce_action03_flag
+#				has_country_flag = sce_action04_flag
+#				has_country_flag = sce_action05_flag
+#				has_country_flag = sce_action06_flag
+#				had_country_flag = { flag = sce_rome_flag days = 365 }
+#			}
+#			NOT = {
+#				has_country_flag = sce_end_quivira_flag
+#			}
+#		}
+#	}
+#	
+#	mean_time_to_happen = {
+#		days = 1
+#	}
+#	
+#	immediate = {
+#		hidden_effect = {
+#			FROM = {
+#				clr_country_flag = sce_action01_flag
+#				clr_country_flag = sce_action02_flag
+#				clr_country_flag = sce_action03_flag
+#				clr_country_flag = sce_action04_flag
+#				clr_country_flag = sce_action05_flag
+#				clr_country_flag = sce_action06_flag
+#				clr_country_flag = sce_eventchain_flag
+#				
+#				set_country_flag = sce_end_quivira_flag
+#				remove_country_modifier = sce_search_quivira
+#			}
+#		}
+#	}
+#	
+#	option = {
+#		name = seven_cities_events.222.a
+#		FROM = {
+#			tooltip = {
+#				remove_country_modifier = sce_search_quivira
+#			}
+#			add_country_modifier = {
+#				name = sce_golden_cups
+#				duration = 18250
+#			}
+#		}
+#	}
+#}
+#
 # Ultimate End of Quivira
-province_event = {
-	id = seven_cities_events.223
-	title = seven_cities_events.223.t
-	desc = seven_cities_events.223.d
-	picture = GOLDEN_CITY_eventPicture
-
-	major = yes
-	is_triggered_only = yes
-	
-	trigger = {
-		has_dlc = "El Dorado"
-		OR = {
-			region = canada_region
-			area = james_bay_area
-			area = inner_ontario_area
-			area = hudson_bay_area
-			region = northeast_america_region
-			region = southeast_america_region
-		}
-		NOT = {
-			has_global_flag = sce_ultimate_quivira
-		}
-		is_empty = yes
-		FROM = {
-			has_country_modifier = sce_search_quivira
-			OR = {
-				has_country_flag = sce_action01_flag
-				has_country_flag = sce_action02_flag
-				has_country_flag = sce_action03_flag
-				has_country_flag = sce_action04_flag
-				has_country_flag = sce_action05_flag
-				has_country_flag = sce_action06_flag
-				had_country_flag = { flag = sce_eldorado_flag days = 365 }
-			}
-			NOT = {
-				has_country_flag = sce_end_quivira_flag
-			}
-		}
-	}
-	
-	mean_time_to_happen = {
-		days = 1
-	}
-	
-	immediate = {
-		hidden_effect = {
-			FROM = {
-				set_global_flag = sce_ultimate_quivira
-				
-				clr_country_flag = sce_action01_flag
-				clr_country_flag = sce_action02_flag
-				clr_country_flag = sce_action03_flag
-				clr_country_flag = sce_action04_flag
-				clr_country_flag = sce_action05_flag
-				clr_country_flag = sce_action06_flag
-				clr_country_flag = sce_eventchain_flag
-				
-				set_country_flag = sce_end_quivira_flag
-				remove_country_modifier = sce_search_quivira
-			}
-		}
-	}
-	
-	
-	option = {
-		name = seven_cities_events.223.a
-		FROM = {
-			tooltip = {
-				remove_country_modifier = sce_search_quivira
-			}
-			add_country_modifier = {
-				name = sce_quivira
-				duration = -1
-			}
-		}
-	}
-}
+#province_event = {
+#	id = seven_cities_events.223
+#	title = seven_cities_events.223.t
+#	desc = seven_cities_events.223.d
+#	picture = GOLDEN_CITY_eventPicture
+#
+#	major = yes
+#	is_triggered_only = yes
+#	
+#	trigger = {
+#		has_dlc = "El Dorado"
+#		OR = {
+#			region = canada_region
+#			area = james_bay_area
+#			area = inner_ontario_area
+#			area = hudson_bay_area
+#			region = northeast_america_region
+#			region = southeast_america_region
+#		}
+#		NOT = {
+#			has_global_flag = sce_ultimate_quivira
+#		}
+#		is_empty = yes
+#		FROM = {
+#			has_country_modifier = sce_search_quivira
+#			OR = {
+#				has_country_flag = sce_action01_flag
+#				has_country_flag = sce_action02_flag
+#				has_country_flag = sce_action03_flag
+#				has_country_flag = sce_action04_flag
+#				has_country_flag = sce_action05_flag
+#				has_country_flag = sce_action06_flag
+#				had_country_flag = { flag = sce_rome_flag days = 365 }
+#			}
+#			NOT = {
+#				has_country_flag = sce_end_quivira_flag
+#			}
+#		}
+#	}
+#	
+#	mean_time_to_happen = {
+#		days = 1
+#	}
+#	
+#	immediate = {
+#		hidden_effect = {
+#			FROM = {
+#				set_global_flag = sce_ultimate_quivira
+#				
+#				clr_country_flag = sce_action01_flag
+#				clr_country_flag = sce_action02_flag
+#				clr_country_flag = sce_action03_flag
+#				clr_country_flag = sce_action04_flag
+#				clr_country_flag = sce_action05_flag
+#				clr_country_flag = sce_action06_flag
+#				clr_country_flag = sce_eventchain_flag
+#				
+#				set_country_flag = sce_end_quivira_flag
+#				remove_country_modifier = sce_search_quivira
+#			}
+#		}
+#	}
+#	
+#	
+#	option = {
+#		name = seven_cities_events.223.a
+#		FROM = {
+#			tooltip = {
+#				remove_country_modifier = sce_search_quivira
+#			}
+#			add_country_modifier = {
+#				name = sce_quivira
+#				duration = -1
+#			}
+#		}
+#	}
+#}
 
 ### Random events for Inhabited Provinces ###
 
@@ -2944,45 +2815,45 @@ province_event = {
 			clr_country_flag = sce_eventchain_flag
 			if = {
 				limit = {
-					has_country_modifier = sce_search_eldorado
+					has_country_modifier = sce_search_rome
 				}
-				remove_country_modifier = sce_search_eldorado
+				remove_country_modifier = sce_search_rome
 			}
 			if = {
 				limit = {
-					has_country_modifier = sce_search_fountainofyouth
+					has_country_modifier = sce_search_paris
 				}
-				remove_country_modifier = sce_search_fountainofyouth
+				remove_country_modifier = sce_search_paris
 			}
 			if = {
 				limit = {
-					has_country_modifier = sce_search_cibola
+					has_country_modifier = sce_search_amsterdam
 				}
-				remove_country_modifier = sce_search_cibola
+				remove_country_modifier = sce_search_amsterdam
 			}
 			if = {
 				limit = {
-					has_country_modifier = sce_search_cityofcaesars
+					has_country_modifier = sce_search_amberroom
 				}
-				remove_country_modifier = sce_search_cityofcaesars
+				remove_country_modifier = sce_search_amberroom
 			}
 			if = {
 				limit = {
-					has_country_modifier = sce_search_sierradelaplata
+					has_country_modifier = sce_search_csstexas
 				}
-				remove_country_modifier = sce_search_sierradelaplata
+				remove_country_modifier = sce_search_csstexas
 			}
 			if = {
 				limit = {
-					has_country_modifier = sce_search_norumbega
+					has_country_modifier = sce_search_shanghai
 				}
-				remove_country_modifier = sce_search_norumbega
+				remove_country_modifier = sce_search_shanghai
 			}
 			if = {
 				limit = {
-					has_country_modifier = sce_search_saguenay
+					has_country_modifier = sce_search_xanadu
 				}
-				remove_country_modifier = sce_search_saguenay
+				remove_country_modifier = sce_search_xanadu
 			}
 		}
 	}
@@ -4395,9 +4266,9 @@ country_event = {
 					type = all
 					has_discovered = ROOT
 				}
-				has_country_modifier = sce_search_eldorado
+				has_country_modifier = sce_search_rome
 				NOT = {
-					has_country_flag = sce_end_eldorado_flag
+					has_country_flag = sce_end_rome_flag
 				}
 			}
 			#Fountain of Youth
@@ -4406,9 +4277,9 @@ country_event = {
 					type = all
 					has_discovered = ROOT
 				}
-				has_country_modifier = sce_search_fountainofyouth
+				has_country_modifier = sce_search_paris
 				NOT = {
-					has_country_flag = sce_end_fountainofyouth_flag
+					has_country_flag = sce_end_paris_flag
 				}
 			}
 			#Cibola
@@ -4429,9 +4300,9 @@ country_event = {
 					type = all
 					has_discovered = ROOT
 				}
-				has_country_modifier = sce_search_cibola
+				has_country_modifier = sce_search_amsterdam
 				NOT = {
-					has_country_flag = sce_end_cibola_flag
+					has_country_flag = sce_end_amsterdam_flag
 				}
 			}
 			#City of Caesars
@@ -4456,9 +4327,9 @@ country_event = {
 					type = all
 					has_discovered = ROOT
 				}
-				has_country_modifier = sce_search_cityofcaesars
+				has_country_modifier = sce_search_amberroom
 				NOT = {
-					has_country_flag = sce_end_cityofcaesars_flag
+					has_country_flag = sce_end_amberroom_flag
 				}
 			}
 			#Sierra de La Plata
@@ -4495,9 +4366,9 @@ country_event = {
 					type = all
 					has_discovered = ROOT
 				}
-				has_country_modifier = sce_search_sierradelaplata
+				has_country_modifier = sce_search_csstexas
 				NOT = {
-					has_country_flag = sce_end_sierradelaplata_flag
+					has_country_flag = sce_end_csstexas_flag
 				}
 			}
 			#Norumbega
@@ -4526,9 +4397,9 @@ country_event = {
 					type = all
 					has_discovered = ROOT
 				}
-				has_country_modifier = sce_search_norumbega
+				has_country_modifier = sce_search_shanghai
 				NOT = {
-					has_country_flag = sce_end_norumbega_flag
+					has_country_flag = sce_end_shanghai_flag
 				}
 			}
 			#Saguenay
@@ -4557,9 +4428,9 @@ country_event = {
 					type = all
 					has_discovered = ROOT
 				}
-				has_country_modifier = sce_search_saguenay
+				has_country_modifier = sce_search_xanadu
 				NOT = {
-					has_country_flag = sce_end_saguenay_flag
+					has_country_flag = sce_end_xanadu_flag
 				}
 			}
 			#Quivira
@@ -4607,12 +4478,12 @@ country_event = {
 				clr_country_flag = sce_action06_flag
 				clr_country_flag = sce_eventchain_flag
 				
-				set_country_flag = sce_end_eldorado_flag
-				remove_country_modifier = sce_search_eldorado
+				set_country_flag = sce_end_rome_flag
+				remove_country_modifier = sce_search_rome
 			#Fountain of Youth
-				set_country_flag = sce_end_fountainofyouth_flag
+				set_country_flag = sce_end_paris_flag
 				clr_country_flag = sce_eventchain_flag
-				remove_country_modifier = sce_search_fountainofyouth
+				remove_country_modifier = sce_search_paris
 				
 				clr_country_flag = sce_action01_flag
 				clr_country_flag = sce_action02_flag
@@ -4621,9 +4492,9 @@ country_event = {
 				clr_country_flag = sce_action05_flag
 				clr_country_flag = sce_action06_flag
 			#Cibola
-				set_country_flag = sce_end_cibola_flag
+				set_country_flag = sce_end_amsterdam_flag
 				clr_country_flag = sce_eventchain_flag
-				remove_country_modifier = sce_search_cibola
+				remove_country_modifier = sce_search_amsterdam
 				
 				clr_country_flag = sce_action01_flag
 				clr_country_flag = sce_action02_flag
@@ -4632,9 +4503,9 @@ country_event = {
 				clr_country_flag = sce_action05_flag
 				clr_country_flag = sce_action06_flag
 			#City of Caesars
-				set_country_flag = sce_end_cityofcaesars_flag
+				set_country_flag = sce_end_amberroom_flag
 				clr_country_flag = sce_eventchain_flag
-				remove_country_modifier = sce_search_cityofcaesars
+				remove_country_modifier = sce_search_amberroom
 				
 				clr_country_flag = sce_action01_flag
 				clr_country_flag = sce_action02_flag
@@ -4643,9 +4514,9 @@ country_event = {
 				clr_country_flag = sce_action05_flag
 				clr_country_flag = sce_action06_flag
 			#Sierra de la Plata
-				set_country_flag = sce_end_sierradelaplata_flag
+				set_country_flag = sce_end_csstexas_flag
 				clr_country_flag = sce_eventchain_flag
-				remove_country_modifier = sce_search_sierradelaplata
+				remove_country_modifier = sce_search_csstexas
 				
 				clr_country_flag = sce_action01_flag
 				clr_country_flag = sce_action02_flag
@@ -4654,9 +4525,9 @@ country_event = {
 				clr_country_flag = sce_action05_flag
 				clr_country_flag = sce_action06_flag
 			#Norumbega
-				set_country_flag = sce_end_norumbega_flag
+				set_country_flag = sce_end_shanghai_flag
 				clr_country_flag = sce_eventchain_flag
-				remove_country_modifier = sce_search_norumbega
+				remove_country_modifier = sce_search_shanghai
 				
 				clr_country_flag = sce_action01_flag
 				clr_country_flag = sce_action02_flag
@@ -4665,9 +4536,9 @@ country_event = {
 				clr_country_flag = sce_action05_flag
 				clr_country_flag = sce_action06_flag
 			#Saguenay
-				set_country_flag = sce_end_saguenay_flag
+				set_country_flag = sce_end_xanadu_flag
 				clr_country_flag = sce_eventchain_flag
-				remove_country_modifier = sce_search_saguenay
+				remove_country_modifier = sce_search_xanadu
 				
 				clr_country_flag = sce_action01_flag
 				clr_country_flag = sce_action02_flag
