@@ -38,7 +38,9 @@ BOL = countries/Bollywood.txt
 # Pacific
 AUR = countries/Auralia.txt
 BBQ = countries/BabaKiueria.txt
+DUN = countries/Dunedin.txt
 HTR = countries/HuttRiver.txt
 HWI = countries/Hawaii.txt
 SGP = countries/Singapore.txt
+SPE = countries/Speewah.txt
 UTP = countries/Utopia.txt

@@ -1,4 +1,8 @@
-culture = aboriginal
+owner = SPE
+controller = SPE
+add_core = SPE
+is_city = yes
+culture = strayan
 religion = animism 
 trade_goods = unknown 
 hre = no 
