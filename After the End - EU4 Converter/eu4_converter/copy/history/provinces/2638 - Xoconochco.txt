@@ -9,9 +9,9 @@ religion = mesoamerican_religion
 capital = "Xoconochco"
 trade_goods = cocoa
 hre = no
-base_tax = 3 
-base_production = 3
-base_manpower = 1
+base_tax = 6
+base_production = 6
+base_manpower = 3
  #Precolumbian international trade hub
 add_local_autonomy = 50
 native_size = 5

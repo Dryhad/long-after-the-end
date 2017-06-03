@@ -842,25 +842,25 @@
  PROV841:0 "Guatemala"
  PROV842:0 "Petén"
  PROV843:0 "Belize"
- PROV844:0 "Zapotec"
+ PROV844:0 "Tehuantepec"	#Was Zapotec
  PROV845:0 "Campeche"
  PROV846:0 "Sotuta"
  PROV847:0 "Mixtec"
  PROV848:0 "Tohancapan"
- PROV849:0 "Tlapanec"
+ PROV849:0 "Chilpancingo"	#Was Tlapanec
  PROV850:0 "Tlaxcala"
- PROV851:0 "Zacatula"
+ PROV851:0 "Coalcoman"		#Was Zacatula
  PROV852:0 "Mexico"
  PROV853:0 "Huastec"
- PROV854:0 "Sayultecas"
- PROV855:0 "Totorames"
+ PROV854:0 "Peurto Vallarta" #Was Sayultecas
+ PROV855:0 "Tepic"		#Was Totorames
  PROV856:0 "Zacatecas"
  PROV857:0 "Guachichil"
  PROV858:0 "Tamaulipas"
  PROV859:0 "Sinaloa"
  PROV860:0 "Tepehuan"
  PROV861:0 "Coahuila"
- PROV862:0 "Yaqui"
+ PROV862:0 "Hermosillo"	#Was Yaqui
  PROV863:0 "Suma"
  PROV864:0 "Concho"
  PROV865:0 "Cochimi"
@@ -2613,7 +2613,7 @@
  PROV2613:0 "Sitka"
  PROV2614:0 "Cotoname"
  PROV2615:0 "Guamares"
- PROV2616:0 "Seri"
+ PROV2616:0 "Caborca"		#Was Seri
  PROV2617:0 "Huichol"
  PROV2618:0 "Toboso"
  PROV2619:0 "Laguneros"
@@ -2624,18 +2624,18 @@
  PROV2624:0 "Patzcuaro"
  PROV2625:0 "Hinonoeino"
  PROV2626:0 "Tullucan"
- PROV2627:0 "Cihuatlan"
+ PROV2627:0 "Lazaro Cardenas" #Cihuatlan
  PROV2628:0 "Tepeacac"
- PROV2629:0 "Coyolapan"
- PROV2630:0 "Tochtepec"
- PROV2631:0 "Mixe"
+ PROV2629:0 "Tlapa" 		#Was Coyolapan
+ PROV2630:0 "Tochtepec"	
+ PROV2631:0 "Olmeca"		#Was Mixe
  PROV2632:0 "Xicallanco"
  PROV2633:0 "Mani"
  PROV2634:0 "Uaymil"
- PROV2635:0 "Chiapas"
+ PROV2635:0 "Zapata" 		#Was Chiapas
  PROV2636:0 "Chacujal"
  PROV2637:0 "Chortli"
- PROV2638:0 "Xocnochco"
+ PROV2638:0 "Pueblo Nuevo"	#Was Xocnochco
  PROV2639:0 "Raritan"
  PROV2640:0 "Lenca"
  PROV2641:0 "Tziccoac"
@@ -2643,10 +2643,10 @@
  PROV2643:0 "Apatzingan"
  PROV2644:0 "Cholula"
  PROV2645:0 "Teloloapan"
- PROV2646:0 "Coixtlahuacan"
+ PROV2646:0 "Iguala"		#Was Coixtlahuacan
  PROV2647:0 "Cuetlaxtlan"
- PROV2648:0 "Yopitzinco"
- PROV2649:0 "Tehuantepec"
+ PROV2648:0 "Petatlan"	    #Was Yopitzinco
+ PROV2649:0 "Chiapas"		#Was Tehuantepec
  PROV2650:0 "Champutun"
  PROV2651:0 "Ah Canul"
  PROV2652:0 "Ecab"
@@ -3558,6 +3558,35 @@
  PROV4738:0 "Glenn"
  PROV4739:0 "Avenal"
  PROV4740:0 "Tuolumne"
+ PROV4741:0 "Plutarcho"
+ PROV4742:0 "La Paz"
+ PROV4743:0 "Guyamas"
+ PROV4744:0 "Muluge"
+ PROV4745:0 "Los Moches"
+ PROV4746:0 "Mazatlan"
+ PROV4747:0 "San Fernando"
+ PROV4748:0 "El Cielo"
+ PROV4749:0 "Manzanillo"
+ PROV4750:0 "Oxaca"
+ PROV4751:0 "Juchitan"
+ PROV4752:0 "Chimalapas"
+ PROV4753:0 "Cancun"
+ PROV4754:0 "Calakmul"
+ PROV4755:0 "Pacifico"
+ PROV4756:0 "Manche"
+ PROV4757:0 "Izabal"
+ PROV4758:0 "Comayuga"
+ PROV4759:0 "Colon"
+ PROV4760:0 "Karata "
+ PROV4761:0 "Esteli"
+ PROV4762:0 "Matagalpa"
+ PROV4763:0 "El Desaguadero"
+ PROV4764:0 "Limon"
+ PROV4765:0 "Azuero"
+ PROV4766:0 "Las Puertas"
+
+
+
 
 
 

@@ -260,15 +260,15 @@ c_uraba;2819;2819 - Darien;Uraba - Darien
 
 d_panama;835;835 - Panama;Duchy Panama - Panama
 c_panama;835;835 - Panama;County Panama - Panama
-c_las_puertas;835;835 - Panama;Las Puertas - Panama
-c_cocle;835;835 - Panama;Cocle - Panama
+c_las_puertas;4766;4766 - Las Puertas;Las Puertas - Las Puertas
+c_cocle;4766;4766 - Las Puertas;Cocle- Las Puertas
 c_las_perlas;835;835 - Panama;Las Perlas - Panama
 
 d_chiriqui;2664;2664 - Veraguas;Duchy Chiriqui - Veraguas
 c_chiriqui;2664;2664 - Veraguas;County Chiriqui - Veraguas
-c_azuero;2664;2664 - Veraguas;Azuero - Veraguas
+c_azuero;4765;4765 - Azuero;Azuero - Azuero
 c_bocas_del_toro;2664;2664 - Veraguas;Bocas del Toro - Veraguas
-c_veraguas;2664;2664 - Veraguas;Veraguas - Veraguas
+c_veraguas;4765;4765 - Azuero;Veraguas - Azuero
 c_coiba;2664;2664 - Veraguas;Coiba - Veraguas
 
 c_cartago;836;836 - Chorotega;Cartago - Chorotega
@@ -276,7 +276,7 @@ c_golfito;836;836 - Chorotega;Golfito - Chorotega
 
 c_alajuela;2663;2663 - Nicoya;Alajuela - Nicoya
 c_guanacaste;2663;2663 - Nicoya;Guanacaste - Nicoya
-c_limon;2663;2663 - Nicoya;Limon - Nicoya
+c_limon;4764;4764 - Limon;Limon - Limon
 
 # Antioquia
 
@@ -322,24 +322,24 @@ c_zipaquira;832;832 - Chiancon;Zipaquira - Chiancon
 d_nicaragua;2660;2660 - Managua;Nicaragua - Managua
 c_managua;2660;2660 - Managua;Managua - Managua
 c_rivas;2660;2660 - Managua;Rivas - Managua
-c_el_desaguadero;2660;2660 - Managua;El Desaguadero - Managua
+c_el_desaguadero;4763;4763 - El Desaguadero;El Desaguadero - El Desaguadero
 
 d_mosquito;838;838 - Mosquito;Mosquito - Mosquito
 c_bluefields;838;838 - Mosquito;Bluefields - Mosquito
-c_karata;838;838 - Mosquito;Karata - Mosquito
+c_karata;4760;4760 - Karata;Karata - Karata
 
-d_las_brumas;2661;2661 - Uluas;Las Brumas - Uluas
-c_chontales;2661;2661 - Uluas;Chontales - Uluas
-c_matagalpa;2661;2661 - Uluas;Matagalpa - Uluas
+d_las_brumas;4762;4762 - Matagalpas;Las Brumas - Matagalpas
+c_chontales;4762;4762 - Matagalpas;Chontales - Matagalpas
+c_matagalpa;4762;4762 - Matagalpas;Matagalpas - Matagalpas
 c_jinotega;2661;2661 - Uluas;Jinotega - Uluas
-c_esteli;2661;2661 - Uluas;Esteli - Uluas
+c_esteli;4761;4761 - Esteli;Esteli - Esteli
 
 d_mosquito_norte;840;840 - Honduras;Mosquito Norte - Honduras
 c_caratasca;840;840 - Honduras;Caratasca - Honduras
 c_coco;840;840 - Honduras;Coco - Honduras
-d_colon;840;840 - Honduras;Duchy Colon - Honduras
-c_colon;840;840 - Honduras;County Colon - Honduras
-c_islas_de_la_bahia;840;840 - Honduras;Islas de la Bahia - Honduras
+d_colon;4759;4759 - Colon;Duchy Colon - Colon
+c_colon;4759;4759 - Colon;County Colon - Colon
+c_islas_de_la_bahia;4759;4759 - Colon;Islas de la Bahia - Colon
 
 # Honduras
 
@@ -352,9 +352,9 @@ d_atlantida;2637;2637 - Chortli;Atlantida - Chortli
 c_la_ceiba;2637;2637 - Chortli;La Ceiba - Chortli
 c_san_pedro_sula;2637;2637 - Chortli;San Pedro Sula - Chortli
 c_yoro;2637;2637 - Chortli;Yoro - Chortli
-c_comayagua;2637;2637 - Chortli;Comayagua - Chortli
+c_comayagua;4758;4758 - Comayuga;Comayuga - Comayuga
 
-c_izabal;2636;2636 - Chacujal;Izabal - Chacujal
+c_izabal;4757;4757 - Izabal;Izabal - Izabal
 c_quiche;2636;2636 - Chacujal;Quiche - Chacujal
 c_verapazes;2636;2636 - Chacujal;Verapazes - Chacujal
 
@@ -366,7 +366,7 @@ c_chiquimula;2653;2653 - Iximche;Chiquimula - Iximche
 
 c_atitlan;841;841 - Guatemala;Atitlan - Guatemala
 c_quetzaltenango;841;841 - Guatemala;Quetzaltenango - Guatemala
-c_pacifico;841;841 - Guatemala;Pacifico - Guatemala
+c_pacifico;4755;4755 - Pacifico;Pacifico - Pacifico
 
 d_salvador;839;839 - Pipil;Duchy San Salvador - Pipil
 c_salvador;839;839 - Pipil;County San Salvador - Pipil
@@ -383,7 +383,7 @@ d_belize;843;843 - Belize;Duchy Belize - Belize
 c_dzuluinicob;843;843 - Belize;County Belize - Belize
 c_yalbac;843;843 - Belize;Yalbac - Belize
 c_chetumal;843;843 - Belize;Chetumal - Belize
-c_manche;843;843 - Belize;Manche - Belize
+c_manche;4756;4756 - Manche;Manche - Manche
 
 d_peten;842;842 - Peten;Duchy Peten - Peten
 c_chuntuki;842;842 - Peten;Chuntuki - Peten
@@ -397,11 +397,11 @@ c_tenosique;842;842 - Peten;Tenosique - Peten
 
 # Yucatan
 
-c_calakmul;2634;2634 - Uaymil;Calakmul - Uaymil
+c_calakmul;4754;4754 - Calakmul;Calakmul - Calakmul
 c_chacchoben;2634;2634 - Uaymil;Chacchoben - Uaymil
 
 d_quintana_roo;2652;2652 - Ecab;Quintana Roo - Ecab
-c_cancun;2652;2652 - Ecab;Cancun - Ecab
+c_cancun;4753;4753 - Cancun;Cancun - Cancun
 c_cozumel;2652;2652 - Ecab;Cozumel - Ecab
 c_sian_kaan;2652;2652 - Ecab;Sian-Ka'an - Ecab
 
@@ -430,24 +430,24 @@ c_comitan;2635;2635 - Chiapas;Comitan - Chiapas
 c_montes_azules;2635;2635 - Chiapas;Montes Azules - Chiapas
 c_nezahualcoyatl;2635;2635 - Chiapas;Nezahualcoyatl - Chiapas
 
-d_chiapas;2638;2638 - Xoconochco;Chiapas - Xoconochco
-c_tuxtla_gutierrez;2638;2638 - Xoconochco;Coyatoc - Xoconochco
+d_chiapas;2649;2649 - Tehuantepec;Chiapas - Chiapas
+c_tuxtla_gutierrez;2649;2649 - Tehuantepec;Coyatoc - Chiapas
 c_pueblo_neuvo;2638;2638 - Xoconochco;Pueblo Neuvo - Xoconochco
-c_san_cristobal_de_las_casas;2638;2638 - Xoconochco;Jovel - Xoconochco
-c_la_fraylesca;2638;2638 - Xoconochco;La Fraylesca - Xoconochco
+c_san_cristobal_de_las_casas;2649;2649 - Tehuantepec;Jovel - Tehuantepec
+c_la_fraylesca;2649;2649 - Tehuantepec;La Fraylesca - Tehuantepec
 
 # Zapoteca
 
-d_istmo;2649;2649 - Tehuantepec;Istmo - Tehuantepec
-c_tehuantepec;2649;2649 - Tehuantepec;Tehuantepec - Tehuantepec
-c_chimalapas;2649;2649 - Tehuantepec;Chimalapas - Tehuantepec
-c_juchitan;2649;2649 - Tehuantepec;Juchitan - Tehuantepec
+d_istmo;4751;4751 - Juchitan;Istmo - Juchitan
+c_tehuantepec;844;844 - Zapotec;Tehuantepec - Zapotec
+c_chimalapas;4752;4752 - Chimalapas;Chimalapas - Chimalapas
+c_juchitan;4751;4751 - Juchitan;Juchitan - Juchitan
 
 d_oaxaca;844;844 - Zapotec;Duchy Oaxaca - Zapotec
-c_oaxaca;844;844 - Zapotec;County Oaxaca - Zapotec
+c_oaxaca;4750;4750 - Oxaca;Oaxaca - Oaxaca
 c_nochixtlan;844;844 - Zapotec;Nochixtlan - Zapotec
-c_sierra_sur;844;844 - Zapotec;Sierra Sur - Zapotec
-c_tlacolula;844;844 - Zapotec;Tlacolula - Zapotec
+c_sierra_sur;4750;4750 - Oxaca;Sierra Sur - Oaxaca
+c_tlacolula;4750;4750 - Oxaca;Tlacolula - Oaxaca
 c_tlaxiaco;844;844 - Zapotec;Tlaxiaco - Zapotec
 
 # Mixteca
@@ -468,10 +468,10 @@ c_acapulco;849;849 - Tlapanec;Acapulco - Tlapanec
 
 d_olmeca;2631;2631 - Zaachila;Duchy Olmeca - Zaachila
 c_olmeca;2631;2631 - Zaachila;County Olmeca - Zaachila
-c_papaloapam;2631;2631 - Zaachila;Papaloapam - Zaachila
-c_canada;2631;2631 - Zaachila;Canada - Zaachila
+c_papaloapam;2630;2630 - Tochtepec;Papaloapam - Tochtepec
+c_canada;2629;2629 - Coyolapan;Canada - Coyolapan
 
-c_coatzacoalcos;2630;2630 - Tochtepec;Coatzacoalcos - Tochtepec
+c_coatzacoalcos;2631;2631 - Zaachila;Coatzacoalcos - Zaachila
 
 d_veracruz;2647;2647 - Cuetlaxtlan;Veracruz - Cuetlaxtlan
 c_heroica_veracruz;2647;2647 - Cuetlaxtlan;Heroica Veracruz - Cuetlaxtlan
@@ -527,7 +527,7 @@ c_irapuato;2622;2622 - Cuitzeo;Irapuato - Cuitzeo
 d_san_luis_potosi;857;857 - Guachichil;Duchy San Luis Potosi - Guachichil
 c_san_luis_potosi;857;857 - Guachichil;County San Luis Potosi - Guachichil
 c_matehuala;857;857 - Guachichil;Matahuala - Guachichil
-c_ciudad_valles;857;857 - Guachichil;Ciudad Valles - Guachichil
+c_ciudad_valles;4748;4748 - El Cielo;Ciudad Valles - El Cielo
 
 d_salado;856;856 - Zacatecas;Salado - Zacatecas
 c_sombrerete;856;856 - Zacatecas;Sombrerete - Zacatecas
@@ -544,8 +544,8 @@ c_mixton;2617;2617 - Huichol;Mixton - Huichol
 d_nayarit;855;855 - Huichol;Nayarit - Huichol
 c_tepic;855;855 - Huichol;Tepic - Huichol
 c_acaponeta;855;855 - Huichol;Acaponeta - Huichol
-c_islas_marias;855;855 - Huichol;Islas Marias - Huichol
-c_mazatlan;855;855 - Huichol;Mazatlan - Huichol SAGUARO
+c_islas_marias;4746;4746 - Mazatlan;Islas Marias - Mazatlan
+c_mazatlan;4746;4746 - Mazatlan;Mazatlan - Mazatlan
 
 d_costalegre;854;854 - Sayultecas;Duchy Costalegre - Sayultecas
 c_costalegre;854;854 - Sayultecas;County Costalegre - Sayultecas
@@ -558,7 +558,7 @@ c_ameca;2621;2621 - Tizapan;Ameca - Tizapan
 
 d_colima;2657;2657 - Colima;Duchy Colima - Colima
 c_colima;2657;2657 - Colima;County Colima - Colima
-c_manzanillo;2657;2657 - Colima;Manzanillo - Colima
+c_manzanillo;4749;4749 - Manzanillo;Manzanillo - Manzanillo
 
 # Michoacan
 
@@ -590,16 +590,16 @@ c_petatlan;2648;2648 - Yopitzinco;Petatlan - Yopitzinco
 
 d_sinaloa;859;859 - Sinaloa;Sinaloa - Sinaloa
 c_culiacan;859;859 - Sinaloa;Culiacan - Sinaloa
-c_los_mochis;859;859 - Sinaloa;Los Mochis - Sinaloa
+c_los_mochis;4745;4745 - Los Moches;Los Mochis - Los Mochis
 
 d_sonora;862;862 - Yaqui;Sonora - Yaqui
 c_hermosillo;862;862 - Yaqui;Hermosillo - Yaqui
-c_guaymas;862;862 - Yaqui;Guaymas - Yaqui
+c_guaymas;4743;4743 - Guyamas;Guayamas - Guayamas
 c_nogales;862;862 - Yaqui;Nogales - Yaqui
 
 d_altar;2616;2616 - Seri;Altar - Seri
 c_caborca;2616;2616 - Seri;Caborca - Seri
-c_plutarco;2616;2616 - Seri;Plutarco - Seri
+c_plutarco;4741;4741 - Plutarcho;Plutarco - Plutarco
 
 # Arixo
 
@@ -680,10 +680,10 @@ c_falcon;2668;2668 - Borrado;Falcon - Borrado
 c_laredo;2668;2668 - Borrado;Laredo - Borrado
 
 d_tamaulipas;858;858 - Tamaulipas;Duchy Tamaulipas - Tamaulipas
-c_victoria;858;858 - Tamaulipas;Victoria - Tamaulipas
-c_el_cielo;858;858 - Tamaulipas;El Cielo - Tamaulipas
-c_soto_la_marina;858;858 - Tamaulipas;Soto la Marina - Tamaulipas
-c_san_fernando;858;858 - Tamaulipas;San Fernando - Tamaulipas
+c_victoria;4747;4747 - San Fernando;Victoria - San Fernando
+c_el_cielo;4748;4748 - El Cielo;El Cielo - El Cielo
+c_soto_la_marina;858;858 - Tamaulipas;Soto La Marina - Tamaulipas
+c_san_fernando;4747;4747 - San Fernando;San Fernando - San Fernando
 
 # Rio Grande
 
@@ -1502,10 +1502,10 @@ c_el_rosario;865;865 - Cochimi;El Rosario - Cochimi
 c_guerrero_negro;865;865 - Cochimi;Guerrero Negro - Cochimi
 
 d_baja_sur;866;866 - Guaycura;Baja Sur - Guaycura
-c_la_paz;866;866 - Guaycura;La Paz - Guaycura
+c_la_paz;4742;4742 - La Paz;La Paz - La Paz
 c_loreto;866;866 - Guaycura;Loreto - Guaycura
-c_los_cabos;866;866 - Guaycura;Los Cabos - Guaycura
-c_mulege;866;866 - Guaycura;Mulege - Guaycura
+c_los_cabos;4742;4742 - La Paz;Los Cabos - La Paz
+c_mulege;4744;4744 - Mulege;Mulege - Mulege
 
 # Idaho
 

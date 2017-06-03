@@ -3041,12 +3041,10 @@ durango_area = { #4
     860 863 864 2498 2618
 }
 
-rio_grande_area = { # 3
-    858 2499 2668
-}
-sonora_y_sinaloa_area = { #5
-    855 859 862 877 2616
-}
+# rio_grande_area = { # 3
+    # 858 2499 2668
+# }
+
 
 new_mexico_area = { #5
     880 881 2492 2495 
@@ -3068,13 +3066,13 @@ arizona_area = { #4
     # 870 2477 2478 2479 2480
 # }
 
-baja_california_area = { #4
-    865 866 2620 
-}
+# baja_california_area = { #4
+    # 865 866 2620 
+# }
 
-jalisco_area = { #4
-    854 2617 2621 2657
-}
+# jalisco_area = { #4
+    # 854 2617 2621 2657
+# }
 
 michoacan_area = { #5
     851 2622 2623 2624 2643
@@ -3092,9 +3090,9 @@ guerrero_area = { #4
     849 2627 2645 2648
 }
 
-oaxaca_area = { #4
-    844 847 2629 2646
-}
+# oaxaca_area = { #4
+    # 844 847 2629 2646
+# }
 
 eastern_mexico_area = { #5
     848 2630 2631 2641 2647
@@ -3104,29 +3102,29 @@ chiapas_area = { #4
     2632 2635 2638 2649
 }
 
-yucatan_area = { #4
-    845 2633 2650 2651
-}
+# yucatan_area = { #4
+    # 845 2633 2650 2651
+# }
 
-east_yucatan_area = { #3
-	846 2634 2652
-}
+# east_yucatan_area = { #3
+	# 846 2634 2652
+# }
 
-guatemala_area = { #5
-    841 842 843 2636 2653
-}
+# guatemala_area = { #5
+    # 841 842 843 2636 2653
+# }
 
-honduras_area = { #5
-    839 840 2637 2640 2662
-}
+# honduras_area = { #5
+    # 839 840 2637 2640 2662
+# }
 
-nicaragua_area = { #5
-    837 838 2660 2661 2663
-}
+# nicaragua_area = { #5
+    # 837 838 2660 2661 2663
+# }
 
-panama_area = { #5
-    826 835 836 2664 2819
-}
+# panama_area = { #5
+    # 826 835 836 2664 2819
+# }
 
 # cuba_area = { #3
     # 484 485 2656
@@ -3549,6 +3547,76 @@ florida_area = { #3
 
 north_florida_area = { #3
 	927 928 2534 926
+}
+
+#Mexico
+
+baja_california_area = { #4
+    865 866 2620 4744 4742
+}
+
+sonora_y_sinaloa_area = { #Just Sonora
+	4741 4743 2616 862 877
+}
+
+sinaloa_area = {
+	4745 859 4746 855
+}
+
+jalisco_area = { #4
+    854 2617 2621 2657 4749
+}
+
+rio_grande_area = { # 3
+    858 2499 2668 4747 4748
+}
+
+oaxaca_area = { #4
+    847 2629 2646 4750 
+}
+
+istmo_area = {
+	4752 4751 844
+}
+
+yucatan_area = { #4
+    845 2633 2650 2651 4754
+}
+
+east_yucatan_area = { #3
+	846 2634 2652 4753
+}
+
+guatemala_area = { #5
+    841 2653 2636 
+}
+
+peten_area = {
+	842 843 4756
+}
+
+honduras_area = { #5
+    4757 4758 2637 2662 4759
+}
+
+salvador_area = {
+	4755 839 2640
+}
+
+nicaragua_area = { #5
+    837 2660 4761 4762  
+}
+
+moskita_area = {
+	840 4760 2661 838 4763
+}
+
+costa_rica_area = {
+	4764 2663 836 2664
+}
+
+panama_area = { #5
+    826 835 2819 4766 4765
 }
 
 #Africa

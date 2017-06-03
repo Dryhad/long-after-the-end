@@ -21,6 +21,10 @@ country_event = {
 			}
 			overlord = {
 				inherit = PREV
+				every_owned_province = {
+					limit = {}
+					add_local_autonomy = -100
+				}
 			}
 		}
 	}

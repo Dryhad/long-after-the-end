@@ -4984,3 +4984,7 @@
  desc_cape_fear_estuary_modifier:0 "Controlling the important river estuary of the Cape Fear River strengthens our hold on trade in the region."
  savannah_estuary_modifier:0 "Savannah River Estuary"
  desc_savannah_estuary_modifier:0 "Controlling the important river estuary of the Savannah River strengthens our hold on trade in the region."
+ san_joaquin_estuary_modifier:0 "San Joaquin River Estuary"
+ desc_san_joaquin_estuary_modifier:0 "Controlling the important river estuary of the San Joaquin River strengthens our hold on trade in the region."
+ colorado_estuary_modifier:0 "Colorado River Estuary"
+ desc_colorado_estuary_modifier:0 "Controlling the important river estuary of the Colorado River strengthens our hold on trade in the region."

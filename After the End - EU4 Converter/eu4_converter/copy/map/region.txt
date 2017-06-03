@@ -1059,6 +1059,10 @@ california_region = {
 		shasta_cascade_area
 		redwoods_area
 		salinas_area
+		wineland_area 
+		motherlode_area
+		kern_area
+		los_padres_area
 	}
 }
 
@@ -1075,6 +1079,7 @@ cascadia_region = {
 		east_alaska_area
 		#LAtE Additions:
 		nootka_area
+		
 	}
 }
 
@@ -1107,6 +1112,9 @@ mexico_region = {
 		jalisco_area
 		gran_chichimeca_area
 		llano_estacado_area
+		#AtE Additions
+		sinaloa_area
+		istmo_area
 	}
 }
 
@@ -1118,6 +1126,11 @@ central_america_region = {
 		yucatan_area
 		east_yucatan_area
 		chiapas_area
+		#AtE Additions
+		peten_area
+		salvador_area
+		moskita_area
+		costa_rica_area
 	}
 }
 
