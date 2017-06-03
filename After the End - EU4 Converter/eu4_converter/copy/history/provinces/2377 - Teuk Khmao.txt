@@ -1,32 +1,19 @@
 #2377- Teuk Khmao
 
-#owner = KHM
-#controller = KHM
-culture = khmer
-religion = hinduism
+owner = DAI
+controller = DAI
+culture = vietnamese
+religion = mahayana
 capital = "Oc Eo"
 trade_goods = fish
 hre = no
-base_tax = 4
-base_production = 4
-base_manpower = 2
-is_city = no
-#add_core= KHM
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+add_core= DAI
 
 
 
 discovered_by = chinese
 discovered_by = indian
-discovered_by = indian
-discovered_by = indian
-
-# = { discovered_by = POR }
-
-# = { unrest = 6 } # Tay Son Rebellion
-# = {
-	unrest = 0
-	#owner = ANN
-	#controller = ANN
-	#add_core= ANN
-	remove_core = KHM
-} # Nguyen recovered the land
