@@ -7,9 +7,9 @@ religion = mesoamerican_religion
 capital = "Campeche" 
 trade_goods = sugar 
 hre = no 
-base_tax = 4 
-base_production = 4
-base_manpower = 1 
+base_tax = 1
+base_production = 1
+base_manpower = 1
 is_city = no
 #add_core= XIU
 
