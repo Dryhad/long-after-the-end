@@ -1,8 +1,8 @@
 #1837 - Etchu
 
-#owner = HTK
-#controller = HTK
-culture = togoku
+owner = MAE
+controller = MAE
+culture = edokko
 religion = shinto
 capital = "Kanazawa"
 trade_goods = grain
@@ -10,20 +10,7 @@ hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 3
-is_city = no
-#add_core= SBA
+is_city = yes
+add_core= MAE
 fort_15th = yes #Nanao Castle
 discovered_by = chinese
-discovered_by = MCH
-discovered_by = KHA
-discovered_by = OIR
-discovered_by = QNG
-discovered_by = ANU
-
-
-# = { #owner = HTK #controller = HTK #add_core= HTK remove_core = SBA }
-# = { discovered_by = POR }
-# = { #add_core= UES }
-# = { #owner = UES #controller = UES remove_core = HTK }
-# = { #add_core= ODA #owner = ODA #controller = ODA remove_core = UES }
-# = { #owner = MAE #controller = MAE #add_core= MAE remove_core = ODA }

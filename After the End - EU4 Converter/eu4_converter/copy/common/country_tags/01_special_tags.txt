@@ -35,6 +35,11 @@ KUW = countries/Kuwait.txt
 # India
 BOL = countries/Bollywood.txt
 
+# Japan
+IKR = countries/Ikari.txt
+KRU = countries/Kururugi.txt
+NAU = countries/Naushika.txt
+
 # Pacific
 AUR = countries/Auralia.txt
 BBQ = countries/BabaKiueria.txt

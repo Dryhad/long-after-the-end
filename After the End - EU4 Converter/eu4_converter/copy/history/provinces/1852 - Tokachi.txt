@@ -1,9 +1,9 @@
 #1852 - Tokachi
 
-#owner = ANU
-#controller = ANU
-#add_core= ANU
-is_city = no
+owner = ANU
+controller = ANU
+add_core= ANU
+is_city = yes
 culture = ainu
 religion = shinto
 capital = "Tokachi"

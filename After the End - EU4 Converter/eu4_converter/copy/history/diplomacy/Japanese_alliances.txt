@@ -1,0 +1,52 @@
+#Daimyo
+vassal = {
+	first = TKD
+	second = ANU
+	start_date = 3053.1.1
+	end_date = 3421.1.2
+}
+vassal = {
+	first = TKD
+	second = CBA
+	start_date = 3053.1.1
+	end_date = 3421.1.2
+}
+vassal = {
+	first = TKD
+	second = IKR
+	start_date = 3053.1.1
+	end_date = 3421.1.2
+}
+vassal = {
+	first = TKD
+	second = KRU
+	start_date = 3053.1.1
+	end_date = 3421.1.2
+}
+vassal = {
+	first = TKD
+	second = MAE
+	start_date = 3053.1.1
+	end_date = 3421.1.2
+}
+vassal = {
+	first = TKD
+	second = NAU
+	start_date = 3053.1.1
+	end_date = 3421.1.2
+}
+vassal = {
+	first = TKD
+	second = RYU
+	start_date = 3053.1.1
+	end_date = 3421.1.2
+}
+
+#Colony (to do)
+#vassal = {
+#	subject_type = "colony"
+#	first = TKD
+#	second = ???
+#	start_date = 3053.1.1
+#	end_date = 3421.1.2
+#}
