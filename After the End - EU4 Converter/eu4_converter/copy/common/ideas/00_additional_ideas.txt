@@ -110,7 +110,7 @@ deitsch_ideas = {
 	bonus = { num_accepted_cultures = 2 }
 	trigger = {
 		religion = anabaptist
-		culture = deitsch
+		primary_culture = deitsch
 	}
 	free = yes
 
@@ -182,15 +182,15 @@ rostmann_ideas = {
         infantry_power = 0.2
     }
     bonus = {
-            technology_cost = -0.1  
-            }
+        technology_cost = -0.1  
+    }
 
     trigger = {
-       culture = rostmann
-       OR = {
-        religion = rust_cultist
-        religion_group = christian
-     }
+		primary_culture = rostmann
+		OR = {
+			religion = rust_cultist
+			religion_group = christian
+		}
     }
 
     free = yes

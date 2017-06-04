@@ -1042,7 +1042,7 @@ great_plains_region = {
 
 california_region = {
 	areas = {
-		california_area
+		#california_area
 		baja_california_area
 		arizona_area
 		colorado_plateau_area
