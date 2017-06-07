@@ -357,3 +357,7 @@
  TRADE_COMPANY_URUGUAY_Root_Culture_GetName:0 "[Root.Culture.GetName] Uruguay Company"
  
  TRADE_COMPANY_BOLIVIA_South_America_Trade_Company:0 "Bolivia Trade Company"
+ TRADE_COMPANY_PERU_South_America_Trade_Company:0 "Peru Trade Company"
+ TRADE_COMPANY_CHILE_South_America_Trade_Company:0 "Chile Trade Company"
+ TRADE_COMPANY_PATAGONIA_South_America_Trade_Company:0 "Patagonia Trade Company"
+ TRADE_COMPANY_URUGUAY_South_America_Trade_Company:0 "Uruguay Trade Company"
