@@ -1,3 +1,4 @@
+namespace = canada
 
 # Iberian Wedding inspired thing
 country_event = {

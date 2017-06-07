@@ -1,58 +1,58 @@
-trade_company_west_africa = {
-	color = { 50 0 200 }
-	
-	provinces = {
-		1164 1165 1166 1096 1793 2241 1466 1097 1098 1118 1119 1151 1163 2242 1168 1306 4078 4079 4080 
-		1126 1139 1141 2257 2258 #West Africa Coast
-		1147 2289 2290 2294 #Benin
-		1112 1113 1116 2239 #Jolof
-		1114 1117 2238 #Futa Jalon
-		1167 1171 1172 1174 #Angola
-	}
-	
-	# Specific
-	# Generic
-	names = {
-		name = "TRADE_COMPANY_WEST_AFRICA_Root_Culture_GetName"
-	}
-	names = {
-		name = "TRADE_COMPANY_WEST_AFRICA_Africa_Trade_Company"
-	}
-}
+#trade_company_west_africa = {
+#	color = { 50 0 200 }
+#	
+#	provinces = {
+#		1164 1165 1166 1096 1793 2241 1466 1097 1098 1118 1119 1151 1163 2242 1168 1306 4078 4079 4080 
+#		1126 1139 1141 2257 2258 #West Africa Coast
+#		1147 2289 2290 2294 #Benin
+#		1112 1113 1116 2239 #Jolof
+#		1114 1117 2238 #Futa Jalon
+#		1167 1171 1172 1174 #Angola
+#	}
+#	
+#	# Specific
+#	# Generic
+#	names = {
+#		name = "TRADE_COMPANY_WEST_AFRICA_Root_Culture_GetName"
+#	}
+#	names = {
+#		name = "TRADE_COMPANY_WEST_AFRICA_Africa_Trade_Company"
+#	}
+#}
 
-trade_company_south_africa = {
-	color = { 0 175 0 }
-	
-	provinces = {
-		789 833 1175 1176 1177 1178 1179 1180 1181 1182 1801 1173 2856 2864 2880 
-	}
-	
-	# Specific
-	# Generic
-	names = {
-		name = "TRADE_COMPANY_SOUTH_AFRICA_Root_Culture_GetName"
-	}
-	names = {
-		name = "TRADE_COMPANY_SOUTH_AFRICA_Africa_Trade_Company"
-	}
-}
+#trade_company_south_africa = {
+#	color = { 0 175 0 }
+#	
+#	provinces = {
+#		789 833 1175 1176 1177 1178 1179 1180 1181 1182 1801 1173 2856 2864 2880 
+#	}
+#	
+#	# Specific
+#	# Generic
+#	names = {
+#		name = "TRADE_COMPANY_SOUTH_AFRICA_Root_Culture_GetName"
+#	}
+#	names = {
+#		name = "TRADE_COMPANY_SOUTH_AFRICA_Africa_Trade_Company"
+#	}
+#}
 
-trade_company_east_africa = {
-	color = { 200 0 0 }
-	
-	provinces = {
-		788 1100 1102 1103 1183 1186 1192 1193 1194 1195 1196 1197 1198 1199 1200 1201 1202 1203 1204 1792 2796 2774 4020 4021 4022 4023 4024 4025 4026 4027 4028 4029 4030 4031 4032 4049 
-	}
-	
-	# Specific
-	# Generic
-	names = {
-		name = "TRADE_COMPANY_EAST_AFRICA_Root_Culture_GetName"
-	}
-	names = {
-		name = "TRADE_COMPANY_EAST_AFRICA_Africa_Trade_Company"
-	}
-}
+#trade_company_east_africa = {
+#	color = { 200 0 0 }
+#	
+#	provinces = {
+#		788 1100 1102 1103 1183 1186 1192 1193 1194 1195 1196 1197 1198 1199 1200 1201 1202 1203 1204 1792 2796 2774 4020 4021 4022 4023 4024 4025 4026 4027 4028 4029 4030 4031 4032 4049 
+#	}
+#	
+#	# Specific
+#	# Generic
+#	names = {
+#		name = "TRADE_COMPANY_EAST_AFRICA_Root_Culture_GetName"
+#	}
+#	names = {
+#		name = "TRADE_COMPANY_EAST_AFRICA_Africa_Trade_Company"
+#	}
+#}
 
 trade_company_west_india = {
 	color = { 135 104 85 }
@@ -274,3 +274,100 @@ trade_company_north_india = {
 		# name = "TRADE_COMPANY_NORTH_CHINA_China_Trade_Company"
 	# }
 # }
+
+# South America
+
+trade_company_bolivia = {
+	color = { 200 0 0 }
+	
+	provinces = {
+		795 797 800 801 802 803 2831 2832 2833 2834 2835 2838 2940 2941 2942 2946 2947
+	}
+	
+	# Specific
+	# Generic
+	names = {
+		name = "TRADE_COMPANY_BOLIVIA_Root_Culture_GetName"
+	}
+	names = {
+		name = "TRADE_COMPANY_BOLIVIA_South_America_Trade_Company"
+	}
+}
+
+trade_company_peru = {
+	color = { 124 140 162 }
+	
+	provinces = {
+		804 805 809 810 811 812 813 814 2821 2822 2823 2824 2825 2826 2827 2943
+		806 807 808 2828 2829 2830
+		2944 2945
+	}
+	
+	# Specific
+	# Generic
+	names = {
+		name = "TRADE_COMPANY_PERU_Root_Culture_GetName"
+	}
+	names = {
+		name = "TRADE_COMPANY_PERU_South_America_Trade_Company"
+	}
+}
+
+trade_company_chile = {
+	color = { 236  159  89 }
+	
+	provinces = {
+		783 784 787 792 793 796 2840 2841 2862 2873 2874
+	}
+	
+	# Specific
+	# Generic
+	names = {
+		name = "TRADE_COMPANY_CHILE_Root_Culture_GetName"
+	}
+	names = {
+		name = "TRADE_COMPANY_CHILE_South_America_Trade_Company"
+	}
+}
+
+trade_company_patagonia = {
+	color = { 101 102 163 }
+	
+	provinces = {
+		780 781 782 786 2863 2868 2869 2870 2875 2876
+		785 2843 2844 2845 2847 2867 2871 2872 2877
+		779 2860 2861 2865 2866
+	}
+	
+	# Specific
+	# Generic
+	names = {
+		name = "TRADE_COMPANY_PATAGONIA_Root_Culture_GetName"
+	}
+	names = {
+		name = "TRADE_COMPANY_PATAGONIA_South_America_Trade_Company"
+	}
+}
+
+trade_company_uruguay = {
+	color = { 0 175 0 }
+	
+	provinces = {
+		777 778 2846 2848 2849 2853 2855 2858 2859
+		772 773 2850 2851 2852
+	}
+	
+	# Specific
+	# Generic
+	names = {
+		name = "TRADE_COMPANY_URUGUAY_Root_Culture_GetName"
+	}
+	names = {
+		name = "TRADE_COMPANY_URUGUAY_South_America_Trade_Company"
+	}
+}
+
+# Unused - Argentina and Paraguay
+# 791 794 2836 2837 2839 2842 #tucuman
+# 790 2854 2878 #Chaco
+# 775 776 799 2882 2883 #Paraguay
