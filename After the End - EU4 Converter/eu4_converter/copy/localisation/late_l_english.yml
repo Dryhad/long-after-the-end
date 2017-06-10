@@ -656,6 +656,12 @@
  mittelstand: "Mittelstand"
  mittelstand_desc: "Though our forges worked tirelessly refining the sacred art of steel making it has granted us the steady hands needed for many fields."
  heilkraft: "Heilkraft"
+<<<<<<< HEAD
  heilkraft_desc: "From the plains of Ohio to the forest of Michigan does the clash of steel rings ever true creating the most disciplined and decorated armies the Great Lakes has ever seen"
  ordnungssinn: "Ordnungssinn"
  ordnungssinn_desc: "With unyielding will do we show others of their place, of their betters and why they are grateful for it."
+=======
+ heilkraft_desc: "From the plains of Ohio to the forest of Michigan does the clash of steel rings ever true creating the most disciplined and decorated armies the Great Lakes has ever seen."
+ ordnungssinn: "Ordnungssinn"
+ ordnungssinn_desc: "With unyielding will do we show others of their place, of their betters and why they are grateful for it."
+>>>>>>> origin/master
