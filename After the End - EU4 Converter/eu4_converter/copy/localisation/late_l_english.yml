@@ -567,7 +567,7 @@
  reclaim_the_north: "Reclaim the North"
  reclaim_the_north_desc: "Our ancient records show that the wild North was once a part of the Ontarian domain. Let us resettle those untamed lands, and seek out what riches our ancestors left there."
  peace_order_good_government: "Peace, Order, and Good Government"
- peace_order_good_government_desc: "From what little we know of the realm of Canada that existed before the cataclysm, we gather that "Peace, Order, and Good Government" was their creed. We would be wise to take their example."
+ peace_order_good_government_desc: "From what little we know of the realm of Canada that existed before the cataclysm, we gather that 'Peace, Order, and Good Government' was their creed. We would be wise to take their example."
  reestablish_the_old_four: "Reestablish The Old Four"
  reestablish_the_old_four_desc: "In Toronto, London, and Kingston, ruins of what appear to be massive complexes of lecture halls, classrooms, and libraries have been uncovered. Our scholars speculate that these could be what are left of the legendary Old Four, the great universities of Ontario. While what knowledge they contained has been destroyed by the ravages of time, re-establishing them as institutions of learning would be sure to benefit our nation."
  canadian_cornucopia: "Canadian Cornucopia"
@@ -656,12 +656,6 @@
  mittelstand: "Mittelstand"
  mittelstand_desc: "Though our forges worked tirelessly refining the sacred art of steel making it has granted us the steady hands needed for many fields."
  heilkraft: "Heilkraft"
-<<<<<<< HEAD
  heilkraft_desc: "From the plains of Ohio to the forest of Michigan does the clash of steel rings ever true creating the most disciplined and decorated armies the Great Lakes has ever seen"
  ordnungssinn: "Ordnungssinn"
  ordnungssinn_desc: "With unyielding will do we show others of their place, of their betters and why they are grateful for it."
-=======
- heilkraft_desc: "From the plains of Ohio to the forest of Michigan does the clash of steel rings ever true creating the most disciplined and decorated armies the Great Lakes has ever seen."
- ordnungssinn: "Ordnungssinn"
- ordnungssinn_desc: "With unyielding will do we show others of their place, of their betters and why they are grateful for it."
->>>>>>> origin/master
