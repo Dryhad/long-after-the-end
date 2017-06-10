@@ -1,6 +1,10 @@
 #1119 - Grain Coast
 
-culture = dyola
+owner = LIB
+controller = LIB
+add_core = LIB
+is_city = yes
+culture = liberian
 religion = americanist
 capital = "Mesurado"
 trade_goods = unknown #Malaguetta Pepper dominant in early eras

@@ -17,6 +17,9 @@ e_ontarian;ONT;Ontario;Empire Ontario
 k_ontario;ONT;Ontario;Kingdom Ontario
 d_arklatex;TXK;Texarkana;Duchy Texarkana
 c_texarkana;TXK;Texarkana;County Texarkana
+k_columbia;WCD;Columbia;Kingdom Columbia
+d_capital;WDC;Columbia;Duchy Columbia
+c_washington;WCD;Columbia;County Columbia
 
 # EU4 Colonies
 

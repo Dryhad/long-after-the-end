@@ -69,6 +69,46 @@ ONT_ideas = {
 		defensiveness = 0.2
 	}
 }
+WDC_ideas = {
+	start = {
+		tolerance_heathen = 1
+		global_missionary_strength = 0.03
+	}
+	
+	bonus = {
+		global_manpower_modifier = 0.25
+	}
+	
+	trigger = {
+		tag = WDC
+	}
+	free = yes
+	
+	white_house = {
+		prestige = 1
+		legitimacy = 1
+		republican_tradition = 0.5
+		devotion = 1
+	}
+	guardian_holy_city = {
+		tolerance_own = 2
+	}
+	dc_frontier_state = {
+		discipline = 0.05
+	}
+	dc_land_of_the_heathen = {
+		missionaries = 1
+	}
+	crossing_the_delaware = {
+		leader_land_shock = 1
+	}
+	pentagon = {
+		defensiveness = 0.25
+	}
+	old_capitol = {
+		diplomatic_reputation = 2
+	}
+}
 mormon_ideas = {
 	start = {
 		global_missionary_strength = 0.02
