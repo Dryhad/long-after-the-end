@@ -269,7 +269,7 @@ chicagoan_ideas = {
             }
 
     trigger = {
-       culture = chicagaon
+       culture = chicagoan
        religion = catholic
      }
     }
