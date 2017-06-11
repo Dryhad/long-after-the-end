@@ -1,49 +1,20 @@
 #519 - Dhundar
 
-#owner = DHU
-#controller = DHU
+owner = DLH
+controller = DLH
 culture = rajput
 religion = hinduism
-capital = "Amber"
+capital = "Jaipur"
 trade_goods = copper
 hre = no
 base_tax = 4 
 base_production = 3
 base_manpower = 3
-is_city = no
-#add_core= DHU
+is_city = yes
+add_core= DLH
 
 
 
-discovered_by = indian
-#discovered_by = nomad_group
-discovered_by = indian
 discovered_by = indian
 discovered_by = chinese
 
-
-# = {
-	#owner = MUG
-	#controller = MUG
-	#add_core= MUG
-} # Mughal Conquest
-# = {
-	#owner = DHU
-	#controller = DHU
-	remove_core = MUG
-} # Independent after Delhi's fall
-# = {
-	#owner = BNG
-	#controller = BNG
-} # Sur expansion
-# = {
-	#owner = DHU
-	#controller = DHU
-} # Independence regained after death of Sher Shah
-
-
-
-# = { discovered_by = ENG }
-# = { discovered_by = GBR }
-
-# = { capital = "Jaipur" } # Jaipur founded

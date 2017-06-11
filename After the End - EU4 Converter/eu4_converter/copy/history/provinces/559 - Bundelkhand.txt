@@ -1,7 +1,7 @@
 #559 - Bundelkhand
 
-#owner = BND
-#controller = BND
+owner = BND
+controller = BND
 culture = kanauji
 religion = hinduism
 capital = "Orchha"
@@ -10,25 +10,11 @@ hre = no
 base_tax = 2 
 base_production = 2
 base_manpower = 3
-is_city = no
-#add_core= BND
+is_city = yes
+add_core= BND
 
 
 
 discovered_by = indian
-discovered_by = indian 
-discovered_by = indian
-#discovered_by = nomad_group
 discovered_by = chinese
-
-
-# = { #controller = MLW } # Conquered by Jaunpur
-# = { #controller = BND } # Conquered by Malwa
-# = { #controller = MUG }
-# = { #controller = BND }
-
-
-
-# = { discovered_by = ENG }
-# = { discovered_by = GBR }
 
