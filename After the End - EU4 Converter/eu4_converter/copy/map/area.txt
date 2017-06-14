@@ -2970,13 +2970,13 @@ newfoundland_area = { #3
     980 981 2573
 }
 
-labrador_area = { #3
-    997 2574 2575
-}
+# labrador_area = { #3
+    # 997 2574 2575
+# }
 
-cote_nord_area = { #4
-    996 2576 2577 2578
-}
+# cote_nord_area = { #4
+    # 996 2576 2577 2578
+# }
 
 # notre_dame_mountains_area = { #4
     # 986 2012 2582 2583
@@ -3006,13 +3006,13 @@ james_bay_area = { #5
     998 999 1000 1003 1004
 }
 
-inner_ontario_area = { #5
-	1002 2588 2589 2590 2591
-}
+# inner_ontario_area = { #5 Abitibi
+	# 1002 2588 2589 2590 2591
+# }
 
-hudson_bay_area = { #5
-    1005 1006 1009 2592 2594
-}
+# hudson_bay_area = { #5
+    # 1005 1006 1009 2592 2594
+# }
 
 red_river_area = { #5
     1008 1010 2016 2511 2593
@@ -3242,7 +3242,7 @@ talbot_area = {
 }
 
 laurentian_area = { 
-    992 2579 2580 2581 4535
+    4535 4775 4776 4778 4777
 }
 
 stadacona_area = {
@@ -3282,7 +3282,79 @@ restigouche_area = {
 }
 
 shield_area = {
-	4698 4697 4699 991 4570
+	4570 4697 4698 2588
+}
+
+inner_ontario_area = { #5 Abitibi
+	2589 4780 4782 4779
+}
+
+algonquin_area = {
+	991 4699 2581 992
+}
+
+eeyou_istchee_area = {
+	4781 1002 2580 
+}
+
+#Northern Quebec
+
+labrador_area = { #3
+    997 2574 2575 4788 4826 
+}
+
+cote_nord_area = { #South Cote Nord
+    996 2576 2577 2578
+}
+
+north_cote_nord_area = {
+	4787 4786 4784 4783 4785 
+}
+
+saguenay_area = {
+	4831 4789 4824 4790
+}
+
+nord_du_quebec_area = {
+	4822 4823 4821 4791 4819
+}
+
+nunavik_area = {
+	4817 4818 4814 4816 4815 
+}
+
+ungava_area = {
+	4813 4812 4825 4792
+}
+
+# Northern Ontario
+hudson_bay_area = { #5
+    1005 1006 4828 2592 2594
+}
+
+east_kenora_area = {
+	2591 4794 4795 4827 4793
+}
+
+west_kenora_area = {
+	4830 1806 1009 4796 4829
+}
+
+#The Far North
+
+stikine_area = {
+	4811 4810 4805 
+}
+
+yukon_area = {
+	4809 4820 4808 4807 
+}
+
+keewatin_area = {
+	4797 4798 4800 4799 4801
+}
+fort_smith_area = {
+	4802 4803 4804 4806
 }
 
 #New England
@@ -3346,7 +3418,7 @@ calumet_area = {
 }
 
 upper_ontario_area = { #4
-    1001 1007 2015 4572 
+    1001 1007 2015 4572 2590
 }
 
 lake_superior_area = { #4
@@ -3526,6 +3598,14 @@ new_south_wales_area = {
 
 lingiary_area = {
 	4722 4723 4720 4721
+}
+
+south_queensland = {
+	4767 4768 4769 4770
+}
+
+north_queensland = {
+	4773 4772 4771 4774 
 }
 
 #Carribean

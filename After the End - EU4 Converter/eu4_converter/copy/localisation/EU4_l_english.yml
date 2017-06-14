@@ -4968,6 +4968,8 @@
  dixie_trade:0 "Dixie"
  great_lakes_trade:0 "Great Lakes"
  gulf_of_mexico_trade:0 "Gulf of Mexico"
+ ungava_trade:0 "Ungava"
+ athabasca_trade:0 "Athabasca"
  st_marys_river_modifier:0 "St Mary's River"
  desc_st_marys_river_modifier:0 "The locks and channels of St Mary's River connect Lake Superior to the rest of the Great Lakes. Controlling these waterways strengthens our hold on trade in the region."
  mackinac_straits_modifier:0 "The Straits of Mackinac"

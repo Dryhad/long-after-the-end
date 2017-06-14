@@ -1659,13 +1659,13 @@ c_south_nipissing;991;991 - Ottawa;South Nipissing - Nipissing
 
 # Jamesie
 
-c_nemaska;1002;1002 - Abitbi;Nemaska - Abitbi
+c_nemaska;4781;4781 - Nemaska;Nemaska - Nemaska
 c_matagami;1002;1002 - Abitbi;Matagami - Abitbi
-c_abitibi;1002;1002 - Abitbi;Abitibi - Abitbi
-c_vallee_de_lor;1002;1002 - Abitbi;Vallee-de-l'Or - Abitbi
+c_abitibi;2589;2589 - Kesagami;Abitibi - Abitbi
+c_vallee_de_lor;4779;4779 - Valee-de-L'Or;Vallee-de-l'Or - Vallee-de-L'Or
 
-c_little_abitibi;2589;2589 - Kesagami;Little Abitbi - Kesagami
-c_kapuskasing;2589;2589 - Kesagami;Kapuskasing - Kesagami
+c_little_abitibi;2589;2589 - Kesagami;Little Abitibi - Abitbi
+c_kapuskasing;4782;4782 - Kapuskasing;Kapuskasing - Kapuskasing
 
 c_kashechewan;1003;1003 - Moose Cree;Kashechewan - Moose Cree
 c_moosonee;1003;1003 - Moose Cree;Moosonee - Moose Cree
@@ -1673,7 +1673,7 @@ c_moosonee;1003;1003 - Moose Cree;Moosonee - Moose Cree
 c_waskaganish;1000;1000 - Cree;Waskaganish - Cree
 
 c_chibougamau;2580;2580 - Atikamekw;Chibougamau - Atikamekw
-c_saint_jean;2580;2580 - Atikamekw;Saint-Jean - Atikamekw
+c_saint_jean;4777;4777 - Saint-Jean;Saint-Jean - Saint-Jean
 
 # Ontario
 
@@ -1716,13 +1716,13 @@ c_rideau;2585;2585 - Kichesipi;Ottawa - Kichesipi
 
 # Quebec
 
-c_pontiac;2581;2581 - Timiskaming;Pontiac - Timiskaming
-c_haute_gatineau;2581;2581 - Timiskaming;Haute-Gatineau - Timiskaming
-c_haute_labelle;2581;2581 - Timiskaming;Haute-Labelle - Timiskaming
+c_pontiac;992;992 - Algonquin;Pontiac - Algonquin
+c_haute_gatineau;992;992 - Algonquin;Haute-Gatineau - Algonquin
+c_haute_labelle;4776;4776 - Labelle;Haute-Labelle - Labelle
 
 c_hull;992;992 - Algonquin;Hull - Algonquin
-c_papineau;992;992 - Algonquin;Papineau - Algonquin
-c_bas_labelle;992;992 - Algonquin;Bas-Labelle - Algonquin
+c_papineau;4775;4775 - Papineau;Papineau - Papineau
+c_bas_labelle;4776;4776 - Labelle;Bas-Labelle - Labelle
 
 d_montreal;993;993 - Hochelega;Montreal - Hochelega
 c_hochelaga;993;993 - Hochelega;Hochelaga - Hochelega
@@ -1733,7 +1733,7 @@ c_lanaudiere;4532;4532 - Lanaudiere;Lanaudiere - Lanaudiere
 
 d_mauricia;990;990 - Kwedech;Duchy Mauricia - Kwedech
 c_mauricia;990;990 - Kwedech;County Mauricia - Kwedech
-c_saint_maurice;990;990 - Kwedech;Saint Maurice - Kwedech
+c_saint_maurice;4777;4777 - Saint-Jean;Saint Maurice - Saint-Jean
 c_taureau;990;990 - Kwedech;Taureau - Kwedech
 
 #d_la_citadelle;994;994 - Stadacona;La Citadelle - Stadacona
@@ -1742,8 +1742,8 @@ d_stadacona;994;994 - Stadacona;Stadacona - Stadacona
 c_charlevoix;994;994 - Stadacona;Charlevoix - Stadacona
 c_laurentides;994;994 - Stadacona;Laurentides - Stadacona
 c_portneuf;4534;4534 - Port Neuf;Port Neuf - Port Neuf
-c_totouskak;995;995 - Tadoussac;Totouskak - Tadoussac
-c_saguenay;995;995 - Tadoussac;Sagueney - Tadoussac
+c_totouskak;994;994 - Stadacona;Totouskak - Stadacona
+c_saguenay;4777;4777 - Saint-Jean;Sagueney - Saint-Jean
 
 c_monteregie;2584;2584 - Loup;Monteregie - Loup
 c_saint_francois;2584;2584 - Loup;Saint-Francois - Loup
@@ -1767,14 +1767,14 @@ c_matapedia;986;986 - Kespek;Matapedia - Kespek
 
 # Cote-Nord
 
-c_onatchiway;2579;2579 - Piecougami;Onatchiway - Piecougami
+c_onatchiway;995;995 - Tadoussac;Onatchiway - Tadoussac
 
-c_outardes;995;995 - Atiamekw;Outardes - Atiamekw
-c_haute_cote_nord;995;995 - Atiamekw;Haute Cote-Nord - Atiamekw
+c_outardes;995;995 - Atiamekw;Outardes - Outardes
+c_haute_cote_nord;995;995 - Tadoussac;Haute Cote-Nord - Haute Cote-Nord
 
-c_manicouagan;2577;2577 - Manicouagan;Manicouagan - Manicouagan
+c_manicouagan;4783;4783 - Manicouagan;Manicouagan - Manicouagan
 c_sept_iles;2577;2577 - Manicouagan;Sept-Iles - Manicouagan
-c_nipissis;2577;2577 - Manicouagan;Nipissis - Manicouagan
+c_nipissis;4784;4784 - Nipissis;Nipissis - Nipissis
 c_manitou;2577;2577 - Manicouagan;Manitou - Manicouagan
 
 c_mingan;2576;2576 - Mingan;Mingan - Mingan
@@ -1785,7 +1785,7 @@ c_netagamiou;996;996 - Innu;Netagamiou - Innu
 c_thule;997;997 - Labrador;Thule - Labrador
 
 c_goose_bay;2575;2575 - Naskapi;Goose Bay - Naskapi
-c_labrador;2575;2575 - Naskapi;Labrador - Naskapi
+c_labrador;4785;4785 - Churchill;Labrador - Churchill
 
 c_anticosti;2578;2578 - Anticosti;Anticosti - Anticosti
 

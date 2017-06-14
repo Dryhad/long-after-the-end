@@ -927,7 +927,7 @@ canada_region = {
 		#upper_acadia_area
 		#lower_acadia_area
 		newfoundland_area
-		labrador_area
+		#labrador_area
 		cote_nord_area
 		notre_dame_mountains_area
 		lower_canada_area
@@ -945,6 +945,19 @@ canada_region = {
 		upper_acadia_area
 		nova_scotia_area
 		cape_breton_area
+		algonquin_area
+	}
+}
+
+north_quebec_region = {
+	areas = {
+		labrador_area
+		north_cote_nord_area
+		saguenay_area
+		ungava_area
+		nord_du_quebec_area
+		nunavik_area
+		eeyou_istchee_area
 	}
 }
 
@@ -1088,11 +1101,26 @@ hudson_bay_region = {
 		james_bay_area
 		hudson_bay_area
 		red_river_area
+		#saskatchewan_area
+		#prairies_area
+		#athabasca_area
+		inner_ontario_area
+		#assiniboia_area
+		west_kenora_area
+		east_kenora_area
+	}
+}
+
+north_west_territories_region = {
+	areas = {
 		saskatchewan_area
 		prairies_area
 		athabasca_area
-		inner_ontario_area
 		assiniboia_area
+		keewatin_area
+		fort_smith_area
+		stikine_area
+		yukon_area
 	}
 }
 

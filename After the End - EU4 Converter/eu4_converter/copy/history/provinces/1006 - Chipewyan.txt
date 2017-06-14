@@ -14,5 +14,5 @@ native_hostileness = 3
 
 
 
-discovered_by = western
-discovered_by = eastern
+# discovered_by = western
+# discovered_by = eastern
