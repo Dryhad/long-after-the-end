@@ -341,3 +341,23 @@
  colonial_Kamchatka:0  "Colonial Kamchatka"
  COLONIAL_KAMCHATKA_Root_GetAdjective_Kamchatka:0  "[Root.GetAdjective] Kamchatka"
  COLONIAL_KAMCAHTKA_Root_GetAdjective_Kamchatka_ADJ:0  "[Root.GetAdjective] Kamchatkan"
+ 
+ #Trade Charters#
+ 
+ trade_company_bolivia:0 "Bolivian Charter"
+ trade_company_peru:0 "Peruvian Charter"
+ trade_company_chile:0 "Chilean Charter"
+ trade_company_patagonia:0 "Patagonian Charter"
+ trade_company_uruguay:0 "Uruguayan Charter"
+ 
+ TRADE_COMPANY_BOLIVIA_Root_Culture_GetName:0 "[Root.Culture.GetName] Bolivia Company"
+ TRADE_COMPANY_PERU_Root_Culture_GetName:0 "[Root.Culture.GetName] Peru Company"
+ TRADE_COMPANY_CHILE_Root_Culture_GetName:0 "[Root.Culture.GetName] Chile Company"
+ TRADE_COMPANY_PATAGONIA_Root_Culture_GetName:0 "[Root.Culture.GetName] Patagonia Company"
+ TRADE_COMPANY_URUGUAY_Root_Culture_GetName:0 "[Root.Culture.GetName] Uruguay Company"
+ 
+ TRADE_COMPANY_BOLIVIA_South_America_Trade_Company:0 "Bolivia Trade Company"
+ TRADE_COMPANY_PERU_South_America_Trade_Company:0 "Peru Trade Company"
+ TRADE_COMPANY_CHILE_South_America_Trade_Company:0 "Chile Trade Company"
+ TRADE_COMPANY_PATAGONIA_South_America_Trade_Company:0 "Patagonia Trade Company"
+ TRADE_COMPANY_URUGUAY_South_America_Trade_Company:0 "Uruguay Trade Company"

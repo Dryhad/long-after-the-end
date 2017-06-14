@@ -1,66 +1,16 @@
 #2057 - Bhelsa
 
-#owner = MLW
-#controller = MLW
+owner = MLW
+controller = MLW
 culture = malvi
 religion = hinduism
-capital = "Bhelsa"
+capital = "Bhopal"
 trade_goods = spices #Opium
 hre = no
 base_tax = 2 
 base_production = 2
 base_manpower = 1
-is_city = no
-#add_core= MLW
-estate = estate_nobles
+is_city = yes
+add_core= MLW
 discovered_by = indian
-discovered_by = indian
-discovered_by = indian
-#discovered_by = nomad_group
 discovered_by = chinese
-
-# = { discovered_by = POR }
-
-# = { #controller = GUJ } # Conquered by Ahmad Shahis
-# = { #owner = GUJ } # Conquered by Ahmad Shahis
-# = {
-	#controller = MUG
-	#add_core= MUG
-} # Mughal campaign
-# = {
-	#owner = MLW
-	#controller = MLW
-	remove_core = MUG
-} # Reverts to Gujarati control and is granted independence
-# = {
-	#owner = BNG
-	#controller = BNG
-	#add_core= BNG
-} # Conquered by Sher Shah Sur
-# = {
-	#owner = MLW
-	#controller = MLW
-	remove_core = BNG
-} # Death of Sher Shah, governor declares independence
-# = { #controller = MUG } #Pir Mohammad Khan
-# = { #controller = MLW } #Baz Bahadur regains controll as Pir Mohammad Khan is recalled
-# = { #controller = MUG } #Reconquered by Akbar
-# = {
-	#owner = MUG
-	#add_core= MUG
-} # Annexed by Mughal Empire
-# = { #controller = REB revolt = { type = noble_rebels } }	#Revolt of Uzbek commanders in Malwa
-# = { #controller = MUG revolt = { } }	#Revolt beaten down
-# = {
-	#owner = GWA
-	#controller = GWA
-	#add_core= GWA
-	capital = "Bhopal"
-	remove_core = MUG
-}
-# = {
-	#owner = GBR
-	#controller = GBR
-	#add_core= GBR
-	remove_core = GWA
-}

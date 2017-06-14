@@ -1,8 +1,12 @@
 # No previous file for Karou
 
-culture = dyola
+owner = LIB
+controller = LIB
+add_core = LIB
+is_city = yes
+culture = liberian
 religion = americanist
-capital = "Karou"
+capital = "Monrovia"
 trade_goods = unknown
 hre = no
 base_tax = 1 

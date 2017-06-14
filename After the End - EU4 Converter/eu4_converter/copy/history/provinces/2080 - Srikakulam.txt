@@ -1,7 +1,7 @@
 #2080 - Srikakulam
 
-owner = DEC
-controller = DEC
+owner = ORI
+controller = ORI
 culture = oriya
 religion = hinduism
 capital = "Srikakulam"
@@ -11,12 +11,9 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = DEC
+add_core = ORI
 
 
 
-discovered_by = indian
-#discovered_by = nomad_group
-discovered_by = indian 
 discovered_by = indian
 discovered_by = chinese

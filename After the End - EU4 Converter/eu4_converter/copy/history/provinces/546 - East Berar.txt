@@ -1,7 +1,7 @@
 #546 - East Berar / Nagpur
 
-#owner = BAH
-#controller = BAH
+owner = GDW
+controller = GDW
 culture = gondi
 religion = hinduism
 capital = "Wairagarh"
@@ -10,35 +10,8 @@ hre = no
 base_tax = 3 
 base_production = 3
 base_manpower = 3
-is_city = no
-#add_core= BRR
-#add_core= BAH
-#discovered_by = nomad_group
-discovered_by = indian
-discovered_by = indian 
+is_city = yes
+add_core= GDW
 discovered_by = indian
 discovered_by = chinese
 
-
-# = {
-	remove_core = BAH
-	#controller = BRR
-	#owner = BRR
-} # The Breakup of the Bahmani sultanate
-# = { discovered_by = POR }
-# = { #controller = AHM } # captured by Ahmednagar
-# = {
-	#owner = CHD
-	#controller = CHD
-	#add_core= CHD
-} # Province control absorbed by Chanda
-# = { #owner = GDW #controller = GDW #add_core= GDW capital = "Nagpur" }
-# = {
-	#owner = NAG
-	#controller = NAG
-	#add_core= NAG
-}	#Formation of the kingdom of Nagpur
-# = {
-	culture = marathi
-}	#Maratha expansion
-#1743 Marathas take control over Nagpur kingdom

@@ -1,47 +1,20 @@
 #2097 - Bagelkhand
 
-#owner = BGL
-#controller = BGL
+owner = BGL
+controller = BGL
 culture = avadhi
 religion = hinduism
-capital = "Bandhogarh"
+capital = "Rewa"
 trade_goods = grain
 hre = no
 base_tax = 2 
 base_production = 1
 base_manpower = 2
-is_city = no
-#add_core= BGL
+is_city = yes
+add_core= BGL
 
 
 
-discovered_by = indian
-#discovered_by = nomad_group
-discovered_by = indian 
 discovered_by = indian
 discovered_by = chinese
 
-
-# = { #controller = DLH } # Delhi
-# = { #controller = BGL } # Delhi
-# = { #controller = MUG }
-# = { #controller = BGL }
-# = { #controller = MUG }
-# = {
-	#controller = BGL
-	capital = "Rewa"
-}
-
-
-
-# = { discovered_by = ENG }
-# = { discovered_by = GBR }
-
-# = {
-	#owner = NAG
-	#controller = NAG
-} # The Marathan Empire
-# = {
-	#owner = BGL
-	#controller = BGL
-} # British dependency

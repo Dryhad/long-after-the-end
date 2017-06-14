@@ -69,6 +69,46 @@ ONT_ideas = {
 		defensiveness = 0.2
 	}
 }
+WDC_ideas = {
+	start = {
+		tolerance_heathen = 1
+		global_missionary_strength = 0.03
+	}
+	
+	bonus = {
+		global_manpower_modifier = 0.25
+	}
+	
+	trigger = {
+		tag = WDC
+	}
+	free = yes
+	
+	white_house = {
+		prestige = 1
+		legitimacy = 1
+		republican_tradition = 0.5
+		devotion = 1
+	}
+	guardian_holy_city = {
+		tolerance_own = 2
+	}
+	dc_frontier_state = {
+		discipline = 0.05
+	}
+	dc_land_of_the_heathen = {
+		missionaries = 1
+	}
+	crossing_the_delaware = {
+		leader_land_shock = 1
+	}
+	pentagon = {
+		defensiveness = 0.25
+	}
+	old_capitol = {
+		diplomatic_reputation = 2
+	}
+}
 mormon_ideas = {
 	start = {
 		global_missionary_strength = 0.02
@@ -110,7 +150,7 @@ deitsch_ideas = {
 	bonus = { num_accepted_cultures = 2 }
 	trigger = {
 		religion = anabaptist
-		culture = deitsch
+		primary_culture = deitsch
 	}
 	free = yes
 
@@ -178,44 +218,85 @@ californian_ideas = {
 }
 rostmann_ideas = {
     start = {
-        development_cost = -0.1
-        infantry_power = 0.2
+            development_cost = -0.1
+            infantry_power = 0.2
     }
     bonus = {
             technology_cost = -0.1  
-            }
+    }
 
     trigger = {
-       culture = rostmann
-       OR = {
-        religion = rust_cultist
-        religion_group = christian
-     }
+              primary_culture = rostmann
+		OR = {
+			religion = rust_cultist
+			religion_group = christian
+		}
     }
 
     free = yes
 
     the_rust_belt = {
-        loot_amount = 0.1
+                loot_amount = 0.1
     }
     gewalthaufen = {
-        shock_damage_received = -0.2
+                shock_damage_received = -0.2
     }
     dienstmann = {
-        advisor_pool = 1
-        manpower_recovery_speed = 0.2
+                advisor_pool = 1
+                manpower_recovery_speed = 0.2
     }
     rost_sprachraum = {
-        num_accepted_cultures = 2
+                num_accepted_cultures = 2
     }
     mittelstand  = {
-        production_efficiency = 0.1
+                production_efficiency = 0.1
     }
     heilkraft = {
-        prestige = 1
-        army_tradition = 1
+                prestige = 1
+                army_tradition = 1
     }
     ordnungssinn = {
-        stability_cost_modifier = -0.1
+                stability_cost_modifier = -0.1
     }
 }
+chicagoan_ideas = {
+    start = {
+            defensiveness = 0.2
+            recover_army_morale_speed = 0.1
+    }
+    bonus = {
+            global_tax_modifier = 0.15
+            }
+
+    trigger = {
+       culture = chicagoan
+       religion = catholic
+     }
+    }
+
+    free = yes
+
+    the_great_bastion = {
+                army_tradition = 1
+                fort_maintenance_modifier = -0.1
+    }
+    steamboat_diplomacy  = {
+                diplomats = 1
+                diplomatic_upkeep = 1
+    }
+    sénéchaussée_des_chicago = {
+                heir_chance = 0.5
+                legitimacy = 1
+    }
+    midwest_stock_exchange = {
+                global_own_trade_power = 0.1
+    }
+    devout_catholics  = {
+                papal_influence = 3
+    }
+    urbs_in_horto = {
+                global_institution_spread = 0.2
+    }
+    the_three_park_commission = {
+                religious_unity = 2
+    }

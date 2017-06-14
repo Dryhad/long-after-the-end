@@ -1,7 +1,7 @@
 #2096 - Damin
 
-#owner = NGP
-#controller = NGP
+owner = NGP
+controller = NGP
 culture = jharkhandi
 religion = hinduism
 capital = "Deogarh"
@@ -10,33 +10,10 @@ hre = no
 base_tax = 1 
 base_production = 1
 base_manpower = 1
-is_city = no
-#add_core= NGP
-estate = estate_church
+is_city = yes
+add_core= NGP
 
 
-
-discovered_by = indian
-#discovered_by = nomad_group
-discovered_by = indian 
+ 
 discovered_by = indian
 discovered_by = chinese
-
-# = { discovered_by = POR }
-
-# = {
-	#owner = MUG
-	#controller = MUG
-	#add_core= MUG
-}
-# = {
-	#owner = BNG
-	#controller = BNG
-	#add_core= BNG
-	remove_core = MUG
-}
-# = {
-	#owner = GBR
-	#controller = GBR
-	#add_core= GBR
-} # Given to GBR by Mir Qasim

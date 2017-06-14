@@ -1,24 +1,15 @@
 #1026 - Mutsu
 
-#owner = DTE
-#controller = DTE
+owner = NAU
+controller = NAU
 culture = togoku
 religion = shinto
-capital = "Aizu"
+capital = "Sendai"
 trade_goods = grain
 hre = no
 base_tax = 3
 base_manpower = 3
 base_production = 3
-is_city = no
-#add_core= DTE
+is_city = yes
+add_core= NAU
 discovered_by = chinese
-discovered_by = MCH
-discovered_by = KHA
-discovered_by = OIR
-discovered_by = QNG
-discovered_by = ANU
-
-# = { fort_15th = yes } # Iwadeyama Castle, Estimation
-# = { discovered_by = POR }
-# = { capital = "Sendai" }

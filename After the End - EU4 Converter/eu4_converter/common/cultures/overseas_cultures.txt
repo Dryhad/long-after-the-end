@@ -18,7 +18,7 @@ west_african = {
 	}
 }
 #edokko
-japanese = {
+japanese_g = {
 	edokko = {
 		primary = JAP
 		dynasty_names = $edokko$

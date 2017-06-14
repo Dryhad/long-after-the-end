@@ -1,7 +1,7 @@
 #Northern Mutsu
 
-#owner = RFR
-#controller = RFR
+owner = SHI
+controller = SHI
 culture = togoku
 religion = shinto
 capital = "Sannohe"
@@ -10,14 +10,6 @@ hre = no
 base_tax = 3
 base_manpower = 2
 base_production = 3
-is_city = no
-#add_core= RFR
+is_city = yes
+add_core= SHI
 discovered_by = chinese
-discovered_by = MCH
-discovered_by = KHA
-discovered_by = OIR
-discovered_by = QNG
-discovered_by = ANU
-
-# = { discovered_by = POR }
-# = { capital = "Morioka" }

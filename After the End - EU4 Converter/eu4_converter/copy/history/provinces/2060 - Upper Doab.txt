@@ -1,7 +1,7 @@
 #2060 - Upper Doab
 
-#owner = DLH
-#controller = DLH
+owner = DLH
+controller = DLH
 culture = kanauji
 religion = hinduism
 capital = "Meerut"
@@ -10,68 +10,11 @@ hre = no
 base_tax = 7 
 base_production = 7
 base_manpower = 4
-estate = estate_nobles
-is_city = no
-#add_core= DLH
-#add_core= MUL
+is_city = yes
+add_core= DLH
 
 
 
 
-discovered_by = indian
-#discovered_by = nomad_group
-discovered_by = indian 
 discovered_by = indian
 discovered_by = chinese
-
-# = { remove_core = MUL }
-# = { #controller = TIM } #Conquered by Babur
-# = {
-	#owner = MUG
-	#controller = MUG
-	#add_core= MUG
-} # Battle of Panipat
-# = {
-	#owner = BNG
-	#controller = BNG
-	#add_core= BNG
-} # Sher Shah Conquers Delhi
-# = {
-	#owner = DLH
-	#controller = DLH
-	remove_core = BNG
-} #Death of Islam Shah Sur, Suri empire split
-# = {
-	#owner = MUG
-	#controller = MUG
-} # Humayun Returns
-# = { #controller = DLH }	# Hemu
-# = { #controller = MUG }	#Aftermath to second battle of Panipat
-
-
-
-# = { discovered_by = ENG }
-# = { discovered_by = GBR }
-
-# = {
-	#owner = RMP
-	#controller = RMP
-	remove_core = MUG
-} # Rohilkandh
-# = {
-	#owner = ODH
-	#controller = ODH
-} # Oudh
-# = {
-	#owner = RMP
-	#controller = RMP
-} # Rohilkandh independent
-# = {
-	#owner = ODH
-	#controller = ODH
-} # Oudh
-# = {
-	#owner = GBR
-	#controller = GBR
-	#add_core= GBR
-}

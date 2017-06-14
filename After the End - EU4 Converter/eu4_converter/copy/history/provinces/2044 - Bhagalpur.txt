@@ -1,7 +1,7 @@
 #2044 - Bhagalpur
 
-#owner = BNG
-#controller = BNG
+owner = KMT
+controller = KMT
 culture = bengali
 religion = hinduism
 capital = "Bhagalpur"
@@ -10,73 +10,11 @@ hre = no
 base_tax = 4 
 base_production = 4
 base_manpower = 3
-is_city = no
-#add_core= BNG
+is_city = yes
+add_core= KMT
 
 
 
-discovered_by = indian
-#discovered_by = nomad_group
-discovered_by = indian 
 discovered_by = indian
 discovered_by = chinese
 
-
-# = {
-	#owner = BNG
-	revolt = { type = pretender_rebels size = 3 leader = "Sher Shah Sur"}
-	#controller = REB
-} # Sur control
-# = {
-	revolt = {}
-	#controller = BNG
-} # Gaur has fallen
-# = { #controller = MUG } # Mughal Invasion
-# = { #controller = BNG } # Surs again in control
-# = {
-	#owner = MUG
-	#controller = MUG
-	#add_core= MUG
-	unrest = 8
-} #Mughal takeover, but the land remains in the hand of Afghan and Hindu land#owners with interests vested against the Mughal dynasty and a deep hatred for the Mughal state
-# = {
-	unrest = 0
-} # Integrated into Mughal Empire
-
-# = {
-	#controller = REB
-	revolt = {
-		type = pretender_rebels
-		size = 0
-		name = "Khurrams Faction"
-		leader = "Shah Jahan Timurid"
-	}
-} #With some aid from Golconda Khurrams rebelion against his father continues
-# = {
-	#controller = MUG
-	revolt = { }
-} #Defeated, retreats into Bengal
-# = { discovered_by = POR }
-# = {
-	#controller = REB
-	revolt = {
-		type = pretender_rebels
-		size = 0
-		name = "Muhammed Shuja's Faction"
-		leader = "Muhammed Shuja Timurid"
-	}
-} # Shah Jahan falls ill, his sons starts civil war
-# = {
-	#controller = MUG
-	revolt = { }
-} # Muhammed Shuja defeated by Aurangzeb
-# = {
-	#owner = BNG
-	#controller = BNG
-}
-# = {
-	#owner = GBR
-	#controller = GBR
-	#add_core= GBR
-	remove_core = MUG
-} # Given to GBR by Mughal Empire (was formerly british puppet)

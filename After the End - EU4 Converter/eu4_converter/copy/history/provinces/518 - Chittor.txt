@@ -1,7 +1,7 @@
 #518 - Chittor
 
-#owner = MER
-#controller = MER
+owner = MAW
+controller = MAW
 culture = rajput
 religion = hinduism
 capital = "Chittor"
@@ -10,37 +10,12 @@ hre = no
 base_tax = 3 
 base_production = 3
 base_manpower = 2
-is_city = no
-#add_core= MER
+is_city = yes
+add_core= MAW
 fort_15th = yes
 
 
 
 discovered_by = indian
-discovered_by = indian
-discovered_by = indian
-#discovered_by = nomad_group
 discovered_by = chinese
-
-
-# = { #controller = GUJ } # War with Gujarat
-# = { #controller = MER } # War with Gujarat ends
-# = {
-	#owner = BNG
-	#controller = BNG
-	#add_core= BNG
-} # Sur expansion
-# = {
-	#owner = MER
-	#controller = MER
-	remove_core = BNG
-} # Independence regained after death of Sher Shah
-# = { capital = "Udaipur" }
-# = { #controller = MUG }
-# = { #controller = MER }
-
-
-
-# = { discovered_by = ENG }
-# = { discovered_by = GBR }
 
