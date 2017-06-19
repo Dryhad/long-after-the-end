@@ -23,6 +23,18 @@ texark_monarchy = {
 		tag = TXK
 	}
 }
+newyork_monarchy = {
+	rank = {
+		1 = DUCHY
+		2 = KINGDOM
+		3 = EMPIRE_STATE
+	}
+	
+	trigger = {
+		government = monarchy
+		tag = NYS
+	}
+}
 # Boer
 boer_monarchy = {
 	rank = {

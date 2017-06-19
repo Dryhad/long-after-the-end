@@ -3,7 +3,6 @@ country_decisions = {
 	restore_america = {
 		major = yes
 		potential = {
-			normal_or_historical_nations = yes
 			owns = 953
 			OR = {
 				ai = no
