@@ -12,9 +12,7 @@ country_decisions = {
 			NOT = { tag = PAP }
 			NOT = { tag = HLR }
 			NOT = { tag = COL }
-			OR = {
-				culture_group = venezolano
-			}
+			culture_group = venezolano
 			OR = {
 				ai = no
 				AND = {

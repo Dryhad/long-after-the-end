@@ -3,6 +3,7 @@ west_anglo = {
 		dynasty_names = $grangelander$
 	}
 	texan = {
+		primary = TEX
 		dynasty_names = $texan$
 	}
 	arixan = {

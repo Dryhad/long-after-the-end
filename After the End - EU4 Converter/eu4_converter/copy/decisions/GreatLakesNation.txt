@@ -1,19 +1,21 @@
 country_decisions = {
 
-	quebec_nation = {
+	great_lakes_nation = {
 		major = yes
 		potential = {
-			NOT = { has_country_flag = formed_quebec_flag }
+			NOT = { has_country_flag = formed_great_lakes_flag }
 			OR = {
 				ai = no
 				is_playing_custom_nation = no
 			}
-			NOT = { exists = QUE }
+			NOT = { exists = GLK }
 			NOT = { tag = PAP }
 			NOT = { tag = HLR }
+			NOT = { tag = USA }
 			NOT = { tag = CAN }
 			OR = {
-				culture_group = galloamerican
+				culture_group = laurentian
+				culture_group = amerodeutsch
 			}
 			OR = {
 				ai = no
@@ -36,18 +38,18 @@ country_decisions = {
 			is_free_or_tributary_trigger = yes
 			is_nomad = no
 			is_at_war = no
-			owns_core_province = 996	# Innu
-			owns_core_province = 995	# Atikamekw
-			owns_core_province = 994	# stadacona
-			owns_core_province = 990	# Kwedech
-			owns_core_province = 992	# Algonquin
-			owns_core_province = 1002	# Abitbi
-			owns_core_province = 1000	# Cree
-			owns_core_province = 4533	# Quebec City
-			owns_core_province = 993	# Hochelega
+			owns_core_province = 4563	# Chicago
+			owns_core_province = 4555	# Detroit
+			owns_core_province = 947	# Cleveland
+			owns_core_province = 914	# Green Bay
+			owns_core_province = 911	# Sault Ste Marie
+			OR = {
+				owns_core_province = 4571	# Duluth
+				owns_core_province = 2670	# Toronto
+			}
 		}
 		effect = {
-			change_tag = QUE
+			change_tag = GLK
 			if = {
 				limit = {
 					has_custom_ideas = no
@@ -74,48 +76,19 @@ country_decisions = {
 					set_in_empire = no
 				}
 			}
-			if = {
-				limit = {
-					NOT = { government_rank = 2 }
-				}
-				set_government_rank = 2
-			}
-			quebec_area = {
+			set_government_rank = 3
+			great_lakes_region = {
 				limit = {
 					NOT = { owned_by = ROOT }
 				}
-				add_permanent_claim = QUE
-			}
-			stadacona_area = {
-				limit = {
-					NOT = { owned_by = ROOT }
-				}
-				add_permanent_claim = QUE
-			}
-			lower_canada_area = {
-				limit = {
-					NOT = { owned_by = ROOT }
-				}
-				add_permanent_claim = QUE
-			}
-			laurentian_area = {
-				limit = {
-					NOT = { owned_by = ROOT }
-				}
-				add_permanent_claim = QUE
-			}
-			cote_nord_area = {
-				limit = {
-					NOT = { owned_by = ROOT }
-				}
-				add_permanent_claim = QUE
+				add_permanent_claim = GLK
 			}
 			add_country_modifier = {
 				name = "centralization_modifier"
 				duration = 7300
 			}
 			add_prestige = 10
-			set_country_flag = formed_quebec_flag
+			set_country_flag = formed_great_lakes_flag
 		}
 		ai_will_do = {
 			factor = 1

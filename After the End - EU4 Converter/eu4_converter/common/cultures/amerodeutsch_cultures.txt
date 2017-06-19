@@ -3,12 +3,15 @@ amerodeutsch = {
 		dynasty_names = $deitsch$
 	}
 	rostmann = {
+		primary = GLK
 		dynasty_names = $rostmann$
 	}
 	dellsman = {
+		primary = GLK
 		dynasty_names = $dellsman$
 	}
 	yooper = {
+		primary = GLK
 		dynasty_names = $yooper$
 	}
 	northlander = {

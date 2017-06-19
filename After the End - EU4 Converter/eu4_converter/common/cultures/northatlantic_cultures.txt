@@ -1,8 +1,10 @@
 north_atlantic = {
 	gothamite = {
+		primary = NYS
 		dynasty_names = $gothamite$
 	}
 	hudsonian = {
+		primary = NYS
 		dynasty_names = $hudsonian$
 	}
 	delawarean = {

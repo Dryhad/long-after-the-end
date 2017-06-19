@@ -1,20 +1,18 @@
 country_decisions = {
 
-	quebec_nation = {
+	ontario_nation = {
 		major = yes
 		potential = {
-			NOT = { has_country_flag = formed_quebec_flag }
+			NOT = { has_country_flag = formed_ontario_flag }
 			OR = {
 				ai = no
 				is_playing_custom_nation = no
 			}
-			NOT = { exists = QUE }
+			NOT = { exists = ONT }
 			NOT = { tag = PAP }
 			NOT = { tag = HLR }
 			NOT = { tag = CAN }
-			OR = {
-				culture_group = galloamerican
-			}
+			primary_culture = ontarian
 			OR = {
 				ai = no
 				AND = {
@@ -36,18 +34,13 @@ country_decisions = {
 			is_free_or_tributary_trigger = yes
 			is_nomad = no
 			is_at_war = no
-			owns_core_province = 996	# Innu
-			owns_core_province = 995	# Atikamekw
-			owns_core_province = 994	# stadacona
-			owns_core_province = 990	# Kwedech
-			owns_core_province = 992	# Algonquin
-			owns_core_province = 1002	# Abitbi
-			owns_core_province = 1000	# Cree
-			owns_core_province = 4533	# Quebec City
-			owns_core_province = 993	# Hochelega
+			owns_core_province = 2670	# Toronto
+			owns_core_province = 4537	# Ottawa
+			owns_core_province = 988	# Huron
+			owns_core_province = 4697	# Sudbury
 		}
 		effect = {
-			change_tag = QUE
+			change_tag = ONT
 			if = {
 				limit = {
 					has_custom_ideas = no
@@ -80,42 +73,42 @@ country_decisions = {
 				}
 				set_government_rank = 2
 			}
-			quebec_area = {
+			quinte_area = {
 				limit = {
 					NOT = { owned_by = ROOT }
 				}
-				add_permanent_claim = QUE
+				add_permanent_claim = ONT
 			}
-			stadacona_area = {
+			greater_toronto_area = {
 				limit = {
 					NOT = { owned_by = ROOT }
 				}
-				add_permanent_claim = QUE
+				add_permanent_claim = ONT
 			}
-			lower_canada_area = {
+			talbot_area = {
 				limit = {
 					NOT = { owned_by = ROOT }
 				}
-				add_permanent_claim = QUE
+				add_permanent_claim = ONT
 			}
-			laurentian_area = {
+			huronia_area = {
 				limit = {
 					NOT = { owned_by = ROOT }
 				}
-				add_permanent_claim = QUE
+				add_permanent_claim = ONT
 			}
-			cote_nord_area = {
+			shield_area = {
 				limit = {
 					NOT = { owned_by = ROOT }
 				}
-				add_permanent_claim = QUE
+				add_permanent_claim = ONT
 			}
 			add_country_modifier = {
 				name = "centralization_modifier"
 				duration = 7300
 			}
 			add_prestige = 10
-			set_country_flag = formed_quebec_flag
+			set_country_flag = formed_ontario_flag
 		}
 		ai_will_do = {
 			factor = 1
