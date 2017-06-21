@@ -26,6 +26,6 @@ discovered_by = nomad_group
 	#owner = CAD
 	#controller = CAD
 	#add_core= CAD
-	trade_goods = cotton
+	trade_goods = unknown
 	is_city = no 
 } #Great Plain tribes spread over vast territories

@@ -3,7 +3,7 @@
 culture = carib
 religion = animism
 capital = "Antigua"
-trade_goods = unknown 
+trade_goods = unknown
 hre = no
 base_tax = 1
 base_production = 1
@@ -27,7 +27,7 @@ discovered_by = ARW
 	religion = protestant
 	culture = english 
 	is_city = no
-	trade_goods = sugar 
+	trade_goods = unknown
 } # The first English settlers arrived
 # = {
 	#discovered_by = GBR

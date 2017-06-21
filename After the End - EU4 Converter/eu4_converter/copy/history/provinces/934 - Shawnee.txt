@@ -3,7 +3,7 @@
 culture = shawnee #yuchi
 religion = totemism
 capital = "Shawnee"
-trade_goods = grain
+trade_goods = unknown
 hre = no
 base_tax = 4
 base_production = 4

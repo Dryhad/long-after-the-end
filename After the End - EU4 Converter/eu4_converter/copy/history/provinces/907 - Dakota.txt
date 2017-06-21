@@ -26,7 +26,7 @@ discovered_by = nomad_group
 	#controller = SIO
 	#add_core= SIO
 	is_city = no
-	trade_goods = fur
+	trade_goods = unknown
 	culture = dakota 
 } #Horses cause waves of migration on the Great Plains
 # = { discovered_by = FRA }# Pierre Gaultier de Varennes, no real settlements until the 1800's

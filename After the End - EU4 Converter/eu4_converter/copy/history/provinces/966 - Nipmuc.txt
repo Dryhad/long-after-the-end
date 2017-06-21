@@ -3,7 +3,7 @@
 culture = pequot
 religion = totemism 
 capital = "Nipmuc" 
-trade_goods = unknown 
+trade_goods = unknown
 hre = no 
 base_tax = 4
 base_production = 4
@@ -31,7 +31,7 @@ discovered_by = nomad_group
 	religion = reformed
 	is_city = no
 	capital = "Agawam"
-	trade_goods = grain
+	trade_goods = unknown
 }
 # = { capital = "Springfield"  }
 # = {

@@ -3,7 +3,7 @@
 culture = carib
 religion = animism
 capital = "Guadeloupe"
-trade_goods = unknown 
+trade_goods = unknown
 hre = no
 base_tax = 1
 base_production = 1
@@ -26,7 +26,7 @@ discovered_by = ARW
 	is_city = no
 	religion = catholic
 	culture = cosmopolitan_french
-	trade_goods = sugar 
+	trade_goods = unknown
 } # Most of the Caribs were wiped out by the French
 # = { capital = "Basse-Terre" }
 # = { revolt = { type = nationalist_rebels size = 2 } #controller = REB } # Slave rebellion

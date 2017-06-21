@@ -28,7 +28,7 @@ discovered_by = nomad_group
 	#add_core= ENG
 	is_city = no
 	religion = protestant
-	trade_goods = tobacco
+	trade_goods = unknown
 	culture = english 
 } #Fort Henry
 # = {

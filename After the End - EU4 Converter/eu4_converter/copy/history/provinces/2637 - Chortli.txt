@@ -30,7 +30,7 @@ discovered_by =  mesoamerican
 	#add_core= SPA
 	culture = castillian
 	religion = matrem
-	trade_goods = naval_supplies
+	trade_goods = unknown
 	is_city = no
 } # Founded by de Olid
 # = { capital = "La Navidad" } #New settlement by Cortez

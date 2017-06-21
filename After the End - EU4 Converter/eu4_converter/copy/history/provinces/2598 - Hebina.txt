@@ -28,6 +28,6 @@ discovered_by = nomad_group
 	#controller = ASI
 	#add_core= ASI
 	culture = nakota
-	trade_goods = fur
+	trade_goods = unknown
 	is_city = no 
 } #Great Plain tribes spread over vast territories

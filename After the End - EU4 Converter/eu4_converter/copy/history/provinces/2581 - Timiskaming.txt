@@ -30,7 +30,7 @@ discovered_by = nomad_group
 	is_city = no
 	culture = cosmopolitan_french
 	religion = catholic
-	trade_goods = fur
+	trade_goods = unknown
 } #Fort Témiscamingue founded
 # = { discovered_by = GBR } 
 # = { #controller = GBR } # The government of New France capitulate at Montreal

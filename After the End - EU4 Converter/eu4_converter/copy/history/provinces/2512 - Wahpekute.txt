@@ -25,7 +25,7 @@ discovered_by = nomad_group
  	#owner = SIO
 	#controller = SIO
 	#add_core= SIO
-	trade_goods = fur
+	trade_goods = unknown
 	is_city = no 
 } #Position of the natives circal the Beaver Wars
 # = { discovered_by = FRA }# Pierre Gaultier de Varennes, no real settlements until the 1800's

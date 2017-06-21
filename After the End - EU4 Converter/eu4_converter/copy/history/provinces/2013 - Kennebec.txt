@@ -26,7 +26,7 @@ discovered_by = nomad_group
 	#controller = ENG
 	#add_core= ENG
 	is_city = no
-	trade_goods = naval_supplies
+	trade_goods = unknown
 	culture = english
 	religion = protestant
 } # Founding of Casco

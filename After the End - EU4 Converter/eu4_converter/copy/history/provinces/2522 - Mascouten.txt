@@ -25,7 +25,7 @@ discovered_by = nomad_group
 	#owner = POT
 	#controller = POT
 	is_city = no
-	trade_goods = fur
+	trade_goods = unknown
 	#add_core= POT
 	culture = anishinabe 
 } #Around the time of the Beaver Wars

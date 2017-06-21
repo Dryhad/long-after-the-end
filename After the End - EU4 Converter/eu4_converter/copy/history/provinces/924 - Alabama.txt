@@ -27,7 +27,7 @@ discovered_by = nomad_group
 	#controller = FRA
 	#add_core= FRA
 	culture = cosmopolitan_french
-	trade_goods = cotton
+	trade_goods = unknown
 	religion = catholic
 	is_city = no
 } #Fort Toulouse

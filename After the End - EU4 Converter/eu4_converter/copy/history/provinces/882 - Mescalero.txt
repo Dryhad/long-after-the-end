@@ -3,7 +3,7 @@
 culture = navajo 
 religion = totemism
 capital = "Mescalero" 
-trade_goods = unknown 
+trade_goods = unknown
 hre = no 
 base_tax = 1
 base_production = 1
@@ -27,7 +27,7 @@ discovered_by = nomad_group
 	#controller = COM
 	#add_core= COM
 	is_city = no
-	trade_goods = grain
+	trade_goods = unknown
 	culture = shoshone 
 } #Horses cause waves of migration on the Great Plains
 #Should be Apache, but only one Apache tag and splitting them up is undesirable

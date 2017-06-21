@@ -1,7 +1,7 @@
 capital = "Buffalo"
 culture = piman
 religion = totemism 
-trade_goods = unknown 
+trade_goods = wine
 hre = no 
 base_tax = 6
 base_production = 6

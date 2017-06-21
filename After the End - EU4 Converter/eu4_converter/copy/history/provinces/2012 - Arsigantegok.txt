@@ -28,7 +28,7 @@ discovered_by = nomad_group
 	#controller = ABE
 	#add_core= ABE
 	is_city = no
-	trade_goods = fur
+	trade_goods = unknown
 } #Stage set for the Beaver Wars
 # = { discovered_by = GBR }
 # = { #controller = GBR } # The government of New France and Native allies capitulate at Montreal

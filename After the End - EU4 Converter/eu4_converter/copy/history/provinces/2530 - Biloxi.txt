@@ -29,7 +29,7 @@ discovered_by = nomad_group
 	culture = cosmopolitan_french
 	religion = catholic
 	is_city = no
-	trade_goods = cotton
+	trade_goods = unknown
 } # Pierre Le Moyne d'lberville
 # = {
 	#owner = GBR

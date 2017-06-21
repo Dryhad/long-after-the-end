@@ -50,7 +50,7 @@ discovered_by = nomad_group
 	culture = cosmopolitan_french
 	is_city = no
 	religion = catholic
-	trade_goods = fur
+	trade_goods = unknown
 } # French occupy northern Ohio
 # = {
 	#owner = GBR

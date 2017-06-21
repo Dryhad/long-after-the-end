@@ -39,7 +39,7 @@ discovered_by = nomad_group
 	#controller = FRA
 	#add_core= FRA
 	is_city = no
-	trade_goods = grain
+	trade_goods = unknown
 	religion = catholic
 	culture = cosmopolitan_french
 }

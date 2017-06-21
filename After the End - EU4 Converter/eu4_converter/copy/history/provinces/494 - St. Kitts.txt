@@ -3,7 +3,7 @@
 culture = arawak
 religion = animism
 capital = "St. Kitts"
-trade_goods = unknown 
+trade_goods = unknown
 hre = no
 base_tax = 1
 base_production = 1
@@ -26,7 +26,7 @@ discovered_by = ARW
 	culture = cosmopolitan_french
 	religion = catholic
 	is_city = no
-	trade_goods = sugar 
+	trade_goods = unknown
 } # Eventually inhabited by both French and English
 # = { capital = "Basseterre" } # The territory went back & forth between the two, Basseterre was founded by the French
 # = {

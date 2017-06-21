@@ -26,6 +26,6 @@ discovered_by = nomad_group
 	#owner = WIC
 	#controller = WIC
 	#add_core= WIC
-	trade_goods = grain
+	trade_goods = unknown
 	is_city = no 
 } #Great Plain tribes spread over vast territories

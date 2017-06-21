@@ -29,7 +29,7 @@ discovered_by = nomad_group
 	is_city = no
 	culture = cosmopolitan_french
 	religion = catholic
-	trade_goods = naval_supplies
+	trade_goods = unknown
 } # Founding of Fort Ste-Anne
 # = { discovered_by = GBR } 
 # = { capital = "Louisbourg" }

@@ -3,7 +3,7 @@
 culture = piman
 religion = totemism
 capital = "Yavapai" 
-trade_goods = unknown 
+trade_goods = unknown
 hre = no 
 base_tax = 1
 base_production = 1
@@ -26,6 +26,6 @@ discovered_by = nomad_group
 	#owner = PIM
 	#controller = PIM
 	#add_core= PIM
-	trade_goods = wool
+	trade_goods = unknown
 	is_city = no 
 }

@@ -34,7 +34,7 @@ discovered_by = nomad_group
 	is_city = no
 	capital = "Tampico Alto"
 	culture = castillian
-	trade_goods = sugar
+	trade_goods = unknown
 	religion = catholic
 } # First permanent settlement
 # = { #owner = MEX #add_core= MEX #controller = MEX } # Mexican War of Independence

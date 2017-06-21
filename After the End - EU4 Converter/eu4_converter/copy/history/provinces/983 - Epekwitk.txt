@@ -30,7 +30,7 @@ discovered_by = nomad_group
 	is_city = no
 	culture = cosmopolitan_french
 	religion = catholic
-	trade_goods = naval_supplies
+	trade_goods = unknown
 } # Founding of Port la Joie
 # = { #controller = GBR } # British control, Fort Amherst is built
 # = {

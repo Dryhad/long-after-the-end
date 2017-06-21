@@ -29,6 +29,6 @@ discovered_by = nomad_group
 	is_city = no
 	religion = catholic
 	culture = castillian
-	trade_goods = wool 
+	trade_goods = unknown
 } # First Spanish colonists, early El Paso was on this side of the river.
 # = { #owner = MEX #add_core= MEX #controller = SPA } # Mexican War of Independence

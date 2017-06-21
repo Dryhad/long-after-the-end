@@ -31,6 +31,6 @@ discovered_by = nomad_group
 	culture = castillian
 	capital = "Los Adaes"
 	religion = catholic
-	trade_goods = sugar
+	trade_goods = unknown
 } # Spanish missions
 # = { #owner = MEX #add_core= MEX #controller = SPA } # Mexican War of Independence

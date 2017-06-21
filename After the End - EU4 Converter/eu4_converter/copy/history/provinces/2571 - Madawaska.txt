@@ -28,7 +28,7 @@ discovered_by = nomad_group
 	#controller = ABE
 	#add_core= ABE
 	is_city = no
-	trade_goods = fur 
+	trade_goods = unknown
 } #Extent of the Abenaki/Wabanaki c. the Beaver Wars
 ##Still disputed between USA and Britain at game end. In reality was held by Brayons, Acadian settlers, but here represented by Abenaki tag)
 # = { discovered_by = GBR }

@@ -31,7 +31,7 @@ discovered_by = nomad_group
 	#controller = USA
 	#add_core= USA
 	culture = american
-	trade_goods = cotton
+	trade_goods = unknown
 	is_city = no
 	religion = protestant 
 } #Treaty of Hopewell (with the Choctaw), come under US authority

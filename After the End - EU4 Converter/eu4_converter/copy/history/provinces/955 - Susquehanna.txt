@@ -6,7 +6,7 @@
 culture = susquehannock
 religion = totemism
 capital = "Susquehanna"
-trade_goods = grain
+trade_goods = unknown
 hre = no
 base_tax = 4
 base_production = 4
@@ -31,7 +31,7 @@ discovered_by = nomad_group
 	#controller = SUS
 	#add_core= SUS
 	is_city = no
-	trade_goods = grain 
+	trade_goods = unknown
 } #Full extent of the Susquehannock & Erie at start of the Beaver Wars
 # = { discovered_by = ENG }
 # = {

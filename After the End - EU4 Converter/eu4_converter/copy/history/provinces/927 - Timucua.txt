@@ -30,7 +30,7 @@ discovered_by = nomad_group
 	religion = catholic
 	is_city = no
 	capital = "Fort Caroline"
-	trade_goods = sugar
+	trade_goods = unknown
 } # French Huguenots founded Fort Caroline & some minor settlements
 # = {
 	#owner = SPA

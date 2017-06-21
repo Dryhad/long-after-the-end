@@ -27,7 +27,7 @@ discovered_by = nomad_group
 	#owner = ABE
 	#controller = ABE
 	#add_core= ABE
-	trade_goods = fur
+	trade_goods = unknown
 	is_city = no 
 } #Extent of the Abenaki/Wabanaki at start of the Beaver Wars
 # = { discovered_by = GBR }
@@ -42,7 +42,7 @@ discovered_by = nomad_group
 	#controller = GBR
 	#add_core= GBR
 	is_city = no
-	trade_goods = fur
+	trade_goods = unknown
 	culture = english
 	religion = protestant 
 } #Settlement around Augusta

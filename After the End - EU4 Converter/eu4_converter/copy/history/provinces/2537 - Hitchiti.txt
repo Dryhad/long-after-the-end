@@ -27,7 +27,7 @@ discovered_by = nomad_group
 	#controller = CRE
 	is_city = no
 	#add_core= CRE
-	trade_goods = cotton 
+	trade_goods = unknown
 } #Formation of the Creek confederacy
 # = {
 	#owner = USA

@@ -31,7 +31,7 @@ discovered_by = nomad_group
 	is_city = no
 	culture = castillian
 	religion = catholic
-	trade_goods = grain
+	trade_goods = unknown
 } # Bahia missions
 # = {
 	#owner = MEX

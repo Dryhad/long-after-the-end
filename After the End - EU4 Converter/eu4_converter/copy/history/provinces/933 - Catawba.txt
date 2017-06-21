@@ -3,7 +3,7 @@
 culture = catawba
 religion = totemism
 capital = "Catawba"
-trade_goods = tobacco
+trade_goods = unknown
 hre = no
 native_size = 5
 native_ferocity = 1

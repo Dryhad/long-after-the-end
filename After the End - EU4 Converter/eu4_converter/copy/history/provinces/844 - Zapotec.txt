@@ -5,7 +5,7 @@
 culture = zapotek
 religion = nahuatl
 capital = "Zaachila"
-trade_goods = sugar
+trade_goods = unknown
 hre = no
 base_tax = 1
 base_production = 1

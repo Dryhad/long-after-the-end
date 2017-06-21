@@ -32,7 +32,7 @@ discovered_by = nomad_group
 	#owner = USA
 	#controller = USA
 	#add_core= USA
-	trade_goods = grain
+	trade_goods = unknown
 	religion = protestant
 	culture = american 
 } #Fort Madison

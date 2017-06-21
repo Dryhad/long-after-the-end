@@ -26,6 +26,6 @@ discovered_by = nomad_group
 	#owner = PUE
 	#controller = PUE
 	#add_core= PUE
-	trade_goods = wool
+	trade_goods = unknown
 	is_city = no 
 } #Recycling Pueblo tag for groups further west (Hopi and zuni)

@@ -28,7 +28,7 @@ discovered_by = nomad_group
 	#controller = SPA
 	#add_core= SPA
 	culture = castillian
-	trade_goods = cotton
+	trade_goods = unknown
 	religion = catholic 
 } #San Pedro de Mocama mission
 # = {

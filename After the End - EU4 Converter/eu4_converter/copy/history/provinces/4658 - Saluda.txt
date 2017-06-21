@@ -1,6 +1,6 @@
 culture = piman
 religion = totemism 
-trade_goods = unknown 
+trade_goods = wine
 hre = yes 
 base_tax = 8
 base_production = 8

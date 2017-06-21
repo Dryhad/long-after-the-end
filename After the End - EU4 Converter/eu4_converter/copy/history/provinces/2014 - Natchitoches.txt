@@ -30,7 +30,7 @@ discovered_by = nomad_group
 	is_city = no
 	culture = cosmopolitan_french
 	religion = catholic
-	trade_goods = cotton
+	trade_goods = unknown
 } # Founding of Natchitoches
 # = { unrest = 3 } # Disease and warfare between the natives & the French
 # = { unrest = 1 }

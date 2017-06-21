@@ -6,7 +6,7 @@
 culture = aztek 
 religion = nahuatl
 capital = "Tenochtitlan" 
-trade_goods = gold
+trade_goods = unknown
 hre = no 
 base_tax = 1
 base_production = 1

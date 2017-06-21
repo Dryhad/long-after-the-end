@@ -27,6 +27,6 @@ discovered_by = nomad_group
 	#controller = CHY
 	#add_core= CHY
 	is_city = no 
-	trade_goods = fur
+	trade_goods = unknown
 	culture = cheyenne 
 } #Great Plain tribes spread over vast territories

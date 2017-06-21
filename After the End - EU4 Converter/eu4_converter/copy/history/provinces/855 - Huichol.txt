@@ -3,7 +3,7 @@
 culture = chichimecan 
 religion = nahuatl
 capital = "Huichol" 
-trade_goods = unknown 
+trade_goods = unknown
 hre = no 
 base_tax = 1
 base_production = 1
@@ -26,7 +26,7 @@ discovered_by =  mesoamerican
 	#owner = SPA 
 	#controller = SPA
 	#add_core= SPA
-	trade_goods = gold
+	trade_goods = unknown
 	culture = castillian
 	religion = catholic
 	is_city = no

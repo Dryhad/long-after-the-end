@@ -23,7 +23,7 @@ discovered_by = ARW
 	culture = cosmopolitan_french
 	religion = catholic
 	is_city = no
-	trade_goods = coffee
+	trade_goods = unknown
 } # French colonization, coffee among primary products
 # = {
 	#owner = GBR

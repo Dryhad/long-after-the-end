@@ -3,7 +3,7 @@
 culture = huron
 religion = totemism
 capital = "Ontario"
-trade_goods = grain
+trade_goods = unknown
 hre = no
 base_tax = 4
 base_production = 4

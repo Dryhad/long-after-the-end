@@ -28,7 +28,7 @@ discovered_by = nomad_group
 	#controller = GBR
 	#add_core= GBR
 	is_city = no
-	trade_goods = tobacco
+	trade_goods = unknown
 	culture = english
 	religion = protestant
 } # Settlement around New Bath

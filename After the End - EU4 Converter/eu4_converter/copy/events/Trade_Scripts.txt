@@ -530,11 +530,13 @@ country_event = {
 					province_id = 1008 #Winnipeg
 					province_id = 891 #Naisha (Oklahoma)
 					province_id = 898 #Kansas
-					rovince_id = 4585 #St Louis 
+					province_id = 4585 #St Louis 
 					province_id = 895 #Arkansas
 					province_id = 4574 #Cincinatti
 					province_id = 4624 #Pittsburgh
 					province_id = 4537 #Ottawa
+					province_id = 4791 #Nitchequon
+					province_id = 2599 #Athabasca
 				}
 			}
 			add_permanent_province_modifier = {

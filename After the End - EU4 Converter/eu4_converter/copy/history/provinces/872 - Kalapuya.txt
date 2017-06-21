@@ -27,6 +27,6 @@ discovered_by = nomad_group
 	#owner = CNK
 	#controller = CNK
 	#add_core= CNK
-	trade_goods = fur
+	trade_goods = unknown
 	is_city = no
 } #Migration so Fort Astoria can be properly built

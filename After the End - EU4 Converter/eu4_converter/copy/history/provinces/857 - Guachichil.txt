@@ -3,7 +3,7 @@
 culture = chichimecan 
 religion = nahuatl
 capital = "Guachichil" 
-trade_goods = unknown 
+trade_goods = unknown
 hre = no 
 base_tax = 1
 base_production = 1
@@ -29,7 +29,7 @@ discovered_by =  mesoamerican
 	culture = castillian
 	religion = catholic	
 	is_city = no
-	trade_goods = gold 	
+	trade_goods = unknown
 } # First mining settlements
 # = { capital = "San Luis Potosi" } # Settlement, established by Lucas Tellez
 # = { #owner = MEX #add_core= MEX #controller = MEX } # Mexican War of Independence

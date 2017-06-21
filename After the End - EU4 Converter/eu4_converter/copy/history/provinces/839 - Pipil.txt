@@ -31,7 +31,7 @@ discovered_by =  mesoamerican
 	#add_core= SPA
 	capital = "San Salvador"
 	culture = castillian
-	trade_goods = cocoa
+	trade_goods = unknown
 	religion = catholic
 	is_city = no
 } 

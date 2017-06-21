@@ -3,7 +3,7 @@
 culture = piman
 religion = nahuatl
 capital = "Huichol"
-trade_goods = wool
+trade_goods = unknown
 hre = no
 base_tax = 6
 base_production = 6

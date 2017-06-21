@@ -1,6 +1,6 @@
 culture = aboriginal
 religion = animism 
-trade_goods = unknown 
+trade_goods = unknown
 hre = no 
 base_tax = 8
 base_production = 8

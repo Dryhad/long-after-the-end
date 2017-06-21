@@ -27,5 +27,5 @@ discovered_by = nomad_group
 	#controller = GBR
 	#add_core= GBR
 	is_city = no
-	trade_goods = fur
+	trade_goods = unknown
 } #Fort Nez Percés

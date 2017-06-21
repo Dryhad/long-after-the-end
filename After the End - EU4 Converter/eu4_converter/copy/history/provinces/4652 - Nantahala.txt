@@ -1,7 +1,7 @@
 capital = "Murphy"
 culture = piman
 religion = totemism 
-trade_goods = unknown 
+trade_goods = unknown
 hre = yes 
 base_tax = 8
 base_production = 8

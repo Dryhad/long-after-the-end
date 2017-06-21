@@ -75,6 +75,14 @@ grain = {
 				region = ruthenia_region
 			}
 		}
+		modifier = {
+			factor = 5.0
+			OR = {
+				region = great_plains_region
+				area = prairies_area
+				area = saskatchewan_area
+			}
+		}
 	}
 }
 
@@ -108,18 +116,18 @@ wine = {
 		}
 		modifier = {
 			factor = 0
-			normal_or_historical_nations = yes
+			#normal_or_historical_nations = yes
 			NOT = { continent = south_america }
 			NOT = { region = south_africa_region }
 			NOT = { area = cuyo_area }
 			NOT = { area = nehuenken_area }
 			NOT = { area = california_area }
 			NOT = { area = central_valley_area }
+			NOT = { area = nootka_area }
+			NOT = { area = columbia_river_area }
+			NOT = { area = interior_plateau_area }
 		}
-		modifier = {
-			factor = 0.25
-			has_winter = normal_winter
-		}
+		
 		modifier = {
 			factor = 1.25
 			has_terrain = farmlands
@@ -150,27 +158,27 @@ wine = {
 		}
 		
 		#AtE Additions
-		modifier = {
-			factor = 10
-			OR = {
-				AND = {
-					area = california_area #Called "Wineland" in LAtE
-					NOT = {province_id = 1556} #San Francisco should produce cloth or something
-				}
-				area = salinas_area
-				area = columbia_river_area
-				province_id = 2485 #Cehalis (Seattle)
-				province_id = 874 #Salish
-				province_id = 2607 #Okanogan Valley
-				province_id = 972 #Nootka (south Vancouver island)
-				province_id = 4528 #Essex
-				province_id = 987 #Welland (Canadian Niagra region)
-				province_id = 4531 #Hastings (Prince Edward County)
-				province_id = 4578 #Niagra 
-				province_id = 4580 #Canadea (Finger Lakes)
-				province_id = 4541 #Newburgh (Hudson Valley)
-			}
-		}
+		# modifier = {	#Done through individual province files
+			# factor = 100
+			# OR = {
+				# AND = {
+					# area = california_area #Called "Wineland" in LAtE
+					# NOT = {province_id = 1556} #San Francisco should produce cloth or something
+				# }
+				# area = salinas_area
+				# area = columbia_river_area
+				# province_id = 2485 #Cehalis (Seattle)
+				# province_id = 874 #Salish
+				# province_id = 2607 #Okanogan Valley
+				# province_id = 972 #Nootka (south Vancouver island)
+				# province_id = 4528 #Essex
+				# province_id = 987 #Welland (Canadian Niagra region)
+				# province_id = 4531 #Hastings (Prince Edward County)
+				# province_id = 4578 #Niagra 
+				# province_id = 4580 #Canadea (Finger Lakes)
+				# province_id = 4541 #Newburgh (Hudson Valley)
+			# }
+		# }
 		
 	}
 }
@@ -271,9 +279,14 @@ cloth = {
 			factor = 0
 			NOT = { development = 18 }
 		}
+		#LAtE
 		modifier = {
-			factor = 2.0
+			factor = 10
 			development = 22
+		}
+		modifier = {
+			factor = 4.0
+			is_part_of_hre = yes
 		}
 	}
 }
@@ -329,7 +342,7 @@ fur = {
 	}
 	
 	chance = {
-		factor = 15
+		factor = 10
 		modifier = {
 			factor = 0
 			OR = {
@@ -372,6 +385,19 @@ fur = {
 		modifier = {
 			factor = 2.0
 			native_size = 1
+			NOT = {	#Excludes the regions of North America that would be settled in LAtE
+				continent = north_america
+				NOT = {
+					OR = {
+						area = athabasca_area
+						area = keewatin_area
+						area = fort_smith_area
+						area = stikine_area
+						area = yukon_area
+						region = north_quebec_region
+					}
+				}
+			}
 		}
 		modifier = {
 			factor = 1.5
@@ -511,14 +537,25 @@ copper = {
 				has_terrain = desert
 				has_terrain = coastal_desert
 				has_terrain = drylands
-				has_terrain = grasslands
 				has_terrain = savannah
 				has_terrain = coastline
 				has_terrain = glacier
 				has_terrain = jungle
 				has_terrain = farmlands
-				has_terrain = woods
+				
+				AND = {
+					has_terrain = grasslands
+					has_terrain = woods
+					#The Rust Belt
+					NOT = { area = miami_river_area }
+					NOT = { area = susquehanna_area }
+					NOT = { area = actual_susquehanna_area }
+					NOT = { area = ohio_country_area }
+					NOT = { area = detroit_area }
+					NOT = { area = michigan_area }					
+				}
 			}
+			
 		}
 		modifier = {
 			factor = 0
@@ -540,6 +577,23 @@ copper = {
 			NOT = { region = west_siberia_region }
 			NOT = { region = east_siberia_region }
 			NOT = { region = central_africa_region }
+			#Northern Canada
+			NOT = { region = hudson_bay_region }
+			NOT = { area = athabasca_area }
+			NOT = { area = keewatin_area }
+			NOT = { area = fort_smith_area }
+			NOT = { area = stikine_area }
+			NOT = { area = yukon_area }
+			NOT = { region = north_quebec_region }
+			NOT = { province_id = 990 }
+			#The Rust Belt
+			NOT = { area = miami_river_area }
+			NOT = { area = susquehanna_area }
+			NOT = { area = actual_susquehanna_area }
+			NOT = { area = ohio_country_area }
+			NOT = { area = detroit_area }
+			NOT = { area = michigan_area }
+
 		}
 		modifier = {
 			factor = 0
@@ -560,20 +614,32 @@ copper = {
 				has_terrain = highlands
 			}
 		}
+		# modifier = {
+			# factor = 1.5
+			# OR = {
+				# area = minas_gerais_area
+				# area = diamantina_area
+				# area = mato_grosso_area
+				# area = ofaie_area
+				# area = great_valley_area
+				# area = susquehanna_area
+				# area = hudson_valley_area
+				# area = lake_superior_area
+				# area = south_iroquoisia_area
+				# region = west_siberia_region
+				# region = east_siberia_region
+			# }
+		# }
 		modifier = {
-			factor = 1.5
+			factor = 10
 			OR = {
-				area = minas_gerais_area
-				area = diamantina_area
-				area = mato_grosso_area
-				area = ofaie_area
-				area = great_valley_area
-				area = susquehanna_area
-				area = hudson_valley_area
-				area = lake_superior_area
-				area = south_iroquoisia_area
-				region = west_siberia_region
-				region = east_siberia_region
+			    #The Rust Belt
+				area = miami_river_area 
+				area = susquehanna_area 
+				area = actual_susquehanna_area 
+				area = ohio_country_area 
+				area = detroit_area 
+				area = michigan_area 
 			}
 		}
 	}
@@ -592,7 +658,7 @@ gold = {
 			NOT = { region = east_siberia_region }
 			NOT = { region = cascadia_region }
 			NOT = { region = australia_region }
-			NOT = { region = california_region }
+			#NOT = { region = california_region }   Cali is rich enough already
 			NOT = { region = south_africa_region }
 			NOT = { region = central_africa_region }
 			NOT = { region = peru_region }
@@ -610,6 +676,15 @@ gold = {
 			NOT = { area = amapa_area }
 			NOT = { area = ucayali_area }
 			NOT = { area = amazon_area }
+			#Northern Canada
+			NOT = { region = hudson_bay_region }
+			NOT = { area = athabasca_area }
+			NOT = { area = keewatin_area }
+			NOT = { area = fort_smith_area }
+			NOT = { area = stikine_area }
+			NOT = { area = yukon_area }
+			NOT = { region = north_quebec_region }
+			NOT = { province_id = 990 }
 		}
 		modifier = {
 			factor = 0
@@ -643,10 +718,10 @@ gold = {
 			has_terrain = mountain
 			continent = new_world #Always in RNW
 		}
-		modifier = {
-			factor = 1.5
-			normal_or_historical_nations = no
-		}
+		# modifier = {
+			# factor = 1.5
+			# normal_or_historical_nations = no
+		# }
 		modifier = {
 			factor = 3.5
 			region = peru_region
@@ -687,39 +762,54 @@ iron = {
 		local_build_time = -0.2
 	}
 	chance = {
-		factor = 10
+		factor = 5
 		modifier = {
 			factor = 0
-			normal_or_historical_nations = yes
+			#normal_or_historical_nations = yes
 			NOT = { region = west_siberia_region }
 			NOT = { region = east_siberia_region }
 			NOT = { region = central_africa_region }
+			#Northern Canada
+			NOT = { region = hudson_bay_region }
+			NOT = { area = athabasca_area }
+			NOT = { area = keewatin_area }
+			NOT = { area = fort_smith_area }
+			NOT = { area = stikine_area }
+			NOT = { area = yukon_area }
+			NOT = { region = north_quebec_region }
 			NOT = { province_id = 990 }
-			NOT = { area = great_valley_area }
+			#The Rust Belt
+			NOT = { area = miami_river_area }
 			NOT = { area = susquehanna_area }
-			NOT = { area = hudson_valley_area }
-			NOT = { area = lake_superior_area }
-			NOT = { area = south_iroquoisia_area }
-			NOT = { area = upper_ontario_area }
+			NOT = { area = actual_susquehanna_area }
+			NOT = { area = ohio_country_area }
+			NOT = { area = detroit_area }
+			NOT = { area = michigan_area }
 			NOT = { area = laurentian_area }
-			NOT = { area = inner_ontario_area }
-			NOT = { area = maryland_area }
-			NOT = { area = ofaie_area }
 			NOT = { province_id = 18 }
 		}
+		# modifier = {
+			# factor = 1.2
+			# normal_or_historical_nations = no
+			# OR = {
+				# has_terrain = mountain
+				# has_terrain = hills
+				# has_terrain = highlands
+				# province_id = 990
+			# }
+		# }
 		modifier = {
-			factor = 1.2
-			normal_or_historical_nations = no
+			factor = 10
+			#The Rust Belt
 			OR = {
-				has_terrain = mountain
-				has_terrain = hills
-				has_terrain = highlands
-				province_id = 990
+				area = miami_river_area 
+				area = susquehanna_area 
+				area = actual_susquehanna_area 
+				area = ohio_country_area 
+				area = detroit_area 
+				area = michigan_area 
+				area = laurentian_area 
 			}
-		}
-		modifier = {
-			factor = 20
-			province_id = 990
 		}
 		modifier = {
 			factor = 1.5
@@ -937,6 +1027,8 @@ chinaware = {
 			NOT = {	region = indonesia_region }
 			NOT = { region = south_china_region }
 			NOT = { region = japan_region }
+			#LAtE
+			NOT = { culture_group = californian }	
 		}
 		modifier = {
 			factor = 0
@@ -984,7 +1076,7 @@ spices = {
 }
 
 
-#New World Resources
+#New World Resources (Modified to apply to Old World areas)
 coffee = {
 	color = { 0.22 0.15 0.09 }
 	modifier = {
@@ -1060,6 +1152,11 @@ cotton = {
 			NOT = { region = deccan_region }
 			NOT = { region = anatolia_region }
 			NOT = { region = mongolia_region }
+			#LAtE 
+			NOT = { region = sahel_region }
+			NOT = { region = niger_region }
+			NOT = { region = north_china_region }
+			NOT = { region = south_china_region }
 		}
 		modifier = {
 			factor = 0
@@ -1177,6 +1274,13 @@ tobacco = {
 			NOT = { region = carribeans_region }
 			NOT = { area = appalachia_area }
 			NOT = { area = south_appalachia_area }
+			#LAtE
+			NOT = { region = north_china_region }
+			NOT = { region = xinan_region }
+			NOT = { region = korean_region }
+			NOT = { region = manchuria_region }
+			NOT = { region = balkan_region }
+			NOT = { region = anatolia_region }
 		}
 		modifier = {
 			factor = 0
@@ -1197,12 +1301,16 @@ tobacco = {
 				has_terrain = drylands
 				has_terrain = desert
 			}
-		}
-		modifier = {
+		}	
+		modifier = {		#Colonial cash crops in the old world
 			factor = 2.5
 			OR = {
-				region = northeast_america_region
-				region = southeast_america_region
+				region = north_china_region
+				region = xinan_region
+				region = korean_region
+				region = manchuria_region
+				region = balkan_region 
+				region = anatolia_region
 			}
 		}
 	}
@@ -1286,6 +1394,11 @@ silk = {
 				region = bengal_region
 				region = deccan_region
 				region = coromandel_region
+				area = gran_francisco_area
+				area = salinas_area
+				area = motherlode_area
+				area = south_valley_area
+				area = kern_area
 			}
 			development = 20
 		}
@@ -1326,6 +1439,7 @@ dyes = {
 			NOT = { region = central_america_region }
 			NOT = { region = mexico_region }
 			NOT = { region = carribeans_region }
+			NOT = { region = california_region }
 		}
 	}
 }

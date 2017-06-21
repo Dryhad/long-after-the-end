@@ -20,7 +20,7 @@ native_hostileness = 5
 	culture = english
 	religion = protestant
 	is_city = no
-	trade_goods = sugar
+	trade_goods = unknown
 } # The British found the island uninhabited
 # = { capital = "Bridgetown" } # British settlers began to arrive. Under uninterrupted British control until 1966
 # = {

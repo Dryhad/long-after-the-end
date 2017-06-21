@@ -3,7 +3,7 @@
 culture = piman 
 religion = animism 
 capital = "Yaqui" 
-trade_goods = unknown 
+trade_goods = unknown
 hre = no 
 base_tax = 1
 base_production = 1
@@ -34,6 +34,6 @@ discovered_by =  mesoamerican
 	is_city = no
 	culture = castillian
 	religion = catholic
-	trade_goods = wool 
+	trade_goods = unknown
 }
 # = { #owner = MEX #add_core= MEX #controller = SPA } # Mexican War of Independence

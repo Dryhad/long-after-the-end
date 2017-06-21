@@ -30,6 +30,6 @@ discovered_by = nomad_group
 	is_city = no
 	culture = english
 	religion = protestant 
-	trade_goods = fur 
+	trade_goods = unknown
 } #Fort Alexandria
 # = { #add_core= GBR }

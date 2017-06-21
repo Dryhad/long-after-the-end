@@ -29,7 +29,7 @@ discovered_by = nomad_group
 	#add_core= SPA
 	culture = castillian
 	religion = catholic
-	trade_goods = sugar
+	trade_goods = unknown
 } # Missions around San Antonio, future Alamo
 # = { is_city = no }
 # = {

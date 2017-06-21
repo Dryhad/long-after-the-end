@@ -35,7 +35,7 @@ discovered_by = nomad_group
 	#controller = SPA
 	#add_core= SPA
 	remove_core = FRA
-	trade_goods = grain
+	trade_goods = unknown
 } # Treaty of Fontainebleau, secretely ceded to Spain
 # = { capital = "Saint Louis" }
 # = { #add_core= SPA }

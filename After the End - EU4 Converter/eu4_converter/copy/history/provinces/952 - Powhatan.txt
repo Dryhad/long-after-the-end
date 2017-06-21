@@ -3,7 +3,7 @@
 culture = powhatan
 religion = totemism
 capital = "Doeg"
-trade_goods = tobacco
+trade_goods = unknown
 hre = no
 base_tax = 4
 base_production = 4

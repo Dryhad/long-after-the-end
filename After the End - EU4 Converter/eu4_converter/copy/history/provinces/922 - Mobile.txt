@@ -29,7 +29,7 @@ discovered_by = nomad_group
 	is_city = no
 	culture = cosmopolitan_french
 	religion = catholic
-	trade_goods = cotton
+	trade_goods = unknown
 } # Founding of Mobile
 # = { #controller = GBR } # Occupied by the British
 # = {

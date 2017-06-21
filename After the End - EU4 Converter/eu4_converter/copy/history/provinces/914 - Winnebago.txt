@@ -30,7 +30,7 @@ discovered_by = nomad_group
 	is_city = no
 	culture = cosmopolitan_french
 	religion = catholic
-	trade_goods = fur
+	trade_goods = unknown
 } # Founding of La Baye
 # = { discovered_by = GBR }
 # = { unrest = 5 } # Fox war

@@ -27,6 +27,6 @@ discovered_by = nomad_group
 	#controller = ARP
 	#add_core= ARP
 	is_city = no
-	trade_goods = grain
+	trade_goods = unknown
 	culture = arapaho 
 } #Great Plain tribes spread over vast territories

@@ -30,7 +30,7 @@ discovered_by = nomad_group
 	culture = cosmopolitan_french
 	religion = catholic
 	capital = "Fort Chambly"
-	trade_goods = fur
+	trade_goods = unknown
 	is_city = no
 } # Network of forts established in the region
 # = { discovered_by = GBR }

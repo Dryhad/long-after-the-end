@@ -3,7 +3,7 @@
 culture = piman
 religion = totemism
 capital = "Salinan" 
-trade_goods = unknown 
+trade_goods = unknown
 hre = no 
 base_tax = 1
 base_production = 1
@@ -29,7 +29,7 @@ discovered_by = nomad_group
 	#controller = SPA
 	#add_core= SPA
 	is_city = no
-	trade_goods = wool 
+	trade_goods = unknown
 } # Don Gaspar de Portolá
 # = { capital = "Yerba Buena" } # British settlement, Yerba Buena (San Francisco) founded by George Vancouver
 # = {

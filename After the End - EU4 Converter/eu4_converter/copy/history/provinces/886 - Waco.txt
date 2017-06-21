@@ -6,7 +6,7 @@
 culture = wichita
 religion = totemism
 capital = "Waco"
-trade_goods = grain
+trade_goods = unknown
 hre = no
 base_tax = 1
 base_production = 1

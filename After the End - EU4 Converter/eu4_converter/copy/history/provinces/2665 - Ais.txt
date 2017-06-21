@@ -28,7 +28,7 @@ discovered_by = nomad_group
 	#add_core= SPA
 	is_city = no
 	religion = catholic
-	trade_goods = cotton
+	trade_goods = unknown
 	culture = castillian 
 } #San Franciso de los Tejas mission
  #Dolores de los Ais, expansion of Spanish missions

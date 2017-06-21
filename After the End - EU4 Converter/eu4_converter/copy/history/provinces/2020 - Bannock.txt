@@ -3,7 +3,7 @@
 culture = shoshone
 religion = totemism 
 capital = "Bannock"
-trade_goods = fur 
+trade_goods = unknown
 hre = no 
 base_tax = 4
 base_production = 4

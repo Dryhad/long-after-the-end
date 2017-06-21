@@ -7,7 +7,7 @@ is_city = no
 culture = pueblo 
 religion = totemism
 capital = "Teypana"
-trade_goods = unknown 
+trade_goods = unknown
 hre = no 
 base_tax = 1
 base_production = 1
@@ -32,7 +32,7 @@ discovered_by = nomad_group
 	#add_core= SPA
 	culture = castillian
 	religion = catholic
-	trade_goods = salt 
+	trade_goods = unknown
 } # Spanish conquest of the Pueblo people
 # = { unrest = 4 }
 # = { unrest = 5 }
