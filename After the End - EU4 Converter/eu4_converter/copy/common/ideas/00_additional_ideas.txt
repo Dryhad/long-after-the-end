@@ -112,6 +112,7 @@ WDC_ideas = {
 mormon_ideas = {
 	start = {
 		global_missionary_strength = 0.02
+		caravan_power = 0.2
 	}
 	bonus = { global_unrest = -2 }
 	trigger = {
