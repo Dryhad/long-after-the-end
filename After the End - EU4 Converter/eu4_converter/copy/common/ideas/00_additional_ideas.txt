@@ -273,7 +273,7 @@ chicagoan_ideas = {
        culture = chicagoan
        religion = catholic
      }
-    }
+    
 
     free = yes
 
@@ -301,3 +301,4 @@ chicagoan_ideas = {
     the_three_park_commission = {
                 religious_unity = 2
     }
+   }
