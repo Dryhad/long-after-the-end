@@ -20,6 +20,14 @@ c_texarkana;TXK;Texarkana;County Texarkana
 k_columbia;WCD;Columbia;Kingdom Columbia
 d_capital;WDC;Columbia;Duchy Columbia
 c_washington;WCD;Columbia;County Columbia
+e_caribbean;CAR;Caribbean;Empire Caribbean
+d_new_york;NYS;NewYork;Duchy New York
+k_new_york;NYS;NewYork;Kingdom New York/Gotham
+e_nys;NYS;NewYork;Empire New York/Empire State
+e_cascadia;CSC;Cascadia;Empire Cascadia
+k_cascadia;CSC;Cascadia;Kingdom Cascadia
+e_lone_star;TEX;Texas;Empire Texas
+e_great_lakes;GLK;TheGreatLakes;Empire Great Lakes
 
 # EU4 Colonies
 

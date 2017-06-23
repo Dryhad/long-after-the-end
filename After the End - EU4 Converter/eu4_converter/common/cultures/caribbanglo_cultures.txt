@@ -1,8 +1,10 @@
 caribbanglo = {
 	west_indian = {
+		primary = CAR
 		dynasty_names = $west_indian$
 	}
 	calypsonian = {
+		primary = CAR
 		dynasty_names = $calypsonian$
 	}
 	bermudian = {

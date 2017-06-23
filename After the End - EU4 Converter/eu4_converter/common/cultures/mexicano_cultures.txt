@@ -1,5 +1,6 @@
 mexicano = {
 	tejano = {
+		primary = TEX
 		dynasty_names = $tejano$
 	}
 	norteno = {

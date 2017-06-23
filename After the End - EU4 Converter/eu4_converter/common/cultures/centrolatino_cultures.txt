@@ -1,5 +1,6 @@
 centrolatino = {
 	chapin = {
+		primary = CAM
 		dynasty_names = $chapin$
 	}
 	istmeno = {

@@ -1,3 +1,7 @@
+# Group ideas must come after country-specific ideas
+
+### Country-Specific Ideas ###
+
 TXK_ideas = {
 	start = {
 		trade_efficiency = 0.05
@@ -109,9 +113,13 @@ WDC_ideas = {
 		diplomatic_reputation = 2
 	}
 }
+
+### Group Ideas ###
+
 mormon_ideas = {
 	start = {
 		global_missionary_strength = 0.02
+		caravan_power = 0.2
 	}
 	bonus = { global_unrest = -2 }
 	trigger = {
@@ -272,7 +280,7 @@ chicagoan_ideas = {
        culture = chicagoan
        religion = catholic
      }
-    }
+    
 
     free = yes
 
@@ -300,3 +308,99 @@ chicagoan_ideas = {
     the_three_park_commission = {
                 religious_unity = 2
     }
+   }
+   
+   QUE_ideas = {	#From Vanilla
+	start = {
+		infantry_power = 0.10
+		tolerance_own = 2
+	}
+	
+	bonus = {
+		army_tradition_decay = -0.01
+	}
+	
+	trigger = {
+		OR = {
+			primary_culture = quebecois
+			tag = QUE
+		} 
+	}
+	free = yes
+	
+		
+	coureurs_des_bois = {
+		global_trade_goods_size_modifier = 0.1
+	}	
+	the_seigneurial_system = {
+		global_tax_modifier = 0.15
+	}
+	relations_with_natives = {
+		diplomatic_upkeep = 1
+	}
+	fortifications_of_quebec = {
+		defensiveness = 0.15
+	}
+	college_of_quebec = {
+		global_institution_spread = 0.1
+	}
+	commissions_for_noble_sons = {
+		free_leader_pool = 1
+	}
+	jesuit_missions = {
+		global_missionary_strength = 0.01
+	}
+}
+
+pacific_northwest_ideas = {	#From Vanilla
+	start = {
+		land_morale = 0.1
+		land_attrition = -0.10
+		may_perform_slave_raid = yes
+	}
+	
+	bonus = {
+		prestige = 1
+	}
+	
+	trigger = {
+		OR = {
+			primary_culture = cascadian
+			primary_culture = canuck
+			primary_culture = portlander
+		}
+		religion = raven_tales
+	}
+	
+	free = yes		#will be added at load.
+	
+	great_whale_hunts = {
+		discipline = 0.05
+	}
+	
+	dugout_canoes = { 
+		trade_range_modifier = 0.2
+	}
+	
+	totem_poles = {
+		diplomatic_reputation = 1
+	}
+	
+	potlatch_feast = {
+		global_own_trade_power = 0.1
+	}
+	
+	legacy_of_raven = {
+		leader_land_manuever = 1
+	}
+
+	salmon_migrations= {
+		global_trade_goods_size_modifier = 0.10
+	}
+	
+	noble_castes = { 
+		stability_cost_modifier = -0.1
+	}
+	
+}
+

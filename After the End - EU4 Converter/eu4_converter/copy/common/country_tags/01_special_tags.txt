@@ -1,9 +1,14 @@
 # Converter
 CAL = countries/California.txt
+CAR = countries/Caribbean.txt
+CSC = countries/Cascadia.txt
 WDC = countries/Columbia.txt
+GLK = countries/TheGreatLakes.txt
 NRU = countries/NewRussia.txt
+NYS = countries/NewYork.txt
 ONT = countries/Ontario.txt
 TXK = countries/Texarkana.txt
+TEX = countries/Texas.txt
 URS = countries/Ursuline.txt
 
 # South America
@@ -43,6 +48,7 @@ IKR = countries/Ikari.txt
 KRU = countries/Kururugi.txt
 NAU = countries/Naushika.txt
 SHI = countries/Shimada.txt
+YAM = countries/Yamauchi.txt
 
 # Pacific
 AUR = countries/Auralia.txt
