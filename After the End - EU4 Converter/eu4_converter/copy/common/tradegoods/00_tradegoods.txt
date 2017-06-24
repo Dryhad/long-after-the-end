@@ -1367,11 +1367,8 @@ silk = {
 		province_trade_power_value = 2
 	}
 	chance = {
-		factor = 10
-		modifier = {
-			factor = 0
-			normal_or_historical_nations = yes
-		}
+		factor = 15
+		
 		modifier = {
 			factor = 0
 			OR = {
@@ -1384,23 +1381,23 @@ silk = {
 			}
 		}
 		modifier = {
-			factor = 1.5
-			normal_or_historical_nations = no
-			OR = {
-				region = south_china_region
-				region = xinan_region
-				region = north_china_region
-				region = hindusthan_region
-				region = bengal_region
-				region = deccan_region
-				region = coromandel_region
-				area = gran_francisco_area
-				area = salinas_area
-				area = motherlode_area
-				area = south_valley_area
-				area = kern_area
-			}
-			development = 20
+			factor = 0
+			
+			NOT = { region = south_china_region }
+			NOT = { region = xinan_region }
+			NOT = { region = north_china_region }
+			NOT = { region = hindusthan_region }
+			NOT = { region = bengal_region }
+			NOT = { region = deccan_region }
+			NOT = { region = coromandel_region }
+			NOT = { area = gran_francisco_area }
+			NOT = { area = salinas_area }
+			NOT = { area = motherlode_area }
+			NOT = { area = south_valley_area }
+			NOT = { area = kern_area }
+			NOT = { area = socal_area }
+			NOT = { area = los_padres_area }
+			NOT = { development = 20 }
 		}
 	}
 }

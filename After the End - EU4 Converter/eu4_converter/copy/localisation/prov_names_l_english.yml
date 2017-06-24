@@ -930,12 +930,12 @@
  PROV929:0 "Guale"
  PROV930:0 "Muskogee"
  PROV931:0 "Coosa"
- PROV932:0 "Santee"
+ PROV932:0 "Charleston"		#Was Santee
  PROV933:0 "Catawba"
  PROV934:0 "Yuchi"
  PROV935:0 "Cherokee"
  PROV936:0 "Appalachian Mountains" #Was Cheraw
- PROV937:0 "Tuscarora"
+ PROV937:0 "Durham"	#Was Tuscarora
  PROV938:0 "Pamlico"
  PROV939:0 "Kaskinampo"
  PROV940:0 "Pennyrile" #Was Kentucky
@@ -2529,24 +2529,24 @@
  PROV2529:0 "Natchez"
  PROV2530:0 "Biloxi"
  PROV2531:0 "Napochi"
- PROV2532:0 "Tohome"
+ PROV2532:0 "Conecuh"	#Was Tohome
  PROV2533:0 "Chatot"
  PROV2534:0 "Yustaga"
  PROV2535:0 "Calusa"
  PROV2536:0 "Mayaimi"
  PROV2537:0 "Fresno" #Was Hitchiti
  PROV2538:0 "Yamasee"
- PROV2539:0 "Mocama"
- PROV2540:0 "Coweta"
+ PROV2539:0 "Hinesville"	#Was Mocama
+ PROV2540:0 "Augusta"	#Was Coweta
  PROV2541:0 "Saluda"
- PROV2542:0 "Cusabo"
- PROV2543:0 "Waccamaw"
- PROV2544:0 "Unifour"	#Was Yadkin
+ PROV2542:0 "Beaufort"	#Was Cusabo
+ PROV2543:0 "Grand Strand"	#Was Waccamaw
+ PROV2544:0 "Danville"	#Was Yadkin
  PROV2545:0 "Waxhaw"
- PROV2546:0 "Chicora"
+ PROV2546:0 "Cape Fear"	#Was Chicora
  PROV2547:0 "Roanoke"
  PROV2548:0 "Tutelo"
- PROV2549:0 "Moratok"
+ PROV2549:0 "Lynchburg"	#Was Moratok
  PROV2550:0 "Doeg"
  PROV2551:0 "Monongahela"
  PROV2552:0 "Appalachian Mountains"	#Was Manahoac
@@ -3500,7 +3500,7 @@
  PROV4680:0 "Buttahatchee"
  PROV4681:0 "Winston"
  PROV4682:0 "Emporia"
- PROV4683:0 "Lynchburg"
+ PROV4683:0 "The James"	#Was Lynchburg, history file renamed.
  PROV4684:0 "Birmingham"
  PROV4685:0 "Lake Gairdner"
  PROV4686:0 "Lake Torrens"

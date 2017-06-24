@@ -2014,16 +2014,16 @@ c_culpeper;2011;2011 - Shenandoah;Culpeper - Shenandoah
 c_bull_run;2011;2011 - Shenandoah;Bull Run - Shenandoah
 c_charlottesville;2011;2011 - Shenandoah;Charlottesville - Shenandoah
 
-c_james;952;952 - Powhatan;The James - Powhatan
+c_james;4683;4683 - The James;The James - The James
 
 c_hampton_roads;950;950 - Powhatan;Hampton Roads - Powhatan
 c_pocomoke;4620;4620 - Pocomoke;Pocomoke - Pocomoke
 
-c_lynchburg;4683;4683 - Lynchburg;Lynchburg - Lynchburg
+c_lynchburg;2549;2549 - Moratok;Lynchburg - Lynchburg
 c_emporia;4682;4682 - Emporia;Emporia - Emporia
 
 c_roanoke;949;949 - Monacan;Roanoke - Monacan
-c_danville;2549;2549 - Moratok;Danville - Moratok
+c_danville;2544;2544 - Yadkin;Danville - Danville
 
 # Appalachia
 
@@ -2041,8 +2041,8 @@ c_jefferson_forest;2548;2548 - Tutelo;Jefferson Forest - Tutelo
 c_galax;949;949 - Monacan;Galax - Monacan
 c_bluefield;2548;2548 - Tutelo;Bluefield - Tutelo
 
-d_blue_ridge;4651;4651 - Unifour;Blue Ridge - Unifour
-c_unifour;2544;2544 - Yadkin;Unifour - Unifour
+d_blue_ridge;4651;4651 - Land of Sky;Blue Ridge - Land of Sky
+c_unifour;4651;4651 - Land of Sky;Unifour - Land of Sky
 c_land_of_sky;4651;4651 - Land of Sky;Land of Sky - Land of Sky
 c_nantahala;4652;4652 - Nantahala;Nantahala - Nantahala
 c_keowee;4657;4657 - Keowee;Keowee - Keowee
