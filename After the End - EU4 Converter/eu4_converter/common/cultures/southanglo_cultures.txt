@@ -1,6 +1,6 @@
 south_anglo = {
 	beltway = {
-		primary = USA
+		primary = WDC
 		dynasty_names = $beltway$
 	}
 	southron = {

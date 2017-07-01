@@ -1,7 +1,7 @@
-# Cordoba
 government = feudal_monarchy
 government_rank = 2
+primary_culture = platinean
+religion = candomble
 technology_group = south_american
-primary_culture = cordoban
-religion = rust_cultist
-capital = 2846
+capital = 792
+

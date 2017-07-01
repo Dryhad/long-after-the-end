@@ -6,7 +6,8 @@ add_core = VES
 culture = welsh
 religion = candomble
 capital = "Candelaria"
-trade_goods = fish
+trade_goods = unknown
+is_city = yes
 hre = no
 base_tax = 1 
 base_production = 1
@@ -14,4 +15,5 @@ base_manpower = 1
 native_size = 25
 native_ferocity = 1
 native_hostileness = 2 
-is_city = yes
+discovered_by = south_american
+

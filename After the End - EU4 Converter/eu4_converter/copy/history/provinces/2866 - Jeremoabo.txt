@@ -1,10 +1,14 @@
 # - Olavarria
 
-culture = het
+owner = LAP
+controller = LAP
+add_core = LAP
+culture = platinean
 discovered_by = south_american
-religion = animism
+religion = candomble
 capital = "Olavarria"
 trade_goods = unknown
+is_city = yes
 hre = no
 base_tax = 1 
 base_production = 1
@@ -12,5 +16,3 @@ base_manpower = 1
 native_size = 5
 native_ferocity = 1
 native_hostileness = 1
-
-# = { discovered_by = SPA }

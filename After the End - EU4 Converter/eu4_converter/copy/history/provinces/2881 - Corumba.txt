@@ -1,9 +1,13 @@
 # - Corumba
 
-culture = maipurean
+owner = PRG
+controller = PRG
+add_core = PRG
+culture = litoraleno
 discovered_by = south_american
-religion = animism
+religion = candomble
 capital = "Corumba"
+is_city = yes 
 trade_goods = unknown
 hre = no
 base_tax = 1
@@ -16,21 +20,3 @@ native_hostileness = 1
 
 
 
-# = { discovered_by = POR } 
-
-# = {
-	#owner = SPA
-	#controller = SPA
-	#add_core= SPA
-	is_city = no
-	trade_goods = tea
-	religion = candomble
-	culture = castillian
-}
-# = {
-	#owner = POR
-	#controller = POR
-	#add_core= POR
-	remove_core = SPA
-	culture = brazilian
-}

@@ -1,8 +1,12 @@
 # - Santa Cruz de la Sierra
 
-culture = guarani
-religion = animism
+owner = PRG
+controller = PRG
+add_core = PRG
+culture = litoraleno
+religion = candomble
 capital = "Santa Cruz de la Sierra"
+is_city
 trade_goods = unknown
 hre = no
 base_tax = 3 
@@ -18,14 +22,3 @@ discovered_by = south_american
 discovered_by = andean
 
 
-# = {
-	#discovered_by = SPA
-	#owner = SPA
-	#controller = SPA
-	#add_core= SPA
-	is_city = no
-	religion = catholic
-	culture = castillian
-	trade_goods = tropical_wood
-}
-# = { revolt = { type = nationalist_rebels size = 0 } #controller = REB } # Bolivian War of Independence

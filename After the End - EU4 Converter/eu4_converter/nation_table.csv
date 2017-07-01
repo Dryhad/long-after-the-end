@@ -4,6 +4,9 @@
 k_papal_state;PAP;Papal;Papal State Kingdom
 k_ursuline;URS;Ursuline;Ursuline See
 
+# HCC
+e_dixie;HLR;HolyRomanEmpire;Confederacy
+
 # Hordes
 
 e_redcoat_dominion;GBR;GreatBritain;Great Britain
@@ -17,16 +20,18 @@ e_ontarian;ONT;Ontario;Empire Ontario
 k_ontario;ONT;Ontario;Kingdom Ontario
 d_arklatex;TXK;Texarkana;Duchy Texarkana
 c_texarkana;TXK;Texarkana;County Texarkana
-k_columbia;WCD;Columbia;Kingdom Columbia
+e_beltway;WDC;Columbia;Empire Columbia
+k_columbia;WDC;Columbia;Kingdom Columbia
 d_capital;WDC;Columbia;Duchy Columbia
-c_washington;WCD;Columbia;County Columbia
+c_washington;WDC;Columbia;County Columbia
 e_caribbean;CAR;Caribbean;Empire Caribbean
-d_new_york;NYS;NewYork;Duchy New York
-k_new_york;NYS;NewYork;Kingdom New York/Gotham
 e_nys;NYS;NewYork;Empire New York/Empire State
+k_new_york;NYS;NewYork;Kingdom New York/Gotham
+d_new_york;NYS;NewYork;Duchy New York
 e_cascadia;CSC;Cascadia;Empire Cascadia
 k_cascadia;CSC;Cascadia;Kingdom Cascadia
 e_lone_star;TEX;Texas;Empire Texas
+e_texas;TEX;Texas;Cultural Empire Texas
 e_great_lakes;GLK;TheGreatLakes;Empire Great Lakes
 
 # EU4 Colonies
@@ -36,14 +41,16 @@ e_gran_colombia;COL;Colombia;Colombia
 e_haiti;HAT;Haiti;Empire Haiti
 k_hispaniola;HAT;Haiti;Kingdom Haiti
 d_haiti;HAT;Haiti;Duchy Haiti
-k_louisiana;LOU;Louisiana;Louisiana
+e_cajun;LOU;Louisiana;Empire Louisiana
+k_louisiana;LOU;Louisiana;Kingdom Louisiana
 e_mexico;MEX;Mexico;Empire Mexico
 k_mexico;MEX;Mexico;Kingdom Mexico
 d_mexico;MEX;Mexico;Duchy Mexico
 e_quebec;QUE;Quebec;Empire Quebec
 k_quebec;QUE;Quebec;Kingdom Quebec
 e_usa;USA;USA;America
-k_venezuela;VNZ;Venezuela;Venezuela
+e_agraciado;VNZ;Venezuela;Empire Venezuela
+k_venezuela;VNZ;Venezuela;Kingdom Venezuela
 e_guatemala;CAM;UPCA;Empire of Guatemala/United Central America
 
 # Native (Most of these disabled because Sunset Invasion is a butt)
@@ -58,6 +65,7 @@ e_guatemala;CAM;UPCA;Empire of Guatemala/United Central America
 #k_dinetah;NAH;Navajo;Kingdom Navajo
 #d_navajoland;NAH;Navajo;Duchy Navajo
 #e_sioux;SIO;Sioux;Empire Sioux
+#k_lakotah;SIO;Sioux;Kingdom Sioux
 #d_siouxland;SIO;Sioux;Duchy Sioux
 
 # First Nations
@@ -81,3 +89,4 @@ k_zapoteca;ZAP;Zapotec;Kingdom Zapotec
 e_muisca;MCA;Muisca;Muisca
 k_colima;CLM;Colima;Kingdom Colima
 d_colima;CLM;Colima;Duchy Colima
+e_purepecha;TAR;Tarascan;Tarascan

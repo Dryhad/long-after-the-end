@@ -1,7 +1,6 @@
-# Mesopotamia
 government = feudal_monarchy
-government_rank = 2
 technology_group = south_american
-primary_culture = litoraleno
 religion = candomble
-capital = 2853
+primary_culture = platinean
+capital = 778	# Santa María del Buen Ayre
+
