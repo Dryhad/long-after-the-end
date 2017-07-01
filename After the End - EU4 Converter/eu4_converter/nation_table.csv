@@ -33,6 +33,30 @@ k_cascadia;CSC;Cascadia;Kingdom Cascadia
 e_lone_star;TEX;Texas;Empire Texas
 e_texas;TEX;Texas;Cultural Empire Texas
 e_great_lakes;GLK;TheGreatLakes;Empire Great Lakes
+e_chicagoan;ORD;Chicagoland;Empire Chicagoland
+k_chicagoland;ORD;Chicagoland;Kingdom Chicagoland
+d_calumet;ORD;Chicagoland;Duchy Chicagoland
+e_cuba;CUB;Cuba;Empire Cuba
+k_cuba;CUB;Cuba;Kingdom Cuba
+e_deitsch;DEI;Deitscherei;Empire Deitscherei
+k_deitscherei;DEI;Deitscherei;Kingdom Deitscherei
+e_utahn;DES;Deseret;Empire Deseret
+k_deseret;DES;Deseret;Kingdom Deseret
+e_dominica;DOM;Dominica;Empire Dominica
+d_dominica;DOM;Dominica;Duchy Dominica
+e_garinagu;HON;Honduras;Empire Honduras
+k_honduras;HON;Honduras;Kingdom Honduras
+e_miskito;MSK;Miskito;Empire Miskito
+k_mosquito;MSK;Miskito;Kingdom Miskito
+d_mosquito;MSK;Miskito;Duchy Miskito
+e_yankee;NEN;NewEngland;Empire New England
+k_new_england;NEN;NewEngland;Kingdom New England
+e_newfie;NFL;Newfoundland;Empire Newfoundland
+k_newfoundland;NFL;Newfoundland;Kingdom Newfoundland
+d_newfoundland;NFL;Newfoundland;Duchy Newfoundland
+e_ismeno;PNM;Panama;Empire Panama
+k_puente_grande;PNM;Panama;Kingdom Panama
+d_panama;PNM;Panama;Duchy Panama
 
 # EU4 Colonies
 
