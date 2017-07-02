@@ -2853,9 +2853,9 @@ west_florida_area = { #5
 	# 942 943 2523 2524
 # }
 
-illinois_country_area = { #4
-    915 916 917 2519 2520
-}
+#illinois_country_area = { #4
+#    915 916 917 2519 2520
+#}
 
 mississippi_plain_area = { #3
 	894 895 897
@@ -3207,7 +3207,7 @@ redwoods_area = {
 	2481 4500 2477
 }
 
-shasta_cascade_area = {
+shasta_cascade_area = { # Called "Northern Jefferson"
 	4515 4516 4517 
 }
 
@@ -3425,7 +3425,7 @@ lake_superior_area = { #4
     910 2517 2518 4571
 }
 
-soo_area = {
+soo_area = { # Called "Upper Peninsula"
 	911 4569 4567 4590 4568
 }
 
@@ -3441,24 +3441,32 @@ maumee_area = {
 	4556 4703 4702
 }
 
-little_egypt_area = {
-	2523 4706 4705
+illinois_country_area = {
+    915 916 917 2519
 }
 
 #Missisippi Region
+
+little_egypt_area = {
+	2520 4706 4587
+}
+
+kentuckiana_area = {
+	2523 4705 4573
+}
 
 appalachia_area = { #Called "Vandalia"
     951 2551 4574 4576 2526
 }
 the_gateway_area = {
-	4586 4585 4587 4588 4597
+	4586 4585 4588 4597
 }
 kentucky_area = { #3
-    940 4707 4708 4573 4711
+    940 4707 4708 4711 939
 }
 
 mississippi_plain_area = { #Called Arkansas
-	894 895 897 2514 939
+	894 895 897 2514
 }
 
 

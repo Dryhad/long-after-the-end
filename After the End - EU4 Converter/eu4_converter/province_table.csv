@@ -2076,14 +2076,14 @@ c_hoosier;4573;4573 - Kentuckiana;Hoosier - Kentuckiana
 c_versailles;2524;2524 - Wabash;Versailles - Wabash
 
 c_evansville;2523;2523 - Piankeshaw;Evansville - Piankeshaw
-c_vincennes;2523;2523 - Piankeshaw;Vincennes - Piankeshaw
 
-#d_little_egypt;2520;2520 - Mengkonkia;Little Egypt - Mengkonkia
+c_vincennes;4705;4705 - Vincennes;Vincennes - Vincennes
+
+d_little_egypt;2520;2520 - Mengkonkia;Little Egypt - Mengkonkia
 c_cairo;2520;2520 - Mengkonkia;Cairo - Mengkonkia
+c_mount_vernon;2520;2520 - Mengkonkia;Mount Vernon - Mengkonkia
 
-c_mount_vernon;4706;4706 - Mount Vernon;Mount Vernon - Mount Vernon
-
-c_effingham;4705;4705 - Effingham;Effingham - Effingham
+c_effingham;4706;4706 - Effingham;Effingham - Effingham
 
 c_louisville;4707;4707 - Rough River;Louisville - Rough River
 c_rough_river;4707;4707 - Rough River;Rough River - Rough River

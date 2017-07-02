@@ -1037,6 +1037,7 @@ mississippi_region = {
 		the_gateway_area
 		little_egypt_area
 		birmingham_area
+		kentuckiana_area
 	}
 }
 
