@@ -2038,17 +2038,17 @@ northern_thai_area = { #3
 # Indonesia  	                       #
 ########################################
 
-great_moluccas_area = { #5 
-	654 655 656 2699 2700 
-}
+# great_moluccas_area = { #5 
+	# 654 655 656 2699 2700 
+# }
 
-mindanao_area = { #4 
-	652 653 2701 2702
-}
+# mindanao_area = { #4 
+	# 652 653 2701 2702
+# }
 
-luzon_area = { #4
-	657 658 2697 2698
-}
+# luzon_area = { #4
+	# 657 658 2697 2698
+# }
 
 north_sumatra_area = { #3
 	617 2673 2685
@@ -3719,6 +3719,25 @@ limpopo_area = { #Natal
 
 actual_limpopo_area = {
 	4727 4726 4728 4729 4730
+}
+#Asia ########################################################
+
+#Phillipines 
+
+great_moluccas_area = { #5 
+	656 655 2699 4832 
+}
+
+south_great_moluccas_area = {
+	2700 4833 4834 654
+}
+
+mindanao_area = { #4 
+	652 653 2701 2702 4835
+}
+
+luzon_area = { #4
+	657 658 2697 2698 
 }
 
 #Sea Areas

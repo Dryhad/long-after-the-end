@@ -38,7 +38,6 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 1247;127;sea;1298;-1;-1;-1;-1;Corsica-Sardinia
 394;396;sea;1335;3589;1076;3592;1074;Al Hasa-Bahrain
 395;396;sea;1335;3596;1071;3601;1071;Qatar-Bahrain
-653;2700;sea;1398;4726;791;4732;786;Lanao-Panay
 654;2699;sea;1397;4746;849;4743;850;Visayas-Bikol
 648;649;sea;1400;4801;670;4803;667;Halmahera-Ternate
 648;650;sea;1400;4805;640;4803;628;Halmahera-Tidore
@@ -65,10 +64,15 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 632;633;sea;1355;4666;511;4675;512;Sumbawa-Flores
 633;2695;sea;1401;4749;514;4758;512;Flores-East Timor
 2716;642;sea;1357;4714;569;4712;575;Buton-Kendari
-654;2700;sea;1397;4740;827;4735;822;Visayas-Panay
+654;2699;sea;1397;-1;-1;-1;-1;Visayas-Bikol
 654;2702;sea;1402;4764;825;4767;814;Visayas-Butuan
-2700;656;sea;1397;4708;838;4702;846;Panay-Manila
-655;656;sea;1395;-1;-1;-1;-1;Palawan-Manila
+4832;656;sea;1395;-1;-1;-1;-1;Mindoro-Manila
+655;4832;sea;1395;-1;-1;-1;-1;Palawan-Mindoro
+4832;4833;sea;1397;-1;-1;-1;-1;Mindoro-Western Visayas
+4833;2700;sea;1397;-1;-1;-1;-1;Western Visayas - Negros
+2700;4834;sea;1397;-1;-1;-1;-1;Negros - Central Visayas
+2700;4835;sea;1398;-1;-1;-1;-1;Negros - Zamboanga
+4834;654;sea;1397;-1;-1;-1;-1;Central Visayas - Visayas
 646;647;sea;1401;-1;-1;-1;-1;Ambom-Ceram
 2678;622;sea;1361;4446;618;4443;617;Banka-Palembang
 2686;597;sea;1361;4434;664;4430;666;Bintan-Johor

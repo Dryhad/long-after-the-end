@@ -711,6 +711,8 @@ australia_region = {
 		new_south_wales_area
 		inner_australia_area
 		lingiary_area
+		south_queensland
+		north_queensland
 	}
 }
 
@@ -875,6 +877,8 @@ moluccas_region = {
 		south_sulawesi_area
 		ceram_area
 		spice_islands_area
+		#LAtE
+		south_great_moluccas_area
 	}
 }
 

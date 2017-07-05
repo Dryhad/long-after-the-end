@@ -2697,7 +2697,7 @@
  PROV2697:0 "Tondo"
  PROV2698:0 "Pangasinan"
  PROV2699:0 "Bikol"
- PROV2700:0 "Panay"
+ PROV2700:0 "Negros"	#Was Panay
  PROV2701:0 "Tagloc"
  PROV2702:0 "Butuan"
  PROV2703:0 "Lehad Datu"
@@ -3649,6 +3649,10 @@
  PROV4829:0 "Giishkimanisiiwaaboong"
  PROV4830:0 "Mishkeegogamang"
  PROV4831:0 "Katchiskataouakigs"
+ PROV4832:0 "Mindoro"
+ PROV4833:0 "Western Visayas"
+ PROV4834:0 "Central Visayas"
+ PROV4835:0 "Zamboanga"
 
 
 
