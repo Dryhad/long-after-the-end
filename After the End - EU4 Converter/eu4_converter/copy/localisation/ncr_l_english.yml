@@ -9,6 +9,14 @@
  colonial_British_Isles:0  "Colonial British Isles"
  COLONIAL_BRITISH_ISLES_Root_GetAdjective_British_Isles:0  "[Root.GetAdjective] British Isles"
  COLONIAL_BRITISH_ISLES_Root_GetAdjective_British_Isles_ADJ:0  "[Root.GetAdjective] British"
+ COLONIAL_BRITISH_ISLES_New_New_York:0 "New New York"
+ COLONIAL_BRITISH_ISLES_New_New_York_ADJ:0 "New New Yorker"
+ COLONIAL_BRITISH_ISLES_New_New_England:0 "New New England"
+ COLONIAL_BRITISH_ISLES_New_New_England_ADJ:0 "New New English"
+ COLONIAL_BRITISH_ISLES_Nova_Nova_Scotia:0 "Nova Nova Scotia"
+ COLONIAL_BRITISH_ISLES_Nova_Nova_Scotia_ADJ:0 "Nova Nova Scotian"
+ COLONIAL_BRITISH_ISLES_Airstrip_One:0 "Airstrip One"
+ COLONIAL_BRITISH_ISLES_Airstrip_One_ADJ:0 "Oceanian"
  
  colonial_Iberia:0  "Colonial Iberia"
  COLONIAL_IBERIA_Root_GetAdjective_Iberia:0  "[Root.GetAdjective] Iberia"
@@ -17,6 +25,18 @@
  colonial_France:0  "Colonial France"
  COLONIAL_FRANCE_Root_GetAdjective_France:0  "[Root.GetAdjective] France"
  COLONIAL_FRANCE_Root_GetAdjective_France_ADJ:0  "[Root.GetAdjective] French"
+ 
+ colonial_western_europe:0  "Colonial Western Europe"
+ COLONIAL_WESTERN_EUROPE_Root_GetAdjective_Western_Europe:0  "[Root.GetAdjective] Western Europe"
+ COLONIAL_WESTERN_EUROPE_Root_GetAdjective_Western_Europe_ADJ:0  "[Root.GetAdjective] West European"
+ COLONIAL_WESTERN_EUROPE_Nuevo_Cartagena:0 "Nuevo Cartagena"
+ COLONIAL_WESTERN_EUROPE_Nuevo_Cartagena_ADJ:0 "Nuevo Cartagenan"
+ COLONIAL_WESTERN_EUROPE_New_New_Granada:0 "New New Granada"
+ COLONIAL_WESTERN_EUROPE_New_New_Granada_ADJ:0 "New New Granadan"
+ COLONIAL_WESTERN_EUROPE_New_New_Spain:0 "New New Spain"
+ COLONIAL_WESTERN_EUROPE_New_New_Spain_ADJ:0 "New New Spanish"
+ COLONIAL_WESTERN_EUROPE_Nouvelle_Nouvelle_France:0 "Nouvelle-Nouvelle-France"
+ COLONIAL_WESTERN_EUROPE_Nouvelle_Nouvelle_France_ADJ:0 "New New French"
  
  colonial_Italy:0  "Colonial Italy"
  COLONIAL_ITALY_Root_GetAdjective_Italy:0  "[Root.GetAdjective] Italy"
@@ -30,13 +50,23 @@
  COLONIAL_WESTERN_BALKANS_Root_GetAdjective_Western_Balkans:0  "[Root.GetAdjective] Western Balkans"
  COLONIAL_WESTERN_BALKANS_Root_GetAdjective_Western_Balkans_ADJ:0  "[Root.GetAdjective] Western Balkan"
  
+ colonial_adriatic:0  "Colonial Adriatic"
+ COLONIAL_ADRIATIC_Root_GetAdjective_Adriatic:0  "[Root.GetAdjective] Adriatic"
+ COLONIAL_ADRIATIC_Root_GetAdjective_Adriatic_ADJ:0  "[Root.GetAdjective] Adriatic"
+ COLONIAL_ADRIATIC_Vechy_Paise:0 "Vechy Paise"
+ COLONIAL_ADRIATIC_Vechy_Paise_ADJ:0 "Vechy Paise"
+ 
+ colonial_Eastern_Balkans:0  "Colonial Eastern Balkans"
+ COLONIAL_EASTERN_BALKANS_Root_GetAdjective_Eastern_Balkans:0  "[Root.GetAdjective] Eastern Balkans"
+ COLONIAL_EASTERN_BALKANS_Root_GetAdjective_Eastern_Balkans_ADJ:0  "[Root.GetAdjective] Eastern Balkan"
+ 
  colonial_Eastern_Balkans:0  "Colonial Eastern Balkans"
  COLONIAL_EASTERN_BALKANS_Root_GetAdjective_Eastern_Balkans:0  "[Root.GetAdjective] Eastern Balkans"
  COLONIAL_EASTERN_BALKANS_Root_GetAdjective_Eastern_Balkans_ADJ:0  "[Root.GetAdjective] Eastern Balkan"
   
- colonial_Austria:0  "Colonial Austria"
- COLONIAL_AUSTRIA_Root_GetAdjective_Austria:0  "[Root.GetAdjective] Austria"
- COLONIAL_AUSTRIA_Root_GetAdjective_Austria_ADJ:0  "[Root.GetAdjective] Austrian"
+ colonial_intermarium:0  "Colonial Intermarium"
+ COLONIAL_INTERMARIUM_Root_GetAdjective_Intermarium:0  "[Root.GetAdjective] Intermarium"
+ COLONIAL_INTERMARIUM_Root_GetAdjective_Intermarium_ADJ:0  "[Root.GetAdjective] Intermarium"
   
  colonial_North_Germany:0  "Colonial Northern Germany"
  COLONIAL_NORTH_GERMANY_Root_GetAdjective_North_Germany:0  "[Root.GetAdjective] Northern Germany"
@@ -45,6 +75,16 @@
  colonial_South_Germany:0  "Colonial Southern Germany"
  COLONIAL_SOUTH_GERMANY_Root_GetAdjective_South_Germany:0  "[Root.GetAdjective] Southern Germany"
  COLONIAL_SOUTH_GERMANY_Root_GetAdjective_South_Germany_ADJ:0  "[Root.GetAdjective] German"
+  
+ colonial_Germany:0  "Colonial Germany"
+ COLONIAL_GERMANY_Root_GetAdjective_Germany:0  "[Root.GetAdjective] Germany"
+ COLONIAL_GERMANY_Root_GetAdjective_Germany_ADJ:0  "[Root.GetAdjective] German"
+ COLONIAL_GERMANY_Altes_Land:0 "Altes Land"
+ COLONIAL_GERMANY_Altes_Land_ADJ:0 "Altes Lander"
+ COLONIAL_GERMANY_Plautdietscherei:0 "Plautdietscherei"
+ COLONIAL_GERMANY_Plautdietscherei_ADJ:0 "Plautdietsch"
+ COLONIAL_GERMANY_New_New_Amsterdam:0 "New New Amsterdam"
+ COLONIAL_GERMANY_New_New_Amsterdam_ADJ:0 "New New Amsterdam"
    
  colonial_Ukraine:0  "Colonial Ukraine"
  COLONIAL_UKRAINE_Root_GetAdjective_Ukraine:0  "[Root.GetAdjective] Ukraine"
@@ -66,6 +106,10 @@
  COLONIAL_EAST_RUSSIA_Root_GetAdjective_East_Russia:0  "[Root.GetAdjective] Eastern Russia"
  COLONIAL_EAST_RUSSIA_Root_GetAdjective_East_Russia_ADJ:0  "[Root.GetAdjective] Russian"
    
+ colonial_russia:0  "Colonial Russia"
+ COLONIAL_RUSSIA_Root_GetAdjective_Russia:0  "[Root.GetAdjective] Russia"
+ COLONIAL_RUSSIA_Root_GetAdjective_Russia_ADJ:0  "[Root.GetAdjective] Russian"
+   
  colonial_Denmark:0  "Colonial Denmark"
  COLONIAL_DENMARK_Root_GetAdjective_Denmark:0  "[Root.GetAdjective] Denmark"
  COLONIAL_DENMARK_Root_GetAdjective_Denmark_ADJ:0  "[Root.GetAdjective] Danish"
@@ -77,8 +121,26 @@
  colonial_Norway:0  "Colonial Norway"
  COLONIAL_NORWAY_Root_GetAdjective_Norway:0  "[Root.GetAdjective] Norway"
  COLONIAL_NORAWY_Root_GetAdjective_Norway_ADJ:0  "[Root.GetAdjective] Norwegian"
+   
+ colonial_scandinavia:0  "Colonial Scandinavia"
+ COLONIAL_SCANDINAVIA_Root_GetAdjective_Scandinavia:0  "[Root.GetAdjective] Scandinavia"
+ COLONIAL_SCANDINAVIA_Root_GetAdjective_Scandinavia_ADJ:0  "[Root.GetAdjective] Scandinavian"
+ COLONIAL_SCANDINAVIA_Midgard:0 "Midgard"
+ COLONIAL_SCANDINAVIA_Midgard_ADJ:0 "Midgarder"
  
  #AFRICA#
+ 
+ colonial_north_africa:0  "Colonial North Africa"
+ COLONIAL_NORTH_AFRICA_Root_GetAdjective_North_Africa:0  "[Root.GetAdjective] North Africa"
+ COLONIAL_NORTH_AFRICA_Root_GetAdjective_North_Africa_ADJ:0  "[Root.GetAdjective] North African"
+ 
+ colonial_west_africa:0  "Colonial West Africa"
+ COLONIAL_WEST_AFRICA_Root_GetAdjective_West_Africa:0  "[Root.GetAdjective] West Africa"
+ COLONIAL_WEST_AFRICA_Root_GetAdjective_West_Africa_ADJ:0  "[Root.GetAdjective] West African"
+ COLONIAL_WEST_AFRICA_Mississippi:0  "Mississippi-in-Africa"
+ COLONIAL_WEST_AFRICA_Mississippi_ADJ:0  "Mississippian"
+ COLONIAL_WEST_AFRICA_Maryland:0  "New Maryland"
+ COLONIAL_WEST_AFRICA_Maryland_ADJ:0  "New Marylander"
  
  colonial_Morocco:0  "Colonial Morocco"
  COLONIAL_MOROCCO_Root_GetAdjective_Morocco:0  "[Root.GetAdjective] Morocco"
@@ -349,15 +411,18 @@
  trade_company_chile:0 "Chilean Charter"
  trade_company_patagonia:0 "Patagonian Charter"
  trade_company_uruguay:0 "Uruguayan Charter"
+ trade_company_polynesia:0 "Polynesian Charter"
  
  TRADE_COMPANY_BOLIVIA_Root_Culture_GetName:0 "[Root.Culture.GetName] Bolivia Company"
  TRADE_COMPANY_PERU_Root_Culture_GetName:0 "[Root.Culture.GetName] Peru Company"
  TRADE_COMPANY_CHILE_Root_Culture_GetName:0 "[Root.Culture.GetName] Chile Company"
  TRADE_COMPANY_PATAGONIA_Root_Culture_GetName:0 "[Root.Culture.GetName] Patagonia Company"
  TRADE_COMPANY_URUGUAY_Root_Culture_GetName:0 "[Root.Culture.GetName] Uruguay Company"
+ TRADE_COMPANY_POLYNESIA_Root_Culture_GetName:0 "[Root.Culture.GetName] Polynesia Company"
  
  TRADE_COMPANY_BOLIVIA_South_America_Trade_Company:0 "Bolivia Trade Company"
  TRADE_COMPANY_PERU_South_America_Trade_Company:0 "Peru Trade Company"
  TRADE_COMPANY_CHILE_South_America_Trade_Company:0 "Chile Trade Company"
  TRADE_COMPANY_PATAGONIA_South_America_Trade_Company:0 "Patagonia Trade Company"
  TRADE_COMPANY_URUGUAY_South_America_Trade_Company:0 "Uruguay Trade Company"
+ TRADE_COMPANY_POLYNESIA_Trade_Company:0 "Polynesia Trade Company"

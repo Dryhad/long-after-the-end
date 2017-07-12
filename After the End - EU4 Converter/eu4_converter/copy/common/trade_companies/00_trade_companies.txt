@@ -371,3 +371,19 @@ trade_company_uruguay = {
 # 791 794 2836 2837 2839 2842 #tucuman
 # 790 2854 2878 #Chaco
 # 775 776 799 2882 2883 #Paraguay
+
+trade_company_polynesia = {
+	color = { 30 200 80 }
+
+	provinces = {
+		1235 1239 1240 1241 1242 1243 1244
+		1986 1987 1988 1989 1990 1991 1992 1993 1994 1995 1996 1997
+	}
+
+	names = {
+		name = "TRADE_COMPANY_POLYNESIA_Root_Culture_GetName"
+	}
+	names = {
+		name = "TRADE_COMPANY_POLYNESIA_Trade_Company"
+	}
+}
