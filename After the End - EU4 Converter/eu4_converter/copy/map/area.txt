@@ -643,7 +643,7 @@ mazovia_area = { #4
 }
 
 samogitia_area = { #3
-	270 271 1936
+	270 1936
 }
 
 lithuania_area = { #3
@@ -960,7 +960,7 @@ albania_area = {
 }
 
 bosnia_area = { #4
-	139 140 1831 3002
+	139 1831 3002
 }
 
 croatia_area = { #5 
@@ -1477,32 +1477,32 @@ west_micronesia_area = { #3
 	1235 1995 1996
 }
 
-western_australia_area = { #3
-	1084 2726 2727
-}
+# western_australia_area = { #3
+	# 1084 2726 2727
+# }
 
-top_end_area = { #2
-	2728 2729 
-}
+# top_end_area = { #2
+	# 2728 2729 
+# }
 
-northern_australia_area = { #3
-	2730 2731 2732
-}
+# northern_australia_area = { #3
+	# 2730 2731 2732
+# }
 
-eastern_australia_area = { #5
-	1091 1092 1093 1094 2733
-}
+# eastern_australia_area = { #5
+	# 1091 1092 1093 1094 2733
+# }
 
-southern_australia_area = { #4
-	1085 1089 1090 2734
-}
+# southern_australia_area = { #4
+	# 1085 1089 1090 2734
+# }
 
-murray_river_area = { #5
-	1086 1087 1088 2735 2736
-}
+# murray_river_area = { #5
+	# 1086 1087 1088 2735 2736
+# }
 
 northern_polynesia_area = { #3
-	979 1240 1997
+	 1240 1997
 }
 
 eastern_polynesia_area = { #3
@@ -2857,9 +2857,9 @@ west_florida_area = { #5
 #    915 916 917 2519 2520
 #}
 
-mississippi_plain_area = { #3
-	894 895 897
-}
+# mississippi_plain_area = { #3
+	# 894 895 897
+# }
 
 
 
@@ -2875,9 +2875,9 @@ lower_louisiana_area = { # 3
     893 2014 2516
 }
 
-upper_louisiana_area = { #4
-    900 902 2513 2514
-}
+# upper_louisiana_area = { #4
+    # 900 902 2513 2514
+# }
 
 ozarks_area = { #3
     899 2509 2515
@@ -2923,9 +2923,9 @@ coastal_prarie_area = { #3
 	883 886 2500
 }
 
-oregon_area = { #4
-    872 2481 2482 2483
-}
+# oregon_area = { #4
+    # 872 2482 2483
+# }
 
 # columbia_river_area = { #4
     # 873 2486 2487 2488
@@ -2959,9 +2959,9 @@ east_alaska_area = { #3
     # 982 983 984 2568 2569
 # }
 
-straits_of_georgia_area = { #4
-   972 973 974 2610
-}
+# straits_of_georgia_area = { #4
+   # 972 973 974 2610
+# }
 # upper_acadia_area = { #4
    # 985 2570 2571 2572
 # }
@@ -3054,9 +3054,9 @@ colorado_plateau_area = { #4
     875 878 2493 2494
 }
 
-arizona_area = { #4
-    867 876 879 2491
-}
+# arizona_area = { #4
+    # 876 879 2491
+# }
 
 # california_area = { #5
     # 868 871 869 2021 2476
@@ -3199,6 +3199,10 @@ socal_area = {
 	2478 867 2476 4507 4509 4508
 }
 
+arizona_area = { #4
+     876 879 2491
+}
+
 north_valley_area = {
 	4501 2480 2479 4738
 }
@@ -3206,6 +3210,11 @@ north_valley_area = {
 redwoods_area = {
 	2481 4500 2477
 }
+
+oregon_area = { #4
+    872 2482 2483
+}
+
 
 shasta_cascade_area = { # Called "Northern Jefferson"
 	4515 4516 4517 
@@ -3273,6 +3282,10 @@ nootka_area = {
 	4552 4553 972
 }
 
+straits_of_georgia_area = { #4
+    973 974 2610
+}
+
 # salish_sea_area = { 
     # 874 2484 2485 973 2610
 # }
@@ -3304,7 +3317,7 @@ labrador_area = { #3
 }
 
 cote_nord_area = { #South Cote Nord
-    996 2576 2577 2578
+    996 2576 2577 2578 2579
 }
 
 north_cote_nord_area = {
@@ -3398,7 +3411,7 @@ actual_susquehanna_area = {
 }
 
 ohio_country_area = { #4
-    946 947 948 2525 4556
+    946 947 948 2525 
 }
 
 detroit_area = {
@@ -3469,6 +3482,11 @@ mississippi_plain_area = { #Called Arkansas
 	894 895 897 2514
 }
 
+upper_louisiana_area = { #4
+    900 902 2513 
+}
+
+
 
 #North West
 colorado_area = {
@@ -3480,7 +3498,7 @@ columbia_river_area = {
 }
 
 snake_river_area = { 
-    2019 2020 2489 2490 2489 4600
+    2019 2020 2489 4600
 }
 
 
@@ -3561,7 +3579,7 @@ maryland_area = { #3
 }
 
 delaware_valley_area = { #5
-    955 956 2023 4621 4622
+    956 2023 4621 4622
 }
 
 #Appalachia
@@ -3659,8 +3677,8 @@ rio_grande_area = { # 3
     858 2499 2668 4747 4748
 }
 
-oaxaca_area = { #4
-    847 2629 2646 4750 
+oaxaca_area = { #4 
+    847 2646 4750 2629
 }
 
 istmo_area = {
