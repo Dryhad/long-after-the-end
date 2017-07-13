@@ -303,6 +303,12 @@ estate_nobles =
 			culture_group = ozzi
 		}
 	}
+	custom_name = {
+		desc = estate_industrialists
+		trigger = {
+			religion = rust_cultist
+		}
+	}
 
 	# Does the AI want to give any extra territory beyond the minimum?
 	ai_territory_modifier = {
