@@ -113,16 +113,19 @@ c_tucupita;2803;2803 - Delta;Tucupita - Delta
 c_antonio_diaz;2803;2803 - Delta;Antonio Diaz - Delta
 
 d_caroni;2804;2804 - Guasipati;Duchy Caroni - Guasipati
-c_ciudad_guayana;2804;2804 - Guasipati;
-c_piar;2804;2804 - Guasipati;
-c_roscio;2804;2804 - Guasipati;
-c_sifontes;2804;2804 - Guasipati;
+c_ciudad_guayana;2804;2804 - Guasipati;Ciudad Guayana - Guasipati
+c_piar;2804;2804 - Guasipati;Piar - Guasipati
+c_roscio;2804;2804 - Guasipati;Roscio - Guasipati
+c_sifontes;2804;2804 - Guasipati;Sifontes - Guasipati
+d_gran_sabana;2804;2804 - Guasipati;Duchy Gran Sabana - Guasipati
+c_gran_sabana;2804;2804 - Guasipati;County Gran Sabana - Guasipati
+c_canaima;2804;2804 - Guasipati;canaima - Guasipati
 
 c_cedeno;2811;2811 - Atabapo;Cedeno - Atabapo
-c_amazonas;2811;2811 - Atabapo;Amazonas - Atabapo
+c_autana;2811;2811 - Atabapo;Autana - Atabapo
 
 d_angostura;742;742 - Guayana;Duchy Angostura - Angostura
-c_angostura;742;742 - Guayana;County Angostura - Angostura
+c_raul_leoni;742;742 - Guayana;Raul Leoni - Angostura
 c_ciudad_bolivar;742;742 - Guayana;Ciudad Bolivar - Angostura
 c_maripa;742;742 - Guayana;Maripa - Angostura
 
@@ -148,6 +151,15 @@ d_cayenne;746;746 - Cayenne;Duchy Cayenne - Cayenne
 c_cayenne;746;746 - Cayenne;County Cayenne - Cayenne
 c_saint_laurent_du_maroni;746;746 - Cayenne;Saint Laurent du Maroni - Cayenne
 c_inini;746;746 - Cayenne;Inini - Cayenne
+
+# Roraima
+
+d_roraima;2889;2889 - Rio Branco;Duchy Roraima - Rio Branco
+c_boa_vista;2889;2889 - Rio Branco;Boa Vista - Rio Branco
+c_amajari;2889;2889 - Rio Branco;Amajari - Rio Branco
+c_bonfim;2889;2889 - Rio Branco;Bonfim - Rio Branco
+c_raposa_serra_do_sol;2889;2889 - Rio Branco;Raposa Serra do Sol - Rio Branco
+c_takutu;2889;2889 - Rio Branco;Takutu - Rio Branco
 
 # Venezuela
 
@@ -286,6 +298,7 @@ c_bajo_cauca;827;827 - Antioquia;Bajo Cauca - Antioquia
 c_sabanalarga;827;827 - Antioquia;Sabanalarga - Antioquia
 c_yolombo;827;827 - Antioquia;Yolombo - Antioquia
 c_oriente_antioqueno;827;827 - Antioquia;Oriente Antioqueno - Antioquia
+c_selva_virgen;827;827 - Antioquia;Selva Virgen - Antioquia
 
 d_choco;826;826 - Choco;Duchy Choco - Choco
 c_quibdo;826;826 - Choco;Quibdo - Choco
@@ -297,6 +310,7 @@ c_tulua;823;823 - Cauca;Tulua - Cauca
 c_manizales;823;823 - Cauca;Manizales - Cauca
 c_quindio;823;823 - Cauca;Quindio - Cauca
 c_risaralda;823;823 - Cauca;Risaralda - Cauca
+c_popayan;823;823 - Cauca;Popayan - Cauca
 
 # Andina
 

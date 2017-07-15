@@ -37,6 +37,9 @@ iberian = {
 		primary = BRZ
 		dynasty_names = $brazilian$
 	}
+	roraimense = {
+		dynasty_names = $roraimense$
+	}
 }
 #novorusskiy
 east_slavic = { # Or Tatar?

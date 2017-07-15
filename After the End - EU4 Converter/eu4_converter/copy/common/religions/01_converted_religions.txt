@@ -417,6 +417,8 @@ dharmic = {
 }
 
 oldworld = {
+	defender_of_faith = yes
+	
 	atomicist = {
 		color = { 0.75 0.95 0.2 }
 		icon = 28
