@@ -539,11 +539,11 @@ exploration_ideas = {
 			capital_scope = {
 				NOT = {
 					region = canada_region
-					region = northeast_region
-					region = southeast_region
+					region = northeast_america_region
+					region = southeast_america_region
 					region = california_region
-                                        region = cascadia_region
-                                        region = caribbean_region
+                    region = cascadia_region
+                    region = carribeans_region
 				}
 			}
 			NOT = { 

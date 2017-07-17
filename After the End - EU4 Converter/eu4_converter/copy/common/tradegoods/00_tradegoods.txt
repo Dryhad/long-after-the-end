@@ -121,8 +121,8 @@ wine = {
 			NOT = { region = south_africa_region }
 			NOT = { area = cuyo_area }
 			NOT = { area = nehuenken_area }
-			NOT = { area = california_area }
-			NOT = { area = central_valley_area }
+			#NOT = { area = california_area }
+			#NOT = { area = central_valley_area }
 			NOT = { area = nootka_area }
 			NOT = { area = columbia_river_area }
 			NOT = { area = interior_plateau_area }
@@ -568,7 +568,7 @@ copper = {
 			NOT = { area = susquehanna_area }
 			NOT = { area = hudson_valley_area }
 			NOT = { area = lake_superior_area }
-			NOT = { area = south_iroquoisia_area }
+			#NOT = { area = south_iroquoisia_area }
 			NOT = { area = upper_ontario_area }
 			NOT = { area = laurentian_area }
 			NOT = { area = inner_ontario_area }
@@ -1277,7 +1277,7 @@ tobacco = {
 			#LAtE
 			NOT = { region = north_china_region }
 			NOT = { region = xinan_region }
-			NOT = { region = korean_region }
+			NOT = { region = korea_region }
 			NOT = { region = manchuria_region }
 			NOT = { region = balkan_region }
 			NOT = { region = anatolia_region }
@@ -1307,7 +1307,7 @@ tobacco = {
 			OR = {
 				region = north_china_region
 				region = xinan_region
-				region = korean_region
+				region = korea_region
 				region = manchuria_region
 				region = balkan_region 
 				region = anatolia_region

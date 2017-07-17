@@ -999,7 +999,7 @@ province_event = {
 	trigger = {
 		has_dlc = "El Dorado"
 		is_empty = yes
-		region = region_italy
+		region = italy_region
 		FROM = {
 			has_country_modifier = sce_search_rome
 			OR = {
@@ -1058,7 +1058,7 @@ province_event = {
 	trigger = {
 		has_dlc = "El Dorado"
 		is_empty = yes
-		region = region_italy
+		region = italy_region
 		FROM = {
 			has_country_modifier = sce_search_rome
 			OR = {
@@ -1123,7 +1123,7 @@ province_event = {
 	
 	trigger = {
 		has_dlc = "El Dorado"
-		region = region_italy
+		region = italy_region
 		NOT = {
 			has_global_flag = sce_ultimate_rome
 		}
