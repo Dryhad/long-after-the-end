@@ -35,3 +35,8 @@ discovered_by = indian
 # = { #controller = SWE }# The Peace of Knäred
 # = { base_manpower = 1 # Småland did a huge contribution in number of regiments
 
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

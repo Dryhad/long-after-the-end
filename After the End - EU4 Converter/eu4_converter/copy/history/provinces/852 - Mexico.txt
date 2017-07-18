@@ -13,3 +13,7 @@ base_production = 1
 base_manpower = 1
 fort_15th = yes
 is_city = no
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

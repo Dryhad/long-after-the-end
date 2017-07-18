@@ -32,3 +32,8 @@ native_hostileness = 2
 	remove_core = POR
 } # The portugese are chased out
 # = { fort_17th = yes }
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

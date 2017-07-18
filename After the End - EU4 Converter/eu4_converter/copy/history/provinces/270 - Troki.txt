@@ -33,3 +33,8 @@ discovered_by = indian
 	#owner = RUS
 	#controller = RUS 
 } # Third Partition of Poland, tightened ice regime
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

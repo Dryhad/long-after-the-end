@@ -13,3 +13,8 @@ native_ferocity = 4
 native_hostileness = 9
 
 # = { discovered_by = GBR } # William Dampier
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

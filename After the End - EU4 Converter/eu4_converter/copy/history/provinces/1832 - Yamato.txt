@@ -22,3 +22,7 @@ discovered_by = QNG
 
 # = { #owner = ODA #controller = ODA #add_core= ODA remove_core = TTI } #The Tsutsui clan moved to Iga
 # = { #owner = TKG #controller = TKG #add_core= TKG remove_core = ODA }
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

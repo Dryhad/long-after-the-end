@@ -40,3 +40,8 @@ discovered_by = indian
 # = { #controller = SWE } # The Deluge, sacked
 # = { #controller = PLC }
 # = { #owner = PRU #controller = PRU religion = protestant } # First partition of Poland
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

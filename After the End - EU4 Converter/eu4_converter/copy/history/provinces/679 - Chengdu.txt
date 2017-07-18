@@ -39,3 +39,8 @@ add_permanent_province_modifier = {
 }
 # = { #controller = CZH } # Three Feudatories revolt
 # = { #controller = QNG }
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

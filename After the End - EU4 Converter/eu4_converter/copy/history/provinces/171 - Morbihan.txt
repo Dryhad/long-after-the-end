@@ -27,3 +27,8 @@ discovered_by = indian
 # = { unrest = 5 } # Henri de Guise assassinated at Blois, Ultra-Catholics into a frenzy
 # = { unrest = 0 } # 'Paris vaut bien une messe!', Henri converts to Catholicism
 # = { capital = "Lorient" }
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

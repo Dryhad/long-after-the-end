@@ -45,3 +45,8 @@ discovered_by = andean
 # = { unrest = 7 } # Uprising of Tupca Amaru II
 # = { unrest = 0 }
 # = { revolt = { type = nationalist_rebels size = 0 } #controller = REB } # Bolivian War of Independence
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

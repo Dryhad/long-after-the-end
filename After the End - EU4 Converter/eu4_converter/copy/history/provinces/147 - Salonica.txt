@@ -44,3 +44,8 @@ base_production = 8 } #The Decentralizing Effect of the Provincial System
 # = { unrest = 7 } # The empire fell into anarchy, Janissaries stormed the palace
 # = { unrest = 0 } # Murad tries to quell the corruption
 # = { #add_core= GRE }
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

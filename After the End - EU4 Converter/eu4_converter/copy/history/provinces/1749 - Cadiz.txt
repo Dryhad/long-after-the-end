@@ -31,3 +31,8 @@ discovered_by = high_american
 # = { remove_core = CAS }
 # = { revolt = { type = pretender_rebels size = 0.5 } #controller = REB }
 # = { revolt = {} #controller = SPA }
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

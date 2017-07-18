@@ -35,3 +35,8 @@ discovered_by = east_african
 	#controller = ADE
 	remove_core = TUR
 }
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

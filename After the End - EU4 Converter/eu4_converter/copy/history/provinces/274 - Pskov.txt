@@ -35,3 +35,8 @@ discovered_by = high_american
 # = { unrest = 5 } # Peasant uprising in Pskov
 # = { unrest = 0 }
 # = { base_tax = 1ase_production = 1 # Tax revenues increased
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

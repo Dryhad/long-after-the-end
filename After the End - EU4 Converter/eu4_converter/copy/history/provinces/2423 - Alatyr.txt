@@ -37,3 +37,8 @@ discovered_by = high_american
 # = { base_tax = 1ase_production = 1} # Governmental reforms and the absolutism, Nizhegorod governorate
 # = { unrest = 5 } # Emelian Pugachev, Cossack insurrection
 # = { unrest = 0 } # Pugachev is captured
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

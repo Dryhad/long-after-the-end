@@ -37,3 +37,8 @@ add_permanent_province_modifier = {
 	#add_core= KAS 
 }
 # = { #owner = QNG #controller = QNG #add_core= QNG } # Part of the Manchu empire
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

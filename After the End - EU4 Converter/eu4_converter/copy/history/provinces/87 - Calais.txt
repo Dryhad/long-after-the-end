@@ -35,3 +35,7 @@ is_city = no
 # = { #controller = FRA } # Treaty of Vervins, Calais back to France
 # = { fort_16th = no fort_17th = yes }
 # = { fort_17th = no fort_18th = yes }
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

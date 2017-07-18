@@ -35,3 +35,8 @@ discovered_by = KAZ
 # = { base_tax = 1ase_production = 1 # Governmental reforms and the absolutism
 # = { base_tax = 1ase_production = 1 # Legislative reform
 # = { capital = "Ryazan" } # Ryazan governorate formed, city renamed
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

@@ -26,3 +26,8 @@ native_hostileness = 8
 	religion = candomble
 	trade_goods = grain #Cattle
 }
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

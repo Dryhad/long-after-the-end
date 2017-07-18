@@ -62,3 +62,7 @@ discovered_by = indian
 	#owner = RUS
 	#add_core= RUS
 } # Napoleon abdicates
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

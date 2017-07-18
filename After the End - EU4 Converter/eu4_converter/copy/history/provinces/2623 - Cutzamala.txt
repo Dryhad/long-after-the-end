@@ -31,3 +31,8 @@ fort_15th = yes
 } #Tangaxuan II is deposed and murdered.
 # = { culture = castillian } # growing aculturation
 # = { #owner = MEX #add_core= MEX #controller = MEX } # Mexican War of Independence
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

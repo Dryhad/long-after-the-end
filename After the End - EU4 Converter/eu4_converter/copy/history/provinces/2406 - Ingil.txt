@@ -39,3 +39,8 @@ discovered_by = indian
 } # Union of Lublin
 # = { #owner = ZAZ #controller = ZAZ #add_core= ZAZ remove_core = CRI culture = ruthenian religion = orthodox } # Don Cossacks settle in the area, build fortified capital
 # = { #owner = RUS #controller = RUS #add_core= RUS } # Sich liquidated
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

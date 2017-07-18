@@ -52,3 +52,8 @@ discovered_by = indian
 	#controller = ANN
 	remove_core = DAI
 } # Nguyen Phuc Anh annexed the Tay Son Dynasty
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

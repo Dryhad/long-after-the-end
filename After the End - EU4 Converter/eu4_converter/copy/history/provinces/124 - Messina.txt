@@ -57,3 +57,8 @@ discovered_by = indian
 	#owner = NAP
 	#controller = NAP
 } # The Kingdom is restored to Ferdinand
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

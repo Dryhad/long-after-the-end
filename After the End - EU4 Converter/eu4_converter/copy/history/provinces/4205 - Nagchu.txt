@@ -40,3 +40,8 @@ discovered_by = indian
 	#controller = QNG
 	#add_core= QNG
 } # U-tsang integrated into Qing empire after Sino-nepalese war
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

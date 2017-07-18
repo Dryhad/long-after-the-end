@@ -37,3 +37,8 @@ discovered_by = indian
 	#add_core= PRU
 	remove_core = SAX
 } # Congress of Vienna
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

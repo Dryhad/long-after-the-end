@@ -45,3 +45,8 @@ discovered_by = indian
 	#controller = HAB
 	#add_core= HAB
 } # First partition of Poland
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

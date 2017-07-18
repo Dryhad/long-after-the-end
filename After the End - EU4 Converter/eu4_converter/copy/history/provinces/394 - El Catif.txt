@@ -20,3 +20,7 @@ discovered_by = indian
 discovered_by = east_african
 
 fort_15th = yes
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

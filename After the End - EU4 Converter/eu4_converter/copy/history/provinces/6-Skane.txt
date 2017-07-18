@@ -44,3 +44,8 @@ discovered_by = indian
 	fort_17th = yes
 } #(see Blekinge)
 # = { culture = swedish } # The backbone of danishness is finally broken
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

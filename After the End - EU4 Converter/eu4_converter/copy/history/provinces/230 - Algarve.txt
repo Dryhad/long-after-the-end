@@ -25,3 +25,8 @@ discovered_by = high_american
 # = { unrest = 0 }
 # = { #controller = FRA } # Occupied by troops led by Manuel Godoy
 # = { #controller = POR } # Revolt in Olhão
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

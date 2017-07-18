@@ -33,3 +33,8 @@ discovered_by = indian
 	#owner = TAU
 	remove_core = SST
 }
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

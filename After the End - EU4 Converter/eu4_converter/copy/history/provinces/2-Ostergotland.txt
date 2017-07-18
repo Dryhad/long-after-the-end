@@ -27,3 +27,8 @@ discovered_by = indian
 # = { #controller = SWE } # Retaken by Sweden
 # = { religion = protestant}
 # = { capital = "Norrköping" }
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

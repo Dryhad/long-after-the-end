@@ -53,3 +53,8 @@ discovered_by = chinese
 	#controller = GBR
 	#add_core= GBR
 } # Given to GBR by Mir Qasim
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

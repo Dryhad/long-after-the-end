@@ -29,3 +29,8 @@ discovered_by = indian
 # = { unrest = 0 } # 'Paris vaut bien une messe!', Henri converts to Catholicism
 # = { fort_16th = no fort_17th = yes }
 # = { fort_17th = no fort_18th = yes }
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

@@ -27,3 +27,8 @@ discovered_by = indian
 	#owner = PRK
 	#controller = PRK
 }
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

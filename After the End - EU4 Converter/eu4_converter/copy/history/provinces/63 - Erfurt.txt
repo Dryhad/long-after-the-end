@@ -35,3 +35,8 @@ fort_15th = yes
 	#controller = PRU
 	#add_core= PRU
 } # Congress of Vienna
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

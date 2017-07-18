@@ -26,3 +26,8 @@ discovered_by = indian
 # = { #owner = HAB #controller = HAB #add_core= HAB } # Bavaria is conquered by the Emperor, is however later restored for the balance of power
 # = { #owner = BAV #controller = BAV remove_core = HAB }
 # = { hre = no } # The Holy Roman Empire is dissolved
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

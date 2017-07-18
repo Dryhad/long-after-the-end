@@ -29,3 +29,7 @@ discovered_by = indian
 # = { #owner = TUR #controller = TUR #add_core= TUR remove_core = RUS } # Treaty of Adrianople
 # = { #controller = RUS } # Taken by the army during the Russo-Turkish War
 # = { #owner = RUS #add_core= RUS remove_core = TUR capital = "Ekaterinoslav" } # Treaty of Belgrad
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

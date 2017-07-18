@@ -47,3 +47,8 @@ base_production = 1} # Richelieu
 # = { revolt = {} #controller = FRA } # The King is allowed to enter Paris again, Mazarin leaves France for good. Second Fronde over.
 # = { unrest = 8 } # Edict of Nantes revoked by Louis XIV
 # = { religion = cult_of_reason unrest = 0 } # Dragonnard campaign succesful: region reverts back to cult_of_reasonism
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

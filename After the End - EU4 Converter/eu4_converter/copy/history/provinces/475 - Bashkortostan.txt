@@ -33,3 +33,8 @@ discovered_by = indian
 # = { unrest = 0 }
 # = { revolt = { type = anti_tax_rebels size = 2 name = "Yemelyan Pugachev" } #controller = REB unrest = 6 } # Pugachev rebellion
 # = { revolt = {} #controller = RUS unrest = 0 } # Pugachev is captured
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

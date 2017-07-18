@@ -29,3 +29,8 @@ discovered_by = high_american
 # = { remove_core = LIT remove_core = PLC } # Treaty of Andrusovo
 # = { #controller = FRA } # Battle of Smolensk
 # = { #controller = RUS }
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

@@ -56,3 +56,8 @@ base_production = 1 # The General Estates
 	#controller = LUX
 	remove_core = FRA
 } # Grand Duchy of Luxembourg
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

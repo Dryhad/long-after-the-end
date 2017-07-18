@@ -35,3 +35,8 @@ native_hostileness = 5
 	culture = castillian
 	remove_core = POR
 } # The brazilian are chased out
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

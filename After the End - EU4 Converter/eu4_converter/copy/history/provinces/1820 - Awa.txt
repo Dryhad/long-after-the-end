@@ -27,3 +27,7 @@ discovered_by = QNG
 # = { #owner = CSK #controller = CSK remove_core = HSK }
 # = { #owner = ODA #controller = ODA #add_core= ODA remove_core = CSK }
 # = { #owner = TKG #controller = TKG #add_core= TKG remove_core = ODA }
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

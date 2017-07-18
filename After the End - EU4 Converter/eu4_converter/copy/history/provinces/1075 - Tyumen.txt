@@ -34,3 +34,8 @@ unrest = 15
 # = { unrest = 2 culture = russian religion = orthodox }
 # = { unrest = 6 }
 # = { unrest = 0 remove_core = SIB }
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

@@ -39,3 +39,8 @@ fort_15th = yes
 # = { unrest = 5 } # Almagro is defeated & executed
 # = { unrest = 6 } # Pizzaro is assassinated by supporters of Almagro, his brother assumed control
 # = { unrest = 0 } # Gonzalo Pizzaro is also executed & Spain regains control
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

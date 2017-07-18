@@ -49,3 +49,8 @@ discovered_by = indian
 	#add_core= GBR
 	remove_core = FRA
 } # The Second Treaty of Paris
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

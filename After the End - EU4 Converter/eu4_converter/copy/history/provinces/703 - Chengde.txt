@@ -40,3 +40,8 @@ discovered_by = chinese
 } # The Qing Dynasty 
 ## = { remove_core = MNG } # The government in Taiwan surrendered
 # = { discovered_by = SPA }
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

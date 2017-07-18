@@ -9,3 +9,7 @@ discovered_by = indian
 
 
 # = { discovered_by = POR }
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

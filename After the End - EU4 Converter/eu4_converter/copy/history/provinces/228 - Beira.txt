@@ -33,3 +33,8 @@ discovered_by = high_american
 # = { #controller = POR }
 # = { #controller = FRA } # Invaded after the battle of Côa
 # = { #controller = POR } # The Napoleonic army retreats from Portugal
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

@@ -35,3 +35,8 @@ discovered_by = indian
 # = { #controller = LOR } # Leopold restored when the Spanish Succession Crisis comes to an end
 # = { #owner = FRA #controller = FRA } # Death of Duke Stanislaus, Lorraine ceases to exist
 # = { hre = no } # The Holy Roman Empire is dissolved
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

@@ -37,3 +37,8 @@ discovered_by = indian
 	remove_core = TOK
 } # Declared independent, Lan Xang was partitioned into three kingdoms; Vientiane, Champasak & Luang Prabang
 # = { unrest = 4 }
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

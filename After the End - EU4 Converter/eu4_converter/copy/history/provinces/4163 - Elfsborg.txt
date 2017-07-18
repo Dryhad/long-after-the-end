@@ -24,3 +24,8 @@ discovered_by = indian
 # = { #controller = DAN } # The War of Kalmar-Captured by Christian IV
 # = { #controller = SWE }# The Peace of Knäred
 # = { capital = "Göteborg" }
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

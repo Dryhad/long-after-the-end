@@ -45,3 +45,8 @@ base_production = 1 # At the walls of Paris - French War of Religion
 # = { unrest = 0 revolt = { type = heretic_rebels size = 2 } #controller = REB } # Camisard rebels in control
 # = { revolt = {} #controller = FRA unrest = 3 } # Camisard rebellion ends, isolated aggression continues until 1710
 # = { unrest = 0 } # Rebellion ends
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

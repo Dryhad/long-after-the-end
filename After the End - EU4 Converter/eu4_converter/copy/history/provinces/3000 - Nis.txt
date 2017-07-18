@@ -36,3 +36,7 @@ discovered_by = indian
 # = { revolt = {} #controller = TUR }
 # = { revolt = { type = nationalist_rebels size = 2 } #controller = REB } # The Second Serbian uprising
 # = { revolt = {} #controller = TUR }
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

@@ -19,3 +19,8 @@ discovered_by = chinese
 # = { #add_core= MCH } # Manchu Invasion
 # = { remove_core = MCH } # Qing vassalized Korea
 # = { discovered_by = NED } # Hendrick Hamel
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

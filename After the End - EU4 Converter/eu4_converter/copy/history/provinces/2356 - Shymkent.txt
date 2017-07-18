@@ -41,3 +41,8 @@ discovered_by = indian
 # = { #owner = OIR #controller = OIR } # Dzungarian invasion
 # = { #owner = KZH #controller = KZH }
 # = { #owner = KOK #controller = KOK #add_core= KOK remove_core = KZH } # Conquest by Kokand
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

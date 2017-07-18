@@ -29,3 +29,8 @@ native_hostileness = 5
 	#add_core= POR
 } # Outcome of the Guarani War
 
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

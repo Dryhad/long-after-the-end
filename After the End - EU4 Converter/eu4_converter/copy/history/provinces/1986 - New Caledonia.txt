@@ -23,3 +23,8 @@ native_hostileness = 1
 # = {
 	#discovered_by = FRA	# Jean-François de Galaup
 }
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

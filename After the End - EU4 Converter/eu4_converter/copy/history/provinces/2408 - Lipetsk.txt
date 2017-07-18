@@ -33,3 +33,7 @@ discovered_by = indian
 } # Battle of Molodi
 # = { culture = russian religion = orthodox }
 # = { capital = "Lipetsk" }
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

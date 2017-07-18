@@ -36,3 +36,8 @@ native_hostileness = 5
 } # The brazilian are chased out
 # = { #add_core= SPA }
 # = { capital = "Paysandú" }
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

@@ -26,3 +26,8 @@ discovered_by = indian
 	remove_core = CRI 
 } # Battle of Molodi
 # = { culture = russian religion = orthodox }
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

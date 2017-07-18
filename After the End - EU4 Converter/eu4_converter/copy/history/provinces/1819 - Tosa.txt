@@ -26,3 +26,8 @@ discovered_by = QNG
 # = { fort_15th = yes } # Oko Castle, the capital of the Chosokabe clan
 # = { capital = "Urado" }
 # = { #owner = TKG #controller = TKG #add_core= TKG remove_core = CSK capital = "Kochi" fort_15th = no } # The Chosolabe clan lost Tosa
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

@@ -33,3 +33,8 @@ discovered_by = indian
 # = { unrest = 0 }
 # = { religion = cult_of_reason } # Dragonnard campaign succesful: region reverts back to cult_of_reasonism
 # = { base_tax = 1ase_production = 1 # The Eden Agreement }
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

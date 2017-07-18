@@ -48,3 +48,8 @@ discovered_by = indian
 # = { unrest = 8 } # Edict of Nantes revoked by Louis XIV
 # = { religion = cult_of_reason } # Dragonnard campaign succesful: region reverts back to cult_of_reasonism
 # = { unrest = 0 } # War of the Grand Alliance erupts: Louis XIV can't persue his religious policy anymore
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

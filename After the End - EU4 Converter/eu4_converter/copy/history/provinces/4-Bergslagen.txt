@@ -34,3 +34,8 @@ discovered_by = indian
 # = { religion = protestant}
 # = { base_tax = 1ase_production = 1 # Iron is king!
 
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

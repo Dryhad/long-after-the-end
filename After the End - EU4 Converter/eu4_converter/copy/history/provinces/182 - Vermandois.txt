@@ -32,3 +32,8 @@ discovered_by = indian
 # = { revolt = {} #controller = FRA unrest = 4 } # An unstable peace is concluded
 # = { unrest = 7 } # Mazarin returns from exile, Condé sides with Spain, situation heats up again
 # = { unrest = 0 } # The King is allowed to enter Paris again, Mazarin leaves France for good. Second Fronde over.
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

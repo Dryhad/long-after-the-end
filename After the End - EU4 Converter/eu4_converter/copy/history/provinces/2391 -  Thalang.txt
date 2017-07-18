@@ -39,3 +39,8 @@ discovered_by = indian
 	remove_core = LIG
 }
 # = { #add_core= TAU }
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

@@ -73,3 +73,8 @@ discovered_by = indian
 # = { revolt = {} # = HAB }
 # = { revolt = { type = anti_tax_rebels size = 2 } # = REB } # Peasant rebellion against the nobles
 # = { revolt = {} # = HAB } # The leaders are arrested and executed
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

@@ -31,3 +31,8 @@ discovered_by = chinese
 	#add_core= QNG
 }
 # = { remove_core = MNG }
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

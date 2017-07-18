@@ -29,3 +29,7 @@ discovered_by = QNG
 # = { remove_core = HSK }
 # = { fort_16th = yes } # Osaka Castle
 # = { #add_core= TKG #owner = TKG #controller = TKG remove_core = TKG fort_16th = no }
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

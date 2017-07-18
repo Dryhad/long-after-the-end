@@ -30,3 +30,8 @@ discovered_by = chinese
 }
 # = { remove_core = MNG }
 # = { discovered_by = SPA } #Ferdinand Verbiest
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

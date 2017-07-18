@@ -27,3 +27,7 @@ discovered_by = QNG
 # = { #owner = MRI #controller = MRI remove_core = AMA }
 # = { #add_core= ODA #owner = ODA #controller = ODA }
 # = { #add_core= IKE #owner = IKE #controller = IKE remove_core = ODA }
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

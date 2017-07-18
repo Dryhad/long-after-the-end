@@ -23,3 +23,7 @@ native_hostileness = 6
 	religion = candomble
 	trade_goods = cocoa
 }
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

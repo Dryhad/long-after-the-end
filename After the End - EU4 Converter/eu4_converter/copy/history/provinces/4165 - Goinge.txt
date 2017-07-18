@@ -25,3 +25,8 @@ discovered_by = indian
 # = { revolt = {} #controller = DAN } # Liberated by Sweden
 # = { religion = protestant} # Unknown date
 # = { #controller = SWE #owner = SWE #add_core= SWE } # The Peace of Roskilde
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

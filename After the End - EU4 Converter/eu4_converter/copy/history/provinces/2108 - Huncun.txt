@@ -30,3 +30,8 @@ discovered_by = chinese
 } # The Qing Dynasty
 # = { discovered_by = SPA }
 # = { discovered_by = RUS } # Martin Spanberg
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

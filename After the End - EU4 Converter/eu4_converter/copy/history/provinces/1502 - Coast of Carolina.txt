@@ -12,3 +12,8 @@ discovered_by = CHE
 # = { discovered_by = SPA } # Lucas Vásquez de Ayllón
 # = { discovered_by = FRA }
 
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

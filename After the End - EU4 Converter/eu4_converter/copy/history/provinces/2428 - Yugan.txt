@@ -36,3 +36,8 @@ is_city = no
 # = { unrest = 0 }
 # = { unrest = 3 }
 # = { unrest = 0 }
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

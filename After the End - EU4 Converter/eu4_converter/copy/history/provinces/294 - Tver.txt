@@ -35,3 +35,8 @@ base_production = 1 # Treasury reforms
 # = { unrest = 0 } # Order returned, Romanov dynasty
 # = { base_tax = 1ase_production = 1 # Governmental reforms and the absolutism
 # = { base_tax = 1ase_production = 1 # Legislative reform
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

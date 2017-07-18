@@ -25,3 +25,8 @@ fort_15th = yes
 # = { unrest = 6 } # Rebellion
 # = { unrest = 0 }
 # = { #add_core= AYU } # Siamnese vassal
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

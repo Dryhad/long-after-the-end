@@ -39,3 +39,8 @@ native_hostileness = 3
 }
 # = { unrest = 4 } # Resistance from Maroon dwellers
 # = { unrest = 0 } # Zumbi, their leader is captured
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

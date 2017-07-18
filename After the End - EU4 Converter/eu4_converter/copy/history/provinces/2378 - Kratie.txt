@@ -23,3 +23,8 @@ discovered_by = indian
 # = { #add_core= ANN } # Vietnamese Intervention
 # = { unrest = 5 } # The Siamese-Cambodian Rebellion
 # = { unrest = 0 }
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

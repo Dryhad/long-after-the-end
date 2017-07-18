@@ -47,3 +47,8 @@ discovered_by = QAS
 #  = { revolt = { type = nationalist_rebels size = 2 } #controller = REB } # Kuruc rebellion, lead by Francisc Rakoczy
 #  = { revolt = {} } # Plague
 #  = { #controller = HAB } # The House of Habsburg recognized as the new ruler
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

@@ -37,3 +37,8 @@ discovered_by = CHM
 	#add_core= COL
 } # Colombia declares independence
 # = { remove_core = SPA } # Colombia's independence is recongnized
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

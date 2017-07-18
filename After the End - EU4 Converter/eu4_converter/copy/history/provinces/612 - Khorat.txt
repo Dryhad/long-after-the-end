@@ -32,3 +32,8 @@ discovered_by = indian
 # = { unrest = 0 }
 # = { revolt = { type = revolutionary_rebels size = 1 } #controller = REB } # The Siamese-Cambodian Rebellion
 # = { revolt = {} }
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

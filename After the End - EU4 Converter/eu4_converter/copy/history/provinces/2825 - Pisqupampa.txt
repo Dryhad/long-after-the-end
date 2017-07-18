@@ -44,3 +44,8 @@ discovered_by = CHM
 # = { unrest = 0 } # Gonzalo Pizzaro is also executed & Spain regains control
 # = { revolt = { type = nationalist_rebels size = 2 } #controller = REB }
 # = { revolt = {} #controller = SPA }
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

@@ -30,3 +30,8 @@ revolt_risk = 15
 	remove_core = SIB 
 } # Yermak Timofeevich
 # = { capital = "Omsk" }
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

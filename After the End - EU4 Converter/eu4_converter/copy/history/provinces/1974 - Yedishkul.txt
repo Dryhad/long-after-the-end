@@ -28,3 +28,8 @@ discovered_by = indian
 # = { #controller = RUS } # Russian occupation
 # = {	#controller = CRI #add_core= RUS remove_core = TUR } # Treaty of Kuchuk-Kainarji, Crimea becomes Russian vassal
 # = { #owner = RUS #controller = RUS remove_core = CRI } # Annexed by Catherine II
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

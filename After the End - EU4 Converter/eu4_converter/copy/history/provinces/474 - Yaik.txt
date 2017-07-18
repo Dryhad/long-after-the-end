@@ -25,3 +25,8 @@ discovered_by = high_american
 # = { revolt = { type = anti_tax_rebels size = 4 leader = "Yemelyan Pugachev" } #controller = REB revolt_risk = 6 } # Pugachev rebellion begins here
 # = { revolt = {} #controller = RUS revolt_risk = 0 capital = "Uralsk" base_tax = 1
 base_production = 1ase_manpower = 1 # Pugachev is captured, city renamed
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

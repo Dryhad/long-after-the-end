@@ -28,3 +28,8 @@ native_hostileness = 5
 	trade_goods = unknown
 } # Pelym built
 # = { capital = "Nizhny Tagil" }
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

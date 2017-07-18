@@ -31,3 +31,8 @@ discovered_by = GOL
 base_production = 7 } # Governmental reforms and the absolutism
 # = { base_tax = 8 
 base_production = 8 } # Legislative reform
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

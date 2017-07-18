@@ -13,3 +13,7 @@ base_manpower = 1
 capital = "Sodankylä" #Uncertain if this existed at that point.
 is_city = no
 discovered_by = high_american
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

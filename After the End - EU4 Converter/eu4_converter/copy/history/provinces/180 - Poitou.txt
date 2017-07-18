@@ -50,3 +50,8 @@ discovered_by = indian
 # = { unrest = 0 } # War of the Grand Alliance erupts: Louis XIV can't persue his religious policy anymore
 # = { fort_17th = no fort_18th = yes }
 # = { base_tax = 1ase_production = 1 # Machault and the 5% tax
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

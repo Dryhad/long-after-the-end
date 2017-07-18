@@ -26,3 +26,8 @@ discovered_by = indian
 # = { unrest = 0 } # Order returned, Romanov dynasty
 # = { unrest = 5 } # Emelian Pugachev, Cossack insurrection
 # = { unrest = 0 } # Pugachev is captured
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

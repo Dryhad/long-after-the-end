@@ -45,3 +45,7 @@ discovered_by = chinese
 	#controller = TAU
 	#add_core= TAU
 }
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

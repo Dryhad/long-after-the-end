@@ -23,3 +23,7 @@ discovered_by = QNG
 # = { #owner = SMZ #controller = SMZ }
 # = { #owner = ITO #controller = ITO }
 # = { remove_core = SMZ }
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

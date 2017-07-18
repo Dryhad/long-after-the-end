@@ -39,3 +39,8 @@ discovered_by = indian
 # = { unrest = 0 }
 # = { #owner = PEG #controller = PEG } # Restored Pegu Dynasty
 # = { #owner = TAU #controller = TAU } # Returned to Burmese control
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

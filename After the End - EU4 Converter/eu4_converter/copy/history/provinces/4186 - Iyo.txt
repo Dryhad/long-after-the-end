@@ -21,3 +21,7 @@ discovered_by = QNG
 # = { #add_core= MRI #owner = MRI #controller = MRI remove_core = KNO } # Fall of the Kono Clan
 # = { #owner = TKG #controller = TKG #add_core= TKG remove_core = MRI }
 # = { #add_core= DTE #owner = DTE #controller = DTE remove_core = TKG } # Date-Uwajima Clan
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

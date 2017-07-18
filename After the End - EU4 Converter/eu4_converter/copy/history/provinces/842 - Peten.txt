@@ -32,3 +32,8 @@ discovered_by =  mesoamerican
 	religion = catholic
 } # The remaining pop. was forced to resettle at Ciudad de Flores
 # = { #owner = MEX #add_core= MEX #controller = SPA } # Mexican War of Independence
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

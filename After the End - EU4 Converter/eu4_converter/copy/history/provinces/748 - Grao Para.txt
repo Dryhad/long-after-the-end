@@ -31,3 +31,8 @@ native_hostileness = 3
 	culture = brazilian
 	religion = candomble
 } # Conquered by Portugal, Forte do Presépio
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

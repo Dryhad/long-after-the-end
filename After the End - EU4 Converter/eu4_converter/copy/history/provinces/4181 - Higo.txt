@@ -26,3 +26,7 @@ discovered_by = QNG
 # = { #owner = ODA #controller = ODA #add_core= ODA remove_core = SMZ} #Hideyoshi's conquest of Kyushu
 # = { #owner = TKG #controller = TKG #add_core= TKG remove_core = ODA }
 # = { #owner = HSK #controller = HSK #add_core= HSK remove_core = TKG fort_16th = yes } # Kumamoto-han granted to Hosokawa
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

@@ -38,3 +38,8 @@ discovered_by = indian
 # = { unrest = 0 } # The King is allowed to enter Paris again, Mazarin leaves France for good. Second Fronde over.
 # = { base_tax = 1ase_production = 1 # Machault & the 5% tax
 # = { hre = no } # The Holy Roman Empire is dissolved
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

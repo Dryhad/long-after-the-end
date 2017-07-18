@@ -43,3 +43,8 @@ discovered_by = high_american
 # = { #controller = SWE } # The Peace of Kardis
 # = { #controller = RUS } # The Great Nordic War-Captured Dorpat
 # = { #owner = RUS #add_core= RUS remove_core = SWE } # The Peace of Nystad
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

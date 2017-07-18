@@ -31,3 +31,8 @@ revolt_risk = 15
 } # Yermak Timofeevich
 # = { capital = "Tsaryovo Gorodische" culture = russian religion = orthodox }
 # = { capital = "Kurgan" }
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

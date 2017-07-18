@@ -24,3 +24,8 @@ discovered_by = GOL
 
 # = { #owner = KZH #controller = KZH #add_core= KZH remove_core = NOG culture = khazak } # Qasim Khan conquers Nogai lands
 # = { discovered_by = RUS }
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

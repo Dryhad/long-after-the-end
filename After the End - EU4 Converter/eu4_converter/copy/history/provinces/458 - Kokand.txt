@@ -37,3 +37,8 @@ discovered_by = indian
 } # The Uzbek Shaybanids brings an end to the Timurid dynasty
 # = { discovered_by = RUS }
 # = { #owner = KOK #controller = KOK remove_core = BUK } # Independent principality established by Shaybanid Shahrukh
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

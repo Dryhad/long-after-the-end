@@ -40,3 +40,7 @@ discovered_by = indian
 # = { #controller = MOL } # Treaty of Sistova
 # = { #controller = RUS } # Occupied by Russia
 # = { #controller = MOL }
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

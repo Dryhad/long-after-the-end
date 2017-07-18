@@ -44,3 +44,8 @@ native_hostileness = 3
 	#add_core= COL
 	remove_core = SPA
 } # The establishment of Gran Colombia
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

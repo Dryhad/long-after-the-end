@@ -25,3 +25,8 @@ discovered_by = indian
 # = { fort_16th = yes } #Fortified by Wallenstein
 # = { unrest = 4 }# Disastrous fire in Rostock
 # = { hre = no } # The Holy Roman Empire is dissolved
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

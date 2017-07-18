@@ -24,3 +24,8 @@ discovered_by = high_american
 # = { #owner = RUS #controller = RUS #add_core= RUS remove_core = KAZ } # Russian conquest of Kazan
 # = { culture = russian religion = orthodox } # Most Tatars were christianized or killed
 # = { capital = "Perm" } # Peter the Great founds city
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

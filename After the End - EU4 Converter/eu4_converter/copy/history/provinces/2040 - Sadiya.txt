@@ -32,3 +32,8 @@ discovered_by = chinese
 # = { #controller = ASS #owner = ASS }
 # = { #controller = TAU #owner = TAU }
 # = { #owner = ASS #controller = ASS }
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

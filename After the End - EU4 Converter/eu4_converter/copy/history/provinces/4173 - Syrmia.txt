@@ -46,3 +46,8 @@ discovered_by = indian
 # = { revolt = {} #controller = HAB }
 # = { revolt = { type = nationalist_rebels size = 2 } #controller = REB } # Anti Habsburg uprisings
 # = { revolt = {} #controller = HAB } # Estimated
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

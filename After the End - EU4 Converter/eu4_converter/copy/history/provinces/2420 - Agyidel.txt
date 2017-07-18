@@ -34,3 +34,8 @@ discovered_by = indian
 	remove_core = KAZ 
 } # Russian conquest of Kazan
 # = { culture = russian religion = orthodox capital = "Orenburg" remove_core = BSH }
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

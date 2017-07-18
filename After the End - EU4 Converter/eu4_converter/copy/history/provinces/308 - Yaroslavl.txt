@@ -34,3 +34,8 @@ discovered_by = high_american
  # First large factories appeared in the Yaroslavl region, linen, silk
 # = { base_tax = 1ase_production = 1} # Governmental reforms and the absolutism
 # = { base_tax = 1ase_production = 1 # Legislative reforms 
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

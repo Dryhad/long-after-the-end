@@ -36,3 +36,8 @@ discovered_by = indian
 	remove_core = PAP
 } # Avignon is incorporated into France
 
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

@@ -26,3 +26,7 @@ discovered_by = QNG
 # = { #owner = MRI #controller = MRI remove_core = OUC }
 # = { #owner = TKG #controller = TKG #add_core= TKG remove_core = MRI fort_15th = no }
 # = { trade_goods = fish } # Estimate, Japan stops silver export
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

@@ -27,3 +27,8 @@ native_hostileness = 5
 	trade_goods = tobacco
 	is_city = no
 }
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

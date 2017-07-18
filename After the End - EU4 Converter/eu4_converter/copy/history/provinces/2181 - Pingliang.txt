@@ -27,3 +27,7 @@ discovered_by = chinese
 	#add_core= QNG
 }
 # = { discovered_by = SPA } #Ferdinand Verbiest
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

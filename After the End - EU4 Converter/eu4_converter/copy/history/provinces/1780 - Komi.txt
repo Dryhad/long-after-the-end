@@ -28,3 +28,8 @@ native_hostileness = 3
 }
 # = { unrest = 5 } # "Time of troubles"
 # = { unrest = 0 } # Order returned, Romanov dynasty
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

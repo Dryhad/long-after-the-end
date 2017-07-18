@@ -23,3 +23,8 @@ discovered_by = high_american
 # = { trade_goods = unknown
 # = { #controller = RUS } # Conquered by Barclay de Tolly
 # = { #controller = SWE } # Treaty of Fredrikshamn
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

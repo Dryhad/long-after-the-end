@@ -30,3 +30,8 @@ discovered_by = KAZ
 # = { trade_goods = unknownhe ironworking industry, first arms factory in Russia
 # = { base_tax = 1ase_production = 1 # Legislative reform
 # = { base_tax = 1ase_production = 1
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

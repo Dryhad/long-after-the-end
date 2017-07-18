@@ -38,3 +38,8 @@ discovered_by = ARW
 }
 # = { unrest = 3 } # Slave uprising
 # = { unrest = 0 } # The plot was discovered and put down
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

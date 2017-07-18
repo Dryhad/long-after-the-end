@@ -26,3 +26,8 @@ discovered_by = high_american
 }
 # = { unrest = 5 } # "Time of troubles"
 # = { unrest = 0 } # Center of Pozharsky forces
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

@@ -29,3 +29,8 @@ discovered_by = indian
 	#controller = JOH
 }
 # = { capital = "Kota Tingi" } # Alauddin Riayat Shah moved the capital
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

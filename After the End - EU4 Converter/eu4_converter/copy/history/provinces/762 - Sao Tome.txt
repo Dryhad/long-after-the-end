@@ -24,3 +24,8 @@ native_hostileness = 3
 	culture = brazilian
 }
 # = { capital = "São Salvador de Campos" }
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

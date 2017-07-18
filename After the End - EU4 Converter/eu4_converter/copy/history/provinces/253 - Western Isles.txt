@@ -25,3 +25,8 @@ discovered_by = high_american
 	## = GBR
 	##= GBR
 }
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

@@ -35,3 +35,8 @@ discovered_by = high_american
 # = { #controller = SWE } # The Peace of Roskilde
 # = { culture = swedish } # date estimated
 # = { capital = "Östersund" }
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

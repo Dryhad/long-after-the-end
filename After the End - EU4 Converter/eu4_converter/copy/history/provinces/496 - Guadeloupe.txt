@@ -45,3 +45,8 @@ discovered_by = ARW
 	#add_core= FRA
 	remove_core = SWE
 } # The Treaty of Paris
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
