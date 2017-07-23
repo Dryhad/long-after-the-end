@@ -29,8 +29,3 @@ native_hostileness = 3
 	trade_goods = unknown
 } # Part of Russia
 # = { #add_core= RUS }
-
-
-native_size = 5
-native_ferocity = 1
-native_hostileness = 3

@@ -15,8 +15,3 @@ native_hostileness = 1
 # = {
 	#discovered_by = SPA	# Ferdinand Magellanm unknown date
 }
-
-
-native_size = 5
-native_ferocity = 1
-native_hostileness = 3

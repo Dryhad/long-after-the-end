@@ -28,8 +28,3 @@ native_hostileness = 5
 	trade_goods = grain
 } # Portugese colony
 # = {	is_city = no }
-
-
-native_size = 5
-native_ferocity = 1
-native_hostileness = 3

@@ -31,8 +31,3 @@ native_hostileness = 3
 }
 # = { unrest = 6 } # Natives led by Mandu Ladino rebelled against the brazilian expansion
 # = { unrest = 0 } # The rebellion is subdued
-
-
-native_size = 5
-native_ferocity = 1
-native_hostileness = 3

@@ -33,8 +33,3 @@ discovered_by =  mesoamerican
 } 
 # = { discovered_by = ENG } # Drake 
 # = { #owner = MEX #add_core= MEX #controller = MEX } # Mexican War of Independence
-
-
-native_size = 5
-native_ferocity = 1
-native_hostileness = 3

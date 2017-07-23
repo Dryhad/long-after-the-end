@@ -20,8 +20,3 @@ is_city = yes
 
 discovered_by = western
 discovered_by = eastern
-
-
-native_size = 5
-native_ferocity = 1
-native_hostileness = 3

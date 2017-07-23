@@ -41,8 +41,3 @@ base_manpower = 1
 	#add_core= LAP
 	remove_core = SPA
 } # Argentina is declared independent
-
-
-native_size = 5
-native_ferocity = 1
-native_hostileness = 3

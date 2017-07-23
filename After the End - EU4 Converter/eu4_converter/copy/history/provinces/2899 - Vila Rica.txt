@@ -32,8 +32,3 @@ native_hostileness = 7
 # = { revolt = {} #controller = POR } # The Paulistas were defeated
 # = { revolt = { type = nationalist_rebels size = 2 } #controller = REB } # War of Emboabas
 # = { revolt = {} #controller = POR } # Joaquim José da Silva Xavier is captured
-
-
-native_size = 5
-native_ferocity = 1
-native_hostileness = 3

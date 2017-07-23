@@ -29,8 +29,3 @@ discovered_by = CHM
 	is_city = no
 	trade_goods = tropical_wood
 } # The death of Atahualpa
-
-
-native_size = 5
-native_ferocity = 1
-native_hostileness = 3

@@ -23,8 +23,3 @@ native_hostileness = 6
 	culture = brazilian
 	religion = candomble
 }
-
-
-native_size = 5
-native_ferocity = 1
-native_hostileness = 3

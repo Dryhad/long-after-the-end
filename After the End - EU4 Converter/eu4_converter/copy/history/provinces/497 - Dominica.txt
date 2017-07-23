@@ -47,8 +47,3 @@ discovered_by = ARW
 # = { #owner = GBR #controller = GBR #add_core= GBR } # The Battle of the Saints, the French administration was over
 # = { unrest = 5 } # Escaped slaves were beginning to start revolts
  # Hurrican in 1779
-
-
-native_size = 5
-native_ferocity = 1
-native_hostileness = 3

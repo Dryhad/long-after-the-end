@@ -43,8 +43,3 @@ native_hostileness = 2
 	remove_core = NED
 	culture = brazilian
 } # The Netherlands formally ceded their Brazilian territories
-
-
-native_size = 5
-native_ferocity = 1
-native_hostileness = 3

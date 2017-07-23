@@ -32,8 +32,3 @@ native_hostileness = 0
 	#add_core= GBR
 	remove_core = ENG
 }
-
-
-native_size = 5
-native_ferocity = 1
-native_hostileness = 3

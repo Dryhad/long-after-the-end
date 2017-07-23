@@ -36,8 +36,3 @@ discovered_by =  mesoamerican
 	religion = catholic 
 } #de Montejo form Salamanca de Xicalango
 # = { #owner = MEX #add_core= MEX #controller = SPA } # Mexican War of Independence
-
-
-native_size = 5
-native_ferocity = 1
-native_hostileness = 3

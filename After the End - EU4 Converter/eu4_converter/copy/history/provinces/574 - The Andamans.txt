@@ -96,8 +96,3 @@ discovered_by = indian
 	controller = XXX
 	remove_core = GBR
 }
-
-
-native_size = 5
-native_ferocity = 1
-native_hostileness = 3

@@ -39,8 +39,3 @@ discovered_by = andean
 	#controller = CHL
 	#add_core= CHL
 } # First National Government Junta
-
-
-native_size = 5
-native_ferocity = 1
-native_hostileness = 3

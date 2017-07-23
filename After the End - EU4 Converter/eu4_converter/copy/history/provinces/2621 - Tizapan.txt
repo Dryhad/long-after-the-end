@@ -43,8 +43,3 @@ discovered_by =  mesoamerican
 # = { culture = castillian }
 # = { #owner = MEX #add_core= MEX #controller = MEX }
 
-
-
-native_size = 5
-native_ferocity = 1
-native_hostileness = 3

@@ -48,7 +48,3 @@ add_permanent_province_modifier = {
 	culture = american
 } # Declaration of independence
 # = { remove_core = GBR unrest = 0 } # Preliminary articles of peace, the British recognized American independence
-
-native_size = 5
-native_ferocity = 1
-native_hostileness = 3

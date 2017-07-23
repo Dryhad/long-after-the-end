@@ -55,6 +55,8 @@
  COLONIAL_ADRIATIC_Root_GetAdjective_Adriatic_ADJ:0  "[Root.GetAdjective] Adriatic"
  COLONIAL_ADRIATIC_Vechy_Paise:0 "Vechy Paise"
  COLONIAL_ADRIATIC_Vechy_Paise_ADJ:0 "Vechy Paise"
+ COLONIAL_ADRIATIC_New_Little_Italy:0 "New Little Italy"
+ COLONIAL_ADRIATIC_New_Little_Italy_ADJ:0 "New Little Italian"
  
  colonial_Eastern_Balkans:0  "Colonial Eastern Balkans"
  COLONIAL_EASTERN_BALKANS_Root_GetAdjective_Eastern_Balkans:0  "[Root.GetAdjective] Eastern Balkans"
@@ -67,6 +69,10 @@
  colonial_intermarium:0  "Colonial Intermarium"
  COLONIAL_INTERMARIUM_Root_GetAdjective_Intermarium:0  "[Root.GetAdjective] Intermarium"
  COLONIAL_INTERMARIUM_Root_GetAdjective_Intermarium_ADJ:0  "[Root.GetAdjective] Intermarium"
+ COLONIAL_INTERMARIUM_Miedzymorze:0 "Międzymorze"
+ COLONIAL_INTERMARIUM_Miedzymorze_ADJ:0 "Międzymorze"
+ COLONIAL_INTERMARIUM_Snorsh:0 "Snorsh"
+ COLONIAL_INTERMARIUM_Snorsh_ADJ:0 "Snorshm'n"
   
  colonial_North_Germany:0  "Colonial Northern Germany"
  COLONIAL_NORTH_GERMANY_Root_GetAdjective_North_Germany:0  "[Root.GetAdjective] Northern Germany"
@@ -127,6 +133,8 @@
  COLONIAL_SCANDINAVIA_Root_GetAdjective_Scandinavia_ADJ:0  "[Root.GetAdjective] Scandinavian"
  COLONIAL_SCANDINAVIA_Midgard:0 "Midgard"
  COLONIAL_SCANDINAVIA_Midgard_ADJ:0 "Midgarder"
+ COLONIAL_SCANDINAVIA_Valitsemallani:0 "Valitsemallani"
+ COLONIAL_SCANDINAVIA_Valitsemallani_ADJ:0 "Valitsemallani"
  
  #AFRICA#
  

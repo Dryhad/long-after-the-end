@@ -30,8 +30,3 @@ native_hostileness = 1
 }
 # = { capital = "Cochabamba" } # Viceroy Francisco de Toledo
 # = { revolt = { type = nationalist_rebels size = 0 } #controller = REB } # Bolivian War of Independence
-
-
-native_size = 5
-native_ferocity = 1
-native_hostileness = 3

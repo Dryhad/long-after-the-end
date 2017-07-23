@@ -19,7 +19,3 @@ is_city = yes
 
 discovered_by = south_american
 discovered_by = andean
-
-native_size = 5
-native_ferocity = 1
-native_hostileness = 3

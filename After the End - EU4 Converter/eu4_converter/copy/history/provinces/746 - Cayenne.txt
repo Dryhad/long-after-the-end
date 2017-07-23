@@ -49,8 +49,3 @@ native_hostileness = 3
 } # Treaty of Breda, given back to France
 # = { #controller = NED } # Captured in the Dutch wars of Louis XIV
 # = { #controller = FRA } # Estimated
-
-
-native_size = 5
-native_ferocity = 1
-native_hostileness = 3

@@ -153,6 +153,12 @@ colonial_adriatic = {
 		}
 		name = "COLONIAL_ADRIATIC_Vechy_Paise"
 	}
+	names = {
+		trigger = {
+			primary_culture = chicagoan
+		}
+		name = "COLONIAL_ADRIATIC_New_Little_Italy"
+	}
 	
 	#Generic
 	names = {
@@ -229,7 +235,22 @@ colonial_intermarium = {
 		48 1858 2995 2997 1859 256 1398 
 		1938 41
 	}
-
+	
+	#Specific
+	names = {
+		trigger = {
+			primary_culture = chicagoan
+		}
+		name = "COLONIAL_INTERMARIUM_Miedzymorze"
+	}
+	names = {
+		trigger = {
+			primary_culture = canuck
+		}
+		name = "COLONIAL_INTERMARIUM_Snorsh"
+	}
+	
+	#Generic
 	names = {
 		name = "COLONIAL_INTERMARIUM_Root_GetAdjective_Intermarium"
 	}
@@ -465,6 +486,12 @@ colonial_scandinavia = {
 			religion = norse_pagan_reformed
 		}
 		name = "COLONIAL_SCANDINAVIA_Midgard"
+	}
+	names = {
+		trigger = {
+			primary_culture = yooper
+		}
+		name = "COLONIAL_SCANDINAVIA_Valitsemallani"
 	}
 	
 	#Generic
