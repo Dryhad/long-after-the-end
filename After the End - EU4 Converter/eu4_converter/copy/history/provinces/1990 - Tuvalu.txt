@@ -1,6 +1,6 @@
 #1990 - Tuvalu
 
-culture = polynesian
+culture = samoan
 religion = animism
 capital = "Funafuti"
 trade_goods = unknown

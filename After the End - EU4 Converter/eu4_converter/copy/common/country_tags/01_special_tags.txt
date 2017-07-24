@@ -61,6 +61,7 @@ SHI = countries/Shimada.txt
 YAM = countries/Yamauchi.txt
 
 # Pacific
+AOT = countries/Aotearoa.txt
 AUR = countries/Auralia.txt
 BBQ = countries/BabaKiueria.txt
 DUN = countries/Dunedin.txt
@@ -68,4 +69,5 @@ HTR = countries/HuttRiver.txt
 HWI = countries/Hawaii.txt
 SGP = countries/Singapore.txt
 SPE = countries/Speewah.txt
+ULU = countries/Desert.txt
 UTP = countries/Utopia.txt

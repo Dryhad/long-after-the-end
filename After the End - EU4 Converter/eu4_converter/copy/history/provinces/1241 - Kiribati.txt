@@ -1,6 +1,6 @@
 #1241 - Kiribati
 
-culture = polynesian
+culture = gilbertese
 religion = mormon
 capital = "Kiribati"
 trade_goods = unknown

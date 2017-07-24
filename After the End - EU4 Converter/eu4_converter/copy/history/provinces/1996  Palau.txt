@@ -1,6 +1,6 @@
 #1996 - Palau
 
-culture = polynesian
+culture = filipino
 religion = cult_of_saints
 capital = "Ngerulmud"
 trade_goods = unknown

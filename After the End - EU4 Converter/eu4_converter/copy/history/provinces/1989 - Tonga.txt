@@ -1,6 +1,6 @@
 #1989 - Tonga
 
-culture = polynesian
+culture = samoan
 religion = mormon
 capital = "Nuku'alofa"
 trade_goods = unknown

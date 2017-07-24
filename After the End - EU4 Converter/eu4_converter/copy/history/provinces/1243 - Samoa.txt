@@ -1,6 +1,6 @@
 #1243 - Samoa
 
-culture = polynesian
+culture = samoan
 religion = mormon
 capital = "Samoa"
 trade_goods = unknown

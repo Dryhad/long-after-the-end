@@ -2,7 +2,7 @@ government = tribal_kingdom
 government_rank = 1
 technology_group = chinese
 religion = animism # for now
-primary_culture = strayan # for now
+primary_culture = kiwi
 capital = 1109	# Dunedin
 
 3050.1.1 = {

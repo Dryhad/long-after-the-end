@@ -1,7 +1,7 @@
 #648 - Halmahera
 
 culture = moluccan
-religion = animism
+religion = sunni
 capital = "Halmahera"
 trade_goods = unknown
 hre = no
@@ -15,14 +15,3 @@ native_hostileness = 1
 
 
 discovered_by = chinese
-
-# = { discovered_by = POR } # Francisco Serrão
-
-# = {
-	#owner = NED
-	#controller = NED
-	culture = dutch
-	religion = reformed
-	is_city = no
-	trade_goods = spices
-} # Loosely controlled by the Dutch

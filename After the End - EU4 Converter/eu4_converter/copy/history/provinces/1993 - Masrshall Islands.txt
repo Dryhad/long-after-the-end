@@ -1,6 +1,6 @@
 #1993 - Marshal Islands
 
-culture = polynesian
+culture = micronesian
 religion = atomicist
 capital = "Majuro"
 trade_goods = unknown

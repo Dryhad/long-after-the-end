@@ -1,3 +1,7 @@
+owner = ULU
+controller = ULU
+add_core = ULU
+is_city = yes
 culture = aboriginal
 religion = animism 
 trade_goods = unknown 
