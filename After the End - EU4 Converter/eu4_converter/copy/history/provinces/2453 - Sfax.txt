@@ -1,7 +1,7 @@
 # - Sfax
 
 culture = tunisian
-religion = sunni
+religion = brethren
 capital = "Sfax"
 trade_goods = unknown
 hre = no

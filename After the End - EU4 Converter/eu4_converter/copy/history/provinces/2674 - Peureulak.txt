@@ -3,7 +3,7 @@
 #owner = PSA
 #controller = PSA
 culture = sumatran
-religion = sunni
+religion = ahmadi
 capital = "Peureulak"
 trade_goods = spices
 hre = no

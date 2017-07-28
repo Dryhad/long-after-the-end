@@ -1,7 +1,7 @@
 #337 - Oran
 
 culture = algerian
-religion = sunni
+religion = brethren
 capital = "Oran"
 trade_goods = unknown
 hre = no

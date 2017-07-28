@@ -3,7 +3,7 @@
 #owner = PGR
 #controller = PGR
 culture = sumatran
-religion = sunni
+religion = ahmadi
 capital = "Pariaman"
 trade_goods = grain
 hre = no

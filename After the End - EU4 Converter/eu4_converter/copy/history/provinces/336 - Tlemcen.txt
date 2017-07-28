@@ -1,7 +1,7 @@
 #336 - Tlemcen
 
 culture = berber
-religion = sunni
+religion = brethren
 capital = "Tlemcen"
 trade_goods = unknown
 hre = no

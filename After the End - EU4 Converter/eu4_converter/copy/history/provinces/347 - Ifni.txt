@@ -1,7 +1,7 @@
 #347 - Ifni
 
 culture = berber
-religion = sunni
+religion = brethren
 capital = "Sidi Ifni"
 trade_goods = unknown
 hre = no

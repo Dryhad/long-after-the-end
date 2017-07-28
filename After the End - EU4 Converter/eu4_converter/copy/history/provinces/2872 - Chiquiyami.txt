@@ -3,7 +3,8 @@
 owner = MPC
 controller = MPC
 add_core = MPC
-culture = huarpe discovered_by = south_american
+culture = platinean
+discovered_by = south_american
 religion = animism
 capital = "Chiquiyami"
 is_city = yes

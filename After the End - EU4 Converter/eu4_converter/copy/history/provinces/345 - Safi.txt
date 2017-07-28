@@ -1,7 +1,7 @@
 #345 - Safi
 
 culture = moroccan
-religion = sunni
+religion = brethren
 capital = "Safi"
 trade_goods = unknown
 hre = no

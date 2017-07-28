@@ -4,7 +4,7 @@
 #controller = SUN
 #add_core= SUN
 culture = javanese
-religion = sunni
+religion = ahmadi
 capital = "Pakuan"
 trade_goods = spices
 hre = no

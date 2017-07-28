@@ -4,7 +4,7 @@
 #controller = MAJ
 #add_core= MAJ
 culture = javanese
-religion = sunni
+religion = ahmadi
 capital = "Surabaya"
 trade_goods = cotton
 hre = no

@@ -1,7 +1,7 @@
 #338 - Al-Djazair
 
 culture = algerian
-religion = sunni
+religion = brethren
 capital = "Al-Djazair"
 trade_goods = unknown
 hre = no

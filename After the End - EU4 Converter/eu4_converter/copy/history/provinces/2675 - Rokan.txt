@@ -3,7 +3,7 @@
 #owner = PSA
 #controller = PSA
 culture = sumatran
-religion = sunni
+religion = ahmadi
 capital = "Rokan"
 trade_goods = fish
 hre = no

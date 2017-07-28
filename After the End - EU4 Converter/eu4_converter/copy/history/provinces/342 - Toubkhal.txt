@@ -1,7 +1,7 @@
 # - Rabat
 
 culture = moroccan
-religion = sunni
+religion = brethren
 capital = "Rabat"
 trade_goods = unknown
 hre = no

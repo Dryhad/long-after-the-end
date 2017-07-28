@@ -1,7 +1,7 @@
 #2470 - Haha
 
 culture = berber
-religion = sunni
+religion = brethren
 capital = "Mogador"
 trade_goods = grain
 hre = no

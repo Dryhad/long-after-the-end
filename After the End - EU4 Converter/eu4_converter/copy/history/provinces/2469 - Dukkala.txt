@@ -1,7 +1,7 @@
 # - Abda
 
 culture = moroccan
-religion = sunni
+religion = brethren
 capital = "Mazzagan"
 trade_goods = unknown
 hre = no

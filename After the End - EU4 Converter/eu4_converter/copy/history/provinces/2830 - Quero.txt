@@ -19,33 +19,6 @@ discovered_by = south_american
 discovered_by = andean
 
 
-# = {
-	#owner = INC
-	#controller = INC
-	#add_core= INC
-}
-# = {	#discovered_by = SPA
-	#owner = SPA
-	#controller = SPA
-	#add_core= SPA
-	culture = castillian
-	religion = catholic
-} # Francisco Pizarro
-# = { revolt = { type = nationalist_rebels size = 2 } #controller = REB } # Manco briefly recaptures the city
-# = {
-	revolt = {}
-	unrest = 8
-	#controller = SPA
-} # Fighting breaks out when Almagro seizes Cuzco
-# = { unrest = 5 } # Almagro is defeated & executed
-# = { unrest = 6 } # Pizzaro is assassinated by supporters of Almagro, his brother assumes control
-# = { unrest = 0 } # Gonzalo Pizzaro is also executed & Spain regains control
-# = { unrest = 7 } # Uprising of Tupca Amaru II
-# = { unrest = 0 }
-# = { revolt = { type = nationalist_rebels size = 2 } #controller = REB } # Uprising
-# = { revolt = {} #controller = SPA }
-
-
 native_size = 5
 native_ferocity = 1
 native_hostileness = 3

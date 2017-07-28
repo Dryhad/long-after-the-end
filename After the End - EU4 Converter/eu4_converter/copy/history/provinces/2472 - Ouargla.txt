@@ -1,7 +1,7 @@
 # - Ouargla
 
 culture = berber
-religion = ibadi
+religion = sunni # According to Wikipedia "the Ibadis have left for the M'zab valley"
 capital = "Ouargla"
 trade_goods = unknown
 hre = no
@@ -14,7 +14,6 @@ native_hostileness = 9
 
 
 
-discovered_by = indian
 discovered_by = indian
 discovered_by = high_american
 

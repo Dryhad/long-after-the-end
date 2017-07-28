@@ -1,7 +1,7 @@
 #355 - Sirt
 
 culture = tunisian
-religion = sunni
+religion = brethren
 capital = "Ben Jawad"
 trade_goods = unknown
 hre = no

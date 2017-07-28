@@ -1,5 +1,9 @@
 #805 - Arequipa
 
+owner = PEU
+controller = PEU
+add_core= PEU
+is_city = yes
 culture = aimara
 religion = inti
 capital = "Arequipa"
@@ -16,24 +20,3 @@ native_hostileness = 1
 
 discovered_by = south_american
 discovered_by = andean
-
-
-# = {
-	#owner = INC
-	#controller = INC
-	#add_core= INC
-
-}
-# = {
-	#discovered_by = SPA
-	is_city = no
-	#owner = SPA
-	#controller = SPA
-	#add_core= SPA
-	culture = castillian
-	religion = catholic
-}# The death of Atahualpa
-# = {	#owner = CHL
-	#controller = CHL
-	#add_core= CHL
-} # First National Government Junta

@@ -1,10 +1,10 @@
 # - Santa Catalina
 
-#owner = CCQ
-#controller = CCQ
-#add_core= CCQ
-is_city = no
-culture = diaguita
+owner = BRZ
+controller = BRZ
+add_core= BRZ
+is_city = yes
+culture = platinean
 
 
 
@@ -18,29 +18,6 @@ hre = no
 base_tax = 1 
 base_production = 1
 base_manpower = 1
-
-# = {
-	#owner = INC
-	#controller = INC
-	#add_core= INC
-}
-# = {
-	#discovered_by = SPA
-	#owner = SPA
-	#controller = SPA
-	#add_core= SPA
-}# The death of Atahualpa
-# = { discovered_by = SPA } # Francisco de Asgaranaz y Murguía, under constant attack
-# = {	
-	culture = castillian
-	religion = catholic
-} # Continued to prosper in spite of several attacks
-# = {
-	#owner = LAP
-	#controller = LAP
-	#add_core= LAP
-	remove_core = SPA
-} # Argentina is declared independent
 
 
 native_size = 5

@@ -1,7 +1,7 @@
 #334 - Tangiers
 
 culture = moroccan
-religion = sunni
+religion = brethren
 capital = "Tangier"
 trade_goods = unknown
 hre = no

@@ -1,6 +1,6 @@
 # Converter
 CAL = countries/California.txt
-CAR = countries/Caribbean.txt
+CBN = countries/Caribbean.txt
 CSC = countries/Cascadia.txt
 ORD = countries/Chicagoland.txt
 WDC = countries/Columbia.txt

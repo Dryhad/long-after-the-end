@@ -3,7 +3,7 @@
 #owner = SAK
 #controller = SAK
 culture = sumatran
-religion = sunni
+religion = ahmadi
 capital = "Indragiri"
 trade_goods = copper
 hre = no

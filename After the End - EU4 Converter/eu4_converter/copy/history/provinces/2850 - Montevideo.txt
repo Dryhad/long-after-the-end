@@ -1,6 +1,10 @@
 # - Montevideo
 
-culture = charruan
+owner = BRZ
+controller = BRZ
+add_core= BRZ
+is_city = yes
+culture = litoraleno
 discovered_by = south_american
 religion = candomble
 capital = "Montevideo"
@@ -12,19 +16,3 @@ base_manpower = 1
 native_size = 5
 native_ferocity = 1
 native_hostileness = 5	
-
-
-
-
-# = { discovered_by = SPA }
-# = { discovered_by = POR } # Estimate
-
-# = {
-	#owner = SPA
-	#controller = SPA
-	#add_core= SPA
-	culture = castillian
-	religion = candomble
-	trade_goods = grain
-} # Portugese colony
-# = {	is_city = no }

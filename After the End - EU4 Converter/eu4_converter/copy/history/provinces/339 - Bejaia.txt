@@ -1,7 +1,7 @@
 #339 - Bejaia
 
 culture = berber
-religion = sunni
+religion = brethren
 capital = "Bejaia"
 trade_goods = unknown
 hre = no

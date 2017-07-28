@@ -1,7 +1,7 @@
 # - Wankapampa
 
-#owner = CJA
-#controller = CJA
+owner = CJA
+controller = CJA
 culture = inca
 religion = inti
 capital = "Wankapampa"
@@ -10,33 +10,13 @@ hre = no
 base_tax = 3 
 base_production = 3
 base_manpower = 2
-is_city = no
-#add_core= CJA
+is_city = yes
+add_core= CJA
 
 
 
 discovered_by = south_american
 discovered_by = andean
-discovered_by = CHM
-
-
-# = {
-	#owner = INC
-	#controller = INC
-	#add_core= INC
-}
-# = { discovered_by = SPA }
-# = {
-	#owner = SPA
-	#controller = SPA
-	#add_core= SPA
-	culture = castillian
-	religion = catholic
-} # Battle of Cajamarca
-# = { unrest = 8 } # Fighting breaks out when Almagro seizes Cuzco
-# = { unrest = 5 } # Almagro is defeated & executed
-# = { unrest = 6 } # Pizzaro is assassinated by supporters of Almagro, his brother assumes control
-# = { unrest = 0 } # Gonzalo Pizzaro is also executed & Spain regains control
 
 
 native_size = 5

@@ -1,7 +1,7 @@
 # - Bizerte
 
 culture = tunisian
-religion = sunni
+religion = brethren
 capital = "Bizerte"
 trade_goods = unknown
 hre = no

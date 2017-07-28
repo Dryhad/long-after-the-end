@@ -1,7 +1,7 @@
 # - Susa
 
 culture = tunisian
-religion = sunni
+religion = brethren
 capital = "Susa"
 trade_goods = unknown
 hre = no

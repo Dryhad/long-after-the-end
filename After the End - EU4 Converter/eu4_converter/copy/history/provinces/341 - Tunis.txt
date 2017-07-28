@@ -1,7 +1,7 @@
 #341 - Tunis
 
 culture = tunisian
-religion = sunni
+religion = brethren
 capital = "Tunis"
 trade_goods = unknown
 hre = no
