@@ -54,10 +54,14 @@ KUW = countries/Kuwait.txt
 BOL = countries/Bollywood.txt
 
 # Japan
+AMK = countries/Amakusa.txt
 IKR = countries/Ikari.txt
+KOB = countries/Kobayashi.txt
 KRU = countries/Kururugi.txt
 NAU = countries/Naushika.txt
 SHI = countries/Shimada.txt
+SUZ = countries/Suzumiya.txt
+TNJ = countries/Tenjou.txt
 YAM = countries/Yamauchi.txt
 
 # Pacific

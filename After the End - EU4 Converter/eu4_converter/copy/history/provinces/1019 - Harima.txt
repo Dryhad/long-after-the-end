@@ -1,7 +1,7 @@
 #1019 - Harima
 
-#owner = YMN
-#controller = YMN
+owner = TNJ
+controller = TNJ
 culture = japanese
 religion = shinto
 capital = "Himeji"
@@ -10,25 +10,12 @@ hre = no
 base_tax = 3
 base_manpower = 2
 base_production = 3
-is_city = no
-#add_core= YMN
-#add_core= HSK
+is_city = yes
+add_core= TNJ
 
 
 
 discovered_by = chinese
-discovered_by = MCH
-discovered_by = KHA
-discovered_by = OIR
-discovered_by = QNG
-
-
-# = { #owner = AKM #controller = AKM }
-# = { remove_core = YMN}
-# = { discovered_by = POR }
-# = { #add_core= ODA #owner = ODA #controller = ODA }
-# = { fort_15th = yes } # Himeji Castle
-# = { #add_core= TKG #owner = TKG #controller = TKG remove_core = ODA }
 
 
 native_size = 5

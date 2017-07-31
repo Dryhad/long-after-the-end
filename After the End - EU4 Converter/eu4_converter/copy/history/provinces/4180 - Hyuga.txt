@@ -1,7 +1,7 @@
 #4180 - Hyuga
 
-#owner = ITO
-#controller = ITO
+owner = RYU
+controller = RYU
 culture = kyushuan
 religion = shinto
 capital = "Obi"
@@ -10,19 +10,9 @@ hre = no
 base_tax = 3
 base_manpower = 2
 base_production = 2
-is_city = no
-#add_core= ITO
-#add_core= SMZ
+is_city = yes
+add_core= RYU
 discovered_by = chinese
-discovered_by = MCH
-discovered_by = KHA
-discovered_by = OIR
-discovered_by = QNG
-
-# = { discovered_by = POR }
-# = { #owner = SMZ #controller = SMZ }
-# = { #owner = ITO #controller = ITO }
-# = { remove_core = SMZ }
 
 native_size = 5
 native_ferocity = 1

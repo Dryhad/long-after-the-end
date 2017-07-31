@@ -1,7 +1,7 @@
 #1830 - Tajima
 
-#owner = YMN
-#controller = YMN
+owner = TNJ
+controller = TNJ
 culture = japanese
 religion = shinto
 capital = "Tottori"
@@ -10,23 +10,12 @@ hre = no
 base_tax = 2 
 base_production = 2
 base_manpower = 2
-is_city = no
-#add_core= YMN
+is_city = yes
+add_core= TNJ
 
 
 
 discovered_by = chinese
-discovered_by = MCH
-discovered_by = KHA
-discovered_by = OIR
-discovered_by = QNG
-
-# = { discovered_by = POR }
-
-# = { #add_core= ODA }
-# = { #owner = ODA #controller = ODA }
-# = { remove_core = YMN }
-# = { #owner = TKG #controller = TKG #add_core= TKG remove_core = ODA }
 
 
 native_size = 5

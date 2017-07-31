@@ -1,38 +1,21 @@
 #1825 - Aki
 
-#owner = HSK
-#controller = HSK
+owner = KOB
+controller = KOB
 culture = japanese
 religion = shinto
-capital = "Tomo"
+capital = "Hiroshima"
 trade_goods = grain
 hre = no
 base_tax = 4
 base_manpower = 3
 base_production = 4
-is_city = no
-#add_core= HSK
+is_city = yes
+add_core= KOB
 
 
 
 discovered_by = chinese
-discovered_by = MCH
-discovered_by = KHA
-discovered_by = OIR
-discovered_by = QNG
-
-
-# = { #add_core= OUC }
-# = { #add_core= MRI remove_core = HSK }
-# = { #owner = OUC #controller = OUC }
-# = { #add_core= AMA }
-# = { #owner = MRI #controller = MRI remove_core = OUC remove_core = AMA }
-# = { fort_15th = yes } # Yoshida Koriyama Castle, the capital of the Mori clan
-# = { capital = "Koriyama" }
-# = { discovered_by = POR }
-# = { remove_core = AMA }
-# = { capital = "Hiroshima" }
-# = { #owner = TKG #controller = TKG #add_core= TKG }
 
 native_size = 5
 native_ferocity = 1

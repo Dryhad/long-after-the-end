@@ -53,6 +53,30 @@ vassal = {
 	start_date = 3053.1.1
 	end_date = 3421.1.2
 }
+vassal = {
+	first = TKD
+	second = AMK
+	start_date = 3053.1.1
+	end_date = 3421.1.2
+}
+vassal = {
+	first = TKD
+	second = KOB
+	start_date = 3053.1.1
+	end_date = 3421.1.2
+}
+vassal = {
+	first = TKD
+	second = SUZ
+	start_date = 3053.1.1
+	end_date = 3421.1.2
+}
+vassal = {
+	first = TKD
+	second = TNJ
+	start_date = 3053.1.1
+	end_date = 3421.1.2
+}
 
 #Colony (to do)
 #vassal = {

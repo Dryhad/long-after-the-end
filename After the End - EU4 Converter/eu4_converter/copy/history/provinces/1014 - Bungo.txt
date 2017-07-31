@@ -1,7 +1,7 @@
 #1014 - Bungo
 
-#owner = OTM
-#controller = OTM
+owner = AMK
+controller = AMK
 culture = kyushuan
 religion = shinto
 capital = "Funai"
@@ -10,17 +10,9 @@ hre = no
 base_tax = 4 
 base_production = 2
 base_manpower = 3
-is_city = no
-#add_core= OTM
+is_city = yes
+add_core= AMK
 discovered_by = chinese
-discovered_by = MCH
-discovered_by = KHA
-discovered_by = OIR
-discovered_by = QNG
-
-# = { discovered_by = POR }
-# = { #owner = HSK #controller = HSK #add_core= HSK remove_core = OTM }
-# = { #owner = TKG #controller = TKG #add_core= TKG remove_core = HSK }
 
 
 native_size = 5
