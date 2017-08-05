@@ -1,7 +1,7 @@
 culture = filipino
 religion = cult_of_saints 
 trade_goods = cocao
- 
+
 hre = no 
 base_tax = 1
 base_production = 1

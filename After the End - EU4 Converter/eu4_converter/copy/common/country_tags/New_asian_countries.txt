@@ -1,0 +1,4 @@
+
+#The Phillipines
+DAV = countries/Davao.txt
+MNL = countries/Manila.txt

@@ -11,7 +11,9 @@ base_manpower = 2
 native_size = 70
 native_ferocity = 2
 native_hostileness = 9
-
+add_core = MNL
+owner = MNL
+controller = MNL
 
 
 discovered_by = chinese
