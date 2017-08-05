@@ -6,7 +6,7 @@ add_core = PRG
 culture = litoraleno
 religion = candomble
 capital = "Santa Cruz de la Sierra"
-is_city
+is_city = yes
 trade_goods = unknown
 hre = no
 base_tax = 3 

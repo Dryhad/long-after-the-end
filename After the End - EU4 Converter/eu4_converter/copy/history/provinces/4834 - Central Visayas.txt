@@ -1,6 +1,6 @@
 culture = filipino
 religion = cult_of_saints 
-trade_goods = cocao
+trade_goods = cocoa
  
 hre = no 
 base_tax = 1
