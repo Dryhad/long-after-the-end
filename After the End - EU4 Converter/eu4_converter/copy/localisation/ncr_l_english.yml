@@ -304,9 +304,9 @@
  COLONIAL_THAILAND_Root_GetAdjective_Thailand:0  "[Root.GetAdjective] Thailand"
  COLONIAL_THAILAND_Root_GetAdjective_Thailand_ADJ:0  "[Root.GetAdjective] Thai"
     
- colonial_Vietnam:0  "Colonial Vietnam"
- COLONIAL_VIETNAM_Root_GetAdjective_Vietnam:0  "[Root.GetAdjective] Vietnam"
- COLONIAL_VIETNAM_Root_GetAdjective_Vietnam_ADJ:0  "[Root.GetAdjective] Vietnamese"
+ colonial_nam:0  "Colonial Nam"
+ COLONIAL_VIETNAM_Root_GetAdjective_Vietnam:0  "[Root.GetAdjective] Nam"
+ COLONIAL_VIETNAM_Root_GetAdjective_Vietnam_ADJ:0  "[Root.GetAdjective] Namese"
    
  colonial_Malaysia:0  "Colonial Malaysia"
  COLONIAL_MALAYSIA_Root_GetAdjective_Malaysia:0  "[Root.GetAdjective] Malaysia"
@@ -331,6 +331,10 @@
  colonial_Papua:0  "Colonial Papua"
  COLONIAL_PAPUA_Root_GetAdjective_Papua:0  "[Root.GetAdjective] Papua"
  COLONIAL_PAPUA_Root_GetAdjective_Papua_ADJ:0  "[Root.GetAdjective] Paupan"
+     
+ colonial_indonesia:0  "Colonial Indonesia"
+ COLONIAL_INDONESIA_Root_GetAdjective_indonesia:0  "[Root.GetAdjective] Indonesia"
+ COLONIAL_INDONESIA_Root_GetAdjective_indonesia_ADJ:0  "[Root.GetAdjective] Indonesian"
  
  #CHINA#
  
@@ -381,6 +385,14 @@
  colonial_Polynesia:0  "Colonial Polynesia"
  COLONIAL_POLYNESIA_Root_GetAdjective_Polynesia:0  "[Root.GetAdjective] Polynesia"
  COLONIAL_POLYNESIA_Root_GetAdjective_Polynesia_ADJ:0  "[Root.GetAdjective] Polynesian"
+     
+ colonial_south_china:0  "Colonial South China"
+ COLONIAL_SOUTH_CHINA_Root_GetAdjective_South_China:0  "[Root.GetAdjective] South China"
+ COLONIAL_SOUTH_CHINA_Root_GetAdjective_South_China_ADJ:0  "[Root.GetAdjective] South Chinese"
+     
+ colonial_north_china:0  "Colonial North China"
+ COLONIAL_NORTH_CHINA_Root_GetAdjective_North_China:0  "[Root.GetAdjective] North China"
+ COLONIAL_NORTH_CHINA_Root_GetAdjective_North_China_ADJ:0  "[Root.GetAdjective] North Chinese"
  
  #RUSSIA#
  
