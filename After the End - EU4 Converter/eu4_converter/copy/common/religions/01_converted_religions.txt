@@ -641,7 +641,7 @@ afro_syncretic = {
 	}
 	mwari = {
 		color = { 0.6 0.3 0.4 }
-		icon = 12 # Replace with the cult icon when you can be bothered
+		icon = 83
 		
 		country = {
 			tolerance_own = 1
@@ -656,7 +656,7 @@ afro_syncretic = {
 	}
 	zanahary = {
 		color = { 76 25 178 }
-		icon = 12 # Replace with the cult icon when you can be bothered
+		icon = 84
 		
 		country = {
 			tolerance_own = 1
