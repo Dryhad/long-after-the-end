@@ -19,7 +19,7 @@ discovered_by = AST
 discovered_by = QAS
 discovered_by = high_american
 discovered_by = high_american
-
+discovered_by = indian
 # = { #owner = MOS #controller = MOS #add_core= MOS remove_core = NOV } # Passed to Muscovy with the rest of Novgorod republic
 # = { #owner = RUS #controller = RUS #add_core= RUS remove_core = MOS }
 # = { unrest = 5 } # "Time of troubles"

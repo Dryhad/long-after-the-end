@@ -11,8 +11,9 @@ trade_goods = iron
 base_manpower = 3
 capital = "Ukek"
 is_city = yes
-#add_core= GOL
-#add_core= AST
+add_core = KLC
+controller = KLC
+owner = KLC
 
 
 

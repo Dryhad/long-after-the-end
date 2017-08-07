@@ -1,24 +1,18 @@
 #1753 - Kostroma
 
-#owner = MOS
-#controller = MOS
-culture = russian 
-religion = orthodox
+add_core = YAR
+owner = YAR
+add_core = YAR
+controller = YAR  
+culture = russian
+religion = tengri_pagan_reformed
 hre = no
 base_tax = 1
 base_production = 1
 trade_goods = unknown
 base_manpower = 1
+discovered_by = indian
 capital = "Kostroma"
-is_city = no
-#add_core= MOS
-discovered_by = high_american
-discovered_by = high_american
-#discovered_by = nomad_group
-
-# = { #owner = RUS #controller = RUS #add_core= RUS remove_core = MOS }
-# = { unrest = 5 } # "Time of troubles"
-# = { unrest = 0 } # Pozharsky army moves through Kostroma
 
 
 native_size = 5

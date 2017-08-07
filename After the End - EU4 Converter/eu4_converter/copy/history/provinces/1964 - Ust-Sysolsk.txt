@@ -1,33 +1,22 @@
 #Ust-Sysolsk
 
-#owner = PRM
-#controller = PRM
-culture = uralic
-religion = orthodox
+owner = KOM
+controller = KOM
+add_core= KOM
+culture = ostyaki
+religion = tengri_pagan_reformed
+trade_goods = unknown
 hre = no
 base_tax = 1
 base_production = 1
-trade_goods = unknown
 base_manpower = 1
+discovered_by = indian
 capital = "Ust-Sysola"
-is_city = no
-#add_core= PRM
 
 
 
 discovered_by = high_american
-discovered_by = high_american
-#discovered_by = nomad_group
 
-
-# = {
-	#owner = RUS
-	#controller = RUS
-	#add_core= RUS
-	remove_core = PRM
-	culture = russian 
-}
-# = { capital = "Ust-Sysolsk" } # town renamed
 
 
 native_size = 5

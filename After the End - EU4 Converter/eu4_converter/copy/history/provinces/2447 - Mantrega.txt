@@ -1,9 +1,6 @@
 #2447 - Mantrega
 
-#owner = GEN
-#controller = GEN
-culture = pontic_greek
-religion = orthodox
+
 hre = no
 base_tax = 1
 base_production = 1
@@ -11,9 +8,12 @@ trade_goods = unknown
 base_manpower = 1
 capital = "Mantrega"
 is_city = no
-#add_core= GEN
-#add_core= CIR
-#add_core= CRI
+
+add_core = UNF
+controller = UNF
+owner = UNF
+culture = russian
+religion = atomicist
 
 
 discovered_by = high_american

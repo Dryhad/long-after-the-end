@@ -1,9 +1,5 @@
 # 2367 - Lower Yik
 
-#owner = NOG
-#controller = NOG
-culture = nogaybak
-religion = sunni
 capital = "Kalmyk"
 trade_goods = wool
 hre = no
@@ -11,7 +7,11 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 is_city = no
-#add_core= NOG
+add_core = ARZ
+controller = ARZ
+owner = ARZ
+culture = russian
+religion = atomicist
 
 
 
@@ -21,13 +21,6 @@ discovered_by = high_american
 #discovered_by = nomad_group
 
 
-# = {
-	#owner = RUS
-	#controller = RUS
-	#add_core= RUS
-	remove_core = NOG
-	culture = khazak 
-} # Kalmuk invasion and Russian annexation
 
 
 native_size = 5

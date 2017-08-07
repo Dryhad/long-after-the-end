@@ -1,9 +1,7 @@
 #2416 - Majar
 
-#owner = GOL
-#controller = GOL
-culture = astrakhani
-religion = sunni
+
+
 hre = no
 base_tax = 2 
 base_production = 2
@@ -11,9 +9,12 @@ trade_goods = grain
 base_manpower = 1
 capital = "Majar"
 is_city = no
-#add_core= GOL
-#add_core= AST
 
+add_core = REP
+controller = REP
+owner = REP
+culture = russian
+religion = atomicist
 
 
 discovered_by = high_american
@@ -23,25 +24,6 @@ discovered_by = indian
 #discovered_by = nomad_group
 
 
-# = {
- 	#owner = AST
-	#controller = AST
-	remove_core = GOL 
-} # Independence of Astrakhan
-# = {
-	#owner = NOG
-	#controller = NOG
-	#add_core= NOG
-	remove_core = AST 
-} # Nogais migrate to the area after Russian conquest of Astrakhan
-# = {
-	#owner = RUS
-	#controller = RUS
-	#add_core= RUS
-	remove_core = NOG
-	culture = mongol
-	religion = buddhism 
-} # Nogais driven out by Buddhist Kalmuks, Russian protectorate
 
 
 native_size = 5

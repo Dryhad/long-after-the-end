@@ -1,9 +1,6 @@
 #2413 - Tyn
 
-#owner = CRI
-#controller = CRI
-culture = crimean
-religion = sunni
+
 hre = no
 base_tax = 3
 base_production = 3
@@ -13,6 +10,11 @@ capital = "Tyn"
 is_city = no
 #add_core= CRI
 
+add_core = UNF
+controller = UNF
+owner = UNF
+culture = russian
+religion = atomicist
 
 discovered_by = high_american
 discovered_by = high_american

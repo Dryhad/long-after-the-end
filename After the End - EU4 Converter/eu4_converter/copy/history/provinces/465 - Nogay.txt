@@ -1,9 +1,6 @@
 #465 - Nogay
 
-#owner = NOG
-#controller = NOG
-culture = nogaybak
-religion = sunni
+
 capital = "Saraychik"
 trade_goods = salt
 hre = no
@@ -11,7 +8,11 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = no
-#add_core= NOG
+add_core = ARZ
+controller = ARZ
+owner = ARZ
+culture = russian
+religion = atomicist
 
 
 

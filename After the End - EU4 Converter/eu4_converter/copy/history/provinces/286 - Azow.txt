@@ -1,9 +1,6 @@
 #286 - Azow
 
-#owner = GEN
-#controller = GEN
-culture = crimean
-religion = sunni
+
 hre = no
 base_tax = 3
 base_production = 3
@@ -12,6 +9,12 @@ base_manpower = 3
 capital = "Tana"
 is_city = no
 #add_core= GEN
+
+add_core = UNF
+controller = UNF
+owner = UNF
+culture = russian
+religion = atomicist
 
 
 

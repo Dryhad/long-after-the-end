@@ -1,17 +1,18 @@
 #1972 - Udmurtia
 
-#owner = KAZ
-#controller = KAZ
+
 capital = "Izhkar"
-culture = uralic
-religion = finnish_pagan_reformed #Sami Shamanism
+owner = KOM
+controller = KOM
+add_core= KOM
+culture = ostyaki
+religion = tengri_pagan_reformed
 trade_goods = unknown
 hre = no
 base_tax = 1
 base_production = 1
 base_manpower = 1
-is_city = no
-#add_core= KAZ
+discovered_by = indian
 
 
 
@@ -24,11 +25,6 @@ discovered_by = high_american
 discovered_by = indian
 
 
-# = { #owner = RUS #controller = RUS #add_core= RUS remove_core = KAZ } # Russian conquest of Kazan
-# = { culture = russian religion = orthodox }
-# = { capital = "Izhevsk" }
-# = { revolt = { type = anti_tax_rebels size = 2 name = "Yemelyan Pugachev" } #controller = REB unrest = 6 } # Pugachev rebellion
-# = { revolt = {} #controller = RUS unrest = 0 } # Pugachev is captured
 
 
 native_size = 5

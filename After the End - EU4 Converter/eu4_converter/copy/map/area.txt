@@ -1,4 +1,4 @@
-# A province can only belong to one area!
+	# A province can only belong to one area!
 
 #Sea Areas:
 #No restriction on size.
@@ -2248,9 +2248,9 @@ ob_area = { #5
 	480 1068 2428 2429 2433 
 }
 
-irkutsk_area = { #5
-	1060 1062 1063 2442 2443
-}
+# irkutsk_area = { #5
+	# 1060 1062 1063 2442 2443
+# }
 
 perm_area = { #5
 	1077 1755 1963 1964 4129
@@ -2272,9 +2272,9 @@ yrtesh_area = { #5
 	479 1071 2354 2357 2434 
 }
 
-ishim_area = { #4
-	1074 1075 1076 2369
-}
+# ishim_area = { #4
+	# 1074 1075 1076 2369 
+# }
 
 ########################################
 # China      	                       #
@@ -3756,6 +3756,21 @@ mindanao_area = { #4
 
 luzon_area = { #4
 	657 658 2697 2698 
+}
+
+#Russia
+
+ishim_area = { #4
+	1074 1075 1076 2369 4836
+}
+
+irkutsk_area = { #5
+	1060 4840 4837 4838 4839
+}
+
+
+krasnoyarsk_area = {
+	4841 1063 2443 1062 2442
 }
 
 #Sea Areas

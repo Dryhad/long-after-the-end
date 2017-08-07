@@ -1,9 +1,10 @@
 #468 - Khazaria
 
-#owner = GOL
-#controller = GOL 
-culture = astrakhani
-religion = sunni
+add_core = ATG
+controller = ATG
+owner = ATG
+culture = russian
+religion = atomicist
 capital = "Cherny Yar"
 trade_goods = unknown
 hre = no

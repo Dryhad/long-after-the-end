@@ -1,42 +1,21 @@
 #2429 - Agan
 
-#owner = SHY
-#controller = SHY
-#add_core= SIB
-#add_core= SHY
-culture = ostyaki
-religion = sunni
+
 capital = "Variegansk"
+owner = NVS
+controller = NVS
+add_core = NVS
+culture = russian
+religion = rust_cultist
 trade_goods = unknown
 hre = no
-base_tax = 1
-base_production = 1
-base_manpower = 1
-is_city = no
-
-
-
-#discovered_by = nomad_group
-
-
-# = {
-	#owner = SIB
-	#controller = SIB
-	#discovered_by = SIB
-} # Sibir khanate formed
-# = {
-	#discovered_by = RUS
-	#owner = RUS
-	#controller = RUS
-	#add_core= RUS
-	religion = orthodox
-	culture = russian 
-} # Yermak Timofeevich
-# = { unrest = 4 } # Samoyed rebellion
-# = { unrest = 0 }
-# = { unrest = 3 }
-# = { unrest = 0 }
-
+base_tax = 3
+base_production = 3
+base_manpower = 2
+native_size = 5
+native_ferocity = 2
+native_hostileness = 3
+discovered_by = indian
 
 native_size = 5
 native_ferocity = 1

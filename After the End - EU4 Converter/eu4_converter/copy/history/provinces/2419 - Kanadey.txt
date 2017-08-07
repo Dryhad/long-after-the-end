@@ -1,9 +1,5 @@
 #2419 - Kanadey
 
-#owner = KAZ
-#controller = KAZ
-culture = kazani
-religion = sunni
 hre = no
 base_tax = 1
 base_production = 1
@@ -11,7 +7,11 @@ trade_goods = unknown
 base_manpower = 1
 capital = "Kanadey"
 is_city = no
-#add_core= KAZ
+add_core= OBR
+controller = OBR
+owner = OBR
+culture = russian
+religion = atomicist
 
 
 

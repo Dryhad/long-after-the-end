@@ -1,9 +1,7 @@
 #466 - Sarai
 
-#owner = GOL
-#controller = GOL
-culture = astrakhani
-religion = sunni
+
+
 capital = "Sarai"
 trade_goods = unknown
 hre = no
@@ -11,8 +9,11 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = no
-#add_core= GOL
-#add_core= AST
+add_core = KLC
+controller = KLC
+owner = KLC
+culture = russian
+religion = atomicist
 
 
 

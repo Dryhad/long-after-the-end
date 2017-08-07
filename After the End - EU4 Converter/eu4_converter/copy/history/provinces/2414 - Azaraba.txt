@@ -1,9 +1,10 @@
 #2414 - Azaraba
 
-#owner = CRI
-#controller = CRI
-culture = crimean
-religion = sunni
+add_core = ATG
+controller = ATG
+owner = ATG
+culture = russian
+religion = atomicist
 hre = no
 base_tax = 1
 base_production = 1
@@ -22,15 +23,7 @@ discovered_by = indian
 #discovered_by = nomad_group
 
 
-# = { #add_core= TUR }
-# = {
-	#owner = RUS
-	#add_core= RUS
-	#controller = RUS
-	remove_core = TUR
-	culture = russian
-	religion = orthodox 
-}# Treaty of Kuchuk-Kainarji
+
 
 
 native_size = 5

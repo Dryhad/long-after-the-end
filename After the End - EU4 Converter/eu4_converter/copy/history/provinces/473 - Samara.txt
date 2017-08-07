@@ -1,9 +1,6 @@
 #473 - Samara
 
-#owner = KAZ
-#controller = KAZ
-culture = kazani
-religion = sunni
+
 capital = "Samara"
 trade_goods = unknown
 hre = no
@@ -11,7 +8,11 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = no
-#add_core= KAZ
+add_core= OBR
+controller = OBR
+owner = OBR
+culture = russian
+religion = atomicist
 
 
 

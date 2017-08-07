@@ -1,9 +1,6 @@
 #469 - Ryn
 
-#owner = NOG
-#controller = NOG
-culture = khazak
-religion = tengri_pagan_reformed
+
 capital = "Ryn"
 trade_goods = fish
 hre = no
@@ -11,8 +8,13 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = no
-#add_core= NOG
+add_core = ARZ
+controller = ARZ
+owner = ARZ
+culture = russian
+religion = atomicis
 
+add_core = KLC #Taken by Artztotzka in the war, setting of Papers Please
 
 
 discovered_by = high_american

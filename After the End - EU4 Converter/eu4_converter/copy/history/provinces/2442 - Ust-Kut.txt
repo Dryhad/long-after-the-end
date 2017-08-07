@@ -1,16 +1,18 @@
 #2442 - Ust-Kut
 
-culture = buryat
-religion = tengri_pagan_reformed
+
 capital = "Ust-Kut"
+culture = russian
+religion = tengri_pagan_reformed
 trade_goods = unknown
 hre = no
 base_tax = 1
 base_production = 1
 base_manpower = 1
-native_size = 5
-native_ferocity = 1
-native_hostileness = 2
+add_core = KRS
+owner = KRS
+controller = KRS
+discovered_by = indian
 
 
 
@@ -18,13 +20,7 @@ native_hostileness = 2
 discovered_by = BRT
 
 
-# = {
-	#discovered_by = RUS
-	#owner = RUS
-	#controller = RUS
-	religion = orthodox
-	culture = russian
-	trade_goods = unknown
-	is_city = no
-}
-# = { #add_core= RUS }
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

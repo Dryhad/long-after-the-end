@@ -1,17 +1,18 @@
 #Näset + the land around the river Neva, incl. Nöteborg, Nyen and St.Petersburg.
 
-#owner = NOV
-#controller = NOV
-#add_core= NOV
-culture = karelian
-religion = finnish_pagan_reformed
+owner = STP
+controller = STP
+add_core = STP
+culture = novgorodian
+religion = rust_cultist
 hre = no
-base_tax = 3 
-base_production = 3
-trade_goods = fur
-base_manpower = 1
-capital = "Oreshek" # initial Russian name
-is_city = no
+base_tax = 6
+base_production = 6
+trade_goods = iron
+base_manpower = 5
+discovered_by = indian
+capital = "St Petersburg" # initial Russian name
+
 
 
 

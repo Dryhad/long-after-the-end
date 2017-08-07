@@ -1,35 +1,18 @@
 #456 - Turkestan
 
-#owner = SHY
-#controller = SHY
+capital = "Yasi"
+
+owner = KYZ
+controller = KYZ
+add_core = KYZ
 culture = khazak
 religion = sunni
-capital = "Yasi"
 trade_goods = grain
 base_tax = 1 
 base_production = 1
 base_manpower = 1
 hre = no
-is_city = no
-#add_core= KZH
-#add_core= SHY
-
-
-
-discovered_by = KAS
 discovered_by = indian
-discovered_by = indian
-#discovered_by = nomad_group
-
-
-# = { #controller = KZH }
-# = { #owner = KZH remove_core = SHY } # Kazakhs take over
-# = { capital = "Hazrat-i Turkistan" }
-# = { discovered_by = RUS }
-# = { #owner = OIR #controller = OIR } # Dzungarian invasion
-# = { #owner = KZH #controller = KZH }
-# = { #owner = OIR #controller = OIR } # Dzungarian invasion
-# = { #owner = KZH #controller = KZH }
 
 
 native_size = 5

@@ -1,33 +1,20 @@
 # 2354 - Shegendyk
 
-#owner = SHY
-#controller = SHY
-culture = khazak
-religion = sunni
+
 capital = "Shegendyk"
 trade_goods = iron
-hre = no
+
 base_tax = 3 
 base_production = 3
 base_manpower = 3
-is_city = no
-#add_core= KZH
-#add_core= SHY
 
-
-
-discovered_by = KZH
-discovered_by = KAZ
+culture = bavarian
+religion = matrem
+hre = no
+add_core = TSE
+controller = TSE
+owner = TSE
 discovered_by = indian
-discovered_by = indian
-#discovered_by = nomad_group
-
-
-# = { #controller = KZH }
-# = { #owner = KZH remove_core = SHY } # Kazakhs take over
-# = { discovered_by = RUS }
-# = { #owner = OIR #controller = OIR } # Dzungarian invasion
-# = { #owner = KZH #controller = KZH }
 
 
 native_size = 5

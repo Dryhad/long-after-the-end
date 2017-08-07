@@ -1,9 +1,6 @@
 #1971 - Tsaritsyn
 
-#owner = GOL
-#controller = GOL 
-culture = mishary
-religion = sunni
+
 hre = no
 base_tax = 1
 base_production = 1
@@ -11,8 +8,11 @@ trade_goods = unknown
 base_manpower = 1
 capital = "Sary-Su"
 is_city = no
-#add_core= GOL
-
+add_core = KLC
+controller = KLC
+owner = KLC
+culture = russian
+religion = atomicist
 
 
 discovered_by = high_american

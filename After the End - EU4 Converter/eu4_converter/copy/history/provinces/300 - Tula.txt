@@ -1,17 +1,18 @@
 #300 - Tula
 
-#owner = RYA
-#controller = RYA
-culture = ryazanian
-religion = orthodox
+owner = VLD
+add_core = VLD
+controller = VLD
+culture = russian
+religion = tengri_pagan_reformed
 hre = no
 base_tax = 1
 base_production = 1
 trade_goods = unknown
 base_manpower = 1
+discovered_by = indian
 capital = "Tula"
-is_city = no
-#add_core= RYA
+
 
 
 
@@ -19,17 +20,6 @@ discovered_by = high_american
 discovered_by = high_american
 discovered_by = GOL
 discovered_by = KAZ
-#discovered_by = nomad_group
-
-# = { discovered_by = SIB }
-
-# = { #owner = RUS #controller = RUS #add_core= RUS remove_core = RYA } # Ivan III annexes Tula
-# = { unrest = 5 base_manpower = 1 # "Time of troubles", peasantry brought into serfdom
-# = { unrest = 0 } # Order returned, Romanov dynasty
-# = { base_tax = 1ase_production = 1 # Governmental reforms and the absolutism
-# = { trade_goods = unknownhe ironworking industry, first arms factory in Russia
-# = { base_tax = 1ase_production = 1 # Legislative reform
-# = { base_tax = 1ase_production = 1
 
 
 native_size = 5

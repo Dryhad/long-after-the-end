@@ -1,41 +1,18 @@
 #2428 - Yugan
 
-#owner = SHY
-#controller = SHY
-#add_core= SIB
-#add_core= SHY
+owner = KOM
+controller = KOM
+add_core= KOM
 culture = ostyaki
-religion = sunni
-capital = "Yugan"
+religion = tengri_pagan_reformed
 trade_goods = unknown
 hre = no
 base_tax = 1
 base_production = 1
 base_manpower = 1
-is_city = no
+discovered_by = indian
+capital = "Yugan"
 
-
-
-#discovered_by = nomad_group
-
-
-# = {
-	#owner = SIB
-	#controller = SIB
-	#discovered_by = SIB 
-} # Sibir khanate formed
-# = {
-	#discovered_by = RUS
-	#owner = RUS
-	#controller = RUS
-	#add_core= RUS
-	religion = orthodox 
-	culture = russian 
-} # Yermak Timofeevich
-# = { unrest = 4 } # Samoyed rebellion
-# = { unrest = 0 }
-# = { unrest = 3 }
-# = { unrest = 0 }
 
 
 native_size = 5

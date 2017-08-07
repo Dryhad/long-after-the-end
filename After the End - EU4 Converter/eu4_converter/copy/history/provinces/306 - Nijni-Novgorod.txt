@@ -1,20 +1,18 @@
 #306 - Nijni-Novgorod
 
-#owner = MOS
-#controller = MOS
+owner = NZH
+controller = NZH
+add_core = NZH
 culture = russian
-religion = orthodox
+religion = rust_cultist
+trade_goods = iron
 hre = no
-base_tax = 1
-base_production = 1
-trade_goods = unknown
-base_manpower = 1
+base_tax = 6
+base_production = 6
+base_manpower = 5
+discovered_by = indian
 capital = "Nizhny Novgorod"
-is_city = no
-fort_15th = yes
-estate = estate_nobles
-#add_core= NZH
-#add_core= MOS
+
 
 
 
@@ -32,27 +30,6 @@ add_permanent_province_modifier = {
 }
 
 
-
-
-# = { discovered_by = SIB }
-
-# = {
-	#owner = RUS
-	#controller = RUS
-	#add_core= RUS
-	remove_core = MOS
-	remove_core = NZH
-}
-# = { fort_15th = yes } #Huge Kremlin constructed
-# = { base_tax = 1ase_production = 1 # Treasury reform
-# = { unrest = 1 } # "Time of troubles", Nizhny Novgorod only city that supported Moscow
-# = { unrest = 0 } # Nizhegorod guard of Minin and Pozharsky to support Moscow
-# = { unrest = 8 } # Stepan Razin
-# = { unrest = 0 } # Razin is captured
-# = { base_tax = 1ase_production = 1} # Governmental reforms and the absolutism, Nizhegorod governorate
-# = { base_tax = 1ase_production = 1 # Legislative reform
-# = { unrest = 5 } # Emelian Pugachev, Cossack insurrection
-# = { unrest = 0 } # Pugachev is captured
 
 
 native_size = 5

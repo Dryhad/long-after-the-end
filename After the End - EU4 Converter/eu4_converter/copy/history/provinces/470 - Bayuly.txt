@@ -1,9 +1,6 @@
 #470 - Bayuly
 
-#owner = NOG
-#controller = NOG
-culture = nogaybak
-religion = sunni
+
 capital = "Bayuly"
 trade_goods = grain
 hre = no
@@ -11,7 +8,11 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 is_city = no
-#add_core= NOG
+add_core = ARZ
+controller = ARZ
+owner = ARZ
+culture = russian
+religion = atomicist
 
 
 
