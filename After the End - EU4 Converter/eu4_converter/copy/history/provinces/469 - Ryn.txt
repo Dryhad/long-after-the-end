@@ -12,7 +12,7 @@ add_core = ARZ
 controller = ARZ
 owner = ARZ
 culture = russian
-religion = atomicis
+religion = atomicist
 
 add_core = KLC #Taken by Artztotzka in the war, setting of Papers Please
 

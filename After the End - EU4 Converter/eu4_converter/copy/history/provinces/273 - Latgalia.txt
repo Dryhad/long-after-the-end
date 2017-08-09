@@ -1,11 +1,7 @@
 #Latgalia / Inflanty Duchy
 
-#owner = LIV
-#controller = LIV
-#add_core= LIV
-#add_core= LVA
 culture = latvian
-religion = catholic
+religion = matrem
 capital = "Dünaburg"
 fort_15th = yes #Dünaburg
 trade_goods = unknown
@@ -14,35 +10,8 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = no
-estate = estate_church #Kokenhusen
-discovered_by = KAZ
-discovered_by = CRI
-discovered_by = GOL
-discovered_by = AST
-discovered_by = QAS
-
-discovered_by = high_american
 discovered_by = high_american
 
-
-# = {
-	#owner = LIT
-	#controller = LIT
-	#add_core= LIT
-	remove_core = LIV
-	estate = estate_nobles
-} # Conquered by Lithuania
-# = {
-	#owner = PLC
-	#controller = PLC
-	#add_core= PLC
-} # Union of Lublin
-# = { remove_core = SWE } # The Peace of Nystad
-# = {
-	#owner = RUS
-	#controller = RUS
-	#add_core= RUS
-} # First partition of Poland
 
 
 native_size = 5

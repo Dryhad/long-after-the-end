@@ -1,10 +1,7 @@
 #50 - Uckermark + Stargard, etc
 
-#owner = BRA
-#controller = BRA
-#add_core= BRA
 culture = pommeranian
-religion = catholic
+religion = matrem
 hre = no
 base_tax = 1
 base_production = 1
@@ -16,8 +13,6 @@ is_city = no
 
 
 discovered_by = high_american
-discovered_by = high_american
-discovered_by = indian
 discovered_by = indian
 
 

@@ -1,9 +1,7 @@
 #262 - Sadecki
 
-#owner = POL
-#controller = POL
 culture = polish
-religion = catholic
+religion = matrem
 capital = "Nowy Sacz"
 hre = no
 base_tax = 1
@@ -11,31 +9,8 @@ base_production = 1
 trade_goods = unknown
 base_manpower = 1
 is_city = no
-#add_core= POL
-estate = estate_nobles
-discovered_by = KAZ
-discovered_by = CRI
-discovered_by = GOL
-discovered_by = AST
-discovered_by = QAS
-discovered_by = high_american
 discovered_by = high_american
 discovered_by = indian
-discovered_by = indian
-
-# = { religion = protestant }
-# = {
-	#owner = PLC
-	#controller = PLC
-	remove_core = POL
-	#add_core= PLC
-} # Union of Lublin
-# = { revolt = { type = revolutionary_rebels size = 2 } #controller = REB } # Civil war, Polish succession
-# = { revolt = {} #controller = PLC } # Coronation of Sigismund III
-# = { religion = catholic }
-# = { revolt = { type = revolutionary_rebels size = 2 } #controller = REB } # The war of Polish succession
-# = { revolt = {} #controller = PLC }
-# = { #owner = HAB #controller = HAB #add_core= HAB } #First Partition
 
 
 native_size = 5

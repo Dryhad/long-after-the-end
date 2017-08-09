@@ -1,9 +1,7 @@
 #1974 - Yedishkul
 
-#owner = CRI
-#controller = CRI
-culture = crimean
-religion = sunni
+culture = ruthenian
+religion = atomicist
 hre = no
 base_tax = 4
 base_production = 4
@@ -11,23 +9,8 @@ trade_goods = salt
 base_manpower = 2
 capital = "Kherson"
 is_city = no
-#add_core= CRI
-
-
-
-discovered_by = high_american
 discovered_by = high_american
 discovered_by = indian
-discovered_by = indian
-#discovered_by = nomad_group
-
-
-# = { #add_core= TUR } # Crimea becomes a vassal of the Ottoman Empire
-# = { #controller = RUS } # Russian occupation
-# = { #controller = CRI } # Treaty of Nish
-# = { #controller = RUS } # Russian occupation
-# = {	#controller = CRI #add_core= RUS remove_core = TUR } # Treaty of Kuchuk-Kainarji, Crimea becomes Russian vassal
-# = { #owner = RUS #controller = RUS remove_core = CRI } # Annexed by Catherine II
 
 
 native_size = 5

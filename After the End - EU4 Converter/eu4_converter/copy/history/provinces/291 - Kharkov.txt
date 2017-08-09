@@ -1,9 +1,7 @@
 #291 - Kharkov
 
-#owner = CRI
-#controller = CRI
-culture = ryazanian
-religion = orthodox
+culture = ruthenian
+religion = atomicist
 hre = no
 base_tax = 1
 base_production = 1
@@ -11,27 +9,8 @@ trade_goods = unknown
 base_manpower = 1
 capital = "Belgorod"
 is_city = no
-#estate = estate_cossacks
-#add_core= CHR
-#add_core= CRI
-
-
-discovered_by = high_american
 discovered_by = high_american
 discovered_by = indian
-discovered_by = indian
-#discovered_by = nomad_group
-
-# = { #owner = LIT #controller = LIT #add_core= LIT remove_core = CRI culture = ruthenian religion = orthodox }
-
-# = { #owner = ZAZ #controller = ZAZ #add_core= ZAZ remove_core = LIT culture = ruthenian religion = orthodox } # Fortified military camp, independent state
-# = {
-	#owner = RUS
-	#controller = RUS
-	#add_core= RUS
-	remove_core = ZAZ
-	capital = "Kharkov" 
-} 
 
 
 native_size = 5

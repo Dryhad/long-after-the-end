@@ -1,9 +1,7 @@
 #2407 - Pereyaslav
 
-#owner = LIT
-#controller = LIT
 culture = ruthenian
-religion = orthodox
+religion = atomicist
 hre = no
 base_tax = 1
 base_production = 1
@@ -11,27 +9,8 @@ trade_goods = unknown
 base_manpower = 1
 capital = "Pereyaslav"
 is_city = no
-estate = estate_nobles
-#add_core= LIT
-#add_core= CHR
-discovered_by = high_american
 discovered_by = high_american
 discovered_by = indian
-discovered_by = indian
-#discovered_by = nomad_group
-
-# = {
-	#owner = PLC
-	#controller = PLC
-	#add_core= PLC
-} # Union of Lublin
-# = { revolt = { type = anti_tax_rebels size = 2 } #controller = REB } # Antifeudal insurrection
-# = { revolt = {} #controller = RUS } 
-# = {
-	#owner = RUS
-	#add_core= RUS
-	remove_core = PLC
-} # Part of the Russian empire
 
 
 native_size = 5

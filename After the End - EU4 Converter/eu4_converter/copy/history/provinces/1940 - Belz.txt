@@ -1,50 +1,16 @@
 #Belz
 
-#owner = MAZ
-#controller = MAZ
 capital= "Belz"
 culture = ruthenian
-religion = orthodox
+religion = atomicist
 trade_goods = unknown
 hre = no
 base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = no
-estate = estate_nobles
-#add_core= MAZ
-#add_core= VOL
-
-
-discovered_by = KAZ
-discovered_by = CRI
-discovered_by = GOL
-discovered_by = AST
-discovered_by = QAS
-discovered_by = high_american
 discovered_by = high_american
 discovered_by = indian
-discovered_by = indian
-
-
-# = { #owner = POL #controller = POL #add_core= POL remove_core = MAZ } # Belz incorporated into Poland
-# = {
-	#owner = PLC
-	#controller = PLC
-	remove_core = POL
-	#add_core= PLC
-} # Union of Lublin
-# = { religion = catholic } # Union of Lublin
-# = { revolt = { type = revolutionary_rebels size = 0 } #controller = REB } # Civil war
-# = { revolt = {} #controller = PLC } # Coronation of Sigismund III
-# = { unrest = 4 } # Religious struggles, union of Brest
-# = { unrest = 0 }
-# = { revolt = { type = revolutionary_rebels size = 0 } #controller = REB } # The war of Polish succession
-# = { revolt = {} #controller = PLC }
-# = {	#owner = HAB
-	#controller = HAB
-	#add_core= HAB
-} # First partition of Poland
 
 
 native_size = 5

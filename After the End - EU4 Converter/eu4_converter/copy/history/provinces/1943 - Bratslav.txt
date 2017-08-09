@@ -1,9 +1,7 @@
 #Bratslav/East Podolia
 
-#owner = LIT
-#controller = LIT
 culture = ruthenian
-religion = orthodox
+religion = atomicist
 hre = no
 base_tax = 1
 base_production = 1
@@ -11,37 +9,8 @@ trade_goods = unknown
 base_manpower = 1
 capital = "Bratslav"
 is_city = no
-estate = estate_nobles
-#fort_15th = yes #Bratslav Castle
-add_local_autonomy = 25
-#add_core= KIE
-#add_core= LIT
-discovered_by = high_american
 discovered_by = high_american
 discovered_by = indian
-discovered_by = indian
-#discovered_by = nomad_group
-
-# = { fort_15th = no }
-# = {
-	#owner = PLC
-	#controller = PLC
-	#add_core= PLC
-} # Union of Lublin
-# = {
-	revolt = { type = nationalist_rebels size = 0 }
-	#controller = REB
-	#add_core= ZAZ
-} # Chmielnicki uprising, civil war
-# = { revolt = {} #controller = PLC remove_core = ZAZ }
-# = {
-	#owner = TUR
-	#controller = TUR
-} # Treaty of Buchach
-# = { #owner = PLC #controller = PLC } # Treaty of Karlowitz
-# = { unrest = 8 } # Kolivshchyna rebellion, peasant uprising
-# = { unrest = 0 } # Suppressed by Polish and Russian troops
-# = { #owner = RUS #controller = RUS #add_core= RUS } # Second partition of Poland
 
 
 native_size = 5

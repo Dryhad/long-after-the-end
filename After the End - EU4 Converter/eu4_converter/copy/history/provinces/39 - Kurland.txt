@@ -1,49 +1,21 @@
 #Kurland, center at Goldingen
 
-#owner = LIV
-#controller = LIV
-#add_core= LIV
 culture = latvian
-religion = catholic
+religion = matrem
 hre = no
 base_tax = 1
 base_production = 1
 trade_goods = unknown
 base_manpower = 1
 capital = "Goldingen"
-estate = estate_church #Pilten
 is_city = no
 
 
 
 discovered_by = high_american
-discovered_by = high_american
-discovered_by = indian
 discovered_by = indian
 
 
-##
-# = { #owner = KUR
-	#controller = KUR
-	#add_core= KUR
-	remove_core = LIV
-	religion = protestant
-} # Treaty of Stettin
-# = { #controller = SWE } # 2nd Polish War-Captured by GIIA
-# = { #controller = KUR } # 2nd Polish War-Captured by Radziwill
-# = { #controller = SWE } # 2nd Polish War-Captured by GIIA
-# = { #controller = KUR } # The Armistice of Altmark
-# = { #controller = SWE } # 3rd Polish War-Captured by Magnus Gabriel de la Gardie
-# = { #controller = KUR } # 3rd Polish War-Swedish withdrawal
-# = { #controller = SWE } # 3rd Polish War-Captured by Robert Douglas
-# = { #controller = KUR } # 3rd Polish War-Captured by Samuel Komorowski
-# = { #controller = SWE } # The Great Nordic War-Captured by Karl XII
-# = { #controller = KUR } # The Great Nordic War-Captured by Russians
-# = {
-	#owner = RUS
-	#controller = RUS
-	#add_core= RUS
-} # Third partition of Poland
 
 
 native_size = 5
