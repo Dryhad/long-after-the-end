@@ -22,12 +22,12 @@ discovered_by = chinese
 	#controller = MCH
 	#add_core= MCH
 	remove_core = MJZ
-} # The Later Jin Khanate
+#} # The Later Jin Khanate
 # = {	#owner = QNG
 	#controller = QNG
 	#add_core= QNG
 	remove_core = MCH
-} # The Qing Dynasty
+#} # The Qing Dynasty
 # = { discovered_by = SPA }
 # = { discovered_by = RUS } # Martin Spanberg
 

@@ -23,7 +23,7 @@ discovered_by = indian
 	#controller = SPA
 	#owner = SPA
 	#add_core= SPA
-} # King Fernando dies, Carlos inherits Aragon and becames co-regent of Castille
+#} # King Fernando dies, Carlos inherits Aragon and becames co-regent of Castille
 # = { revolt = { type = revolutionary_rebels size = 1 } #controller = REB } # Foral riots in Zaragoza 
 # = { revolt = {} #controller = SPA } # The army is dispatched to quell the riots
 # = { #controller = HAB } # Aragon joins the Austrian side in the War of Spanish Succession

@@ -29,29 +29,29 @@ discovered_by = indian
 	#controller = BUR
 	#add_core= BUR
 	remove_core = FRA
-} # Treaty of Arras
+#} # Treaty of Arras
 # = {
 	#owner = FRA
 	#controller = FRA
 	#add_core= FRA
-} # Louis XI seizes Picardy
+#} # Louis XI seizes Picardy
 # = {
 	#owner = NEV
 	#controller = NEV
 	#add_core= NEV
 	remove_core = FRA
-} # Picardy is given to John II, Count of Nevers
+#} # Picardy is given to John II, Count of Nevers
 # = {
 	#owner = BUR
 	#controller = BUR
 	remove_core = NEV
-} # Charles the Bold recovers Picardy
+#} # Charles the Bold recovers Picardy
 # = {
 	#owner = FRA
 	#controller = FRA
 	#add_core= FRA
 	remove_core = BUR
-} # Charles the Bold dies
+#} # Charles the Bold dies
 # = { #controller = ENG } # Henry VIII defeats La Palice at Guinnegate and sacks Therouanne
 # = { #controller = FRA } # Henry VIII concludes a seperate peace with France
 # = { #controller = ENG } # English forces take hold of parts of Picardie in the Anglo-French War (#)
@@ -67,7 +67,7 @@ discovered_by = indian
 # = {
 	base_tax = 1
 	base_production = 1
-} # The Eden Agreement
+#} # The Eden Agreement
 
 
 native_size = 5

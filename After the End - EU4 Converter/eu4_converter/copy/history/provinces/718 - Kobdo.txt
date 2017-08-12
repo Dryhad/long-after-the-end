@@ -25,7 +25,7 @@ discovered_by = chinese
 	#owner = KHA
 	#controller = KHA
 	#add_core= KHA
-} # The Oirads are defeated & Altan Khan reunites the the area.
+#} # The Oirads are defeated & Altan Khan reunites the the area.
 # # = { religion = buddhism } # State religion
 # = { discovered_by = RUS }
 # = { #owner = OIR #controller = OIR } # The Oirads gained independence
@@ -33,12 +33,12 @@ discovered_by = chinese
 	#owner = ZUN
 	#controller = ZUN
 	#add_core= ZUN
-}
+#}
 # = {
 	#owner = QNG
 	#controller = QNG
 	#add_core= QNG
-} # Outer Mongolia intergrated into Qing
+#} # Outer Mongolia intergrated into Qing
 # = { discovered_by = SPA }
 
 

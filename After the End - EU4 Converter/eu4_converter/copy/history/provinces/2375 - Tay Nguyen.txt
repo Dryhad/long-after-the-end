@@ -26,19 +26,19 @@ discovered_by = indian
 	#controller = DAI
 	#add_core= DAI
 	#add_core= ANN
-}
+#}
 # = {
 	#owner = TOK
 	#controller = TOK
 	#add_core= TOK
 	remove_core = CHA
-}
+#}
 # = { discovered_by = POR }
 # = {
 	#owner = ANN
 	#controller = ANN
 	remove_core = TOK
-}
+#}
 # = { unrest = 6 } # Rebellion against Vietnamese rule
 # = { unrest = 0 }
 # = { unrest = 5 } # Peasant revolt
@@ -49,13 +49,13 @@ discovered_by = indian
 	#owner = DAI
 	#controller = DAI
 	#add_core= DAI
-} # Tay Son Dynasty conquered the Nguyen Lords
+#} # Tay Son Dynasty conquered the Nguyen Lords
 # = { unrest = 5 } # Unsuccessful revolt
 # = { unrest = 0 }
 # = {	#owner = ANN
 	#controller = ANN
 	remove_core = DAI
-} # Nguyen Phuc Anh conquered the Tay Son Dynasty
+#} # Nguyen Phuc Anh conquered the Tay Son Dynasty
 
 
 native_size = 5

@@ -24,13 +24,13 @@ discovered_by = indian
 	#controller = SST
 	#add_core= SST
 	remove_core = AVA
-}
+#}
 # = { #add_core= TAU }
 # = { #controller = TAU }
 # = {	
 	#owner = TAU
 	remove_core = SST
-}
+#}
 # = { discovered_by = GBR }
 
 

@@ -23,7 +23,7 @@ discovered_by = indian
 	#owner = PLC
 	#controller = PLC
 	#add_core= PLC
-} # Polish-Lithuanian Commonwealth
+#} # Polish-Lithuanian Commonwealth
 # = { religion = catholic } # Union of Lublin
 # = { #controller = SWE }
 # = { #controller = RUS }
@@ -34,7 +34,7 @@ discovered_by = indian
 	#owner = RUS
 	#controller = RUS
 	#add_core= RUS
-} # Third partition of Poland
+#} # Third partition of Poland
 
 
 

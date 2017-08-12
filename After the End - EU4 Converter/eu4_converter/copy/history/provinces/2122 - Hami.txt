@@ -19,47 +19,47 @@ discovered_by = chinese
 # = {
 	#owner = CHG
 	#controller = CHG
-}
+#}
 # = {
 	#owner = HMI
 	#controller = HMI
-}
+#}
 # = {
 	#owner = CHG
 	#controller = CHG
-}
+#}
 # = {
 	#owner = HMI
 	#controller = HMI
-}
+#}
 # = {
 	#owner = CHG
 	#controller = CHG
-}
+#}
 # = {
 	#owner = MNG
 	#controller = MNG
-}
+#}
 # = {
 	#owner = CHG
 	#controller = CHG
-}
+#}
 # = {
 	#owner = KAS
 	#controller = KAS
 	#add_core= KAS
-}
+#}
 # = {
 	#owner = ZUN
 	#controller = ZUN
 	#add_core= ZUN
-}
+#}
 # = { discovered_by = SPA }
 # = {
 	#owner = QNG
 	#controller = QNG
 	#add_core= QNG
-}
+#}
 
 
 native_size = 5

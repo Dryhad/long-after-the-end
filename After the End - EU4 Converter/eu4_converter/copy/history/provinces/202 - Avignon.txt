@@ -28,13 +28,13 @@ discovered_by = indian
 	#controller = PAP
 	#add_core= PAP
 	estate = estate_church
-}
+#}
 # = { #add_core= FRA } # Louis XIV wants to annex the city-state (Chambres de Réunion)
 # = {
 	#owner = FRA
 	#controller = FRA
 	remove_core = PAP
-} # Avignon is incorporated into France
+#} # Avignon is incorporated into France
 
 
 

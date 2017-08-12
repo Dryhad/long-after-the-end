@@ -29,7 +29,7 @@ discovered_by = indian
 	remove_core = LXA
 	remove_core = TOK
 	remove_core = DAI
-} # Lan Xang declared itself independent, partitioned into three kingdoms; Vientiane, Champasak & Luang Prabang
+#} # Lan Xang declared itself independent, partitioned into three kingdoms; Vientiane, Champasak & Luang Prabang
 # = { unrest = 5 } # Rebellion
 # = { unrest = 0 }
 

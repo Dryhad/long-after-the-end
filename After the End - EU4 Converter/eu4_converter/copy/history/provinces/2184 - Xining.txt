@@ -23,12 +23,12 @@ discovered_by = chinese
 # = {
 	#owner = CSH
 	#controller = CSH
-} # Li Zicheng's Shun empire
+#} # Li Zicheng's Shun empire
 # = {
 	#owner = QNG
 	#controller = QNG
 	#add_core= QNG
-}
+#}
 # = { discovered_by = SPA } #Ferdinand Verbiest
 
 native_size = 5

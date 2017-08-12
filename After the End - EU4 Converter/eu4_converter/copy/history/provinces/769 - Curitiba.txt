@@ -22,4 +22,4 @@ native_hostileness = 2
 	religion = candomble
 	trade_goods = sugar
 	is_city = no
-}
+#}

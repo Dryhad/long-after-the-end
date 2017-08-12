@@ -21,12 +21,12 @@ discovered_by = chinese
 # = {
 	#owner = CXI
 	#controller = CXI
-} # Zhang Xianzhong's Xi empire
+#} # Zhang Xianzhong's Xi empire
 # = { discovered_by = SPA }#Novus Atlas Sinensis
 # = {
 	#owner = QNG
 	#controller = QNG
-}
+#}
 # = { #controller = CZH } # Three Feudatories revolt
 # = { #controller = QNG }
 

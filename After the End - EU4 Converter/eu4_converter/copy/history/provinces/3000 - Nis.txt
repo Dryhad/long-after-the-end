@@ -28,7 +28,7 @@ discovered_by = indian
 	#owner = TUR
 	#controller = TUR
 	#add_core= TUR
-}
+#}
 # = { unrest = 12 } # Serb rebellion under D. Brankovic
 # = { #controller = HAB } # Occupied by Austrian forces
 # = { #controller = TUR }

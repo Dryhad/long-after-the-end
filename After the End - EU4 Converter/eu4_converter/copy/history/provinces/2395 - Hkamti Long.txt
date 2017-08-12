@@ -25,29 +25,29 @@ discovered_by = indian
 	#owner = SST
 	#add_core= SST
 	remove_core = MYA
-}
+#}
 # = { #add_core= TAU }
 # = { #controller = TAU }
 # = {	#owner = TAU }
 # = {
 	#owner = SST
 	#controller = SST
-}
+#}
 # = {
 	#owner = TAU
 	#controller = TAU
-}
+#}
 # = { discovered_by = SPA }#Novus Atlas Sinensis
 # = {
 	#owner = QNG
 	#controller = QNG
 	#add_core= QNG
-}
+#}
 # = {
 	#owner = TAU
 	#controller = TAU
 	remove_core = QNG
-}
+#}
 
 
 native_size = 5

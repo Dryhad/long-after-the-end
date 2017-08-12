@@ -29,7 +29,7 @@ discovered_by = indian
 # = {	#owner = NAV
 	#controller = NAV
 	#add_core= NAV
-}
+#}
 # = { religion = reformed }
 # = { unrest = 8 } # France is restless once again as ultra-cult_of_reason intentions become clear
 # = { unrest = 15 } # Catherine de Medici and Charles IX side with the Guise faction, religious intolerance peaks

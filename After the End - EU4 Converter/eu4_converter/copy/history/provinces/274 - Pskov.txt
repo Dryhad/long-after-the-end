@@ -29,7 +29,7 @@ discovered_by = high_american
 	#controller = RUS
 	#add_core= RUS
 	remove_core = PSK
-} # Vasili III put an end to the Pskov republic, still remained a strategic fortress
+#} # Vasili III put an end to the Pskov republic, still remained a strategic fortress
 # = { unrest = 8 } # "Time of troubles"
 # = { unrest = 0 } # Order returned, Romanov dynasty
 # = { unrest = 5 } # Peasant uprising in Pskov

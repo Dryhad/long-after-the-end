@@ -27,7 +27,7 @@ discovered_by = indian
 	#owner = AYU
 	#controller = AYU
 	capital = "Nakhon Ratchasima"
-} # Narai built a command post in Korat and the Siamnese influence became stronger
+#} # Narai built a command post in Korat and the Siamnese influence became stronger
 # = { unrest = 7 } # The Ayutthaya Kingdom began to crumble
 # = { unrest = 0 }
 # = { revolt = { type = revolutionary_rebels size = 1 } #controller = REB } # The Siamese-Cambodian Rebellion

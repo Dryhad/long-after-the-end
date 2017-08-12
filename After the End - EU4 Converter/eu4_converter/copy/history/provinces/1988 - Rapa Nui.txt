@@ -14,10 +14,10 @@ native_hostileness = 1
 
 # = {
 	#discovered_by = NED	# Jacob Roggeveen
-}
+#}
 # = {
 	#discovered_by = SPA	# The ships San Lorenzo and Santa Rosalia
-}
+#}
 # = {
 	#discovered_by = GBR	# James Cook, date unknown
-}
+#}

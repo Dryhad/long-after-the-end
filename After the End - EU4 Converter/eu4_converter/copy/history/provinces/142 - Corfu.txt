@@ -32,23 +32,23 @@ discovered_by = indian
 	#controller = FRA
 	#add_core= FRA
 	remove_core = VEN
-} # The Treaty of Campo Formio, Corfu is ceded to France
+#} # The Treaty of Campo Formio, Corfu is ceded to France
 # = {
 	#owner = CEP
 	#controller = CEP
 	remove_core = FRA
-} # The Septinsular Republic
+#} # The Septinsular Republic
 
 # = {	#owner = FRA
 	#controller = FRA
 	#add_core= FRA
-} # Back under French control after the Treaty of Tilsit
+#} # Back under French control after the Treaty of Tilsit
 # = {
 	#owner = GBR
 	#controller = GBR
 	#add_core= GBR
 	remove_core = FRA
-} # The Second Treaty of Paris
+#} # The Second Treaty of Paris
 
 
 native_size = 5

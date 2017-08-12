@@ -26,26 +26,26 @@ discovered_by = indian
 	#owner = VEN
 	#controller = VEN
 	#add_core= VEN
-} # To Venice
+#} # To Venice
 # = { fort_16th = yes } 
 # = {
 	#owner = HAB
 	#controller = HAB
 	#add_core= HAB
-} # Treaty of Campo Formio
+#} # Treaty of Campo Formio
 # = {
 	#owner = ITA
 	#controller = ITA
 	#add_core= ITA
 	remove_core = HAB
-} # Treaty of Pressburg
+#} # Treaty of Pressburg
 # = { hre = no } # The Holy Roman Empire is dissolved
 # = {
 	#owner = HAB
 	#controller = HAB
 	#add_core= HAB
 	remove_core = ITA
-} # Treaty of Fontainebleau, Napoleon abdicates unconditionally
+#} # Treaty of Fontainebleau, Napoleon abdicates unconditionally
 
 
 native_size = 5

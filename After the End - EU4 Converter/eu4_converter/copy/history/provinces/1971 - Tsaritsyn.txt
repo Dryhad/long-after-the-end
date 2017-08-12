@@ -26,13 +26,13 @@ discovered_by = indian
 	#controller = AST
 	#add_core= AST
 	remove_core = GOL
-} # Golden Horde destroyed by Crimea
+#} # Golden Horde destroyed by Crimea
 # = { 
 	#owner = RUS
 	#controller = RUS
 	#add_core= RUS 
 	remove_core = AST
-} # Russians acquire Volga after fall of Astrakhan
+#} # Russians acquire Volga after fall of Astrakhan
 # = { capital = "Tsaritsyn" }
 # = { culture = russian religion = orthodox }
 # = { revolt = { type = anti_tax_rebels size = 2 name = "Stepan Razin" } #controller = REB unrest = 6 } # Razin rebellion

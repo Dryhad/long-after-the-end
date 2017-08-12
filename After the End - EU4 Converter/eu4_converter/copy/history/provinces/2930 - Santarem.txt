@@ -22,4 +22,4 @@ native_hostileness = 6
 	religion = candomble
 	trade_goods = tropical_wood
 	is_city = no 
-}
+#}

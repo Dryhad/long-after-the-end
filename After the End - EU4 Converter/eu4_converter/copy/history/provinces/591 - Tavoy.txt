@@ -25,10 +25,10 @@ discovered_by = indian
 # = {	#owner = TAU
 	#controller = TAU
 	#add_core= TAU
-}
+#}
 # = {	#owner = AYU
 	#controller = AYU
-}
+#}
 # = { #owner = TAU #controller = TAU } # Taungu regained Tenasserim
 # = { #owner = AYU #controller = AYU }
 # = { #owner = TAU #controller = TAU }

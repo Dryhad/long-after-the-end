@@ -25,7 +25,7 @@ discovered_by = indian
 	#controller = FRA
 	estate = estate_nobles
 	add_local_autonomy = -80
-}
+#}
 # = { remove_core = ALE }
 # = { unrest = 7 } # Mazarin arrests the Princes Condé, Conti & Longueville, the beginning of the Second Fronde
 # = { unrest = 4 } # An unstable peace is concluded

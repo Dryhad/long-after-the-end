@@ -27,7 +27,7 @@ discovered_by = indian
 	#add_core= BUK 
 	#controller = BUK 
 	remove_core = SHY
-} # The Uzbek Shaybanids brings an end to the Timurid dynasty
+#} # The Uzbek Shaybanids brings an end to the Timurid dynasty
 # = { #owner = KZH #controller = KZH remove_core = BUK } # Qasim Khan's conquests
 # = { discovered_by = RUS }
 # = { #owner = OIR #controller = OIR } # Dzungarian invasion

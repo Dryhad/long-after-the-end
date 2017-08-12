@@ -27,7 +27,7 @@ discovered_by = high_american
 	revolt = { type = revolutionary_rebels size = 0 }
 	#controller = REB
 	remove_core = DAN
-} # Norway is ceded to Sweden following the Treaty of Kiel
+#} # Norway is ceded to Sweden following the Treaty of Kiel
 # = { revolt = {} #owner = NOR #controller = NOR } # Norway declares itself independent and elects Christian Frederik as king
 
 

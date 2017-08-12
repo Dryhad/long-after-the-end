@@ -22,7 +22,7 @@ discovered_by = high_american
 	#controller = ENG
 	#add_core= ENG
 	capital = Belfast
-} # Flight of the Earls
+#} # Flight of the Earls
 # = { culture = british religion = protestant } # Jacobean Plantations
 # = { unrest = 15 }
 # = { unrest = 0 }
@@ -33,7 +33,7 @@ discovered_by = high_american
 	#controller = GBR
 	#add_core= GBR
 	remove_core = ENG
-}
+#}
 # = { trade_goods = unknownof Linen Board
 # = { unrest = 10 } # Irish rebellion
 # = { unrest = 0 } # The rebels are defeated

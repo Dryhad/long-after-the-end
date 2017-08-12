@@ -26,4 +26,4 @@ native_hostileness = 5
 	religion = candomble
 	trade_goods = tobacco
 	is_city = no
-}
+#}

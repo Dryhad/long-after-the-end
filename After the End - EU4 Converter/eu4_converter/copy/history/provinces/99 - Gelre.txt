@@ -27,11 +27,11 @@ discovered_by = indian
 	#controller = HAB
 	#add_core= HAB
 	remove_core = BUR
-} # Charles the Bold dies and Gelre goes to the Habsburgs
+#} # Charles the Bold dies and Gelre goes to the Habsburgs
 # = { 
 	#owner = GEL
 	#controller = GEL
-} # Karel van Gelre is released from prison and assumes control of Gelre by right of the Egmond family.
+#} # Karel van Gelre is released from prison and assumes control of Gelre by right of the Egmond family.
 # = { #owner = SPA #controller = SPA #add_core= SPA remove_core = HAB } # Charles V annexes Gelre
 # = { #owner = NED #controller = NED #add_core= NED remove_core = SPA }
 # = { unrest = 3 } # New bishoprics in the Lowlands create an outrage
@@ -50,7 +50,7 @@ discovered_by = indian
 	#add_core= NED 
 	remove_core = SPA
 	unrest = 0
-} # Union of Utrecht, Gelre joins
+#} # Union of Utrecht, Gelre joins
 # = { #controller = SPA unrest = 15 } # Alessandro Farnese captures Zutphen and the surrounding lands
 # = { #controller = NED unrest = 0 } # The Republic takes back Zutphen and surrounding areas
 # = { hre = no } # The Peace of Westphalia
@@ -62,12 +62,12 @@ base_production = 1 # Protestants expelled from France
 	#owner = FRA
 	#controller = FRA
 	#add_core= FRA
-} # Annexed by France
+#} # Annexed by France
 # = {	
 	#owner = NED
 	#controller = NED
 	remove_core = FRA
-} # William returns to the Netherlands
+#} # William returns to the Netherlands
 
 
 native_size = 5

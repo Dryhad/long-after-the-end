@@ -39,12 +39,12 @@ base_production = 1} # Protestants expelled from France
 	#owner = FRA
 	#controller = FRA
 	#add_core= FRA
-} # Annexed by France
+#} # Annexed by France
 # = {
 	#owner = NED
 	#controller = NED
 	remove_core = FRA
-} # William returns to the Netherlands
+#} # William returns to the Netherlands
 
 
 native_size = 5

@@ -29,7 +29,7 @@ discovered_by = indian
 	#controller = SPA
 	#owner = SPA
 	#add_core= SPA
-} # King Fernando dies, Carlos inherits Aragon and becomes co-regent of Castilla
+#} # King Fernando dies, Carlos inherits Aragon and becomes co-regent of Castilla
 # = { unrest = 5 } # War of the Comunidades
 # = { unrest = 0 } # After the defeat of the comuneros at Villalar, Toledo was still able to resist for 9 months.
 # = { remove_core = CAS }

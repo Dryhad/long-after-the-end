@@ -28,17 +28,17 @@ discovered_by = chinese
 	#add_core= OIR
 	remove_core = CHG
 	religion = buddhism
-} # The Oirads
+#} # The Oirads
 # = {
 	#owner = ZUN
 	#controller = ZUN
 	#add_core= ZUN
-}
+#}
 # = {
 	#owner = QNG
 	#controller = QNG
 	#add_core= QNG
-}
+#}
 
 
 native_size = 5

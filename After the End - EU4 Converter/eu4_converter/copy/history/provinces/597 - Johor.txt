@@ -27,7 +27,7 @@ discovered_by = indian
 # = {
 	#owner = JOH
 	#controller = JOH
-}
+#}
 # = { capital = "Kota Tingi" } # Alauddin Riayat Shah moved the capital
 
 

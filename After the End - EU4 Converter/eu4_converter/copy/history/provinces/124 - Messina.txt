@@ -27,13 +27,13 @@ discovered_by = indian
 	#owner = ARA
 	#controller = ARA
 	#add_core= ARA
-} # Martin I inherits Sicily from his son
+#} # Martin I inherits Sicily from his son
 # = {
 	#owner = SPA
 	#controller = SPA
 	#add_core= SPA
 	remove_core = ARA
-} # Unification of Spain
+#} # Unification of Spain
 # = { fort_15th = no fort_16th = yes }
 # = { fort_16th = no fort_17th = yes } 
 # = { #controller = SAV }
@@ -43,20 +43,20 @@ discovered_by = indian
 	#owner = HAB
 	#controller = HAB
 	#add_core= HAB
-}
+#}
 # = {
 	#owner = NAP
 	#controller = NAP
 	remove_core = HAB
-}
+#}
 # = {
 	#owner = SIC
 	#controller = SIC
-} # Ferdinand flees to Sicily
+#} # Ferdinand flees to Sicily
 # = {
 	#owner = NAP
 	#controller = NAP
-} # The Kingdom is restored to Ferdinand
+#} # The Kingdom is restored to Ferdinand
 
 
 native_size = 5

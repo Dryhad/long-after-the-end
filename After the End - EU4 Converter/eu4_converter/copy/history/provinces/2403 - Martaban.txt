@@ -26,15 +26,15 @@ discovered_by = indian
 # = {
 	#owner = TAU
 	#controller = TAU
-} # Annexed to the Kingdom of Taungoo
+#} # Annexed to the Kingdom of Taungoo
 # = {
 	#owner = PEG
 	#controller = PEG
-}
+#}
 # = {
 	#owner = TAU
 	#controller = TAU
-}
+#}
 # = { unrest = 4 }
 # = { unrest = 0 }
 # = { #owner = PEG #controller = PEG } # Restored Pegu Dynasty

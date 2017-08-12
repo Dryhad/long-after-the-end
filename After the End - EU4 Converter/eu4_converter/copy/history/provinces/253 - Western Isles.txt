@@ -24,7 +24,7 @@ discovered_by = high_american
 # = {	## = GBR
 	## = GBR
 	##= GBR
-}
+#}
 
 
 native_size = 5

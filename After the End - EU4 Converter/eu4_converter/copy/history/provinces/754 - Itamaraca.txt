@@ -27,7 +27,7 @@ native_hostileness = 3
 	culture = brazilian
 	religion = candomble
 	trade_goods = sugar
-}
+#}
 # = { unrest = 3 } # Expulsion of the buccaneers that had taken over the territory
 # = { unrest = 0 }
 # = {
@@ -37,7 +37,7 @@ native_hostileness = 3
 	capital = "Frederikstad"
 	culture = dutch
 	religion = reformed
-} # Dutch occupation
+#} # Dutch occupation
 # = { unrest = 7 } # Religious confrontations between the brazilian-Brazilian and the Dutch Calvinists
 # = {
 	#owner = POR
@@ -47,6 +47,6 @@ native_hostileness = 3
 	culture = brazilian
 	religion = candomble
 	unrest = 0
-} # The dutch are chased out
+#} # The dutch are chased out
 # = { unrest = 5 } # National uprising
 # = { unrest = 0 } # Estimated

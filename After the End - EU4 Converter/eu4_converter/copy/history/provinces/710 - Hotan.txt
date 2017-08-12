@@ -24,11 +24,11 @@ discovered_by = chinese
 	#owner = ZUN
 	#controller = ZUN
 	#add_core= ZUN
-}
+#}
 # = {
 	#owner = KAS
 	#controller = KAS 
-}
+#}
 # = { #owner = QNG #controller = QNG #add_core= QNG } # Part of the Manchu empire
 
 

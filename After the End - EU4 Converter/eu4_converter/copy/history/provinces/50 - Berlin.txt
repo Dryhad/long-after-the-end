@@ -32,10 +32,10 @@ discovered_by = indian
 	base_tax = 1
 	base_production = 1
 	base_manpower = 1
-} # Friedrich III becomes king of Prussia
+#} # Friedrich III becomes king of Prussia
 # = {
 	capital = "Berlin" #Merger of the twin cities.
-}
+#}
 # = {  base_tax = 1base_production = 1}
 # = { base_manpower = 1}
 # = { hre = no } # The Holy Roman Empire is dissolved

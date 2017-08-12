@@ -24,7 +24,7 @@ discovered_by = indian
 	#owner = SAX
 	#controller = SAX
 	remove_core = THU
-}
+#}
 # = { unrest = 5 } # Peasant revolt
 # = { unrest = 0 }
 # = { hre = no } # The Holy Roman Empire is dissolved
@@ -33,7 +33,7 @@ discovered_by = indian
 	#controller = PRU
 	#add_core= PRU
 	remove_core = SAX
-} # Congress of Vienna
+#} # Congress of Vienna
 
 
 native_size = 5

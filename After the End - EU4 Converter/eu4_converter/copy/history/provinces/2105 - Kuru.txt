@@ -24,7 +24,7 @@ discovered_by = chinese
 	#controller = RUS
 	religion = orthodox
 	culture = russian
-} # Pyotr Beketov
+#} # Pyotr Beketov
 # = {	#discovered_by = QNG
 	#owner = QNG
 	#controller = QNG
@@ -32,7 +32,7 @@ discovered_by = chinese
 	culture = manchu
 	religion = confucianism
 	trade_goods = unknown
-} # Treaty of Nerchinsk
+#} # Treaty of Nerchinsk
 # = { discovered_by = SPA }
 
 

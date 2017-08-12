@@ -22,4 +22,4 @@ native_hostileness = 5
 	culture = brazilian
 	religion = candomble
 	trade_goods = tobacco
-}
+#}

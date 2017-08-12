@@ -27,7 +27,7 @@ discovered_by = high_american
 	#controller = SCO
 	#add_core= SCO
 	remove_core = NOR
-} # Dowry of Margaret, Daughter of Christian I of Denmark and Norway and Wife of James III of Scotland
+#} # Dowry of Margaret, Daughter of Christian I of Denmark and Norway and Wife of James III of Scotland
 # = { religion = reformed } # First Protestant Minister Arrives in the Orkneys
 # = { revolt = { type = revolutionary_rebels size = 2 } #controller = REB } # Landing of Montrose
 # = { revolt = {} #controller = SCO } # Battle of Carbisdale
@@ -35,7 +35,7 @@ discovered_by = high_american
 	#owner = GBR
 	#controller = GBR
 	#add_core= GBR
-}
+#}
 # = { }
 
 

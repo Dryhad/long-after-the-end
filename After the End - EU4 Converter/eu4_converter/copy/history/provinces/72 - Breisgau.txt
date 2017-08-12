@@ -26,7 +26,7 @@ discovered_by = indian
 	#controller = HAB
 	#add_core= HAB
 	remove_core = BAD
-}
+#}
 # = { unrest = 8 } # Peasant Revolts - 18.000 peasants take Freiburg (May)
 # = { unrest = 0 }
 # = {

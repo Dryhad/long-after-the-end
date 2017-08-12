@@ -25,7 +25,7 @@ discovered_by = chinese
 	#owner = ASS
 	#controller = ASS
 	#add_core= ASS
-}
+#}
 # = { #add_core= ASS }
 # = { discovered_by = GBR }
 # = { unrest = 8 } # Moamoria rebellion
@@ -33,7 +33,7 @@ discovered_by = chinese
 # = {
 	#controller = TAU
 	#owner = TAU
-}
+#}
 # = { #owner = KAC #controller = KAC } #Claimed by British but de facto independent
 
 

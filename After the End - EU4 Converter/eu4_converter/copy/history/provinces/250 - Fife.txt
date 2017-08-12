@@ -30,7 +30,7 @@ discovered_by = high_american
 # = {	#owner = GBR
 	#controller = GBR
 	#add_core= GBR
-}
+#}
 
 
 native_size = 5

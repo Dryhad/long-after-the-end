@@ -26,7 +26,7 @@ discovered_by = indian
 # = {
 	#owner = PRK
 	#controller = PRK
-}
+#}
 
 
 native_size = 5

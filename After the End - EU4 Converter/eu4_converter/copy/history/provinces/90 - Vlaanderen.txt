@@ -46,7 +46,7 @@ discovered_by = indian
 	#owner = FRA
 	#controller = FRA
 	#add_core= FRA
-} # Treaty of Den Haag, ceded to the French Republic
+#} # Treaty of Den Haag, ceded to the French Republic
 # = { revolt = { type = nationalist_rebels size = 2 } #controller = REB } # Revolt against French rule, "Boerenkrijg"
 # = { revolt = {} #controller = FRA }
 # = { hre = no } # The Holy Roman Empire is dissolved
@@ -55,7 +55,7 @@ discovered_by = indian
 	#controller = NED
 	#add_core= NED
 	remove_core = FRA
-} # The United Kingdom of the Netherlands
+#} # The United Kingdom of the Netherlands
 
 
 native_size = 5

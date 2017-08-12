@@ -28,7 +28,7 @@ discovered_by = indian
 	capital = "Karlskrona" 
 	culture = swedish
 	shipyard = yes		# Karlskrona issued as naval base by KXI
-}
+#}
 
 
 native_size = 5

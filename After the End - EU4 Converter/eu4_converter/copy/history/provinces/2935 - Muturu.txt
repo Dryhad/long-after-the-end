@@ -1,10 +1,10 @@
 # - Muturu
 
-culture = tupinamba
+culture = brazilian
 discovered_by = south_american
-religion = animism
+religion = candomble
 capital = "Muturu"
-trade_goods = unknown
+trade_goods = cocoa
 hre = no
 base_tax = 1
 base_production = 1
@@ -12,14 +12,3 @@ base_manpower = 1
 native_size = 15
 native_ferocity = 2
 native_hostileness = 6
-
-# = {
-	#discovered_by = POR
-	#owner = POR
-	#controller = POR
-	#add_core= POR
-	culture = brazilian
-	religion = candomble
-	is_city = no
-	trade_goods = cocoa
-}

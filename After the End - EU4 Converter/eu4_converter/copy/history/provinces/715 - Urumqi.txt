@@ -23,20 +23,20 @@ discovered_by = chinese
 	#owner = OIR
 	#controller = OIR
 	#add_core= OIR
-}
+#}
 # = { discovered_by = RUS }
 # = { remove_core = CHG }
 # = {
 	#owner = ZUN
 	#controller = ZUN
 	#add_core= ZUN
-}
+#}
 # = { discovered_by = SPA }
 # = {
 	#owner = QNG
 	#controller = QNG
 	#add_core= QNG
-}
+#}
 
 
 native_size = 5

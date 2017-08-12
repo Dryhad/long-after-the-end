@@ -23,7 +23,7 @@ discovered_by = high_american
 	#owner = DAN
 	#controller = DAN
 	#add_core= DAN
-}
+#}
 
 
 native_size = 5

@@ -24,20 +24,20 @@ discovered_by = indian
 	#owner = LXA
 	#controller = LXA
 	#add_core= LXA
-}
+#}
 # = { #add_core= ANN } # Vietnamese Intervention
 # = {
 	#owner = VIE
 	#controller = VIE
 	#add_core= VIE
 	remove_core = LXA
-} # Lan Xangs declared itself independent, partitioned into three kingdoms; Vientiane, Champasak & Luang Prabang
+#} # Lan Xangs declared itself independent, partitioned into three kingdoms; Vientiane, Champasak & Luang Prabang
 # = {
 	#owner = CHK
 	#controller = CHK
 	#add_core= CHK
 	remove_core = VIE
-}
+#}
 # = { unrest = 5 } # The Siamese-Cambodian Rebellion
 # = { unrest = 0 }
 

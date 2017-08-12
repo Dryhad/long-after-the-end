@@ -21,7 +21,7 @@ discovered_by = high_american
 	#owner = ENG
 	#controller = ENG
 	#add_core= ENG
-} # Flight of the Earls
+#} # Flight of the Earls
 # = { culture = british religion = protestant } # Jacobean Plantations
 # = { unrest = 15 }
 # = { unrest = 0 }
@@ -32,7 +32,7 @@ discovered_by = high_american
 	#controller = GBR
 	#add_core= GBR
 	remove_core = ENG
-}
+#}
 # = { trade_goods = unknownof Linen Board
 # = { capital = "Omagh" }
 # = { unrest = 10 } # Irish rebellion

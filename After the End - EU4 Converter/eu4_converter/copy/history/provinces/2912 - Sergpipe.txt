@@ -22,7 +22,7 @@ native_hostileness = 3
 	trade_goods = tropical_wood
 	culture = brazilian
 	religion = candomble
-}
+#}
 # = { capital = "São Cristóvão" }
 # = {
 	#owner = NED
@@ -30,13 +30,13 @@ native_hostileness = 3
 	#add_core= NED
 	religion = reformed
 	culture = dutch
-}
+#}
 # = {
 	#owner = POR
 	#controller = POR
 	remove_core = NED
 	culture = brazilian
 	religion = candomble
-}
+#}
 # = { unrest = 4 } # Resistance from Maroon dwellers
 # = { unrest = 0 } # Zumbi, their leader is captured

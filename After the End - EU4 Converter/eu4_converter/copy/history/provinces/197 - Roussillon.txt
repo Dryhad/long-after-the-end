@@ -34,7 +34,7 @@ discovered_by = indian
 	#owner = SPA
 	#controller = SPA
 	 #add_core= SPA
-} # Spain comes into existence, Carlos I rises to the throne
+#} # Spain comes into existence, Carlos I rises to the throne
 # = { fort_15th = no fort_16th = yes }
 # = { fort_16th = no fort_17th = yes }
 # = { #owner = FRA #controller = FRA #add_core= FRA } # Peace of the Pyrennees

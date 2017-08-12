@@ -28,11 +28,11 @@ discovered_by = indian
 # = {
 	#owner = PEG
 	#controller = PEG
-}
+#}
 # = {
 	#owner = TAU
 	#controller = TAU
-}
+#}
 # = { unrest = 4 }
 # = { unrest = 0 }
 # = { #owner = PEG #controller = PEG } # Restored Pegu Dynasty

@@ -30,7 +30,7 @@ discovered_by = indian
 	#owner = PLC
 	#controller = PLC
 	#add_core= PLC
-} # Union of Lublin
+#} # Union of Lublin
 # = { fort_16th = yes } #Birzai
 # = { fort_16th = no fort_17th = yes } #Birzai
 # = { #controller = SWE } # Swedish occupation

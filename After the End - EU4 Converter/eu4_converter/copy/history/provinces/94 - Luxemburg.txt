@@ -50,12 +50,12 @@ base_production = 1 # The General Estates
 # = {	#owner = FRA
 	#controller = FRA
 	remove_core = HAB
-} # The Treaty of Campo Formio, Luxembourg is ceded to France 
+#} # The Treaty of Campo Formio, Luxembourg is ceded to France 
 # = { hre = no } # The Holy Roman Empire is dissolved
 # = {	#owner = LUX
 	#controller = LUX
 	remove_core = FRA
-} # Grand Duchy of Luxembourg
+#} # Grand Duchy of Luxembourg
 
 
 native_size = 5

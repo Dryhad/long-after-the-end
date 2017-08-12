@@ -26,7 +26,7 @@ discovered_by = chinese
 	#owner = QNG
 	#controller = QNG
 	#add_core= QNG
-}
+#}
 # = { remove_core = MNG }
 
 

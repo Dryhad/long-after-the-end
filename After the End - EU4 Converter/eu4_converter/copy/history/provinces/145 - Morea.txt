@@ -29,7 +29,7 @@ discovered_by = high_american
 	#owner = MOE
 	#controller = MOE
 	#add_core= TUR
-} # The fall of the Byzantine Empire
+#} # The fall of the Byzantine Empire
 # = { #owner = TUR #controller = TUR }
 # = { #controller = VEN }
 # = { #controller = TUR }

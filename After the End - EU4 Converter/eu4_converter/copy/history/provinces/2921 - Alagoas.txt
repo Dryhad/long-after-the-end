@@ -22,20 +22,20 @@ native_hostileness = 3
 	is_city = no
 	culture = brazilian
 	religion = candomble
-}
+#}
 # = {
 	#owner = NED
 	#controller = NED
 	#add_core= NED
 	religion = reformed
 	culture = dutch
-}
+#}
 # = {
 	#owner = POR
 	#controller = POR
 	remove_core = NED
 	culture = brazilian
 	religion = candomble
-}
+#}
 # = { unrest = 4 } # Resistance from Maroon dwellers
 # = { unrest = 0 } # Zumbi, their leader is captured

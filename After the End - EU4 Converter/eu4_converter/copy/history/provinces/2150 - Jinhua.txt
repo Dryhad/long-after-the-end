@@ -25,7 +25,7 @@ discovered_by = chinese
 	#owner = QNG
 	#controller = QNG
 	#add_core= QNG
-}
+#}
 
 
 native_size = 5

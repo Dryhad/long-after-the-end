@@ -31,7 +31,7 @@ native_hostileness = 3
 	capital = "São Tiago"
 	culture = brazilian
 	religion = candomble
-}
+#}
 # = { capital = "Fortaleza" }
 # = { unrest = 6 } # Natives led by Mandu Ladino rebelled against the brazilian expansion
 # = { unrest = 0 } # The rebellion is subdued

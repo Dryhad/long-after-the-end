@@ -26,7 +26,7 @@ discovered_by = indian
 	#owner = PLC
 	#controller = PLC
 	#add_core= PLC
-} # Union of Lublin
+#} # Union of Lublin
 # = { religion = catholic } # Union of Lublin
 # = { unrest = 5 } # Kosciuszko uprising, minimize the Russian influence
 # = { unrest = 0 }
@@ -34,7 +34,7 @@ discovered_by = indian
 	#owner = RUS
 	#controller = RUS
 	#add_core= RUS
-} # Third partition of Poland
+#} # Third partition of Poland
 
 
 native_size = 5

@@ -26,18 +26,18 @@ discovered_by = chinese
 # = {
 	#owner = QNG
 	#controller = QNG
-}
+#}
 # = {
 	#owner = CZH
 	#controller = CZH
 	#add_core= CZH
-} # Three Feudatories - Wu Sangui titled as Prince of Pingxi in Yunnan
+#} # Three Feudatories - Wu Sangui titled as Prince of Pingxi in Yunnan
 # = { #controller = QNG }
 # = {
 	#owner = QNG
 	#controller = QNG
 	#add_core= QNG
-}
+#}
 
 
 native_size = 5

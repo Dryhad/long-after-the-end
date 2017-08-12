@@ -26,13 +26,13 @@ discovered_by = indian
 	#owner = PLC
 	#controller = PLC
 	#add_core= PLC
-} # Union of Lublin
+#} # Union of Lublin
 # = { unrest = 6 } # Kosciuszko uprising
 # = { unrest = 0 }
 # = { 	#add_core= RUS
 	#owner = RUS
 	#controller = RUS 
-} # Third Partition of Poland, tightened ice regime
+#} # Third Partition of Poland, tightened ice regime
 
 
 native_size = 5

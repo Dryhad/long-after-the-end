@@ -20,32 +20,32 @@ discovered_by = indian
 # = {
 	#owner = CHG
 	#controller = CHG
-}
+#}
 # = {
 	#owner = KAS
 	#controller = KAS
 	#add_core= KAS
-}
+#}
 # = {
 	#controller = KSD
 	#owner = KSD
 	#add_core= KSD 
-}
+#}
 # = { discovered_by = SPA } #Ferdinand Verbiest
 # = {
 	#owner = ZUN
 	#controller = ZUN
-} #Zunghar invasion of Tibet
+#} #Zunghar invasion of Tibet
 # = {
 	#owner = KSD
 	#controller = KSD
 	#add_core= KSD
-}
+#}
 # = {
 	#owner = QNG
 	#controller = QNG
 	#add_core= QNG
-} # Qinghai conquered by Qing
+#} # Qinghai conquered by Qing
 # = { revolt_risk = 7 } # Rebellion aginst the Chinese
 # = { revolt_risk = 0 }
 

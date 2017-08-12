@@ -22,7 +22,7 @@ discovered_by = indian
 # = {	#controller = SPA
 	#owner = SPA
 	#add_core= SPA
-} # King Fernando dies, Carlos inherits Aragon and becames co-regent of Castille
+#} # King Fernando dies, Carlos inherits Aragon and becames co-regent of Castille
 # = { fort_16th = yes } #Star Fort of Jaca
 # = { #controller = HAB } # Aragon joins the Austrian side in the War of Spanish Succession
 # = { #controller = SPA } # Aragon surrenders

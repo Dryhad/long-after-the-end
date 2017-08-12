@@ -22,7 +22,7 @@ discovered_by = high_american
 	#owner = DAN
 	#controller = DAN
 	#add_core= DAN
-}
+#}
 # = { trade_goods = unknowns more important.
 
 

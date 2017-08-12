@@ -25,12 +25,12 @@ discovered_by = indian
 	#owner = PEG
 	#controller = PEG
 	#add_core= PEG
-}
+#}
 # = {
 	#owner = TAU
 	#controller = TAU
 	remove_core = PEG
-}
+#}
 
 
 native_size = 5

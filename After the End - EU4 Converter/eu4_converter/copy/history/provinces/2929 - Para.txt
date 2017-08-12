@@ -28,5 +28,5 @@ native_hostileness = 3
 	religion = candomble
 	capital = "Cameta"
 	trade_goods = sugar
-}
+#}
 # = { capital = "Portel" }

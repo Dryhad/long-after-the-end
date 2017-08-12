@@ -27,12 +27,12 @@ discovered_by = chinese
 	#owner = KSH
 	#controller = KSH
 	#add_core= KSH
-} #Shah Mirs
+#} #Shah Mirs
 # = {
 	#owner = LDK
 	#controller = LDK
 	remove_core = KSH
-}
+#}
 
 
 

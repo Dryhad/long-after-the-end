@@ -24,7 +24,7 @@ discovered_by = indian
 	#controller = RUS
 	#add_core= RUS
 	remove_core = CRI 
-} # Battle of Molodi
+#} # Battle of Molodi
 # = { culture = russian religion = orthodox }
 
 

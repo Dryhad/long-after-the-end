@@ -44,7 +44,7 @@ base_production = 1
 	#controller = GBR
 	#add_core= GBR
 	remove_core = ENG
-}
+#}
 
 
 native_size = 5

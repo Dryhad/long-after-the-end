@@ -19,17 +19,17 @@ discovered_by = chinese
 # = {
 	revolt = {}
 	#controller = KHA
-} # The Oirads are defeated & Mongolia is reunited under Altan Khan
+#} # The Oirads are defeated & Mongolia is reunited under Altan Khan
 # = { discovered_by = SPA } #Ferdinand Verbiest
 # = {
 	#owner = ZUN
 	#controller = ZUN
-}
+#}
 # = {
 	#owner = QNG
 	#controller = QNG
 	#add_core= QNG
-} # Kangxi leads Qing army pushing Zunghars back
+#} # Kangxi leads Qing army pushing Zunghars back
 # = { discovered_by = SPA }
 
 

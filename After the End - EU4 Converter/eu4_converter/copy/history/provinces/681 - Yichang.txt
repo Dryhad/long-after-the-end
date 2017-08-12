@@ -27,7 +27,7 @@ discovered_by = chinese
 	#owner = QNG
 	#controller = QNG
 	#add_core= QNG
-} # The Qing Conquest Continues 
+#} # The Qing Conquest Continues 
 # = { discovered_by = SPA }#Novus Atlas Sinensis
 # = { remove_core = MNG }
 

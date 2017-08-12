@@ -26,6 +26,6 @@ native_hostileness = 1
 	religion = candomble
 	culture = brazilian
 	trade_goods = cocoa
-}
+#}
 # = { unrest = 4 } # New law which precluded the farmers from utilizing natives as slaves
 # = { unrest = 0 } # The Jesuits are expulsed from the region

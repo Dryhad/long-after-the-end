@@ -25,27 +25,27 @@ discovered_by = indian
 	#controller = SST
 	#add_core= SST
 	remove_core = MYA
-}
+#}
 # = { #add_core= TAU }
 # = { #controller = TAU }
 # = { #owner = TAU }
 # = {
 	#owner = SST
 	#controller = SST
-}
+#}
 # = {
 	#owner = TAU
 	#controller = TAU
-}
+#}
 # = { discovered_by = SPA }#Novus Atlas Sinensis
 # = {
 	#owner = SST
 	#controller = SST
-}
+#}
 # = {
 	#owner = TAU
 	#controller = TAU
-}
+#}
 # = { discovered_by = GBR }
 
 

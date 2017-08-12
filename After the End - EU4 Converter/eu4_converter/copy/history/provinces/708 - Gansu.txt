@@ -26,12 +26,12 @@ discovered_by = chinese
 	revolt_risk = 0
 	#owner = CSH
 	#controller = CSH
-} # Li Zicheng's Shun empire
+#} # Li Zicheng's Shun empire
 # = {
 	#owner = QNG
 	#controller = QNG
 	#add_core= QNG
-}
+#}
 # = { remove_core = MNG }
 # = { discovered_by = SPA } #Ferdinand Verbiest
 

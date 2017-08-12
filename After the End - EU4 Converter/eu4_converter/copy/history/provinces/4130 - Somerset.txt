@@ -32,7 +32,7 @@ discovered_by = high_american
 	#controller = GBR
 	#add_core= GBR
 	remove_core = ENG
-}
+#}
 
 
 native_size = 5

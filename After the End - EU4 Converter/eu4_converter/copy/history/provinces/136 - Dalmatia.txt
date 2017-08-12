@@ -33,19 +33,19 @@ discovered_by = indian
 	#owner = HAB
 	#controller = HAB
 	#add_core= HAB
-} # Treaty of Campo Formio
+#} # Treaty of Campo Formio
 # = {
 	#owner = FRA
 	#controller = FRA
 	#add_core= FRA
 	remove_core = HAB
-} # Treaty of Pressburg
+#} # Treaty of Pressburg
 # = { #controller = HAB } # Occupied by Austrian forces
 # = {
 	#owner = HAB
 	#add_core= HAB
 	remove_core = FRA
-} # Napoleon abdicates
+#} # Napoleon abdicates
 
 
 

@@ -30,12 +30,12 @@ discovered_by = indian
 	#controller = PLC
 	#add_core= PLC
 	remove_core = RUS
-} # Truce of Deulino
+#} # Truce of Deulino
 # = {
 	revolt = { type = nationalist_rebels size = 0 }
 	#controller = REB
 	#add_core= ZAZ
-} # Chmielnicki Rebellion
+#} # Chmielnicki Rebellion
 # = { revolt = {} #controller = PLC remove_core = ZAZ }
 # = { #owner = RUS #controller = RUS #add_core= RUS } # Treaty of Pereyaslav
 # = { remove_core = PLC } # Treaty of Andrusovo

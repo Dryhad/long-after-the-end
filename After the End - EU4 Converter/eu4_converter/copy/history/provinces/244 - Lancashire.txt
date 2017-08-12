@@ -40,7 +40,7 @@ discovered_by = high_american
 	#add_core= GBR
 	remove_core = ENG
 	seat_in_parliament = yes
-}
+#}
 
 
 native_size = 5

@@ -20,16 +20,16 @@ native_hostileness = 5
 	#add_core= SPA
 	is_city = no
 	trade_goods = tobacco
-} # Estimate
+#} # Estimate
 # = {
 	#owner = GUA
 	#controller = GUA
 	#add_core= GUA
-}
+#}
 # = {
 	#owner = POR
 	#controller = POR
 	#add_core= POR
 	remove_core = SPA
 	culture = brazilian
-}
+#}

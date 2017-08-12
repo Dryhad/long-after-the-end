@@ -26,13 +26,13 @@ discovered_by = indian
 	#owner = CZH
 	#controller = CZH
 	#add_core= CZH
-} # Three Feudatories - Wu Sangui titled as Prince of Pingxi in Yunnan
+#} # Three Feudatories - Wu Sangui titled as Prince of Pingxi in Yunnan
 # = { trade_goods = unknownme the main focus during the Qing Dynasty.
 # = {
 	#owner = QNG
 	#controller = QNG
 	#add_core= QNG
-}
+#}
 
 
 native_size = 5

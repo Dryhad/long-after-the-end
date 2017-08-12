@@ -25,16 +25,16 @@ discovered_by = indian
 	#owner = AYU
 	#controller = AYU
 	#add_core= AYU
-}
+#}
 # = { capital = "Siem Riep" }
 # = {
 	#owner = KHM
 	#controller = KHM
-}
+#}
 # = {
 	#owner = AYU
 	#controller = AYU
-}
+#}
 # = { unrest = 5 } # The Siamese-Cambodian Rebellion
 # = { unrest = 0 }
 

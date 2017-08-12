@@ -28,13 +28,13 @@ discovered_by = indian
 	#controller = SHY
 	#add_core= SHY
 	#remove_core = TIM 
-} # Muhammad Shaybani
+#} # Muhammad Shaybani
 # = {
 	#owner = BUK
 	#add_core= BUK
 	#controller = BUK
 	remove_core = TIM
-} # The Uzbek Shaybanids brings an end to the Timurid dynasty
+#} # The Uzbek Shaybanids brings an end to the Timurid dynasty
 # = { discovered_by = RUS }
 # = { #owner = KOK #controller = KOK remove_core = BUK } # Independent principality established by Shaybanid Shahrukh
 

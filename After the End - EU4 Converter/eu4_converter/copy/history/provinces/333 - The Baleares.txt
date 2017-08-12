@@ -28,7 +28,7 @@ discovered_by = indian
 	#controller = SPA
 	#owner = SPA
 	#add_core= SPA
-} # King Fernando dies, Carlos inherits Aragon and becomes co-regent of Castille
+#} # King Fernando dies, Carlos inherits Aragon and becomes co-regent of Castille
 # = { revolt = { type = revolutionary_rebels size = 0 } #controller = REB } # The Germanies movement reaches the archipelago, the viceroy is deposed by the revolters
 # = { revolt = {} #controller = SPA } # The royal army retakes the city of Palma
 # = { #controller = HAB } # Balearic isles side with the Austrian cause

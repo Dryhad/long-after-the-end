@@ -31,7 +31,7 @@ discovered_by = KAS
 	#owner = QNG
 	#controller = QNG
 	#add_core= QNG
-}
+#}
 
 
 native_size = 5

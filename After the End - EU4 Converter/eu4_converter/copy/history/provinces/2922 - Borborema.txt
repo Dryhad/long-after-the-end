@@ -22,5 +22,5 @@ native_hostileness = 6
 	culture = brazilian
 	religion = candomble
 	trade_goods = tobacco
-}
+#}
 # = { capital = "Cimbres" }

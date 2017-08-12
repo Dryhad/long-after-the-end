@@ -25,14 +25,14 @@ discovered_by = indian
 	#controller = SST
 	#add_core= SST
 	remove_core = AVA
-}
+#}
 # = { discovered_by = POR }
 # = { #add_core= TAU }
 # = { #controller = TAU }
 # = {	
 	#owner = TAU
 	remove_core = SST
-}
+#}
 
 
 native_size = 5

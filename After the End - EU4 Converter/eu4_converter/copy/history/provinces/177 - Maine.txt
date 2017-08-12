@@ -24,7 +24,7 @@ discovered_by = indian
 	#owner = FRA
 	#controller = FRA
 	add_local_autonomy = -80
-}
+#}
 # = { #controller = FRA } # Louis XI occupies Anjou because of being excluded of the Anjou inheritance
 # = { #controller = PRO } # Louis XI is reconciled, and Anjou is restored to Duke René
 # = { #owner = FRA #controller = FRA #add_core= FRA } # Anjou ceded to France after the death of René, Duke of Anjou & Provence

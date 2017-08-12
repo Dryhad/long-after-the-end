@@ -28,6 +28,6 @@ native_hostileness = 3
 	religion = candomble
 	trade_goods = sugar
 	is_city = no
-}
+#}
 # = { unrest = 6 }
 # = { unrest = 0 }

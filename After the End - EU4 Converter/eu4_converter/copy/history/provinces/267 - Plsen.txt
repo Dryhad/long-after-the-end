@@ -32,28 +32,28 @@ discovered_by = indian
 	#controller = HUN
 	#add_core= HUN
 	unrest = 0
-} # Pilsen accepts Matthias Corvinus (Hunyadi)as their King.
+#} # Pilsen accepts Matthias Corvinus (Hunyadi)as their King.
 # = {
 	#owner = BOH
 	#controller = BOH
 	remove_core = HUN
-} # Matthias Corvinus dies in Vienna, his successor is both King of Hungary AND Bohemia, thus the integreity of the Bohemian territory is restored.
+#} # Matthias Corvinus dies in Vienna, his successor is both King of Hungary AND Bohemia, thus the integreity of the Bohemian territory is restored.
 # = {
 	#owner = HAB
 	#controller = HAB
 	#add_core= HAB
 	remove_core = BOH
-}# Battle of Mohac where Lajos II dies -> Habsburg succession
+#}# Battle of Mohac where Lajos II dies -> Habsburg succession
 # = { # Defenestration of Prague
 	#owner = BOH
 	#controller = BOH
 	#add_core= BOH
-}
+#}
 # = {
 	#owner = HAB
 	#controller = HAB
 	remove_core = BOH
-} # Tilly beats the Winterking. Deus Vult!
+#} # Tilly beats the Winterking. Deus Vult!
 # = { hre = no } # The Holy Roman Empire is dissolved
 
 

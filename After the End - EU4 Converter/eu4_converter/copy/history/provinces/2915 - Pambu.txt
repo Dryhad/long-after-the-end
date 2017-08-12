@@ -22,4 +22,4 @@ native_hostileness = 6
 	is_city = no
 	culture = brazilian
 	religion = candomble
-}
+#}

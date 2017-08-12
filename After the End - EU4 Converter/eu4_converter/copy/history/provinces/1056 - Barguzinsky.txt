@@ -22,7 +22,7 @@ discovered_by = BRT
 	#controller = RUS
 	religion = orthodox
 	culture = russian
-} # Pyotr Beketov
+#} # Pyotr Beketov
 # = { #add_core= RUS }
 
 

@@ -24,12 +24,12 @@ discovered_by = chinese
 # = {
 	#owner = CXI
 	#controller = CXI
-} # Zhang Xianzhong's Xi empire
+#} # Zhang Xianzhong's Xi empire
 # = {
 	#owner = QNG
 	#controller = QNG
 	#add_core= QNG
-}
+#}
 # = { discovered_by = SPA }#Novus Atlas Sinensis
 
 native_size = 5

@@ -26,15 +26,15 @@ discovered_by = chinese
 	#owner = QNG
 	#controller = QNG
 	#add_core= QNG
-}
+#}
 # = { 
 	#controller = MNG 
 	#owner = MNG
-}
+#}
 # = {
 	#owner = QNG
 	#controller = QNG
-}
+#}
 # = { discovered_by = SPA }#Novus Atlas Sinensis
 # = { #controller = QNG } 
 # = { remove_core = MNG }

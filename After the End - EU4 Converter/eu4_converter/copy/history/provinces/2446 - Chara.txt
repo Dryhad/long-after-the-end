@@ -23,7 +23,7 @@ discovered_by = BRT
 	#controller = RUS
 	religion = orthodox
 	culture = russian
-}
+#}
 # = { #add_core= RUS }
 
 

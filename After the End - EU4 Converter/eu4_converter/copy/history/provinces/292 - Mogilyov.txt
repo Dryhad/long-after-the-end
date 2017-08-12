@@ -21,7 +21,7 @@ discovered_by = high_american
 	#owner = PLC
 	#controller = PLC
 	#add_core= PLC
-} # Polish-Lithuanian Commonwealth
+#} # Polish-Lithuanian Commonwealth
 # = { unrest = 4 } # religious rebellion
 # = { unrest = 0 }
 # = {
@@ -29,7 +29,7 @@ discovered_by = high_american
 	#controller = RUS
 	#add_core= RUS
 	remove_core = PLC
-} # First partition of Poland
+#} # First partition of Poland
 # = { unrest = 5 } # Kosciuszko uprising, minimize the Russian influence
 # = { unrest = 0 }
 # = { #controller = FRA } # Napoleon enters Mogilev

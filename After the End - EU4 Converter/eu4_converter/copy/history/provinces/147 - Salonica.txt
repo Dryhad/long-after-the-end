@@ -30,12 +30,12 @@ discovered_by = indian
 	#owner = VEN
 	#controller = VEN
 	#add_core= VEN
-} # Sold to Venice
+#} # Sold to Venice
 # = {	#owner = TUR
 	#controller = TUR
 	#add_core= TUR
 	remove_core = VEN
-} # To the Ottoman Empire
+#} # To the Ottoman Empire
 # = { remove_core = BYZ }
 # = { unrest = 5 } # General discontent with the Janissaries' dominance
 # = { unrest = 0 }

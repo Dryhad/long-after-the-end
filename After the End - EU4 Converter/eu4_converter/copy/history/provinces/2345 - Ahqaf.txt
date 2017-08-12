@@ -25,7 +25,7 @@ discovered_by = east_african
 	#owner = TUR
 	#controller = TUR
 	#add_core= TUR
-} # Part of the Ottoman empire
+#} # Part of the Ottoman empire
 # = { unrest = 4 } # Revolt against the Ottomans
 # = { unrest = 0 }
 # = { unrest = 5 } # Revolt against the Ottomans
@@ -34,7 +34,7 @@ discovered_by = east_african
 	#owner = ADE
 	#controller = ADE
 	remove_core = TUR
-}
+#}
 
 
 native_size = 5

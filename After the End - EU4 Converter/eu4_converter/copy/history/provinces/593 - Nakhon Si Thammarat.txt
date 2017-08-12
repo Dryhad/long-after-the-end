@@ -26,16 +26,16 @@ discovered_by = indian
 # = {
 	#owner = AYU
 	#controller = AYU
-}
+#}
 # = {
 	#owner = LIG
 	#controller = LIG
-}
+#}
 # = {
 	#owner = AYU
 	#controller = AYU
 	remove_core = LIG
-}
+#}
 
 
 native_size = 5

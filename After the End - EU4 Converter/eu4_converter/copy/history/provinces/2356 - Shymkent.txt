@@ -26,14 +26,14 @@ discovered_by = indian
 	#owner = SHY
 	#controller = SHY
 	#add_core= SHY
-} # Muhammad Shaybani
+#} # Muhammad Shaybani
 # = { 
 	#owner = BUK 
 	#add_core= BUK 
 	#controller = BUK 
 	remove_core = SHY 
 	remove_core = TIM 
-} # The Uzbek Shaybanids brings an end to the Timurid dynasty
+#} # The Uzbek Shaybanids brings an end to the Timurid dynasty
 # = { #owner = KZH #controller = KZH #add_core= KZH remove_core = BUK } # Approximate
 # = { discovered_by = RUS }
 # = { #owner = OIR #controller = OIR } # Dzungarian invasion

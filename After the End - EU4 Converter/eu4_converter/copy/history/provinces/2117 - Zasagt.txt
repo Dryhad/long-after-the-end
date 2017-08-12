@@ -23,22 +23,22 @@ discovered_by = chinese
 	#owner = KHA
 	#controller = KHA
 	#add_core= KHA
-} # The Oirads are defeated & Altan Khan reunites the the area.
+#} # The Oirads are defeated & Altan Khan reunites the the area.
 # = { discovered_by = RUS }
 # = {
 	#owner = KLK
 	#controller = KLK
 	#add_core= KLK
-}
+#}
 # = {
 	#owner = ZUN
 	#controller = ZUN
-}
+#}
 # = {
 	#owner = QNG
 	#controller = QNG
 	#add_core= QNG
-} # Outer Mongolia intergrated into Qing
+#} # Outer Mongolia intergrated into Qing
 # = { discovered_by = SPA }
 
 native_size = 5

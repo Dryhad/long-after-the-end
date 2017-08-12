@@ -27,13 +27,13 @@ discovered_by = indian
 	#controller = CRI 
 	#add_core= CRI
 	remove_core = GOL 
-} # Golden Horde destroyed by Crimea
+#} # Golden Horde destroyed by Crimea
 # = {
 	#owner = RUS
 	#controller = RUS
 	#add_core= RUS
 	remove_core = CRI 
-} # Battle of Molodi
+#} # Battle of Molodi
 # = { revolt = { type = anti_tax_rebels size = 2 name = "Stepan Razin" } #controller = REB unrest = 6 } # Razin rebellion
 # = { revolt = { } #controller = RUS unrest = 0 } # Razin captured
 # = { revolt = { type = anti_tax_rebels size = 2 name = "Yemelyan Pugachev" } #controller = REB unrest = 6 } # Pugachev rebellion

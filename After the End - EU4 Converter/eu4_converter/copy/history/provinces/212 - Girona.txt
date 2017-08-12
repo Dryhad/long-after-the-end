@@ -40,7 +40,7 @@ discovered_by = indian
 	#owner = FRA
 	#controller = FRA
 	#add_core= FRA
-} # Louis XIII of France, Count of Barcelona.
+#} # Louis XIII of France, Count of Barcelona.
 # = { #owner = SPA #controller = SPA remove_core = FRA } # Barcelona surrenders
 # = { fort_16th = no fort_17th = yes } #Ciutadella de Roses Renovated and brought up to date
 # = { #controller = FRA } # France defeats the Spanish army in Girona

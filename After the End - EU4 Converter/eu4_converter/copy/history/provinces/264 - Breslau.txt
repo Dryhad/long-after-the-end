@@ -30,13 +30,13 @@ discovered_by = indian
 	#owner = BOH
 	#controller = BOH
 	#add_core= BOH
-}
+#}
 # = {
 	#owner = HAB
 	#controller = HAB
 	unrest = 5 # The beginning of religious struggles
 	remove_core = BOH
-} # Tilly beats the Winterking. Deus Vult!
+#} # Tilly beats the Winterking. Deus Vult!
 # = { unrest = 0 }
  # Lost big part of its population during the Thirty years war
 # = { unrest = 4 } # Religious oppositions

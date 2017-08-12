@@ -23,14 +23,14 @@ discovered_by = indian
 	#owner = PLC
 	#controller = PLC
 	#add_core= PLC
-} # Union of Lublin
+#} # Union of Lublin
 # = { #controller = RUS } # Conquered by Tsar Alexei
 # = { #controller = PLC } # Regained by Jan Kasimir
 # = {
 	#owner = RUS
 	#controller = RUS
 	#add_core= RUS
-} # Second Partition of Poland
+#} # Second Partition of Poland
 # = { unrest = 5 } # Kosciuszko uprising, minimize the Russian influence
 # = { unrest = 0 }
 # = { #controller = FRA } # Occupied by French troops

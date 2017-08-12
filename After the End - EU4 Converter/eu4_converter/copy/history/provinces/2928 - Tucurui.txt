@@ -27,4 +27,4 @@ native_hostileness = 3
 	culture = brazilian
 	religion = candomble
 	trade_goods = cocoa
-}
+#}

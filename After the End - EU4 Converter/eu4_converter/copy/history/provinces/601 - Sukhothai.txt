@@ -22,13 +22,13 @@ discovered_by = indian
 
 # = {	
 	#add_core= AYU
-} # Sukhothai is under Personal Union with Ayutthaya
+#} # Sukhothai is under Personal Union with Ayutthaya
 # = { #add_core= LNA } # Lan Na Invasion of Sukhothai
 # = { remove_core = LNA }
 # = { #owner = AYU
 	#controller = AYU
 	remove_core = SUK
-} # Completely annexed by Ayutthaya
+#} # Completely annexed by Ayutthaya
 # = { discovered_by = POR }
 # = { unrest = 7 } # The fall of Ayutthaya
 # = { unrest = 0 }

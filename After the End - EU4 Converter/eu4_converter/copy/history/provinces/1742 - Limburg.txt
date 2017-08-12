@@ -33,14 +33,14 @@ discovered_by = indian
 	#controller = FRA
 	#add_core= FRA
 	remove_core = HAB
-} # Treaty of Campo Formio
+#} # Treaty of Campo Formio
 # = { hre = no } # The Holy Roman Empire is dissolved
 # = {
 	#owner = NED
 	#controller = NED
 	#add_core= NED
 	remove_core = FRA
-} # The United Kingdom of the Netherlands
+#} # The United Kingdom of the Netherlands
 
 
 native_size = 5

@@ -28,6 +28,6 @@ native_hostileness = 3
 	culture = brazilian
 	religion = candomble
 	is_city = no
-}
+#}
 # = { unrest = 6 } # Natives led by Mandu Ladino rebelled against the brazilian expansion
 # = { unrest = 0 } # The rebellion is subdued

@@ -28,15 +28,15 @@ discovered_by = chinese
 # = {
 	#owner = QNG
 	#add_core= QNG
-}
+#}
 # = {
 	#controller = MNG 
 	#owner = MNG
-}
+#}
 # = {
 	#owner = QNG
 	#controller = QNG
-}
+#}
 # = { #controller = MNG }
 # = { #controller = QNG }
 

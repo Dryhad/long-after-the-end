@@ -24,18 +24,18 @@ discovered_by = indian
 	#controller = KSD
 	#owner = KSD
 	#add_core= KSD
-}
+#}
 # = {
 	#owner = ZUN
 	#controller = ZUN
 	#add_core= ZUN
-} #Zunghar invasion of Tibet
+#} #Zunghar invasion of Tibet
 # = {
 	#owner = UTS
 	#controller = UTS
 	#add_core= UTS
 	remove_core = ZUN
-}
+#}
 # = { discovered_by = SPA }
 # = { revolt_risk = 7 } # Rebellion aginst the Chinese
 # = { revolt_risk = 0 }
@@ -43,7 +43,7 @@ discovered_by = indian
 	#owner = QNG
 	#controller = QNG
 	#add_core= QNG
-} # U-tsang integrated into Qing empire after Sino-nepalese war
+#} # U-tsang integrated into Qing empire after Sino-nepalese war
 
 
 native_size = 5

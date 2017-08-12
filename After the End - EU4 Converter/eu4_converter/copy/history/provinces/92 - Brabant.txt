@@ -44,7 +44,7 @@ discovered_by = indian
 	#controller = FRA
 	#add_core= FRA
 	remove_core = HAB
-} # The Treaty of Campo Formio, the Austrian Netherlands are ceded to France 
+#} # The Treaty of Campo Formio, the Austrian Netherlands are ceded to France 
 # = { revolt = { type = anti_tax_rebels size = 2 } #controller = REB } # The Flemish Peasant Rebellion
 # = { revolt = {} #controller = FRA }
 # = { hre = no } # The Holy Roman Empire is dissolved
@@ -53,7 +53,7 @@ discovered_by = indian
 	#controller = NED
 	#add_core= NED
 	remove_core = FRA
-} # The United Kingdom of the Netherlands
+#} # The United Kingdom of the Netherlands
 
 
 native_size = 5

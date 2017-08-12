@@ -32,24 +32,24 @@ discovered_by = high_american
 	# = SIC
 	# = SIC
 	# = SAV
-} # Treaty of Utrecht(2) gave Sicily to the House of Savoy 
+#} # Treaty of Utrecht(2) gave Sicily to the House of Savoy 
 # = {
 	# = SPI
 	# = SPI
 	# = SPI
 	# = SIC
-} # Kingdom of Piedmont-Sardinia
+#} # Kingdom of Piedmont-Sardinia
 # = { # = FRA } # Occupied by French troops
 # = {
 	# = FRA
 	# = FRA
-} # Savoie is annexed
+#} # Savoie is annexed
 # = { hre = no } # The Holy Roman Empire is dissolved
 # = {
 	# = SPI
 	# = SPI
 	# = FRA
-} # Napoleon abdicates and Victor Emmanuel is able to return to Turin
+#} # Napoleon abdicates and Victor Emmanuel is able to return to Turin
 
 
 native_size = 5

@@ -31,11 +31,11 @@ discovered_by = nomad_group
 	culture = cosmopolitan_french
 	religion = catholic
 	trade_goods = unknown
-} #Fort Témiscamingue founded
+#} #Fort Témiscamingue founded
 # = { discovered_by = GBR } 
 # = { #controller = GBR } # The government of New France capitulate at Montreal
 # = {
 	#owner = GBR
 	#add_core= GBR
 	remove_core = FRA
-} # Treaty of Paris - ceded to Britain
+#} # Treaty of Paris - ceded to Britain

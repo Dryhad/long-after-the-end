@@ -28,12 +28,12 @@ discovered_by = indian
 	#controller = RUS
 	#add_core= RUS
 	remove_core = KAZ 
-} # Russian conquest of Kazan
+#} # Russian conquest of Kazan
 # = {
 	culture = russian
 	religion = orthodox
 	capital = "Simbirsk" 
-} # Simbirsk founded as a strongpoint to defend Russia's southern front
+#} # Simbirsk founded as a strongpoint to defend Russia's southern front
 # = { revolt = { type = anti_tax_rebels size = 3 name = "Stepan Razin" } #controller = REB unrest = 6 } # Razin rebellion
 # = { revolt = { } #controller = RUS unrest = 0 } # Razin captured
 # = { revolt = { type = anti_tax_rebels size = 2 name = "Yemelyan Pugachev" } #controller = REB unrest = 6 } # Pugachev rebellion

@@ -23,7 +23,7 @@ discovered_by = indian
 	#owner = PLC
 	#controller = PLC
 	#add_core= PLC
-} # Union of Lublin
+#} # Union of Lublin
 # = { unrest = 0 } # Vilnius university
 # = { unrest = 3} # 3rd May constitution raised opposition
 # = { unrest = 6 } # Kosciuszko uprising
@@ -32,7 +32,7 @@ discovered_by = indian
 	#owner = RUS
 	#controller = RUS
 	#add_core= RUS
-} # Most of Lithuania are incorporated into the Russian empire
+#} # Most of Lithuania are incorporated into the Russian empire
 # = { #controller = FRA } # Occupied by French troops
 # = { #controller = RUS }
 

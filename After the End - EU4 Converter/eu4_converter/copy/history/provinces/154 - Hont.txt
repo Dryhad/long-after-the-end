@@ -35,7 +35,7 @@ discovered_by = QAS
 	#owner = HAB
 	#controller = HAB
 	#add_core= HAB
-} #Hungary fractured after Battle of Mohacs
+#} #Hungary fractured after Battle of Mohacs
 # = { religion = protestant } # Synod of Erdod
 # = { religion = reformed } # Synod of Debrecen
 # = { fort_15th = no fort_16th = yes } # New Start Fort of Érsekújvár

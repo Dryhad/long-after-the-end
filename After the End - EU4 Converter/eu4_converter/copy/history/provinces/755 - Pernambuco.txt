@@ -28,7 +28,7 @@ native_hostileness = 2
 	culture = brazilian
 	religion = candomble
 	trade_goods = sugar
-} # Pedro Álvares Cabral
+#} # Pedro Álvares Cabral
 # = { unrest = 3 } # Expulsion of the buccaneers that had taken over the territory
 # = { unrest = 0 }
 # = {
@@ -38,7 +38,7 @@ native_hostileness = 2
 	#add_core= NED
 	culture = dutch
 	religion = reformed
-} # Dutch occupation, capital moved from Olinda
+#} # Dutch occupation, capital moved from Olinda
 # = { unrest = 7 } # Religious confrontations between the brazilian-Brazilian and the Dutch Calvinists
 # = {
 	#owner = POR
@@ -47,7 +47,7 @@ native_hostileness = 2
 	culture = brazilian
 	religion = candomble
 	unrest = 0
-} # The dutch are chased out
+#} # The dutch are chased out
 # = { trade_goods = sugar } # Prodcution of enormous quantities of sugar
 # = { unrest = 8 } # The War of the Mascates, disputes between natives & the brazilian
 # = { unrest = 0 }

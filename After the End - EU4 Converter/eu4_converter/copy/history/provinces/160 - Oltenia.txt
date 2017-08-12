@@ -35,7 +35,7 @@ discovered_by = indian
 	#controller = HAB
 	#add_core= HAB
 	remove_core = TUR
-} # Treaty of Passarowitz, Banat & Oltenia passed to the Habsburg empire
+#} # Treaty of Passarowitz, Banat & Oltenia passed to the Habsburg empire
 # = { #owner = WAL #controller = WAL remove_core = HAB } # Returned to Wallachia after the Russian-Austrian-Turkish war
 # = { #controller = HAB } # Occupied by Austrian troops
 # = { #controller = WAL } # Treaty of Sistova

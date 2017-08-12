@@ -26,17 +26,17 @@ discovered_by = chinese
 	#owner = QNG
 	#controller = QNG
 	#add_core= QNG
-}
+#}
 # = {
 	#owner = CZH
 	#controller = CZH
 	#add_core= CZH
-} # Three Feudatories
+#} # Three Feudatories
 # = {
 	#owner = QNG
 	#controller = QNG
 	#add_core= QNG
-}
+#}
 
 
 native_size = 5

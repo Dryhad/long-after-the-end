@@ -26,7 +26,7 @@ discovered_by = high_american
 # = {	#owner = TUR
 	#controller = TUR
 	#add_core= TUR
-}
+#}
 # = { base_tax = 1 base_production = 1 } # The decentralizing effect of the provincial system
 # = { #controller = RUS } # Occupied by Russia
 # = { #controller = TUR }

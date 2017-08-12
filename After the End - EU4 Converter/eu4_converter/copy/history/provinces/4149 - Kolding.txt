@@ -25,16 +25,16 @@ discovered_by = indian
 # = { religion = protestant }
 # = {
 	#controller = HAB
-}
+#}
 # = {
 	#controller = DAN
-}
+#}
 # = { #controller = SWE } # Torstenssons War- Captured by Lennart Torstensson
 # = { #controller = DAN } # The Peace of Brömsebro
 # = {
 	fort_15th = no
 	fort_17th = yes
-}
+#}
 
 
 native_size = 5

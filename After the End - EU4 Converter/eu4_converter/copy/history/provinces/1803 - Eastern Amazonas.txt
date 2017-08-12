@@ -2,7 +2,7 @@ discovered_by = south_american
 
 # = {
 	#discovered_by = POR
-}
+#}
 
 native_size = 5
 native_ferocity = 1

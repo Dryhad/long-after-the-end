@@ -25,4 +25,4 @@ native_hostileness = 8
 	culture = brazilian
 	religion = candomble
 	trade_goods = grain #Cattle
-}
+#}

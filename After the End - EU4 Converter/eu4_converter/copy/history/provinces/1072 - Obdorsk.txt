@@ -25,4 +25,4 @@ native_hostileness = 3
 	culture = russian
 	trade_goods = unknown
 	is_city = no
-}
+#}

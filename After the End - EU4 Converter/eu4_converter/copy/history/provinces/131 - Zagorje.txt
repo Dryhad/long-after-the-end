@@ -30,7 +30,7 @@ discovered_by = indian
 	#owner = HAB
 	#controller = HAB
 	#add_core= HAB
-} # Battle of Mohács
+#} # Battle of Mohács
 # = { revolt = { type = anti_tax_rebels size = 1 } #controller = REB } # Peasant uprising against Habsburg rule & the feudal system
 # = { revolt = {} } # Decisively defeated
 # = { unrest = 5 } # Conspiracy against Habsburg rule uncovered
@@ -42,13 +42,13 @@ discovered_by = indian
 	#controller = FRA
 	#add_core= FRA
 	remove_core = HAB
-} # Treaty of Pressburg
+#} # Treaty of Pressburg
 # = { #controller = HAB } # Occupied by Austrian forces
 # = {
 	#owner = HAB
 	#add_core= HAB
 	remove_core = FRA
-} # Napoleon abdicates
+#} # Napoleon abdicates
 
 
 native_size = 5

@@ -28,7 +28,7 @@ discovered_by = indian
 	#owner = TUR
 	#controller = TUR
 	#add_core= TUR
-}
+#}
 
 
 native_size = 5
