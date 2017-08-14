@@ -1788,8 +1788,8 @@
  PROV1787:0 "Himalaya"
  PROV1788:0 "Arunachal"
  PROV1789:0 "Papua"
- PROV1790:0 "Western Australia"
- PROV1791:0 "Central Australia"
+ PROV1790:0 "Great Sandy Desert"
+ PROV1791:0 "Outback"
  PROV1792:0 "Merina"
  PROV1793:0 "El Djouf"
  PROV1794:0 "Central Sahara"
@@ -3653,6 +3653,25 @@
  PROV4833:0 "Western Visayas"
  PROV4834:0 "Central Visayas"
  PROV4835:0 "Zamboanga"
+ PROV4842:0 "Hunter"
+ PROV4843:0 "Illawara"
+ PROV4844:0 "Gippsland"
+ PROV4845:0 "Central Tablelands"
+ PROV4846:0 "Parkes"
+ PROV4847:0 "Riverina"
+ PROV4848:0 "Kangaroo Island"
+ PROV4849:0 "Maranoa"
+ PROV4850:0 "Balonne"
+ PROV4851:0 "Ngaanyatjarraku"
+ PROV4852:0 "Wiluna"
+ PROV4853:0 "Leonora"
+ PROV4854:0 "Sandstone"
+ PROV4855:0 "Murchison"
+ PROV4856:0 "Wheatbelt"
+ PROV4857:0 "Great Victoria Desert"
+
+
+
 
 
 

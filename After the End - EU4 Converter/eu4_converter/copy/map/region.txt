@@ -713,6 +713,9 @@ australia_region = {
 		lingiary_area
 		south_queensland
 		north_queensland
+		auralia_area
+		perth_area
+		outback_area
 	}
 }
 

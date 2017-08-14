@@ -3590,49 +3590,64 @@ south_appalachia_area = { #Overmountain
 
 #Australia
 
-western_australia_area = { #3
-	1084 2726 2727 4640 4639 
+western_australia_area = { #Gascoyne
+	2726 4855 4854   
 }
 
 top_end_area = { #2
-	2728 2729 4636 4637 
+	2728 2729 4636 4637 4722
 }
 
 northern_australia_area = { #3
-	2730 2731 2732 4635 
+	2730 2731 2732 4635 4774 
 }
 
-eastern_australia_area = { #5
-	1091 1092 1093 1094 2733
+eastern_australia_area = { #Central Queensland
+    4770 4769 2733 1093
 }
 
-southern_australia_area = { #4
-	1085 1090 2734 1089
+southern_australia_area = { #New England
+	1092 4842 1091 4850 
 }
 
-murray_river_area = { #5
-	1086 1087 2735 2736
+murray_river_area = { #Victoria
+	1088 2735 1087 4844 1085
 }
 
-inner_australia_area = {
-	4634 4633 4632 4631 4638 
+inner_australia_area = { #South Australia
+	4632 4631 2736 1086 4848
+}
+
+outback_area = {
+	4630 4629 4724 4847 4846
 }
 
 new_south_wales_area = {
-	4630 1088 4629 4724
+	2734 1089 4845 4843 1090
 }
 
 lingiary_area = {
-	4722 4723 4720 4721
+	 4720 4721 4634 4633 4851
 }
 
 south_queensland = {
-	4767 4768 4769 4770
+	4768 4767 4849 1094
 }
 
 north_queensland = {
-	4773 4772 4771 4774 
+	4773 4772 4771 4723 4723
 }
+
+auralia_area = {
+	4638 4639 4640 4853 4852
+}
+
+perth_area = {
+	4856 1084 2727
+}
+
+
+
 
 #Carribean
 cuba_area = { #3
