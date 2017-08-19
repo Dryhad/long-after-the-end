@@ -171,19 +171,20 @@ renaissance = {
 	}
 
 
-	historical_start_date = 3050.1.1
+	historical_start_date = 3059.1.1	#Equivalent of 1450 in vanilla
 	historical_start_province = 4021 # Antsiranana, Madagascar
 
-	history = {
-		is_year = 3050
+	history = {	#This is where we can define when each region of the world gets it, if we're supporting different start dates
+		is_year = 3059.1.1 
 	}
 	
 	can_start = {
-		is_year = 3050
+		is_year = 3059
 		development = 21
 		is_island = no
-		NOT = { region = moluccas_region }
-		NOT = { region = indonesia_region }
+		continent = north_america
+		
+
 	}
 	start_chance = 5		#in 100 for when a province can_start
 	
