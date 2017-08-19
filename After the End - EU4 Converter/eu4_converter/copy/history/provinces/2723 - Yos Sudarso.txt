@@ -1,7 +1,11 @@
 #2723 - Yos Sudarso
 
+#owner = ???
+#controller = ???
+#add_core = ???
+#is_city = yes
 culture = papuan
-religion = animism
+religion = sunni
 capital = "Yos Sudarso"
 trade_goods = unknown
 hre = no
@@ -14,9 +18,5 @@ native_hostileness = 8
 
 
 
-discovered_by = MKS
-discovered_by = TER
-discovered_by = TID
-
-# = { discovered_by = POR } # Don Jorge de Mneses
+discovered_by = chinese
 
