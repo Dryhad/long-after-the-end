@@ -1250,7 +1250,7 @@ lower_zambezi_area = { #3
 	1187 1190 1191
 }
 
-upper_zambezi_area = { #3
+upper_zambezi_area = { #Renamed to Kafue
 	4046 4047 4050
 }
 
@@ -3743,16 +3743,41 @@ panama_area = { #5
 #Africa
 
 nambia_area = {
-	4734 4732 4733 1174 
+	4732 4733 1174 4861 
+}
+
+northern_namibia_area = {
+	4862 4863 4865 4864 4868
 }
 
 limpopo_area = { #Natal
-	789 1181 1182 1800 4731 
+	789 1181 1182 4731 
 }
 
 actual_limpopo_area = {
-	4727 4726 4728 4729 4730
+	 729 4730 4859 1800 4729
 }
+
+free_state_area = {
+	4727 4726 4728 4878
+}
+
+central_botswana_area = {
+	4858 4874 4872 4873
+}
+
+northern_botswana_area = {
+	4871 4875 4876 4866 4867
+}
+
+southern_botswana_area = {
+	4869 4870 4860 4877
+}
+
+zambezi_area = {
+	4882 4881 4879 4880
+}
+
 #Asia ########################################################
 
 #Phillipines 

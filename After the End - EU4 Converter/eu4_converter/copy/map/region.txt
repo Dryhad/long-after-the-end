@@ -482,6 +482,7 @@ central_africa_region = {
 		rwanda_area
 		chokwe_area
 		bunyoro_area
+		zambezi_area
 	}
 }
 
@@ -526,6 +527,11 @@ south_africa_region = {
 		limpopo_area
 		actual_limpopo_area
 		nambia_area
+		northern_namibia_area
+		free_state_area
+		central_botswana_area
+		northern_botswana_area
+		southern_botswana_area
 	}
 }
 
