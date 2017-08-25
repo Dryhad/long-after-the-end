@@ -1,4 +1,4 @@
-	# A province can only belong to one area!
+# A province can only belong to one area!
 
 #Sea Areas:
 #No restriction on size.
@@ -3381,15 +3381,15 @@ great_woods_area = {
 }
 
 hudson_valley_area = { 
-    963 2558 4542 4584 4541
+    2558 4542 4584 4541 4583
 }
 
-cayuga_area = {
-	4583 4582 4581 4580
+cayuga_area = {	#Defunct
+	  
 }
 
 niagara_area = {
-	4578 4579 4577 
+	4578 4577 4580
 }
 
 gotham_area = {
@@ -3407,7 +3407,7 @@ susquehanna_area = { #Westsylvania
 }
 
 actual_susquehanna_area = {
-	4626 4625 4623 955 2557 
+	4626 4579 4623 955 2557 
 }
 
 ohio_country_area = { #4
@@ -3579,7 +3579,7 @@ maryland_area = { #3
 }
 
 delaware_valley_area = { #5
-    956 2023 4621 4622
+    956 2023 4621 4622 4582
 }
 
 #Appalachia

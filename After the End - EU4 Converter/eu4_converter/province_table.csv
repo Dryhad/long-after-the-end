@@ -1884,8 +1884,8 @@ c_burlington;4543;4543 - Burlington;Burlington - Burlington
 c_newport;2563;2563 - Missiquoi;Nek - Missiquoi
 c_montpelier;2563;2563 - Missiquoi;Montpelier - Missiquoi
 
-c_bennington;963;963 - Mahican;Bennington - Mahican
-c_rutland;969;969 - Pocumtuk;Rutland - Pocumtuk
+c_bennington;969;969 - Pocumtuk;Bennington - Bennington
+c_rutland;969;969 - Pocumtuk;Rutland - Bennington
 
 c_concord;2562;2562 - Pennacook;Concord - Pennacook
 c_monadnock;4542;4542 - The Berkshires;Monadnock - The Berkshires
@@ -1931,61 +1931,62 @@ c_trenton;962;962 - Unami;Trenton - Unami
 
 # Hudsonia
 
-d_catskill;2558;2558 - Espachomy;Catskill - Espachomy
-c_shawangunk;2558;2558 - Espachomy;Shawangunk - Espachomy
-c_otsego;2558;2558 - Espachomy;Otsego - Espachomy
-c_schoharie;4583;4583 - Schoharie;Schoharie - Schoharie
+d_catskill;2558;2558 - Espachomy;Catskill - Catskill
+c_shawangunk;2558;2558 - Espachomy;Shawangunk - Catskill
+c_otsego;2558;2558 - Espachomy;Otsego - Catskill
+c_schoharie;2558;2558 - Espachomy;Otsego - Catskill
 
-c_albany;4584;4584 - Albany;Albany - Albany
-c_saratoga;963;963 - Mahican;Saratoga - Mahican
-c_woodstock;4584;4584 - Albany;Woodstock - Albany
-c_hudson;4584;4584 - Albany;Hudson - Albany
-c_troy;4584;4584 - Albany;Hudson - Albany
+c_albany;4583;4583 - Mohawk Valley;Albany - Mohawk Valley
+c_saratoga;4583;4583 - Mohawk Valley;Saratoga - Mohawk Valley
+c_woodstock;4584;4584 - Hudson;Woodstock - Hudson
+c_hudson;4584;4584 - Hudson;Hudson - Hudson
+c_troy;4584;4584 - Hudson;Hudson - Hudson
 
 d_champlain;2559;2559 - Adirondack;Champlain - Adirondack
 c_plattsburgh;2559;2559 - Adirondack;Plattsburgh - Adirondack
 c_ticonderoga;2559;2559 - Adirondack;Ticonderoga - Adirondack
-c_chepontuc;2559;2559 - Adirondack;Chepontuc - Adirondack
-c_raquette;2559;2559 - Adirondack;Raquette - Adirondack
-c_big_moose;2559;2559 - Adirondack;Big Moose - Adirondack
+c_chepontuc;964;964 - Mohawk;Chepontuc - Chepontuc
+c_raquette;960;960 - Onondaga;Raquette - Raquette
+c_big_moose;960;960 - Onondaga;Big Moose - Raquette
 
-c_johnstown;4583;4583 - Schoharie;Johns Town - Schoharie
-c_black_river;964;964 - Mohawk;Black River - Mohawk
+c_johnstown;4583;4583 - Mohawk Valley;Johns Town - Mohawk Valley
+c_black_river;961;961 - Oneida;Black River - Watertown
 
-c_watertown;961;961 - Oneida;Watertown - Oneida
-c_syracuse;961;961 - Oneida;Syracuse - Oneida
-c_cortland;4582;4582 - Cortland;Cortland - Cortland
+c_watertown;961;961 - Oneida;Watertown - Watertown
 
-c_seneca;4581;4581 - Seneca;Seneca - Seneca
-c_oswego;960;960 - Onondaga;Oswego - Onondaga
+c_syracuse;958;958 - Seneca;Syracuse - Cayuga
+c_cortland;958;958 - Seneca;Cortland - Cayuga
+c_seneca;958;958 - Seneca;Seneca - Cayuga
 
-d_finger_lakes;959;959 - Cayuga;Finger Lakes - Cayuga
-c_canandaigua;959;959 - Cayuga;Canandaigua - Cayuga
+c_oswego;959;959 - Cayuga;Oswego - Rochester
+
+d_finger_lakes;959;959 - Cayuga;Finger Lakes - Rochester
+c_canandaigua;4580;4580 - Canacdea;Canandaigua - Canacdea
 c_canacdea;4580;4580 - Canacdea;Canacdea - Canacdea
 
-c_rochester;958;958 - Seneca;Rochester - Seneca
+c_rochester;958;958 - Seneca;Rochester - Rochester
 
 # Alleghenia
 
 d_niagara;4578;4578 - Niagara;Duchy Niagara - Niagara
 c_buffalo;4578;4578 - Niagara;Buffalo - Niagara
 c_chautauqua;4578;4578 - Niagara;Chatauqua - Niagara
-c_genesee;4579;4579 - Genesee;Genesee - Genesee 
+c_genesee;44578;4578 - Niagara;Genesee - Niagara 
 
 c_erie;4577;4577 - Erie;Erie - Erie
 c_moshannon;954;954 - Allegheny;Moshannon - Allegheny
 c_lower_allegheny;4627;4627 - Lower Allegheny;Lower Allegheny - Lower Allegheny
 c_upper_allegheny;4626;4626 - Upper Allegheny;Upper Allegheny - Upper Allegheny
-c_susquehannock;4625;4625 - Susquehannock;Susquehannock - Susquehannock
+c_susquehannock;4626;4626 - Upper Allegheny;Susquehannock - Upper Allegheny
 
-d_east_susquehanna;2557;2557 - Atrakwaye;East Susquehanna - Atrakwaye
-c_chemung;2023;2023 - Munsee;Chemung - Munsee
-c_tripolis;2023;2023 - Munsee;Tripolis - Munsee
+d_east_susquehanna;4579;4579 - East Susquehanna;East Susquehanna - East Susquehanna
+c_chemung;4579;4579 - East Susquehanna;Chemung - East Susquehanna
+c_tripolis;4579;4579 - East Susquehanna;Tripolis - Munsee
 c_williamsport;2557;2557 - Atrakwaye;Williamsport - Atrakwaye
 
 c_pottsville;4621;4621 - Coalland;Pottsville - Coalland
-c_pocono;4621;4621 - Coalland;Pocono - Coalland
-c_lehigh;4621;4621 - Coalland;Lehigh - Coalland
+c_pocono;4582;4582 - Pocono;Pocono - Pocono
+c_lehigh;2023;2023 - Munsee;Lehigh - Lechaa
 
 c_three_mile_island;955;955 - Susquehanna;Three Mile Island - Susquehanna
 c_schuylkill;4621;4621 - Coalland;Schuylkill - Coalland

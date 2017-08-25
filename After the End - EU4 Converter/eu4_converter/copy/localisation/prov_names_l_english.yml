@@ -956,13 +956,13 @@
  PROV955:0 "Three Mile Island"	#Was Susquehanna
  PROV956:0 "Philadelphia" #Was Lenape
  PROV957:0 "Delaware"
- PROV958:0 "Buffalo"
+ PROV958:0 "Cayuga" #Was Seneca
  PROV959:0 "Rochester"
- PROV960:0 "Oswego"
- PROV961:0 "Oneida"
+ PROV960:0 "Raquette"	#Was Oswego
+ PROV961:0 "Watertown"	#Was Oneida
  PROV962:0 "Unami"
  PROV963:0 "Albany"
- PROV964:0 "Schenectady"
+ PROV964:0 "Chepontuc"	#Was Schenectady
  PROV965:0 "Manhattan"
  PROV966:0 "Nipmuc"
  PROV967:0 "Rhode Island" #Was Narraganset. Could also be Providence
@@ -2021,7 +2021,7 @@
  PROV2020:0 "Bannock"
  PROV2021:0 "San Francisco" #Was Miwok
  PROV2022:0 "Haida"
- PROV2023:0 "Wyoming Valley" #Was Munsee
+ PROV2023:0 "Lechaa" #Was Munsee
  PROV2024:0 "Garoowe"
  PROV2026:0 "Tanjore"
  PROV2027:0 "Arcot"
@@ -2554,9 +2554,9 @@
  PROV2554:0 "Baltimore" #Was Nanticoke
  PROV2555:0 "Honniasont"
  PROV2556:0 "Juniata"
- PROV2557:0 "West Branch" #Was Atrakwaye
+ PROV2557:0 "Williamsport" #Was Atrakwaye
  PROV2558:0 "Catskills" #Was Espachomy
- PROV2559:0 "Adirondack"
+ PROV2559:0 "Petonbowk" #Was Adirondack
  PROV2560:0 "Quinnipiac"
  PROV2561:0 "Plymouth" #Was Wampanoag
  PROV2562:0 "Pennacook"
@@ -3396,12 +3396,12 @@
  PROV4576:0 "Scioto"
  PROV4577:0 "Erie"
  PROV4578:0 "Niagara"
- PROV4579:0 "Genesee"
+ PROV4579:0 "East Susquehanna"
  PROV4580:0 "Canacdea"
  PROV4581:0 "Seneca"
- PROV4582:0 "Cortland"
- PROV4583:0 "Schoharie"
- PROV4584:0 "Albany"
+ PROV4582:0 "Pocono"
+ PROV4583:0 "Mohawk Valley"
+ PROV4584:0 "Hudson"
  PROV4585:0 "St Louis"
  PROV4586:0 "Gasconade"
  PROV4587:0 "Kaskasia"
@@ -3438,11 +3438,11 @@
  PROV4618:0 "Washington"
  PROV4619:0 "Choptank"
  PROV4620:0 "Pocomoke"
- PROV4621:0 "Coalland"
+ PROV4621:0 "Schuylkill"
  PROV4622:0 "Kittatinny"
  PROV4623:0 "Rothrock"
  PROV4624:0 "Pittsburgh"
- PROV4625:0 "Susquehannock"
+ PROV4625:0 "UNUSED"
  PROV4626:0 "Upper Allegheny"
  PROV4627:0 "Lower Allegheny"
  PROV4628:0 "Ashtabula"
@@ -3653,6 +3653,12 @@
  PROV4833:0 "Western Visayas"
  PROV4834:0 "Central Visayas"
  PROV4835:0 "Zamboanga"
+ PROV4836:0 "Ishim"
+ PROV4837:0 "Balagansky "
+ PROV4838:0 "Bratsky"
+ PROV4839:0 "Kachugsky "
+ PROV4840:0 "Tunka"
+ PROV4841:0 "Nizhneudinsky"
  PROV4842:0 "Hunter"
  PROV4843:0 "Illawara"
  PROV4844:0 "Gippsland"
