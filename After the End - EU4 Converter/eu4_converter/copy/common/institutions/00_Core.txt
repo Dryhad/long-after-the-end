@@ -171,15 +171,31 @@ renaissance = {
 	}
 
 
-	historical_start_date = 3059.1.1	#Equivalent of 1450 in vanilla
+	historical_start_date = 3050.1.1	#Equivalent of 1450 in vanilla
 	historical_start_province = 4021 # Antsiranana, Madagascar
 
-	history = {	#This is where we can define when each region of the world gets it, if we're supporting different start dates
-		is_year = 3059.1.1 
+	history = {
+		is_year = 3050.1.1 
+		development = 21
+		owner = {
+			NOT = {
+				government = siberian_native_council
+				government = steppe_horde
+				government = tribal_kingdom
+				government = tribal_despotism
+				government = tribal_federation
+				government = tribal_democracy
+
+				#technology_group = andean
+				#technology_group = mesoamerican
+				#technology_group = north_american
+				#technology_group = south_american
+			}
+		}
 	}
 	
 	can_start = {
-		is_year = 3059
+		is_year = 3050
 		development = 21
 		is_island = no
 		continent = north_america
