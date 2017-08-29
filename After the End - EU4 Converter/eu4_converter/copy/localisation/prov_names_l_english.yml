@@ -881,26 +881,26 @@
  PROV880:0 "Pueblo"
  PROV881:0 "Socorro" #Was Piro
  PROV882:0 "Mescalero"
- PROV883:0 "Lipan"
+ PROV883:0 "Alamo"	#Was Lipan
  PROV884:0 "Karankawa"
- PROV885:0 "Teyas"
+ PROV885:0 "Amarillo"	#Was Teyas
  PROV886:0 "Waco"
- PROV887:0 "Tonkawa"
- PROV888:0 "Atakapa"
- PROV889:0 "Arapaho"
+ PROV887:0 "Metroplex"	#Was Tonkawa
+ PROV888:0 "Houston"	#Was Atakapa
+ PROV889:0 "Laverne"	#Was Arapaho
  PROV890:0 "Kiowa"
- PROV891:0 "Naisha"
+ PROV891:0 "Oklahoma"		#Was Naisha
  PROV892:0 "Wichita"
  PROV893:0 "New Orleans" #Was Chitimacha
- PROV894:0 "Ecore Fabre" #Was Caddo
- PROV895:0 "Arkansas"
- PROV896:0 "Grand River" #Was Yscani
- PROV897:0 "Little Rock" #Was Quapaw
+ PROV894:0 "Timberland" #Was Caddo
+ PROV895:0 "Arkansas Post"	#Was Arkansas
+ PROV896:0 "Sequoyah" #Was Yscani
+ PROV897:0 "Arkansas" #Was Quapaw
  PROV898:0 "Kansas"
- PROV899:0 "Ozarks" #Was Pahatsi
- PROV900:0 "Tamaroa"
+ PROV899:0 "Salem" #Was Pahatsi
+ PROV900:0 "Chariton"	#Was Tamaroa
  PROV901:0 "Pawnee"
- PROV902:0 "Missouri"
+ PROV902:0 "Boonslick"	#Was Missouri
  PROV903:0 "Omaha"
  PROV904:0 "Wahpeton"
  PROV905:0 "Iowa"
@@ -913,9 +913,9 @@
  PROV912:0 "Sauk"
  PROV913:0 "Prairie du Chien" #Was Mesquakie
  PROV914:0 "Winnebago"
- PROV915:0 "Illinois"
- PROV916:0 "Kaskaskia"
- PROV917:0 "Cahokia"
+ PROV915:0 "Chicagoland"	#Was Illinois
+ PROV916:0 "Illinois" #Was Kaskaskia
+ PROV917:0 "Forgottonia"	#Was Cahokia
  PROV918:0 "Tennessee"
  PROV919:0 "Chickasaw"
  PROV920:0 "Choctaw"
@@ -2012,7 +2012,7 @@
  PROV2011:0 "Shenandoah"
  PROV2012:0 "Memphremagog" #Was Arsigantegok
  PROV2013:0 "Casco" #Was Androscoggin
- PROV2014:0 "Natchitoches"
+ PROV2014:0 "Ouachita"	#Was Natchitoches
  PROV2015:0 "Nipigon"
  PROV2016:0 "Great Forks" #Was Bungi
  PROV2017:0 "Edmonton" #Was Nehiyawewin
@@ -2494,10 +2494,10 @@
  PROV2494:0 "Zuni"
  PROV2495:0 "Acoma"
  PROV2496:0 "Jicarilla"
- PROV2497:0 "Lipiyanes"
+ PROV2497:0 "Estacado"	#Was Lipiyanes
  PROV2498:0 "El Paso" #Was Jumano
  PROV2499:0 "Coahuilteco"
- PROV2500:0 "Querecho"
+ PROV2500:0 "Balcones"	#Was Querecho
  PROV2501:0 "Piegan"
  PROV2502:0 "Haaninin"
  PROV2503:0 "Ashshipite"
@@ -2506,14 +2506,14 @@
  PROV2506:0 "Kuccuntikka"
  PROV2507:0 "Baachinena"
  PROV2508:0 "Skiri"
- PROV2509:0 "Utsetha"
+ PROV2509:0 "Topeka"	#Was Utsetha
  PROV2510:0 "Hidatsa"
  PROV2511:0 "Itscheabine"
  PROV2512:0 "Wahpekute"
  PROV2513:0 "Moingwena"
- PROV2514:0 "Cape Girardeau" #Was Michigamea
- PROV2515:0 "Fort Smith" #Was Satuskhdin
- PROV2516:0 "Adai"
+ PROV2514:0 "Great River" #Was Michigamea
+ PROV2515:0 "Turner Ward Knob" #Was Satuskhdin
+ PROV2516:0 "L'Acadiane"	#Was Adai
  PROV2517:0 "Mille Lacs" #Was Mdewakanton
  PROV2518:0 "Noquet"
  PROV2519:0 "Kilatika"
@@ -2527,7 +2527,7 @@
  PROV2527:0 "Chickamauga"
  PROV2528:0 "Yazoo"
  PROV2529:0 "Natchez"
- PROV2530:0 "Biloxi"
+ PROV2530:0 "Tallahoma"	#Was Biloxi
  PROV2531:0 "Huntsville" #Was Napochi
  PROV2532:0 "Conecuh"	#Was Tohome
  PROV2533:0 "Chatot"
@@ -2626,7 +2626,7 @@
  PROV2626:0 "Tullucan"
  PROV2627:0 "Lazaro Cardenas" #Cihuatlan
  PROV2628:0 "Tepeacac"
- PROV2629:0 "Tlapa" 		#Was Coyolapan
+ PROV2629:0 "Coyolapan" 		#Was Coyolapan
  PROV2630:0 "Tochtepec"	
  PROV2631:0 "Olmeca"		#Was Mixe
  PROV2632:0 "Xicallanco"
@@ -2662,11 +2662,11 @@
  PROV2662:0 "Olancho"
  PROV2663:0 "Nicoya"
  PROV2664:0 "Veraguas"
- PROV2665:0 "Eyeish"
+ PROV2665:0 "Neches"	#Was Eyeish
  PROV2666:0 "Tuintsundé"
  PROV2667:0 "Cacaxtes"
  PROV2668:0 "Borrado"
- PROV2669:0 "Hasinai"
+ PROV2669:0 "Arklatex"	#Was Hasinai
  PROV2670:0 "Toronto" #Was Tkaronto
  PROV2671:0 "Ronde" #Was Missisage
  PROV2672:0 "Kitkehaki"
@@ -3404,7 +3404,7 @@
  PROV4584:0 "Hudson"
  PROV4585:0 "St Louis"
  PROV4586:0 "Gasconade"
- PROV4587:0 "Kaskasia"
+ PROV4587:0 "Kaskasia"	
  PROV4588:0 "Lead Belt"
  PROV4589:0 "Alpena"
  PROV4590:0 "Copperland"
@@ -3414,7 +3414,7 @@
  PROV4594:0 "Toronto Bay"
  PROV4595:0 "Hayward"
  PROV4596:0 "Marin"
- PROV4597:0 "Cuivre"
+ PROV4597:0 "Twain"	#Was Cuivre
  PROV4598:0 "San Joaquin"
  PROV4599:0 "Clearwater"
  PROV4600:0 "Deer Lodge"
@@ -3700,6 +3700,10 @@
  PROV4880:0 "Kazungala"
  PROV4881:0 "Kaoma"
  PROV4882:0 "Lumbala N'guimbo"
+ PROV4883:0 "Crowly"
+ PROV4884:0 "Arp"
+ PROV4885:0 "Alexandria"
+
 
 
 

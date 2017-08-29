@@ -711,49 +711,57 @@ c_nueces;884;884 - Karankawa;Nueces - Karankawa
 c_duval;884;884 - Karankawa;Duval - Karankawa
 c_goliad;884;884 - Karankawa;Goliad - Karankawa
 
-c_maverick;2666;2666 - Tuintsunde;Maverick - Tuintsunde
-c_val_verde;2666;2666 - Tuintsunde;Val Verde - Tuintsunde
+c_maverick;883;883 - Lipan;Maverick - Alamo
+c_val_verde;883;883 - Lipan;Val Verde - Alamo
+c_uvalde;883;883 - Lipan;Uvalde - Alamo
+c_bexar;883;883 - Lipan;Bexar - Alamo
+
 c_crockett;2666;2666 - Tuintsunde;Crockett - Tuintsunde
 c_pecos;2666;2666 - Tuintsunde;Pecos - Tuintsunde
 
-d_transpecos;2498;2498 - Jumao;Transpecos - Jumao
-c_big_bend;2498;2498 - Jumao;Big Bend - Jumao
-c_livermore;2498;2498 - Jumao;Livermore - Jumao
-c_el_paso;2498;2498 - Jumao;El Paso - Jumao
+d_transpecos;2498;2498 - Jumao;Transpecos - El Paso
+c_big_bend;2498;2498 - Jumao;Big Bend - El Paso
+c_livermore;2498;2498 - Jumao;Livermore - El Paso
+c_el_paso;2498;2498 - Jumao;El Paso - El Paso
 
-c_uvalde;883;883 - Lipan;Uvalde - Lipan
-c_bexar;883;883 - Lipan;Bexar - Lipan
-c_kerr;883;883 - Lipan;Kerr - Lipan
+
+
 
 # Jacinto
 
-c_comal;887;887 - Tonkawa;Comal - Tonkawa
+d_metroplex;887;887 - Tonkawa;Metroplex - Metroplex
+c_mclennan;887;887 - Tonkawa;McLennan - Metroplex
+c_tyler;887;887 - Tonkawa;Tyler - Metroplex
+c_waxahachie;887;887 - Tonkawa;Waxahachie - Metroplex
+c_dallas;887;887 - Tonkawa;Dallas - Metroplex
+c_brownwood;8887;887 - Tonkawa;Brownwood - Metroplex
+c_tarrant;887;887 - Tonkawa;Tarrant - Metroplex
+
+d_houston;888;888 - Atakapa;Houston - Houston
+c_harris;888;888 - Atakapa;Harris - Houston
+c_galveston;888;888 - Atakapa;Galveston - Houston
+c_matagorda;888;888 - Atakapa;Matagorda - Houston
+c_brazos;888;888 - Atakapa;Brazos - Houston
+
+d_neches;2665;2665 - Ais;Neches - Neches
+c_nacogdoches;2665;2665 - Ais;Nacogdoches - Neches
+c_sabine;2665;2665 - Ais;Sabine - Neches
+c_san_jacinto;2665;2665 - Ais;San Jacinto - Neches
+c_beaumont;2665;2665 - Ais;Beaumont - Neches
+
+d_balcones;2500;2500 - Querecho;Balcones - Balcones
+c_san_saba;2500;2500 - Querecho;San Saba - Balcones
+c_concho;2500;2500 - Querecho;Concho - Balcones
+c_kerr;2500;2500 - Querecho;Kerr - Balcones
+c_comal;2500;2500 - Querecho;Comal - Balcones
 c_travis;887;887 - Tonkawa;Travis - Tonkawa
-c_brazos;887;887 - Tonkawa;Brazos - Tonkawa
-c_mclennan;887;887 - Tonkawa;McLennan - Tonkawa
-c_tyler;887;887 - Tonkawa;Tyler - Tonkawa
-c_waxahachie;887;887 - Tonkawa;Waxahachie - Tonkawa
-c_dallas;887;887 - Tonkawa;Dallas - Tonkawa
 
-d_houston;888;888 - Atakapa;Houston - Atakapa
-c_harris;888;888 - Atakapa;Harris - Atakapa
-c_galveston;888;888 - Atakapa;Galveston - Atakapa
-c_matagorda;888;888 - Atakapa;Matagorda - Atakapa
-
-d_neches;2665;2665 - Ais;Neches - Ais
-c_nacogdoches;2665;2665 - Ais;Nacogdoches - Ais
-c_sabine;2665;2665 - Ais;Sabine - Ais
-c_san_jacinto;2665;2665 - Ais;San Jacinto - Ais
-c_beaumont;2665;2665 - Ais;Beaumont - Ais
-
-c_san_saba;2500;2500 - Querecho;San Saba - Querecho
-c_concho;2500;2500 - Querecho;Concho - Querecho
-
-d_arklatex;2669;2669 - Hasini;Arklatex - Hasini
-c_grayson;2669;2669 - Hasini;Grayson - Hasini
-c_texarkana;2669;2669 - Hasini;Texarkana - Hasini
-c_cypress;2669;2669 - Hasini;Cypress - Hasini
-c_titus;2669;2669 - Hasini;Titus - Hasini
+d_arklatex;2669;2669 - Hasini;Arklatex - Arklatex
+c_grayson;2669;2669 - Hasini;Grayson - Arklatex
+c_texarkana;2669;2669 - Hasini;Texarkana - Arklatex
+c_cypress;2669;2669 - Hasini;Cypress - Arklatex
+c_titus;2669;2669 - Hasini;Titus - Arklatex
+c_caddo;2669;2669 - Hasini;Caddo - Arklatex
 
 # Comancheria
 
@@ -762,14 +770,12 @@ c_abilene;886;886 - Waco;County Abilene - Waco
 c_possum;886;886 - Waco;Possum - Waco
 c_wichita_falls;886;886 - Waco;Wichita Falls - Waco
 c_childress;886;886 - Waco;Childress - Waco
-c_brownwood;886;886 - Waco;Brownwood - Waco
-c_tarrant;886;886 - Waco;Tarrant - Waco
 
-d_estacado;2497;2497 - Lipiyanes;Estacado - Lipiyanes
-c_petroplex;2497;2497 - Lipiyanes;Petroplex - Lipiyanes
-c_dal_paso;2497;2497 - Lipiyanes;Dal Paso - Lipiyanes
-c_hobbs;2497;2497 - Lipiyanes;Hobbs - Lipiyanes
-c_lubbock;2497;2497 - Lipiyanes;Lubbock - Lipiyanes
+d_estacado;2497;2497 - Lipiyanes;Estacado - Estacado
+c_petroplex;2497;2497 - Lipiyanes;Petroplex - Estacado
+c_dal_paso;2497;2497 - Lipiyanes;Dal Paso - Estacado
+c_hobbs;2497;2497 - Lipiyanes;Hobbs - Estacado
+c_lubbock;2497;2497 - Lipiyanes;Lubbock - Estacado
 
 d_amarillo;885;885 - Comanche;Duchy Amarillo - Comanche
 c_amarillo;885;885 - Comanche;County Amarillo - Comanche
@@ -780,14 +786,14 @@ d_washita;892;892 - Wichita;Washita - Wichita
 c_foss;892;892 - Wichita;Foss - Wichita
 c_salt_fork;892;892 - Wichita;Salt Fork - Wichita
 c_fort_sill;892;892 - Wichita;Fort Sill - Wichita
-c_bryan;892;892 - Wichita;Bryan - Wichita
-c_kiamichi;892;892 - Wichita;Kiamichi - Wichita
 
 d_oklahoma;891;891 - Jicarilla;Duchy Oklahoma - Jicarilla
 c_oklahoma;891;891 - Jicarilla;County Oklahoma - Jicarilla
 c_skeleton;891;891 - Jicarilla;Skeleton - Jicarilla
 c_niukonska;891;891 - Jicarilla;Niukonska - Jicarilla
-c_laverne;891;891 - Jicarilla;Laverne - Jicarilla
+
+c_laverne;889;889 - Arapaho;Laverne - Laverne
+c_panhandle;889;889 - Arapaho;Panhandle - Laverne
 
 c_white_sands;882;882 - Mescalero;White Sands - Mescalero
 c_socorro;882;882 - Mescalero;Socorro - Mescalero
@@ -806,36 +812,37 @@ d_ouachita;2014;2014 - Natchitoches;Duchy Ouachita - Natchitoches
 c_ouachita;2014;2014 - Natchitoches;County Ouachita - Natchitoches
 c_kisatchie;2014;2014 - Natchitoches;Kisatchie - Natchitoches
 c_ruston;2014;2014 - Natchitoches;Ruston - Natchitoches
-c_caddo;2014;2014 - Natchitoches;Caddo - Natchitoches
-c_natchitoches;2014;2014 - Natchitoches;Natchitoches - Natchitoches
-c_catahoula;2014;2014 - Natchitoches;Catahoula - Natchitoches
 
-d_acadiana;2516;2516 - Adai;Duchy Acadiana - Adai
-c_lafayette;2516;2516 - Adai;Lafayette - Adai
-c_vermilion;2516;2516 - Adai;Vermilion - Adai
-c_cameron_calcasieu;2516;2516 - Adai;Cameron Calcasieu - Adai
-c_st_landry;2516;2516 - Adai;St Landry - Adai
-c_rapides;2516;2516 - Adai;Rapides - Adai
-c_vernon;2516;2516 - Adai;Vernon - Adai
+d_alexandria;4885;4885 - Alexandria;Alexandria - Alexandria
+c_natchitoches;4885;4885 - Alexandria;Natchitoches - Alexandria
+c_catahoula;4885;4885 - Alexandria;Catahoula - Alexandria
+c_rapides;4885;4885 - Alexandria;Rapides - Alexandria
+c_vernon;4885;4885 - Alexandria;Vernon - Alexandria
+
+d_acadiana;2516;2516 - Adai;Duchy Acadiana - L'Acadiane
+c_lafayette;2516;2516 - Adai;Lafayette - L'Acadiane
+c_vermilion;2516;2516 - Adai;Vermilion - L'Acadiane
+c_cameron_calcasieu;2516;2516 - Adai;Cameron Calcasieu - L'Acadiane
+c_st_landry;2516;2516 - Adai;St Landry - L'Acadiane
+c_lafourche_terrebonne;2516;2516 - Adai;Lafourche Terrebonne - L'Acadiane
+c_atchafalaya;2516;2516 - Adai;Atchafalaya - L'Acadiane
 
 d_orleans;893;893 - Chitimacha;Duchy Orleans - Chitimacha
 c_new_orleans;893;893 - Chitimacha;County New Orleans - Chitimacha
 c_plaquemines;893;893 - Chitimacha;Plaquemine - Chitimacha
-c_lafourche_terrebonne;893;893 - Chitimacha;Lafourche Terrebonne - Chitimacha
-c_atchafalaya;893;893 - Chitimacha;Atchafalaya - Chitimacha
 
-d_west_florida;921;921 - Bayougoula;West Florida - Bayougoula
-c_tangipahoa;921;921 - Bayougoula;Tangipahoa - Bayougoula
-c_itta_homma;921;921 - Bayougoula;Itta Homma - Bayougoula
 
-c_biloxi;2530;2530 - Biloxi;Biloxi - Biloxi
+d_west_florida;921;921 - Bayougoula;West Florida - Baton Rouge
+c_tangipahoa;921;921 - Bayougoula;Tangipahoa - Baton Rouge
+c_itta_homma;921;921 - Bayougoula;Itta Homma - Baton Rouge
+c_biloxi;921;921 - Bayougoula;Biloxi - Baton Rouge
 
 # Magnolia
 
-d_pine_belt;920;920 - Choctaw;Pine Belt - Choctaw
-c_leaf;920;920 - Choctaw;Leaf - Choctaw
-c_chickasawhay;920;920 - Choctaw;Chickasawhay - Choctaw
-c_tallahoma;920;920 - Choctaw;Tallahoma - Choctaw
+
+c_chickasawhay;2530;2530 - Biloxi;Chickasawhay - Tallahoma
+c_tallahoma;2530;2530 - Biloxi;Tallahoma - Tallahoma
+
 d_choctaw;920;920 - Choctaw;Choctaw - Choctaw
 c_jackson;920;920 - Choctaw;Jackson - Choctaw
 c_meridian;920;920 - Choctaw;Meridian - Choctaw
@@ -845,18 +852,22 @@ d_chickasaw;919;919 - Chickasaw;Chickasaw - Chickasaw
 c_holly_springs;919;919 - Chickasaw;Holly Springs - Chickasaw
 c_ackia;919;919 - Chickasaw;Ackia - Chickasaw
 c_oktibbeha;919;919 - Chickasaw;Oktibbeha - Chickasaw
-c_yalobusha;919;919 - Chickasaw;Yalobusha - Chickasaw
 
 d_yazoo;2528;2528 - Yazoo;Yazoo - Yazoo
 c_arkabutla;2528;2528 - Yazoo;Arkabutla - Yazoo
 c_tillatoba;2528;2528 - Yazoo;Tillatoba - Yazoo
 c_sunflower;2528;2528 - Yazoo;Sunflower - Yazoo
+c_vicksburg;2528;2528 - Yazoo;Vicksburg - Yazoo
+c_yalobusha;2528;2528 - Yazoo;Yalobusha - Yazoo
 
 d_natchez;2529;2529 - Natchez;Duchy Natchez - Natchez
 c_natchez;2529;2529 - Natchez;County Natchez - Natchez
 c_bayou_pierre;2529;2529 - Natchez;Bayou Pierre - Natchez
-c_vicksburg;2529;2529 - Natchez;Vicksburg - Natchez
+c_leaf;2529;2529 - Natchez;Leaf - Natchez
 c_homochitto;2529;2529 - Natchez;Homochitto - Natchez
+
+
+
 
 # Florida
 
@@ -896,25 +907,20 @@ c_first_coast;927;927 - Timucua;First Coast - Timucua
 
 # Platte
 
-c_panhandle;889;889 - Arapaho;Panhandle - Arapaho
-c_liberal;889;889 - Arapaho;Liberal - Arapaho
-c_peketon;889;889 - Arapaho;Peketon - Arapaho
 
+c_liberal;2625;2625 - Hinonoeino;Liberal - Hinonoeino
 c_smoky_hill;2625;2625 - Hinonoeino;Smoky Hill - Hinonoeino
-c_arp;2625;2625 - Hinonoeino;Arp - Hinonoeino
 
 c_hays;2672;2672 - Kitkehaki;Hays - Kitkehaki
-c_republic;2672;2672 - Kitkehaki;Republic - Kitkehaki
 
 c_dodge;890;890 - Kiowa;Dodge - Kiowa
 c_wichita;890;890 - Kiowa;Wichita - Kiowa
 
-c_independence;2509;2509 - Utsehta;Independence - Utsehta
-c_joplin;2509;2509 - Utsehta;Joplin - Utsehta
-
-d_kansas;898;898 - Kansas;Kansas - Kansas
-c_topeka;898;898 - Kansas;Topeka - Kansas
 c_atchison;898;898 - Kansas;Atchison - Kansas
+c_republic;898;898 - Kansas;Republic - Kansas
+
+c_independence;2509;2509 - Utsehta;Independence - Topeka
+c_topeka;2509;2509 - Utsehta;Topeka - Topeka
 
 d_nebraska;903;903 - Omaha;Nebraska - Omaha
 c_omaha;903;903 - Omaha;Omaha - Omaha
@@ -932,36 +938,41 @@ c_mcconaughy;2508;2508 - Skiri;McConaughy - Skiri
 
 # Ozarks
 
-c_tallasi;896;896 - Ozark;Tallasi - Ozark
-c_mcalester;896;896 - Ozark;McAlester - Ozark
+d_sequoyah;896;896 - Ozark;Sequoyah - Sequoyah
+c_tallasi;896;896 - Ozark;Tallasi - Sequoyah
+c_mcalester;896;896 - Ozark;McAlester - Sequoyah
+c_bryan;896;896 - Ozark;Bryan - Sequoyah
+c_kiamichi;896;896 - Ozark;Kiamichi - Sequoyah
 
 d_timberland;894;894 - Caddo;Timberland - Caddo
 c_smackover;894;894 - Caddo;Smackover - Caddo
 c_millwood;894;894 - Caddo;Millwood - Caddo
 c_little_mo;894;894 - Caddo;Little Mo - Caddo
-c_pine_bluff;894;894 - Caddo;Pine Bluff - Caddo
-c_fort_smith;894;894 - Caddo;Fort Smith - Caddo
 
-d_arkansas_post;895;895 - Arkansas;Arkansas Post - Arkansas
-c_white;895;895 - Arkansas;White - Arkansas
-c_chicot;895;895 - Arkansas;Chicot - Arkansas
+d_arkansas_post;895;895 - Arkansas;Arkansas Post - Arkansas Post
+c_pine_bluff;895;895 - Arkansas;Pine Bluff - Arkansas Post
+c_chicot;895;895 - Arkansas;Chicot - Arkansas Post
+c_white;895;895 - Arkansas;White - Arkansas Post
+
+c_crowley;4883;4883 - Crowley;Crowley - Crowley
 
 d_arkansas;897;897 - Quapaw;Arkansas - Quapaw
 c_bald_knob;897;897 - Quapaw;Bald Knob - Quapaw
 c_little_rock;897;897 - Quapaw;Little Rock - Quapaw
-c_crowley;897;897 - Quapaw;Crowley - Quapaw
 
-d_turner_ward_knob;2515;2515 - Satuskhdin;Turner Ward Knob - Satuskhdin
-c_spring;2515;2515 - Satuskhdin;Spring - Satuskhdin
-c_sams_throne;2515;2515 - Satuskhdin;Sam's Throne - Satuskhdin
-c_dardanelle;2515;2515 - Satuskhdin;Dardanelle - Satuskhdin
-c_fay;2515;2515 - Satuskhdin;Fay - Satuskhdin
+d_turner_ward_knob;2515;2515 - Satuskhdin;Turner Ward Knob - Turner Ward Knob
+c_spring;2515;2515 - Satuskhdin;Spring - Turner Ward Knob
+c_sams_throne;2515;2515 - Satuskhdin;Sam's Throne - Turner Ward Knob
+c_dardanelle;2515;2515 - Satuskhdin;Dardanelle - Turner Ward Knob
+c_fay;2515;2515 - Satuskhdin;Fay - Turner Ward Knob
+c_fort_smith;2515;2515 - Satuskhdin;Fort Smith - Turner Ward Knob
 
-d_salem;899;899 - Osage;Salem - Osage
-c_springfield;899;899 - Osage;Springfield - Osage
-c_meramec;899;899 - Osage;Meramec - Osage
-c_osage;899;899 - Osage;Osage - Osage
-c_current;899;899 - Osage;Current - Osage
+d_salem;899;899 - Osage;Salem - Salem
+c_springfield;899;899 - Osage;Springfield - Salem
+c_meramec;899;899 - Osage;Meramec - Salem
+c_osage;899;899 - Osage;Osage - Salem
+c_joplin;899;899 - Joplin;Osage - Salem
+
 
 # Missouri
 
@@ -969,26 +980,29 @@ d_great_river;2514;2514 - Michigamea;Great River - Michigamea
 c_cape_girardeau;2514;2514 - Michigamea;Cape Girardeau - Michigamea
 c_magnolia_hollow;2514;2514 - Michigamea;Magnolia Hollow - Michigamea
 c_bootheel;2514;2514 - Michigamea;Bootheel - Michigamea
-c_black;2514;2514 - Michigamea;Black - Michigamea
+
+c_black;4588;4588 - Lead Belt;Black - Lead Belt
+c_current;4588;4588 - Lead Belt;Current - Lead Belt
 
 #d_gateway;900;900 - Tamaroa;The Gateway - Tamaroa
 c_st_louis;4585;4585 - St Louis; St Louis - St Louis
 c_gasconade;4586;4586 - Gasgonade;Gasgonade - Gasgonade
-c_gasconade;4588;4588 - Lead Belt;Gasgonade - Lead Belt
-d_twain;900;900 - Tamaroa;Twain - Tamaroa
-c_cuivre;4597;4597 - Cuivre;Cuivre - Cuivre
-c_hannibal;900;900 - Tamaroa;Hannibal - Tamaroa
 
-d_boonslick;902;902 - Missouri;Boonslick - Missouri
-c_cole;902;902 - Missouri;Cole - Missouri
-c_boone;902;902 - Missouri;Boone - Missouri
-c_moks;902;902 - Missouri;Moks - Missouri
-c_saline;902;902 - Missouri;Saline - Missouri
-c_bluffwoods;902;902 - Missouri;Bluffwoods - Missouri
-d_chariton;902;902 - Missouri;Chariton - Missouri
-c_nodaway;902;902 - Missouri;Nodaway - Missouri
-c_paho;902;902 - Missouri;Paho - Missouri
-c_thompson;902;902 - Missouri;Thompson - Missouri
+d_twain;4597;4597 - Cuivre;Twain - Twain
+c_cuivre;4597;4597 - Cuivre;Cuivre - Twain
+c_hannibal;4597;4597 - Cuivre;Hannibal - Twain
+
+d_boonslick;902;902 - Missouri;Boonslick - Boonslick
+c_cole;902;902 - Missouri;Cole - Boonslick
+c_boone;902;902 - Missouri;Boone - Boonslick
+c_moks;902;902 - Missouri;Moks - Boonslick
+c_saline;902;902 - Missouri;Saline - Boonslick
+c_bluffwoods;902;902 - Missouri;Bluffwoods - Boonslick
+
+d_chariton;900;900 - Tamaroa;Chariton - Chariton
+c_nodaway;900;900 - Tamaroa;Nodaway - Chariton
+c_paho;900;900 - Tamaroa;Paho - Chariton
+c_thompson;900;900 - Tamaroa;Thompson - Chariton
 
 # Iowa
 
@@ -1017,11 +1031,11 @@ c_dubuque;2513;2513 - Moingwena;Dubuque - Moingwena
 
 # Chicagoland
 
-d_forgottonia;917;917 - Cahokia;Forgottonia - Cahokia
-c_quincy;917;917 - Cahokia;Quincy - Cahokia
-c_la_moine;917;917 - Cahokia;La Moine - Cahokia
-c_peoria;917;917 - Cahokia;Peoria - Cahokia
-c_rock_island;917;917 - Cahokia;Rock Island - Cahokia
+d_forgottonia;917;917 - Cahokia;Forgottonia - Forgottonia
+c_quincy;917;917 - Cahokia;Quincy - Forgottonia
+c_la_moine;917;917 - Cahokia;La Moine - Forgottonia
+c_peoria;917;917 - Cahokia;Peoria - Forgottonia
+c_rock_island;917;917 - Cahokia;Rock Island - Forgottonia
 
 c_kaskaskia;4587;4587 - Kaskaskia;Kaskaskia - Kaskaskia (South) #There are now two files with Kaskaskia in their names. 
 c_sangamon;916;916 - Kaskaskia;Sangamon - Kaskaskia
@@ -1602,6 +1616,9 @@ d_denver;4525;4525 - Denver;Denver - Denver;
 c_denver;4525;4525 - Denver;Denver - Denver;
 c_south_platte;4525;4525 - Denver;South Platte - Denver;
 c_pikes_peak;4525;4525 - Denver;Pikes Peak - Denver;
+
+c_arp;4884;4884 - Arp;Arp - Arp
+c_peketon;4884;4884 - Arp;Peketon - Arp
 
 d_pueblo;4526;4526 - Valana;Peublo - Valana
 c_pueblo;4526;4526 - Valana;Peublo - Valana

@@ -2871,9 +2871,9 @@ west_florida_area = { #5
 	# 912 913 914
 # }
 
-lower_louisiana_area = { # 3
-    893 2014 2516
-}
+# lower_louisiana_area = { # 3
+    # 893 2014 2516 
+# }
 
 # upper_louisiana_area = { #4
     # 900 902 2513 2514
@@ -2892,7 +2892,7 @@ central_plains_area = { #5
 }
 
 high_plains_area = { #5
-    889 890 2506 2507 2625
+    889 890 2625 4884
 }
 
 dakota_area = { #5
@@ -3472,25 +3472,31 @@ appalachia_area = { #Called "Vandalia"
     951 2551 4574 4576 2526
 }
 the_gateway_area = {
-	4586 4585 4588 4597
+	4586 4585 4588 4597 2514
 }
 kentucky_area = { #3
     940 4707 4708 4711 939
 }
 
 mississippi_plain_area = { #Called Arkansas
-	894 895 897 2514
+	894 895 897 4883
 }
 
 upper_louisiana_area = { #4
     900 902 2513 
 }
 
-
+lower_louisiana_area = { # 3
+    893 2014 2516 4885
+}
 
 #North West
+
+yellowstone_area = {
+	4601 4604 2506 2507
+}
 colorado_area = {
-	4522 4524 4523 4525 4526 4604 4601
+	4522 4524 4523 4525 4526 
 }
 
 columbia_river_area = { 
