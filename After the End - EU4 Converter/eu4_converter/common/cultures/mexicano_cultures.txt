@@ -1,12 +1,13 @@
 mexicano = {
 	tejano = {
-		primary = TEX
+		primary = RIO
 		dynasty_names = $tejano$
 	}
 	norteno = {
 		dynasty_names = $norteno$
 	}
 	neomexicano = {
+		primary = NMX
 		dynasty_names = $neomexicano$
 	}
 	tapatio = {
@@ -14,7 +15,7 @@ mexicano = {
 		dynasty_names = $tapatio$
 	}
 	jarocho = {
-		primary = MEX
+		primary = VRC
 		dynasty_names = $jarocho$
 	}
 	sonorense = {

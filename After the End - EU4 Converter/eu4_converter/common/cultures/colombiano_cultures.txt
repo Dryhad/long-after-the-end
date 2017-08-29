@@ -1,6 +1,6 @@
 colombiano = {
 	paisa = {
-		primary = COL
+		primary = ANQ
 		dynasty_names = $paisa$
 	}
 	cartagenero = {

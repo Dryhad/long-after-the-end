@@ -4,12 +4,15 @@ venezolano = {
 		dynasty_names = $agraciado$
 	}
 	bolivariano = {
+		primary = BOV
 		dynasty_names = $bolivariano$
 	}
 	gocho = {
+		primary = TCR
 		dynasty_names = $gocho$
 	}
 	llanero = {
+		primary = LLL
 		dynasty_names = $llanero$
 	}
 	truenonato = {

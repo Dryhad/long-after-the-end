@@ -14,6 +14,7 @@ south_anglo = {
 		dynasty_names = $appalachian$
 	}
 	gulfard = {
+		primary = FLD
 		dynasty_names = $gulfard$
 	}
 	melungeon = {

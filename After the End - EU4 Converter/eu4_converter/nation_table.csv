@@ -98,6 +98,38 @@ d_tuskegee;TSK;Tuskegee;Duchy Tuskegee
 c_tuskegee;TSK;Tuskegee;County Tuskegee
 e_valleyan;VAL;Valley;Empire Valley
 k_the_valley;VAL;Valley;Kingdom Valley
+e_paisa;ANQ;Antioquia;Empire Antioquia
+k_antioquia;ANQ;Antioquia;Kingdom Antioquia
+d_antioquia;ANQ;Antioquia;Duchy Antioquia
+e_kriol;BLZ;Belize;Empire Belize
+d_belize;BLZ;Belize;Duchy Belize
+e_bolivariano;BOV;Bolivar;Empire Bolivar
+k_bolivar;BOV;Bolivar;Kingdom Bolivar
+e_cayennais;CAY;Cayenne;Empire Cayenne
+d_cayenne;CAY;Cayenne;Duchy Cayenne
+c_cayenne;CAY;Cayenne;County Cayenne
+e_delawarean;DLW;Delaware;Empire Delaware
+d_delaware_valley;DLW;Delaware;Duchy Delaware
+e_gulfard;FLD;Florida;Empire Florida
+k_florida;FLD;Florida;Kingdom Florida
+e_guyanese;GYN;Guyana;Empire Guyana
+k_guyana;GYN;Guyana;Kingdom Guyana
+e_llanero;LLL;LosLlanos;Empire Los Llanos
+k_los_llanos;LLL;LosLlanos;Kingdom Los Llanos
+e_metis;MTC;Metis;Empire Metis
+e_neomexicano;NMX;NewMexico;Empire New Mexico
+d_new_mexico;NMX;NewMexico;Duchy New Mexico
+e_portlander;OGN;Oregon;Empire Oregon
+e_tejano;RIO;RioGrande;Empire Rio Grande
+k_rio_grande;RIO;RioGrande;Kingdom Rio Grande
+e_sranan;SUR;Suriname;Empire Suriname
+k_suriname;SUR;Suriname;Kingdom Suriname
+d_suriname;SUR;Suriname;Duchy Suriname
+e_gocho;TCR;Tachira;Empire Tachira
+c_tachira;TCR;Tachira;County Tachira
+e_jarocho;VRC;Veracruz;Empire Veracruz
+d_veracruz;VRC;Veracruz;Duchy Veracruz
+e_dellsman;WIS;Wisconsin;Empire Wisconsin
 
 # EU4 Colonies
 

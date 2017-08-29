@@ -8,7 +8,7 @@ north_atlantic = {
 		dynasty_names = $hudsonian$
 	}
 	delawarean = {
-		primary = USA
+		primary = DLW
 		dynasty_names = $delawarean$
 	}
 	yankee = {

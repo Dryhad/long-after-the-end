@@ -1,7 +1,7 @@
-# Blue Ridge
+# Appalachia
 ck2_converter_generated = yes
 graphical_culture = easterngfx
-color = { 75 100 185 }
+color = { 160 167 78 }
 
 
 

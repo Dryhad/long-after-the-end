@@ -8,7 +8,7 @@ amerodeutsch = {
 		dynasty_names = $rostmann$
 	}
 	dellsman = {
-		primary = GLK
+		primary = WIS
 		dynasty_names = $dellsman$
 	}
 	yooper = {

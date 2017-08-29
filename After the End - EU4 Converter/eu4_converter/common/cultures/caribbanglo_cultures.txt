@@ -19,9 +19,11 @@ caribbanglo = {
 		dynasty_names = $raizal$
 	}
 	kriol = {
+		primary = BLZ
 		dynasty_names = $kriol$
 	}
 	guyanese = {
+		primary = GYN
 		dynasty_names = $guyanese$
 	}
 }
