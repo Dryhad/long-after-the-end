@@ -14,6 +14,10 @@ e_brazil;BRZ;Brazil;Brazil
 e_edokko;JAP;Japan;Japan
 e_novorusskiy;NRU;NewRussia;New Russia
 
+# Holy Orders
+d_midwestern_brotherhood;MWB;MidWestBrotherhood;Midwestern Brotherhood
+d_steel_brotherhood;SBH;SteelBrotherhood;Steel Brotherhood
+
 # Converter Originals
 e_california;CAL;California;Empire California
 e_ontarian;ONT;Ontario;Empire Ontario
@@ -57,6 +61,43 @@ d_newfoundland;NFL;Newfoundland;Duchy Newfoundland
 e_istmeno;PNM;Panama;Empire Panama
 k_puente_grande;PNM;Panama;Kingdom Panama
 d_panama;PNM;Panama;Duchy Panama
+e_appalachia;APP;Appalachia;Empire Appalachia
+k_appalachia;APP;Appalachia;Kingdom Appalachia
+e_arixan;ARX;Arixo;Empire Arixo
+k_arixo;ARX;Arixo;Kingdom Arixo
+e_californio;BAJ;Baja;Empire Baja
+k_baja_california;BAJ;Baja;Kingdom Baja
+d_baja;BAJ;Baja;Duchy Baja
+e_bayfolk;BAY;GranFrancisco;Empire Gran Francisco
+k_francisco;BAY;GranFrancisco;Kingdom Gran Francisco
+e_bermudian;BRM;Bermuda;Empire Bermuda
+k_grand_bermuda;BRM;Bermuda;Kingdom Bermuda
+d_bermuda;BRM;Bermuda;Duchy Bermuda
+c_bermuda;BRM;Bermuda;County Bermuda
+e_coloradan;CLR;Colorado;Empire Colorado
+k_colorado;CLR;Colorado;Kingdom Colorado
+e_tapatio;JAL;Jalisco;Empire Jalisco
+k_jalisco;JAL;Jalisco;Kingdom Jalisco
+d_jalisco;JAL;Jalisco;Duchy Jalisco
+e_angeleno;LAX;Socal;Empire Socal
+k_socal;LAX;Socal;Kingdom Socal
+e_maritimer;MRT;Maritimes;Empire Maritimes
+k_maritimes;MRT;Maritimes;Kingdom Maritimes
+e_ozark;OZK;Ozarks;Empire Ozarks
+k_ozarks;OZK;Ozarks;Kingdom Ozarks
+e_puerto_rico;PTR;PuertoRico;Empire Puerto Rico
+d_puerto_rico;PTR;PuertoRico;Duchy Puerto Rico
+e_sonorense;SNR;Sonora;Empire Sonora
+k_sonora;SNR;Sonora;Kingdom Sonora
+d_sonora;SNR;Sonora;Duchy Sonora
+e_yooper;SUP;Superior;Empire Superior
+k_superior;SUP;Superior;Kingdom Superior
+d_superior;SUP;Superior;Duchy Superior
+e_tuskegean;TSK;Tuskegee;Empire Tuskegee
+d_tuskegee;TSK;Tuskegee;Duchy Tuskegee
+c_tuskegee;TSK;Tuskegee;County Tuskegee
+e_valleyan;VAL;Valley;Empire Valley
+k_the_valley;VAL;Valley;Kingdom Valley
 
 # EU4 Colonies
 

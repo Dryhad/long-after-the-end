@@ -1,6 +1,11 @@
 # Converter
+APP = countries/Appalachia.txt
+ARX = countries/Arixo.txt
+BAJ = countries/Baja.txt
+BRM = countries/Bermuda.txt
 CAL = countries/California.txt
 CBN = countries/Caribbean.txt
+CLR = countries/Colorado.txt
 CSC = countries/Cascadia.txt
 ORD = countries/Chicagoland.txt
 WDC = countries/Columbia.txt
@@ -8,18 +13,30 @@ CUB = countries/Cuba.txt
 DEI = countries/Deitscherei.txt
 DES = countries/Deseret.txt
 DOM = countries/Dominica.txt
+BAY = countries/GranFrancisco.txt
 GLK = countries/TheGreatLakes.txt
 HON = countries/Honduras.txt
+JAL = countries/Jalisco.txt
+MRT = countries/Maritimes.txt
+MWB = countries/MidWestBrotherhood.txt
 MSK = countries/Miskito.txt
 NEN = countries/NewEngland.txt
 NRU = countries/NewRussia.txt
 NYS = countries/NewYork.txt
 NFL = countries/Newfoundland.txt
 ONT = countries/Ontario.txt
+OZK = countries/Ozarks.txt
 PNM = countries/Panama.txt
+PTR = countries/PuertoRico.txt
+LAX = countries/Socal.txt
+SNR = countries/Sonora.txt
+SBH = countries/SteelBrotherhood.txt
+SUP = countries/Superior.txt
 TXK = countries/Texarkana.txt
 TEX = countries/Texas.txt
+TSK = countries/Tuskegee.txt
 URS = countries/Ursuline.txt
+VAL = countries/Valley.txt
 
 # South America
 CDB = countries/Cordoba.txt

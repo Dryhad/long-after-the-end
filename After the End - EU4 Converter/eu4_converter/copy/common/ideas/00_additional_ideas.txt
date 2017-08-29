@@ -113,6 +113,55 @@ WDC_ideas = {
 		diplomatic_reputation = 2
 	}
 }
+brotherhood_ideas = {
+	start = {
+		development_cost = -0.15
+		shock_damage = 0.25
+	}
+	
+	bonus = {
+		free_leader_pool = 1
+	}
+	
+	trigger = {
+		OR = {
+			tag = SBH
+			tag = MWB
+		}
+	}
+	free = yes
+	
+	# Advanced Weaponry
+	bos_idea_1 = {
+		siege_ability = 0.1
+	}
+	# Brotherhood Bunkers
+	bos_idea_2 = {
+		build_cost = -0.15
+		global_garrison_growth = 0.5
+	}
+	# Strict Hierachy
+	bos_idea_3 = {
+		land_forcelimit_modifier = 0.15
+		global_manpower_modifier = 0.15
+	}
+	# Experienced Soldiers
+	bos_idea_4 = {
+		land_morale = 0.1
+	}
+	# Power Armour
+	bos_idea_5 = {
+		infantry_cost = -0.15
+	}
+	# Brotherhood Discipline
+	bos_idea_6 = {
+		discipline = 0.05
+	}
+	# Power Training
+	bos_idea_7 = {
+		war_exhaustion_cost = -0.15
+	}
+}
 
 ### Group Ideas ###
 
