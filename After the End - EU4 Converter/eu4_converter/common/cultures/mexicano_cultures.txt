@@ -10,7 +10,7 @@ mexicano = {
 		dynasty_names = $neomexicano$
 	}
 	tapatio = {
-		primary = MEX
+		primary = JAL
 		dynasty_names = $tapatio$
 	}
 	jarocho = {
@@ -18,9 +18,11 @@ mexicano = {
 		dynasty_names = $jarocho$
 	}
 	sonorense = {
+		primary = SNR
 		dynasty_names = $sonorense$
 	}
 	californio = {
+		primary = BAJ
 		dynasty_names = $californio$
 	}
 	chilango = {

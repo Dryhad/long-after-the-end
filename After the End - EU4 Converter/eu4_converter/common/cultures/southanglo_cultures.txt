@@ -10,6 +10,7 @@ south_anglo = {
 		dynasty_names = $dixie$
 	}
 	appalachian = {
+		primary = APP
 		dynasty_names = $appalachian$
 	}
 	gulfard = {

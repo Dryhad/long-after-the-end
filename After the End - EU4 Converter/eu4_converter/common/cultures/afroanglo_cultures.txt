@@ -6,6 +6,7 @@ afroanglo = {
 		dynasty_names = $motowner$
 	}
 	tuskegean = {
+		primary = TSK
 		dynasty_names = $tuskegean$
 	}
 }

@@ -12,14 +12,15 @@ north_atlantic = {
 		dynasty_names = $delawarean$
 	}
 	yankee = {
+		primary = NEN
 		dynasty_names = $yankee$
 	}
 	maritimer = {
-		primary = CAN
+		primary = MRT
 		dynasty_names = $maritimer$
 	}
 	newfie = {
-		primary = CAN
+		primary = NFL
 		dynasty_names = $newfie$
 	}
 }

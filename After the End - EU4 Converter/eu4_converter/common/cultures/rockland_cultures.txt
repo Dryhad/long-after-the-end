@@ -3,9 +3,11 @@ rockland = {
 		dynasty_names = $mountainer$
 	}
 	coloradan = {
+		primary = CLR
 		dynasty_names = $coloradan$
 	}
 	utahn = {
+		primary = DES
 		dynasty_names = $utahn$
 	}
 }

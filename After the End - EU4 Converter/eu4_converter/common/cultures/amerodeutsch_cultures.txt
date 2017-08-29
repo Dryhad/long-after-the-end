@@ -1,5 +1,6 @@
 amerodeutsch = {
 	deitsch = {
+		primary = DEI
 		dynasty_names = $deitsch$
 	}
 	rostmann = {
@@ -11,7 +12,7 @@ amerodeutsch = {
 		dynasty_names = $dellsman$
 	}
 	yooper = {
-		primary = GLK
+		primary = SUP
 		dynasty_names = $yooper$
 	}
 	northlander = {

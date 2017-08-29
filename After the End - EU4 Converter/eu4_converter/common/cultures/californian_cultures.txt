@@ -1,11 +1,14 @@
 californian = {
 	angeleno = {
+		primary = LAX
 		dynasty_names = $angeleno$
 	}
 	bayfolk = {
+		primary = BAY
 		dynasty_names = $bayfolk$
 	}
 	valleyan = {
+		primary = VAL
 		dynasty_names = $valleyan$
 	}
 	calaotian = {
