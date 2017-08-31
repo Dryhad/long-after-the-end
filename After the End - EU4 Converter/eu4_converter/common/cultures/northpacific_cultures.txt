@@ -4,7 +4,7 @@ north_pacific = {
 		dynasty_names = $cascadian$
 	}
 	portlander = {
-		primary = CSC
+		primary = OGN
 		dynasty_names = $portlander$
 	}
 	canuck = {
