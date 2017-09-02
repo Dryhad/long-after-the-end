@@ -254,7 +254,7 @@ renaissance = {
 		modifier = {
 			factor = 0.1
 			scale = yes
-			is_year = 1500
+			is_year = 3100
 			development = 5
 		}
 		modifier = {
