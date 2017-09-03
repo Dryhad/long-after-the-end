@@ -108,4 +108,3 @@ SGP = countries/Singapore.txt
 SPE = countries/Speewah.txt
 ULU = countries/Desert.txt
 UTP = countries/Utopia.txt
-MAL = countries/Manila.txt
