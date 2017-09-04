@@ -2,8 +2,8 @@
 
 #owner = NOV 
 #controller = NOV 
-culture = novgorodian
-religion = orthodox
+culture = karelian
+religion = finnish_pagan_reformed
 hre = no
 base_tax = 1
 base_production = 1
@@ -11,13 +11,6 @@ trade_goods = unknown
 base_manpower = 1
 capital = "Archangelsk"
 is_city = no
-#add_core= NOV
-discovered_by = KAZ
-discovered_by = CRI
-discovered_by = GOL
-discovered_by = AST
-discovered_by = QAS
-discovered_by = high_american
 discovered_by = high_american
 extra_cost = 15
 

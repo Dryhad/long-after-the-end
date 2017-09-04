@@ -1,34 +1,19 @@
 #Halland, contains Halmstad, Varberg.
 
-#owner = DAN
-#controller = DAN
-#add_core= DAN
-culture = danish
-religion = catholic
+culture = scanian #mostly for identification purposes but also lulz
+religion = norse_pagan_reformed
 hre = no
 base_tax = 1
 base_production = 1
 trade_goods = unknown
 base_manpower = 1
 capital = "Halmstad"
-estate = estate_nobles
 is_city = no
 
 
 
 discovered_by = high_american
-discovered_by = high_american
 discovered_by = indian
-discovered_by = indian
-
-
-# = { revolt = { type = revolutionary_rebels size = 1 } #controller = REB } # 'Grevefejden'(Christofer of Oldenburg)
-# = { revolt = {} #controller = DAN } # Liberated by Sweden
-# = { religion = protestant} # Unknown date
-# = { #controller = SWE } # The Nordic Seven-year War
-# = { #controller = DAN } # The Nordic Seven-year War
-# = { #owner = SWE #add_core= SWE  } # The Peace of Brömsebro
-# = { culture = swedish } # The population adepted to Swedish ways.
 
 
 native_size = 5

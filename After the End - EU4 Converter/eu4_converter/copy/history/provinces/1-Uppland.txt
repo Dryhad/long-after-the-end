@@ -1,7 +1,7 @@
 #Uppland, contains Stockholm, Uppsala & Nyköping.
 
 culture = swedish
-religion = catholic
+religion = norse_pagan_reformed
 hre = no
 base_tax = 1
 base_production = 1

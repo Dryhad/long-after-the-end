@@ -1,32 +1,17 @@
 #Östergötland, contains Norrköping, Linköping etc.
 
-#add_core= SWE
-#owner = SWE
-#controller = SWE
 culture = swedish
-religion = catholic
+religion = norse_pagan_reformed
 hre = no
 base_tax = 1
 base_production = 1
 trade_goods = unknown
 base_manpower = 1
-capital = "Linköping"
+capital = "Norrköping"
 estate = estate_nobles
 is_city = no # Estimated
 discovered_by = high_american
-discovered_by = high_american
 discovered_by = indian
-discovered_by = indian
-
-
-# = { revolt = { type = revolutionary_rebels size = 2 } #controller = REB } # The Axelsson Tott Family
-# = { revolt = {} #controller = SWE } # The Demise of the Axelsson Tott Family
-# = { #controller = DAN } # Danish loyalists at Danish DoW
-# = { #controller = SWE } # Hans I become King and Sweden a Danish Vassal
-# = { #controller = DAN } # Danish loyalists at Swedish DoW and breaking of vassalage
-# = { #controller = SWE } # Retaken by Sweden
-# = { religion = protestant}
-# = { capital = "Norrköping" }
 
 
 native_size = 5

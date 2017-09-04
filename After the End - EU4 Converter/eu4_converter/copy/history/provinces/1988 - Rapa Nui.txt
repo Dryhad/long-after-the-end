@@ -1,7 +1,7 @@
 #1988 - Rapanui
 
 culture = polynesian
-religion = animism
+religion = occultist # Closest province to R'lyeh, pity about the Moai
 capital = "Hanga Roa"
 trade_goods = unknown
 hre = no
@@ -11,13 +11,3 @@ base_manpower = 1
 native_size = 1
 native_ferocity = 1
 native_hostileness = 1
-
-# = {
-	#discovered_by = NED	# Jacob Roggeveen
-#}
-# = {
-	#discovered_by = SPA	# The ships San Lorenzo and Santa Rosalia
-#}
-# = {
-	#discovered_by = GBR	# James Cook, date unknown
-#}

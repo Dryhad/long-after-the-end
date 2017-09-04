@@ -1,7 +1,7 @@
 #1995 - Micronesia
 
 culture = micronesian
-religion = animism
+religion = occultist # Ponape Scripture
 capital = "Palikir"
 trade_goods = unknown
 hre = no

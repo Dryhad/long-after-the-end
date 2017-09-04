@@ -1,10 +1,10 @@
 #Sönderjylland-Slesvig, incl. Slesvig, Haderslev and Flensborg
 
-#add_core= SHL
-#owner = SHL
-#controller = SHL
+#add_core= LGO #Add Legoland
+#owner = LGO
+#controller = LGO
 culture = danish
-religion = catholic
+religion = consumerist
 hre = no
 base_tax = 1
 base_production = 1
@@ -13,25 +13,7 @@ base_manpower = 1
 capital = "Slesvig"
 is_city = no
 discovered_by = high_american
-discovered_by = high_american
 discovered_by = indian
-discovered_by = indian
-
-
-# = { #add_core= DAN }
-# = { #owner = DAN #controller = DAN }
-# = { religion = protestant }
-# = {
-	#controller = HAB
-#}
-# = {
-	#controller = DAN
-#}
-# = { #controller = SWE } #Torstenssons War-Captured by Lennart Torstensson
-# = { #controller = DAN } #The Peace of Brömsebro
-# = { #controller = SWE } #Karl X Gustavs First Danish War-Captured by Wrangel
-# = { #owner = SHL #controller = SHL } #The Peace of Roskilde
-# = { #owner = DAN #controller = DAN }
 
 
 native_size = 5

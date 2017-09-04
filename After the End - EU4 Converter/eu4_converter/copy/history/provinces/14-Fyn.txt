@@ -1,9 +1,7 @@
 #Fyn-Langeland
-#add_core= DAN
-#owner = DAN
-#controller = DAN
+
 culture = danish
-religion = catholic
+religion = norse_pagan_reformed
 hre = no
 base_tax = 1
 base_production = 1
@@ -12,14 +10,7 @@ base_manpower = 1
 capital = "Odense"
 is_city = no
 discovered_by = high_american
-discovered_by = high_american
 discovered_by = indian
-discovered_by = indian
-
-
-# = { religion = protestant }
-# = { #controller = SWE } # Karl X Gustavs First Danish War-Captured by Karl X Gustav
-# = { #controller = DAN } # The Peace of Roskilde
 
 
 native_size = 5

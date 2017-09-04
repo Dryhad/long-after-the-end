@@ -1,10 +1,7 @@
 #Eastern Skåne - More or less Kristianstad Län. Includes Göinge, Gladsax Len, Listerlandet, and others.
 
-#add_core= DAN
-#owner = DAN
-#controller = DAN
-culture = danish
-religion = catholic
+culture = scanian #mostly for identification purposes but also lulz
+religion = norse_pagan_reformed
 hre = no
 base_tax = 1
 base_production = 1
@@ -12,19 +9,8 @@ trade_goods = unknown
 base_manpower = 1
 capital = "Gladsax"
 is_city = no
-estate = estate_nobles
-discovered_by = high_american
 discovered_by = high_american
 discovered_by = indian
-discovered_by = indian
-
-
-# = { revolt = { type = revolutionary_rebels size = 1 } #controller = REB } # Prelude to 'Grevefejden'(Sören Norrby)
-# = { revolt = {} #controller = DAN } # Sören Norrby is defeated
-# = { revolt = { type = revolutionary_rebels size = 1 } #controller = REB } # 'Grevefejden'(Christofer of Oldenburg)
-# = { revolt = {} #controller = DAN } # Liberated by Sweden
-# = { religion = protestant} # Unknown date
-# = { #controller = SWE #owner = SWE #add_core= SWE } # The Peace of Roskilde
 
 
 native_size = 5

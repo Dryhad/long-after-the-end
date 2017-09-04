@@ -1,10 +1,7 @@
 #Bornholm
 
-#add_core= DAN
-#owner = DAN
-#controller = DAN
 culture = danish
-religion = catholic
+religion = norse_pagan_reformed
 hre = no
 base_tax = 1
 base_production = 1
@@ -12,16 +9,8 @@ trade_goods = unknown
 base_manpower = 1
 capital = "Ronne"
 is_city = no
-estate = estate_church
-discovered_by = high_american
 discovered_by = high_american
 discovered_by = indian
-discovered_by = indian
-
-
-# = { religion = protestant} # Unknown date
-# = { #owner = SWE #controller = SWE } # The Peace of Roskilde
-# = { #owner = DAN #controller = DAN } # Treaty of Copenhagen
 
 
 native_size = 5

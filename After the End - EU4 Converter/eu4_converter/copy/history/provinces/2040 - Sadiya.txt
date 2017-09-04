@@ -1,9 +1,7 @@
 #2040 - Sadiya
 
-#owner = SDY
-#controller = SDY
 culture = assamese
-religion = hinduism
+religion = revelationist
 capital = "Sadiya"
 trade_goods = tea
 hre = no
@@ -11,27 +9,11 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 is_city = no
-#add_core= SDY
 
 
 
 discovered_by = indian
-#discovered_by = nomad_group
 discovered_by = chinese
-
-
-# = { #owner = ASS #controller = ASS }
-# = { discovered_by = POR }
-# = { unrest = 8 } # Moamoria rebellion
-# = { unrest = 0 }
-# = { #controller = TAU }
-# = { #controller = ASS }
-# = { #controller = TAU }
-# = { #controller = ASS }
-# = { #controller = TAU #owner = TAU }
-# = { #controller = ASS #owner = ASS }
-# = { #controller = TAU #owner = TAU }
-# = { #owner = ASS #controller = ASS }
 
 
 native_size = 5

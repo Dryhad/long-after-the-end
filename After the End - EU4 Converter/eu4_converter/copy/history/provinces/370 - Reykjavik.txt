@@ -1,29 +1,15 @@
 #370 - Reykjavik
 
-#owner = NOR
-#controller = NOR 
 culture = norwegian
-religion = catholic
+religion = norse_pagan_reformed
 hre = no
 base_tax = 1
 base_production = 1
 trade_goods = unknown
 base_manpower = 1
-add_local_autonomy = 25
 capital = "Reykjavik"
 is_city = no 	
-#add_core= NOR
-#add_core= ICE
 discovered_by = high_american
-
-
-# = {
-	religion = protestant
-	#owner = DAN
-	#controller = DAN
-	#add_core= DAN
-#}
-# = { trade_goods = unknowns more important.
 
 
 native_size = 5

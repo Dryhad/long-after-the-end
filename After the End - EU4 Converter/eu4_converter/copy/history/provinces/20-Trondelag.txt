@@ -1,38 +1,15 @@
 #Tröndelag, incl. Trondheim, Frosta, Röros, Steinviksholm
 
-#owner = NOR
-#controller = NOR
-#add_core= NOR
 culture = norwegian
-religion = catholic
+religion = finnish_pagan_reformed
 hre = no
 base_tax = 1
 base_production = 1
 trade_goods = unknown
 base_manpower = 1
 capital = "Trondheim"
-estate = estate_church
 is_city = no
 discovered_by = high_american
-discovered_by = high_american
-fort_15th = yes
-
-# = { unrest = 10 } # The Return of Christian II
-# = { unrest = 0 } # The Capture of Christian II
-# = { religion = protestant} # Unknown date
-# = { #owner = DAN #controller = DAN #add_core= DAN } # 'Handfästningen'(Unknown date)
-# = { #controller = SWE } # Nordic Seven-years War
-# = { #controller = DAN } # Nordic Seven-years War
-# = { #owner = SWE #controller = SWE #add_core= SWE } # The Peace of Roskilde
-# = { #controller = DAN } # Karl X Gustavs Second Danish War
-# = { #owner = DAN } # The Peace of Copenhagen
-# = {
-	#owner = SWE
-	revolt = { type = nationalist_rebels size = 2 }
-	#controller = REB
-	remove_core = DAN
-#} # Norway is ceded to Sweden following the Treaty of Kiel
-# = { revolt = {} #owner = NOR #controller = NOR } # Norway declares itself independent and elects Christian Frederik as king
 
 
 native_size = 5

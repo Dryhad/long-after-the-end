@@ -1,10 +1,7 @@
 #Skåne
 
-#add_core= DAN
-#owner = DAN
-#controller = DAN
-culture = danish
-religion = catholic
+culture = scanian #mostly for identification purposes but also lulz
+religion = norse_pagan_reformed
 hre = no
 base_tax = 1
 base_production = 1

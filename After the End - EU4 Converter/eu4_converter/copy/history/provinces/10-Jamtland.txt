@@ -1,40 +1,18 @@
 #Jämtland+Härjedalen
 
-#owner = NOR
-#controller = NOR
-culture = norwegian # They were actually Jämts - the unique blend of Swedish, Norwegian and local tendencies
-religion = catholic
+culture = swedish
+religion = finnish_pagan_reformed
 hre = no
 base_tax = 1
 base_production = 1
 trade_goods = unknown
 base_manpower = 1
 capital = "Frösön"
-add_local_autonomy = 25
 is_city = no
-#add_core= NOR
 
 
 
 discovered_by = high_american
-discovered_by = high_american
-
-
-# = { religion = protestant}
-# = { unrest = 10 } # The Return of Christian II
-# = { unrest = 0 } # The Capture of Christian II
-# = { #owner = DAN #controller = DAN #add_core= DAN } # 'Handfästningen'(Unknown date)
-# = { #controller = SWE } # Nordic Seven-years War
-# = { #controller = DAN } # The Peace at Roskilde in 1570
-# = { #controller = SWE } # The War of Kalmar (Unknown date)
-# = { #controller = DAN } # The Peace of Knäred
-# = { #controller = SWE } # Torstenssons War-Captured by Herman Flemming (Unknown date)
-# = { #controller = DAN } # Torstenssons War-Captured by Hannibal Sehested
-# = { #owner = SWE #controller = SWE #add_core= SWE } # The Peace of Brömsebro
-# = { #controller = DAN } # Karl X Gustavs First Danish War-Captured by Bielke
-# = { #controller = SWE } # The Peace of Roskilde
-# = { culture = swedish } # date estimated
-# = { capital = "Östersund" }
 
 
 native_size = 5
