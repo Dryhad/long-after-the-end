@@ -372,11 +372,9 @@ chicagoan_ideas = {
 
     trigger = {
               primary_culture = chicagoan
-                OR = {
-	                religion_group = christian
+	      religion_group = christian
      }
     
-
     free = yes
 
     the_great_bastion = {
