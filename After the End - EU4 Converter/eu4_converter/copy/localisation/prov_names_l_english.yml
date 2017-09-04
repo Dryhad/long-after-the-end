@@ -928,7 +928,7 @@
  PROV927:0 "Timucua"
  PROV928:0 "Apalachee"
  PROV929:0 "Savannah" #Was Guale
- PROV930:0 "Gaines" #Was Muskogee
+ PROV930:0 "Atlanta" #Was Muskogee
  PROV931:0 "Peachtree" #Was Coosa
  PROV932:0 "Charleston"		#Was Santee
  PROV933:0 "Catawba"
@@ -2487,7 +2487,7 @@
  PROV2487:0 "Spokane"
  PROV2488:0 "Palus"
  PROV2489:0 "Bohogue"
- PROV2490:0 "Goshute"
+ PROV2490:0 "Salt Lake"	#Was Goshute
  PROV2491:0 "Hualapai"
  PROV2492:0 "Chiricahua"
  PROV2493:0 "Hopi"
@@ -2522,7 +2522,7 @@
  PROV2522:0 "Grand Rapids" #Was Mascouten
  PROV2523:0 "Piankeshaw"
  PROV2524:0 "Muncie"	#Was Wabash
- PROV2525:0 "Cincinnati" #Was Chillicothe
+ PROV2525:0 "Miami Valley" #Was Chillicothe
  PROV2526:0 "Lexington" #Was Shatteras
  PROV2527:0 "Chickamauga"
  PROV2528:0 "Yazoo"
@@ -2562,7 +2562,7 @@
  PROV2562:0 "Pennacook"
  PROV2563:0 "Vermont" #Was Missisquoi
  PROV2564:0 "White Mountains" #Was Sokoki
- PROV2565:0 "Kennebec"
+ PROV2565:0 "Moosehead"	#Was Kennebec
  PROV2566:0 "Castine" #Was Passamquoddy
  PROV2567:0 "Aroostook"
  PROV2568:0 "Cape Sable" #Was Kespukwitk
@@ -3361,7 +3361,7 @@
  PROV4541:0 "Newburgh"
  PROV4542:0 "The Berkshires"
  PROV4543:0 "Burlington"
- PROV4544:0 "Mahoosuc"
+ PROV4544:0 "Mahoosuc"	
  PROV4545:0 "Skowhegan"
  PROV4546:0 "St John Valley"
  PROV4547:0 "Riviere-Du-Loup"

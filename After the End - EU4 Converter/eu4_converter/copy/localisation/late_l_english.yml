@@ -262,6 +262,8 @@
  VRC_ADJ: "Veracruz"
  WIS: "Wisconsin"
  WIS_ADJ: "Wisconsinite"
+ RED: "Redcoats"
+ RED_ADJ: "Redcoat"
  ahmadi: "Ahmadi"
  ahmadi_religion_desc: "Ahmadis believe that prior to the great cataclysm, the world was unified in one Islamic faith by the Mahdi. The cataclysm heralded the begining of a new cycle, with a new Adam."
  yazidi: "Yazidi"
@@ -880,3 +882,4 @@
  luadhadh_desc:0 "A tradition native to the Gaelic, luadhadh, or work songs, are sung by all working men and women, raising their spirits and turning back breaking work into joyful activity. "
  ceilidh_and_seanachas:0 "Céilidh and Seanachas"
  ceilidh_and_seanachas_desc:0 "The Céilidh, informal gatherings among families, are occasion for long sessions of storytelling. It is here that the Seanachas, the oral history of the Maritimer peoples, are passed down from old to young, passing down the memories of those who have long since departed for Fiddler’s Green."
+ 

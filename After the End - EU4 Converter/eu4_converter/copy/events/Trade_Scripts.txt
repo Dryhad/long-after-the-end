@@ -508,6 +508,7 @@ country_event = {
 					province_id = 4507 #Los Angeles
 					province_id = 2021 #San Francisco
 					province_id = 973 #Vancouver
+					province_id = 2536 #Miami
 				}
 			}
 			add_permanent_province_modifier = {

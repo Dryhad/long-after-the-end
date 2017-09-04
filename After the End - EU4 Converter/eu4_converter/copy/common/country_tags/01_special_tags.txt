@@ -53,6 +53,7 @@ URS = countries/Ursuline.txt
 VAL = countries/Valley.txt
 VRC = countries/Veracruz.txt
 WIS = countries/Wisconsin.txt
+RED = countries/Redcoats.txt
 
 # South America
 CDB = countries/Cordoba.txt
