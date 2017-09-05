@@ -418,27 +418,34 @@ chicagoan_ideas = {
     
     free = yes
 
-    the_great_bastion = {
+    # the_great_bastion 
+    chicagoan_idea_1 = {
                 defensiveness = 0.20
     }
-    steamboat_diplomacy  = {
+    # steamboat_diplomacy 
+    chicagoan_idea_2 = {
                 diplomats = 1
     }
-    sénéchaussée_des_chicago = {
+    # sénéchaussée_des_chicago 
+    chicagoan_idea_3 = {
                 heir_chance = 0.33
                 legitimacy = 1
     }
-    midwest_stock_exchange = {
+    # chicago_stock_exchange 
+    chicagoan_idea_4 = {
                 global_own_trade_power = 0.1
     }
-    devout_christians  = {
+    # devout_christians 
+    chicagoan_idea_5 = {
                 papal_influence = 1
 		tolerance_own = 2
     }
-    urbs_in_horto = {
-                global_institution_spread = 0.2
+    # urbs_in_horto 
+    chicagoan_idea_6 = {
+                advisor_pool = 1
     }
-    the_three_park_commission = {
+    # the_three_park_commission 
+    chicagoan_idea_7 = {
                 religious_unity = 2
     }
    }
