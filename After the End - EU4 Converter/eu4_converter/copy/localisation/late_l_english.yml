@@ -883,7 +883,7 @@
  ceilidh_and_seanachas:0 "Céilidh and Seanachas"
  ceilidh_and_seanachas_desc:0 "The Céilidh, informal gatherings among families, are occasion for long sessions of storytelling. It is here that the Seanachas, the oral history of the Maritimer peoples, are passed down from old to young, passing down the memories of those who have long since departed for Fiddler’s Green."
  tagalog_ideas: “Tagalog Ideas”
- tagalog_start: “Tagalog Traditions"
+ tagalog_ideas_start: “Tagalog Traditions"
  tagalog_ideas_bonus: “Tagalog Ambitions"
  kalakalang_galyon_ng_maynila: “Kalakalang Galyon ng Maynila”
  kalakalang_galyon_ng_maynila_desc: “Much like the Spaniards before us we bartered the valued exotics of the orient to the ports of wealthy nations.”
@@ -899,3 +899,20 @@
  re-settle_the_islands_desc: “In order to build solidarity with the native tribes we sent our eager and hungry to work the land with them so it can be as productive as the days before the calamity.“
  saligang-batas: “Saligang-Batas”
  saligang-batas_desc: “The ruling decree ordained by the first president as written in its sacred pages details the rights of its citizens, the judicial powers of the states and its supremacy beyond its borders.“
+ chicagoan_ideas: “Chicagoan Ideas”
+ chicagoan_ideas_start: “Chicagoan Traditions"
+ chicagoan_ideas_bonus: “Chicagoan Ambitions"
+ chicagoan_idea_1: “The Great Bastion”
+ chicagoan_idea_1_desc: “For centuries we held the heathens at bay atop the mighty walls of Chicago built along the hulk of the city’s ancient spires.”
+ chicagoan_idea_2: “Steamboat Diplomacy”
+ chicagoan_idea_2_desc: “To ensure our independence we sent emissaries along the Mississippi river in hopes of securing powerful allies.“
+ chicagoan_idea_3: “Sénéchaussée des Chicago"
+ chicagoan_idea_3_desc: “The noble houses may bicker amongst themselves but when it is The Heart of America herself that is threatened they raised their arms to defend the Windy City.”
+ chicagoan_idea_4: “Chicago Stock Exchange”
+ chicagoan_idea_4_desc: “Our trade flourished as the merchants discussed their deals within the gardens of Chicago.“
+ chicagoan_idea_5: “Devout Christians”
+ chicagoan_Idea_5_desc: “Even before the calamity the city itself is home to the adherents of christ and his teachings.”
+ chicagoan_idea_6: “Urbs in Horto”
+ chicagoan_idea_6_desc: “We can never have to look far in terms of talent as long as the great gardens attract the best and brightest minds the lakes has to offer.“
+ chicagoan_idea_7: “Three Park Commission”
+ chicagoan_idea_7_desc: “Chicago is known for its significance from the many faiths throughout the Great Lakes. By ensuring their safe passage and their rites do we maintain cohesion with its peoples.“
