@@ -496,3 +496,44 @@ pacific_northwest_ideas = {	#From Vanilla
 	
 }
 
+tagalog_ideas = {
+    start = {
+        global_sailors_modifier = 0.20
+        hostile_attrition = 1
+    }
+    bonus = {
+            diplomatic_reputation = 2
+            }
+
+    trigger = {
+        tag = MNL
+        tag = DAV
+     }
+    }
+
+    free = yes
+
+    kalakalang_galyon_ng_maynila = {
+        global_own_trade_power = 0.10
+    }
+    taga-ilog = {
+        global_trade_goods_size_modifier = 0.20
+    }
+    pag-a-anito = {
+        tolerance_own = 2
+    }
+    balangay_flotilla = {
+        navy_tradition_decay = -0.02
+        transport_power = 0.33
+    }
+    pearl_of_the_orient_seas = {
+        prestige = 1
+    }
+    re-settle_the_islands = {
+        colonist = 1
+    }
+    saligang_batas = {
+        republican_tradition = 0.5
+        legitimacy = 1
+        devotion = 1
+    }
