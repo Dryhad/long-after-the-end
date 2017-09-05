@@ -139,9 +139,10 @@ tagalog_ideas = {
             }
 
     trigger = {
-        tag = MNL
-        tag = DAV
-     }
+		OR = {
+			tag = MNL
+			tag = DAV
+		}
     }
 
     free = yes
