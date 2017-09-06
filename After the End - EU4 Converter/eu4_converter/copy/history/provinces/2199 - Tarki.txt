@@ -1,6 +1,5 @@
 #2031 - Tarki
 
-=
 capital = "Tarku"
 trade_goods = unknown
 hre = no

@@ -1,6 +1,6 @@
 #1100 - Mahe
 
-culture = malagasy
+culture = madagasque
 religion = brethren
 capital = "Mahe"
 trade_goods = unknown

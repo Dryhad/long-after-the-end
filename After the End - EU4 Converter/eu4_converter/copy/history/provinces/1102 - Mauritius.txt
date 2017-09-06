@@ -1,6 +1,6 @@
 #1102 - Mauritius
 
-culture = malagasy
+culture = madagasque
 religion = hinduism
 capital = "Mauritius"
 trade_goods = unknown
