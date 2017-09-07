@@ -10,8 +10,8 @@ capital = "Mantrega"
 is_city = no
 
 add_core = UNF
-controller = UNF
 owner = UNF
+controller = UNF
 culture = russian
 religion = atomicist
 

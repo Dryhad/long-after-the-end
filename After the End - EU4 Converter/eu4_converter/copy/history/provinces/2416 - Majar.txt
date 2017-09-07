@@ -11,8 +11,8 @@ capital = "Majar"
 is_city = no
 
 add_core = REP
-controller = REP
 owner = REP
+controller = REP
 culture = russian
 religion = atomicist
 

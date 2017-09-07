@@ -11,8 +11,8 @@ native_ferocity = 1
 native_hostileness = 2
 
 add_core = UNF
-controller = UNF
 owner = UNF
+controller = UNF
 culture = russian
 religion = atomicist
 

@@ -9,8 +9,8 @@ base_production = 2
 base_manpower = 2
 is_city = no
 add_core = ARZ
-controller = ARZ
 owner = ARZ
+controller = ARZ
 culture = russian
 religion = atomicist
 

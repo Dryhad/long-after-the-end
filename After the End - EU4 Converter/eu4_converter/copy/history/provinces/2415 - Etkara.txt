@@ -9,8 +9,8 @@ base_manpower = 1
 capital = "Etkara"
 is_city = no
 add_core= OBR
-controller = OBR
 owner = OBR
+controller = OBR
 culture = russian
 religion = atomicist
 

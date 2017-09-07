@@ -9,8 +9,8 @@ base_manpower = 1
 capital = "Stavropol"
 is_city = no
 add_core = UNF
-controller = UNF
 owner = UNF
+controller = UNF
 culture = russian
 religion = atomicist
 

@@ -11,8 +11,8 @@ is_city = no
 #add_core= CRI
 
 add_core = UNF
-controller = UNF
 owner = UNF
+controller = UNF
 culture = russian
 religion = atomicist
 

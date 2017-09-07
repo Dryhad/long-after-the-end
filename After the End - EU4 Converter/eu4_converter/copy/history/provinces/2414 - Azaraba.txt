@@ -1,8 +1,8 @@
 #2414 - Azaraba
 
 add_core = ATG
-controller = ATG
 owner = ATG
+controller = ATG
 culture = russian
 religion = atomicist
 hre = no

@@ -12,8 +12,8 @@ culture = bavarian
 religion = matrem
 hre = no
 add_core = TSE
-controller = TSE
 owner = TSE
+controller = TSE
 discovered_by = indian
 
 

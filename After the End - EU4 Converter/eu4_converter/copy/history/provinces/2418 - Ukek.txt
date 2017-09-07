@@ -12,8 +12,8 @@ base_manpower = 3
 capital = "Ukek"
 is_city = yes
 add_core = KLC
-controller = KLC
 owner = KLC
+controller = KLC
 
 
 

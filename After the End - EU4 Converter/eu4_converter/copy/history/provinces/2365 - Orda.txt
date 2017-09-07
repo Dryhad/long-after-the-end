@@ -10,8 +10,8 @@ base_production = 1
 base_manpower = 1
 is_city = no
 add_core = KLC
-controller = KLC
 owner = KLC
+controller = KLC
 culture = russian
 religion = atomicist
 

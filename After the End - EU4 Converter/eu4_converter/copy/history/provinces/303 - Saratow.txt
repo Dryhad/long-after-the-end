@@ -9,8 +9,8 @@ base_manpower = 1
 capital = "Ukek"
 is_city = no
 add_core = KLC
-controller = KLC
 owner = KLC
+controller = KLC
 culture = russian
 religion = atomicist
 

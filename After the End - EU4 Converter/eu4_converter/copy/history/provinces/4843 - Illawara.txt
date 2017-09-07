@@ -1,6 +1,6 @@
 add_core = AUS
-controller = AUS
 owner = AUS
+controller = AUS
 
 culture = strayan
 religion = animism 

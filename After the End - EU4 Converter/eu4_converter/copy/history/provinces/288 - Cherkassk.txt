@@ -1,8 +1,8 @@
 #288 - Cherkassk
 
 add_core = ATG
-controller = ATG
 owner = ATG
+controller = ATG
 culture = russian
 religion = atomicist
 hre = no

@@ -11,8 +11,8 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 add_core = TSE
-controller = TSE
 owner = TSE
+controller = TSE
 discovered_by = indian
 
 
