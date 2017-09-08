@@ -447,6 +447,6 @@ chicagoan_ideas = {
     }
     # the_three_park_commission 
     chicagoan_idea_7 = {
-                religious_unity = 2
+                religious_unity = 0.2
     }
 }
