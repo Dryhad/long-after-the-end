@@ -1,8 +1,8 @@
 #979 - Aleut
 
-owner = NRU
-controller = NRU
-add_core = NRU
+owner = NRA
+controller = NRA
+add_core = NRA
 culture = novorusskiy
 religion = atomicist
 capital = "Aleut"
@@ -21,3 +21,4 @@ is_city = yes
 discovered_by = western
 discovered_by = eastern
 discovered_by = NRU
+discovered_by = NRA
