@@ -164,7 +164,7 @@ tagalog_ideas = {
         prestige = 1
     }
     re-settle_the_islands = {
-        colonist = 1
+        colonists = 1
     }
     saligang_batas = {
         republican_tradition = 0.5
