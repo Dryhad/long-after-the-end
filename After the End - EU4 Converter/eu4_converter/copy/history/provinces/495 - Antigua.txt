@@ -16,8 +16,8 @@ discovered_by = ARW
 
 
 
-# = { discovered_by = CAS } # Christopher Columbus
-# = { discovered_by = SPA }
+# = { discovered_by = CAS  # Christopher Columbus
+# = { discovered_by = SPA 
 
 # = {
 	#owner = ENG
@@ -28,13 +28,15 @@ discovered_by = ARW
 	culture = english 
 	is_city = no
 	trade_goods = unknown
-} # The first English settlers arrived
+ # The first English settlers arrived
 # = {
 	#discovered_by = GBR
 	#owner = GBR
 	#controller = GBR
 	#add_core= GBR
 	remove_core = ENG
-}
-# = { unrest = 3 } # Slave uprising
-# = { unrest = 0 } # The plot was discovered and put down
+
+# = { unrest = 3  # Slave uprising
+# = { unrest = 0  # The plot was discovered and put down
+
+discovered_by = GBR

@@ -30,6 +30,8 @@ discovered_by = nomad_group
 	culture = cosmopolitan_french
 	trade_goods = unknown
 	religion = catholic
-}
-# = { discovered_by = GBR }
-# = { #owner = GBR #controller = GBR #add_core= GBR remove_core = FRA }
+
+# = { discovered_by = GBR 
+# = { #owner = GBR #controller = GBR #add_core= GBR remove_core = FRA 
+
+discovered_by = GBR

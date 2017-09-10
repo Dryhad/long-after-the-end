@@ -16,8 +16,8 @@ discovered_by = ARW
 
 
 
-# = { discovered_by = CAS } # Juan de la Cosa
-# = { discovered_by = SPA }
+# = { discovered_by = CAS  # Juan de la Cosa
+# = { discovered_by = SPA 
 
 # = {
 	#owner = ENG
@@ -27,9 +27,9 @@ discovered_by = ARW
 	religion = reformed
 	is_city = no
 	trade_goods = unknown
-} # English settlers began to arrive, but met fierce resistance
-# = { #add_core= ENG }
-# = { capital = "Castries" }
+ # English settlers began to arrive, but met fierce resistance
+# = { #add_core= ENG 
+# = { capital = "Castries" 
 # = {
 	#owner = FRA 
 	#controller = FRA
@@ -37,10 +37,12 @@ discovered_by = ARW
 	remove_core = ENG
 	culture = cosmopolitan_french
 	religion = catholic
-} # The French's turn to attempt colonization
+ # The French's turn to attempt colonization
 # = {
 	#owner = GBR
 	#controller = GBR
 	#add_core= GBR
 	remove_core = FRA
-} # The Treaty of Paris
+ # The Treaty of Paris
+
+discovered_by = GBR

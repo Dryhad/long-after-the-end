@@ -13,8 +13,8 @@ native_hostileness = 0
 
 
 
-# = { discovered_by = CAS } # Possibly later, Juan de Bermudez
-# = { discovered_by = SPA }
+# = { discovered_by = CAS  # Possibly later, Juan de Bermudez
+# = { discovered_by = SPA 
 
 # = {
 	#discovered_by = ENG
@@ -23,12 +23,14 @@ native_hostileness = 0
 	#add_core= ENG
 	culture = english
 	religion = protestant
-} # English colonists
-# = { capital = "St. George" } 
+ # English colonists
+# = { capital = "St. George"  
 # = { is_city = no trade_goods = unknown
 # = {
 	#owner = GBR
 	#controller = GBR
 	#add_core= GBR
 	remove_core = ENG
-}
+
+
+discovered_by = GBR

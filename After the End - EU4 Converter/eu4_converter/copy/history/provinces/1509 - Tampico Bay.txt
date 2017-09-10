@@ -3,9 +3,10 @@ discovered_by = eastern
 discovered_by = muslim 
 discovered_by = ottoman
 discovered_by =  mesoamerican
-# = { discovered_by = SPA }
+# = { discovered_by = SPA 
 
 
 native_size = 5
 native_ferocity = 1
 native_hostileness = 3
+discovered_by = GBR

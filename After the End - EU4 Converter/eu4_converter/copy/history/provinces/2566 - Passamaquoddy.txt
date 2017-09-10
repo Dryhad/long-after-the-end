@@ -20,8 +20,8 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = nomad_group
 
-# = { discovered_by = FRA } # Samuel de Champlain
-# = { discovered_by = ENG } # George Waymouth
+# = { discovered_by = FRA  # Samuel de Champlain
+# = { discovered_by = ENG  # George Waymouth
 
 # = {
 	#owner = FRA
@@ -31,7 +31,7 @@ discovered_by = nomad_group
 	culture = cosmopolitan_french
 	trade_goods = unknown
 	religion = catholic
-} # French influence in the region, Fort Pentagouet, first trading posts
+ # French influence in the region, Fort Pentagouet, first trading posts
 # = {
 	#owner = ENG
 	#controller = ENG
@@ -39,7 +39,7 @@ discovered_by = nomad_group
 	remove_core = FRA
 	culture = english
 	religion = protestant 
-} #Captured by New England settlers
+ #Captured by New England settlers
 # = {
 	#owner = FRA
 	#controller = FRA
@@ -47,7 +47,7 @@ discovered_by = nomad_group
 	remove_core = ENG
 	culture = cosmopolitan_french
 	religion = catholic
-} # Treaty of St. Germain-en-Layne, handed back to the French
+ # Treaty of St. Germain-en-Layne, handed back to the French
 # = {
 	#owner = ENG
 	#controller = ENG
@@ -55,7 +55,7 @@ discovered_by = nomad_group
 	remove_core = FRA
 	culture = english
 	religion = protestant 
-} #Captured by New England settlers (again)
+ #Captured by New England settlers (again)
 # = {
 	#owner = FRA
 	#controller = FRA
@@ -63,7 +63,7 @@ discovered_by = nomad_group
 	remove_core = ENG
 	culture = cosmopolitan_french
 	religion = catholic
-} # Treaty, handed back to the French (again, again)
+ # Treaty, handed back to the French (again, again)
  #Capital of French Acadia
 # = {
 	#owner = NED
@@ -72,7 +72,7 @@ discovered_by = nomad_group
 	remove_core = FRA
 	culture = dutch
 	religion = reformed 
-} #To the Dutch
+ #To the Dutch
 # = {
 	#owner = FRA
 	#controller = FRA
@@ -80,21 +80,21 @@ discovered_by = nomad_group
 	remove_core = NED
 	culture = cosmopolitan_french
 	religion = catholic
-} # Back to the French for the third time.
+ # Back to the French for the third time.
 # = {
 	#owner = ABE
 	#controller = ABE
 	#add_core= ABE
 	remove_core = FRA
 	culture = abenaki 
-} #Abandoned after another English raid
-# = { discovered_by = GBR } 
+ #Abandoned after another English raid
+# = { discovered_by = GBR  
 # = {
 	#owner = XXX
 	#controller = XXX
 	remove_core = ABE
 	is_city = no 
-} #Decline of the New England Abenakis in the wake of Father Rale's War
+ #Decline of the New England Abenakis in the wake of Father Rale's War
 # = {
 	#owner = GBR
 	#controller = GBR
@@ -102,11 +102,12 @@ discovered_by = nomad_group
 	is_city = no
 	culture = american
 	religion = protestant 
-} #Founding of Machias
+ #Founding of Machias
 # = {
 	#owner = USA
 	#controller = USA
 	#add_core= USA
 	remove_core = GBR
-} # Declaration of independence
-# = { unrest = 0 } # Preliminary articles of peace, the British recognized American independence
+ # Declaration of independence
+# = { unrest = 0  # Preliminary articles of peace, the British recognized American independence
+discovered_by = GBR

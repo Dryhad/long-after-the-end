@@ -27,18 +27,18 @@ discovered_by = nomad_group
 	#add_core= HUR
 	is_city = no
 	trade_goods = unknown
-} #Huron escape to the Erie and form alliance
+ #Huron escape to the Erie and form alliance
 # = {
  	#owner = IRO
 	#controller = IRO
 	#add_core= IRO
 	culture = iroquois 
-} #Taken by Iroquois in Beaver Wars.
+ #Taken by Iroquois in Beaver Wars.
 
 
 
-# = { discovered_by = FRA }
-# = { discovered_by = GBR }
+# = { discovered_by = FRA 
+# = { discovered_by = GBR 
 
 # = {
 	#owner = FRA
@@ -46,7 +46,7 @@ discovered_by = nomad_group
 	#add_core= FRA
 	culture = cosmopolitan_french
 	religion = catholic 
-} #Fort Presqu'Isle
+ #Fort Presqu'Isle
 # = {
 	#owner = GBR
 	#controller = GBR
@@ -54,7 +54,7 @@ discovered_by = nomad_group
 	remove_core = FRA
 	culture = english
 	religion = protestant
-} # Treaty of Paris - ceded to Britain, France gave up its claim
+ # Treaty of Paris - ceded to Britain, France gave up its claim
 # = {
 	#owner = IRO
 	#controller = IRO
@@ -63,13 +63,15 @@ discovered_by = nomad_group
 	is_city = no
 	culture = iroquois
 	religion = totemism
-} # Royal proclamation, Britan recognize native lands (as protectorates)
+ # Royal proclamation, Britan recognize native lands (as protectorates)
 # = {
 	#owner = USA
 	#controller = USA
 	#add_core= USA
 	culture = american
 	religion = protestant 
-} #Second Treaty of Fort Stanwix, Iroquois confederacy no longer dominant
-# = { unrest = 5 }	# Whiskey rebellion, opposition to federal taxation
-# = { unrest = 0 } # The revolt is suppressed
+ #Second Treaty of Fort Stanwix, Iroquois confederacy no longer dominant
+# = { unrest = 5 	# Whiskey rebellion, opposition to federal taxation
+# = { unrest = 0  # The revolt is suppressed
+
+discovered_by = GBR

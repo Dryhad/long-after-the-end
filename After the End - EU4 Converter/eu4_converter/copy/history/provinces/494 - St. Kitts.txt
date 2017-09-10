@@ -16,8 +16,8 @@ discovered_by = ARW
 
 
 
-# = { discovered_by = CAS } # Christopher Columbus
-# = { discovered_by = SPA }
+# = { discovered_by = CAS  # Christopher Columbus
+# = { discovered_by = SPA 
 
 # = {
 	#owner = FRA
@@ -27,8 +27,8 @@ discovered_by = ARW
 	religion = catholic
 	is_city = no
 	trade_goods = unknown
-} # Eventually inhabited by both French and English
-# = { capital = "Basseterre" } # The territory went back & forth between the two, Basseterre was founded by the French
+ # Eventually inhabited by both French and English
+# = { capital = "Basseterre"  # The territory went back & forth between the two, Basseterre was founded by the French
 # = {
 	#owner = GBR
 	#controller = GBR
@@ -36,4 +36,6 @@ discovered_by = ARW
 	remove_core = FRA
 	religion = protestant
 	culture = english
-} # Treaty of Utrecht
+ # Treaty of Utrecht
+
+discovered_by = GBR

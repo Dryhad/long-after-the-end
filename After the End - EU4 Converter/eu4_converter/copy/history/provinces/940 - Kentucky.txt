@@ -27,37 +27,38 @@ discovered_by = nomad_group
 	#add_core= SHA
 	is_city = no
 	trade_goods = unknown
-} #Extent of the Shawnee at start of the Beaver Wars
-# = { discovered_by = ENG } # Abraham Wood
+ #Extent of the Shawnee at start of the Beaver Wars
+# = { discovered_by = ENG  # Abraham Wood
 # = {
 	#owner = IRO
 	#controller = IRO
 	culture = iroquois
-} #Taken by Iroquois in Beaver Wars.
-# = { discovered_by = FRA } # Robert Cavelier de La Salle
+ #Taken by Iroquois in Beaver Wars.
+# = { discovered_by = FRA  # Robert Cavelier de La Salle
 # = {
 	#owner = XXX
 	#controller = XXX
 	is_city = no
 	culture = shawnee
-} #Vast areas left deserted after the Beaver Wars and the Iroquois withdrawal
-# = { discovered_by = GBR }
+ #Vast areas left deserted after the Beaver Wars and the Iroquois withdrawal
+# = { discovered_by = GBR 
 # = {
 	#owner = SHA
 	#controller = SHA
 	#add_core= SHA
 	is_city = no
-} #return of the Shawnee
+ #return of the Shawnee
 # = {
 	#owner = GBR
 	#controller = GBR
 	#add_core= GBR
 	culture = american
 	religion = protestant
-} #Treaty of Camp Charlotte, becomes part of Virginia
+ #Treaty of Camp Charlotte, becomes part of Virginia
 # = {
 	#owner = USA
 	#controller = USA
 	#add_core= USA
 	remove_core = GBR
-} #Then part of Virginia, one of the thirteen colonies.
+ #Then part of Virginia, one of the thirteen colonies.
+discovered_by = GBR

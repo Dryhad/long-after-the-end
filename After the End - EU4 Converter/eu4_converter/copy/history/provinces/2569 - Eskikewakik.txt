@@ -21,7 +21,7 @@ discovered_by = ottoman
 discovered_by = nomad_group
 
 
-# = { discovered_by = FRA }# Jacques Cartier
+# = { discovered_by = FRA # Jacques Cartier
 
 # = {
 	#owner = FRA
@@ -31,12 +31,14 @@ discovered_by = nomad_group
 	culture = cosmopolitan_french
 	religion = catholic
 	trade_goods = unknown
-} # Shippagan
-# = { #add_core= FRA }
-# = { #controller = GBR } # Queen Anne's war
+ # Shippagan
+# = { #add_core= FRA 
+# = { #controller = GBR  # Queen Anne's war
 # = {
 	#owner = GBR
 	#add_core= GBR
 	remove_core = FRA
-} # Treaty of Utrecht
-# = { culture = english religion = protestant } #British forcibly remove Acadians
+ # Treaty of Utrecht
+# = { culture = english religion = protestant  #British forcibly remove Acadians
+
+discovered_by = GBR

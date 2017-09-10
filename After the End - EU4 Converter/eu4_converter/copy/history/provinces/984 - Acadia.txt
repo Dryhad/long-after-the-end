@@ -20,7 +20,7 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = nomad_group
 
-# = { discovered_by = FRA }# Jacques Cartier
+# = { discovered_by = FRA # Jacques Cartier
 
 # = {
 	#owner = FRA
@@ -30,7 +30,7 @@ discovered_by = nomad_group
 	culture = cosmopolitan_french
 	religion = catholic
 	trade_goods = unknown
-} # Port Royal
+ # Port Royal
 # = {
 	#owner = ENG
 	#controller = ENG
@@ -38,24 +38,26 @@ discovered_by = nomad_group
 	remove_core = FRA
 	culture = english
 	religion = protestant
-} # Taken by the troops of Samuel Argall
-# = { fort_16th = yes }
+ # Taken by the troops of Samuel Argall
+# = { fort_16th = yes 
 # = {	#owner = FRA
 	#controller = FRA
 	#add_core= FRA
 	remove_core = ENG
 	culture = cosmopolitan_french
 	religion = catholic
-} # Treaty of St. Germain-en-Layne, handed back to the French
-# = { #controller = ENG } # King William's war
-# = { #controller = FRA } # Treaty of Ryswick
-# = { fort_16th = no fort_17th = yes }
-# = { discovered_by = GBR } 
-# = { #controller = GBR } # Queen Anne's war
+ # Treaty of St. Germain-en-Layne, handed back to the French
+# = { #controller = ENG  # King William's war
+# = { #controller = FRA  # Treaty of Ryswick
+# = { fort_16th = no fort_17th = yes 
+# = { discovered_by = GBR  
+# = { #controller = GBR  # Queen Anne's war
 # = {
 	#owner = GBR
 	#add_core= GBR
 	remove_core = FRA
-} # Treaty of Utrecht
-# = { culture = english religion = protestant } #British forcibly remove Acadians
+ # Treaty of Utrecht
+# = { culture = english religion = protestant  #British forcibly remove Acadians
 
+
+discovered_by = GBR

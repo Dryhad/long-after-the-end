@@ -27,23 +27,23 @@ discovered_by = nomad_group
 	##= MMI
 	is_city = no
 	trade_goods = unknown
-} #Extent of the Miami around the start of the Beaver Wars
-# = { discovered_by = FRA } # Médard Chouart Des Groseilliers
-# = { discovered_by = ENG }
+ #Extent of the Miami around the start of the Beaver Wars
+# = { discovered_by = FRA  # Médard Chouart Des Groseilliers
+# = { discovered_by = ENG 
 # = {
  	## = IRO
 	## = IRO
 	##= IRO
 	culture = iroquois 
-} #Taken by Iroquois in Beaver Wars.
+ #Taken by Iroquois in Beaver Wars.
 # = {
 	## = XXX
 	## = XXX
 	# = IRO
 	is_city = no
 	culture = illini 
-} #Vast areas left deserted after the Beaver Wars and the Iroquois withdrawal
-# = { discovered_by = GBR }
+ #Vast areas left deserted after the Beaver Wars and the Iroquois withdrawal
+# = { discovered_by = GBR 
 # = {
 	## = FRA
 	## = FRA
@@ -51,7 +51,7 @@ discovered_by = nomad_group
 	is_city = no
 	culture = cosmopolitan_french
 	religion = catholic 
-} #French settlement at Vincennes (really across the river in Wea, represented here for gameplay reasons)
+ #French settlement at Vincennes (really across the river in Wea, represented here for gameplay reasons)
 # = {
 	#discovered_by = GBR
 	## = GBR
@@ -60,7 +60,7 @@ discovered_by = nomad_group
 	# = FRA
 	culture = english
 	religion = protestant
-} # Treaty of Paris, France gave up its claim to New France.
+ # Treaty of Paris, France gave up its claim to New France.
 ## Royal proclamation, but Illinois country colonies in a gray zone
 # = {
 	## = USA
@@ -68,9 +68,10 @@ discovered_by = nomad_group
 	##= USA
 	# = GBR
 	culture = american
-} # Americans capture Kaskaskia; Illinois country french join the revolt.
+ # Americans capture Kaskaskia; Illinois country french join the revolt.
 
 
 native_size = 5
 native_ferocity = 1
 native_hostileness = 3
+discovered_by = GBR
