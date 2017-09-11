@@ -173,6 +173,48 @@ tagalog_ideas = {
     }
 }
 
+nys_ideas = {		#New Yorker Ideas
+    start = {
+        global_trade_power = 0.20
+        trade_steering = 0.25 
+    }
+    bonus = {
+            merchants = 1 
+            }
+
+    trigger = {
+		tag = NYS
+    }
+
+    free = yes
+
+    nys_idea_1 = {
+        republican_tradition = 0.5
+        legitimacy = 1
+        devotion = 1
+    }
+    nys_idea_2 = {
+        num_accepted_cultures = 2 
+    }
+    nys_idea_3 = {
+        local_development_cost = -0.15
+    }
+    nys_idea_4 = {
+        global_unrest = -1
+    }
+    nys_idea_5 = {
+        prestige = 1
+		diplomatic_reputation = 1
+    }
+    nys_idea_6 = {
+        trade_range_modifier = 0.25
+		light_ship_cost = -0.20
+    }
+    nys_idea_7 = {
+        core_creation = -0.20
+    }
+}
+
 ### Group Ideas ###
 maritimer_ideas = {
 	start = {
@@ -286,15 +328,17 @@ mormon_ideas = {
 		colonists = 1
 	}
 }
-deitsch_ideas = {
+deitsch_ideas = {		#Expanded to apply to all Anabaptists
 	start = {
 		tolerance_heathen = 2
 		tolerance_heretic = 2
 	}
 	bonus = { num_accepted_cultures = 2 }
 	trigger = {
-		religion = anabaptist
-		primary_culture = deitsch
+		OR = {
+			religion = anabaptist
+			primary_culture = deitsch		
+		}
 	}
 	free = yes
 
@@ -448,5 +492,51 @@ chicagoan_ideas = {
     # the_three_park_commission 
     chicagoan_idea_7 = {
                 religious_unity = 0.2
+    }
+}
+pirate_ideas = {
+	start = {
+            may_perform_slave_raid = yes
+            privateer_efficiency = 0.30
+    }
+    bonus = {
+		heavy_ship_cost = -0.25
+	}
+
+    trigger = {
+         religion = brethren
+     }
+    
+    free = yes
+
+    # Floating Cities
+    pirate_idea_1 = {
+		naval_forcelimit = 0.3
+    }
+    # The Tale of Black Bart
+    pirate_idea_2 = {
+		capture_ship_chance = 0.2
+		naval_maintenance_modifier = -0.25
+    }
+    # Yo Ho, a Pirate's Life for Me!
+    pirate_idea_3 = {
+		global_sailors_modifier = 0.25
+    }
+    # Black Blockades
+    pirate_idea_4 = {
+		blockade_efficiency = 0.3
+    }
+    # Black Sails in the Night
+    pirate_idea_5 = {
+		leader_naval_manuever = 1
+    }
+    # A Belly Full'O Grog
+    pirate_idea_6 = {
+		naval_morale = 0.25
+    }
+    # The Promise of Booty
+    pirate_idea_7 = {
+		sunk_ship_morale_hit_recieved = -0.2
+		prestige_from_naval = 0.20
     }
 }

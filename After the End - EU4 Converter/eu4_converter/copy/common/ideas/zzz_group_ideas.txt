@@ -16,6 +16,8 @@ pacific_northwest_ideas = {	#From Vanilla
 			primary_culture = cascadian
 			primary_culture = canuck
 			primary_culture = portlander
+			primary_culture = salish
+			primary_culture = haida
 		}
 		religion = raven_tales
 	}
