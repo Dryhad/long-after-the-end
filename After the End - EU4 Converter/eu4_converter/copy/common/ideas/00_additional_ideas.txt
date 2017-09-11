@@ -378,6 +378,9 @@ californian_ideas = {
 			culture_group = californian
 			tag = CAL
 		}
+		NOT = {
+			religion = brethren
+		}
 	}
 	free = yes
 
