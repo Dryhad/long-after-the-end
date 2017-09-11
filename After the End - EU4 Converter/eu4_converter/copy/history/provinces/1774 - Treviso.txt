@@ -13,7 +13,8 @@ is_city = no	# Estimated
 fort_15th = yes
 
 
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
 discovered_by = indian
 
 native_size = 5

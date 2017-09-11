@@ -13,8 +13,10 @@ capital = "Velikiye Luki"
 is_city = no
 #add_core= NOV
 fort_15th = yes
-discovered_by = high_american
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
+discovered_by = high_american 
+discovered_by = RED
 #discovered_by = nomad_group
 
 

@@ -10,7 +10,8 @@ base_manpower = 1
 capital = "Norrköping"
 estate = estate_nobles
 is_city = no # Estimated
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
 discovered_by = indian
 
 

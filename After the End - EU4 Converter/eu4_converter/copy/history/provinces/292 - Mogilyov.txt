@@ -13,8 +13,10 @@ capital = "Mogilyov"
 is_city = no
 #add_core= LIT
 #add_core= PLT
-discovered_by = high_american
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
+discovered_by = high_american 
+discovered_by = RED
 #discovered_by = nomad_group
 
 # = {

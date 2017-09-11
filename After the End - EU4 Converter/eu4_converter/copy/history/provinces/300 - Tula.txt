@@ -16,8 +16,10 @@ capital = "Tula"
 
 
 
-discovered_by = high_american
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
+discovered_by = high_american 
+discovered_by = RED
 discovered_by = GOL
 discovered_by = KAZ
 

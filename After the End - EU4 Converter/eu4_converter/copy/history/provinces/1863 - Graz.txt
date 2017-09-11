@@ -13,7 +13,8 @@ base_manpower = 1
 capital = "Graz" 
 is_city = no
 hre = no
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
 discovered_by = indian
 
 

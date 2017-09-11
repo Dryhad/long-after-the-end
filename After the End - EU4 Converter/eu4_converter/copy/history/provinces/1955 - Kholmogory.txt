@@ -11,7 +11,8 @@ trade_goods = unknown
 base_manpower = 1
 capital = "Archangelsk"
 is_city = no
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
 extra_cost = 15
 
 

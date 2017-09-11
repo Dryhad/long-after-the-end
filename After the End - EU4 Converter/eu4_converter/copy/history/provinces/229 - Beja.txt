@@ -12,10 +12,12 @@ base_production = 1
 base_manpower = 1
 is_city = no
 #add_core= POR
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
 discovered_by = indian
 discovered_by = indian
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
 
 
 # = { unrest = 8 } # Revolt headed by John of Bragança

@@ -12,7 +12,8 @@ capital = "München"
 is_city = yes
 hre = no
 fort_15th = yes
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
 discovered_by = indian
 
 native_size = 5

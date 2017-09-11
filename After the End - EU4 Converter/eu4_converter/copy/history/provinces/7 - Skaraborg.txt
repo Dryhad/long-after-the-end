@@ -10,7 +10,8 @@ base_manpower = 1
 capital = "Göteborg"
 is_city = no
  #"Domkyrkan i Skara"
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
 discovered_by = indian
 
 

@@ -16,10 +16,12 @@ estate = estate_church #Braga
 
 
 
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
 discovered_by = indian
 discovered_by = indian
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
 
 extra_cost = 10
 

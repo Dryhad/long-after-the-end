@@ -15,7 +15,8 @@ add_core= BIZ
 
 
 
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
 discovered_by = indian
 
 

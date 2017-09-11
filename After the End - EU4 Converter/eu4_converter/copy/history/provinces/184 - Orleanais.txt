@@ -15,8 +15,10 @@ base_manpower = 1
 add_local_autonomy = 10
 #add_core= ORL
 #add_core= FRA
-discovered_by = high_american
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
+discovered_by = high_american 
+discovered_by = RED
 discovered_by = indian
 discovered_by = indian
 

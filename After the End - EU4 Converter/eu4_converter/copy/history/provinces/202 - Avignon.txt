@@ -18,8 +18,10 @@ fort_15th = yes # Le Palais des Papes is super strong, and built on and beneath 
 
 
 
-discovered_by = high_american
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
+discovered_by = high_american 
+discovered_by = RED
 discovered_by = indian
 discovered_by = indian
 
