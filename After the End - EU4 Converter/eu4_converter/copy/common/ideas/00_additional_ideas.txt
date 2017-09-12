@@ -166,7 +166,7 @@ tagalog_ideas = {
     re-settle_the_islands = {
         colonists = 1
     }
-    saligang_batas = {
+    saligang-batas = {
         republican_tradition = 0.5
         legitimacy = 1
         devotion = 1
