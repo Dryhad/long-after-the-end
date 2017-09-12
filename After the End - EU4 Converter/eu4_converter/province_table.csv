@@ -2093,19 +2093,18 @@ c_winston;4681;4681 - Winston;Winston - Winston
 
 # Uppland
 
-c_greenbo;4711;4711 - Cumberland;Greenbo - Cumberland
-c_buckhorn;4711;4711 - Cumberland;Buckhorn - Cumberland
-
-c_blue_licks;2526;2526 - Shatteras;Blue Licks - Shatteras
-c_covington;2526;2526 - Shatteras;Covington - Shatteras
+c_greenbo;2526;2526 - Shatteras;Greenbo - Buckhorn
+c_buckhorn;2526;2526 - Shatteras;Buckhorn - Buckhorn
 
 c_corbin;941;941 - Cumberland;Corbin - Cumberland
-c_transylvania;941;941 - Cumberland;Transylvania - Cumberland
-c_old_bourbon;941;941 - Cumberland;Old Bourbon - Cumberland
-c_mammoth;4708;4708 - Mammoth;Mammoth - Mammoth
-c_wolf_creek;4708;4708 - Mammoth;Wolf Creek - Mammoth
+
+c_transylvania;4711;4711 - Covington;Transylvania - Covington
+c_blue_licks;4711;4711 - Covington;Blue Licks - Covington
+c_covington;4711;4711 - Covington;Covington - Covington
+
 
 c_hoosier;4573;4573 - Kentuckiana;Hoosier - Kentuckiana
+
 c_versailles;2524;2524 - Wabash;Versailles - Wabash
 
 c_evansville;2523;2523 - Piankeshaw;Evansville - Piankeshaw
@@ -2118,26 +2117,30 @@ c_mount_vernon;2520;2520 - Mengkonkia;Mount Vernon - Mengkonkia
 
 c_effingham;4706;4706 - Effingham;Effingham - Effingham
 
-c_louisville;4707;4707 - Rough River;Louisville - Rough River
-c_rough_river;4707;4707 - Rough River;Rough River - Rough River
+c_louisville;4707;4707 - Louisville;Louisville - Louisville
+c_old_bourbon;4707;4707 - Louisville;Old Bourbon - Louisville
 
-c_owensboro;940;940 - Kentucky;Owensboro - Kentucky
-c_mineral_mound;940;940 - Kentucky;Mineral Mound - Kentucky
+c_mammoth;4708;4708 - Mammoth;Mammoth - Mammoth
+c_wolf_creek;4708;4708 - Mammoth;Wolf Creek - Mammoth
+c_rough_river;4708;4708 - Mammoth;Rough River - Mammoth
 
-c_the_purchase;939;939 - Pennyrile;The Purchase - Pennyrile
+c_owensboro;940;940 - Pennyrile;Owensboro - Pennyrile
+c_mineral_mound;940;940 - Pennyrile;Mineral Mound - Pennyrile
+c_the_purchase;940;940 - Pennyrile;The Purchase - Pennyrile
 
+c_cheatham;4709;4709 - Nashville;Cheatham - Nashville
 c_nashville;4709;4709 - Nashville;Nashville - Nashville
-c_carthage;4709;4709 - Nashville;Carthage - Nashville
 
-c_cheatham;934;934 - Shawnee;Cheatham - Shawnee
+c_murfreesboro;2527;2527 - Chickamauga;Murfreesboro - Murfreesboro
+c_carthage;527;2527 - Chickamauga;Carthage - Murfreesboro
 
-c_murfreesboro;2527;2527 - Chickamauga;Murfreesboro - Chickamauga
-c_tullahoma;2527;2527 - Chickamauga;Tullahoma - Chickamauga
+c_tullahoma;934;934 - Shawnee;Tullahoma - Tullahoma
 
-d_west_tennessee;918;918 - Tennessee;West Tennessee - Tennessee
-c_reelfoot;918;918 - Tennessee;Reelfoot - Tennessee
+d_west_tennessee;918;918 - Tennessee;West Tennessee - Memphis
 c_memphis;918;918 - Tennessee;Memphis - Tennessee
 c_forked_deer;918;918 - Tennessee;Forked Deer - Tennessee
+
+c_reelfoot;939;939 - Reelfoot;Reelfoot - Reelfoot
 
 # Carolina
 

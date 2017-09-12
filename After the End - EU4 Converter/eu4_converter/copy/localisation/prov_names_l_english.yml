@@ -916,7 +916,7 @@
  PROV915:0 "Chicagoland"	#Was Illinois
  PROV916:0 "Illinois" #Was Kaskaskia
  PROV917:0 "Forgottonia"	#Was Cahokia
- PROV918:0 "Tennessee"
+ PROV918:0 "Memphis"		#Was Tennessee
  PROV919:0 "Chickasaw"
  PROV920:0 "Choctaw"
  PROV921:0 "Baton Rouge" #Was Bayougoula
@@ -932,14 +932,14 @@
  PROV931:0 "Peachtree" #Was Coosa
  PROV932:0 "Charleston"		#Was Santee
  PROV933:0 "Catawba"
- PROV934:0 "Nashborough" #Was Yuchi
+ PROV934:0 "Tullahoma" #Was Yuchi
  PROV935:0 "Watauga" #Was Cherokee
  PROV936:0 "Appalachian Mountains" #Was Cheraw
  PROV937:0 "Durham"	#Was Tuscarora
  PROV938:0 "Pamlico"
- PROV939:0 "Paducah" #Was Kaskinampo
+ PROV939:0 "Reelfoot" #Was Kaskinampo
  PROV940:0 "Pennyrile" #Was Kentucky
- PROV941:0 "Harrodstown" #Was Chisca
+ PROV941:0 "Corbin" #Was Chisca
  PROV942:0 "Wea"
  PROV943:0 "Miami"
  PROV944:0 "Potawatomi"
@@ -2523,9 +2523,9 @@
  PROV2523:0 "Piankeshaw"
  PROV2524:0 "Muncie"	#Was Wabash
  PROV2525:0 "Miami Valley" #Was Chillicothe
- PROV2526:0 "Lexington" #Was Shatteras
- PROV2527:0 "Chickamauga"
- PROV2528:0 "Yazoo"
+ PROV2526:0 "Buckhorn" #Was Shatteras
+ PROV2527:0 "Murfreesboro"	#Was Chickamauga
+ PROV2528:0 "Yazoo"	
  PROV2529:0 "Natchez"
  PROV2530:0 "Tallahoma"	#Was Biloxi
  PROV2531:0 "Huntsville" #Was Napochi
@@ -2545,7 +2545,7 @@
  PROV2545:0 "Waxhaw"
  PROV2546:0 "Cape Fear"	#Was Chicora
  PROV2547:0 "Roanoke"
- PROV2548:0 "New River" #Was Tutelo
+ PROV2548:0 "Clinch" #Was Tutelo
  PROV2549:0 "Lynchburg"	#Was Moratok
  PROV2550:0 "Rappahannock" #Was Doeg
  PROV2551:0 "Monongahela"
@@ -3390,7 +3390,7 @@
  PROV4570:0 "Manitoulin"
  PROV4571:0 "Superior"
  PROV4572:0 "Lakehead"
- PROV4573:0 "Vincennes" #Was Kentuckiana
+ PROV4573:0 "Hoosier" #Was Kentuckiana
  PROV4574:0 "Cincinnatti"
  PROV4575:0 "Stanislaus" 
  PROV4576:0 "Scioto"
@@ -3524,11 +3524,11 @@
  PROV4704:0 "Indianapolis"
  PROV4705:0 "Vincennes"
  PROV4706:0 "Effingham"
- PROV4707:0 "Rough River"
+ PROV4707:0 "Louisville"	#Was Rough River
  PROV4708:0 "Mammoth"
  PROV4709:0 "Nashville"
  PROV4710:0 "Chattanooga"
- PROV4711:0 "Cumberland"
+ PROV4711:0 "Covington"	#Was Cumberland
  PROV4712:0 "Santa Clara"
  PROV4713:0 "Pinar del Rio"
  PROV4714:0 "Guantanamo"

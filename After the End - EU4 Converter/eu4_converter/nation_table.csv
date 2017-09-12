@@ -152,25 +152,25 @@ e_guatemala;CAM;UPCA;Empire of Guatemala/United Central America
 
 # Native (Most of these disabled because Sunset Invasion is a butt)
 
-#e_cherokee;CHE;Cherokee;Cherokee
-#e_comanche;COM;Comanche;Empire Comanche
-#k_comancheria;COM;Comanche;Kingdom Comanche
-#e_hopi;PUE;Pueblo;Empire Hopi
-#d_hopi;PUE;Pueblo;Duchy Hopi
-#e_muscogee;CRE;Creek;Muscogee
-#e_navajo;NAH;Navajo;Empire Navajo
-#k_dinetah;NAH;Navajo;Kingdom Navajo
-#d_navajoland;NAH;Navajo;Duchy Navajo
-#e_sioux;SIO;Sioux;Empire Sioux
-#k_lakotah;SIO;Sioux;Kingdom Sioux
-#d_siouxland;SIO;Sioux;Duchy Sioux
+e_cherokee;CHE;Cherokee;Cherokee
+e_comanche;COM;Comanche;Empire Comanche
+k_comancheria;COM;Comanche;Kingdom Comanche
+e_hopi;PUE;Pueblo;Empire Hopi
+d_hopi;PUE;Pueblo;Duchy Hopi
+e_muscogee;CRE;Creek;Muscogee
+e_navajo;NAH;Navajo;Empire Navajo
+k_dinetah;NAH;Navajo;Kingdom Navajo
+d_navajoland;NAH;Navajo;Duchy Navajo
+e_sioux;SIO;Sioux;Empire Sioux
+k_lakotah;SIO;Sioux;Kingdom Sioux
+d_siouxland;SIO;Sioux;Duchy Sioux
 
 # First Nations
 
-#e_cree;WCR;Cree;Cree
+e_cree;WCR;Cree;Cree
 e_haida;HDA;Haida;Haida
-#e_mikmaq;MIK;Mikmaq;Mikmaq
-#e_ojibwe;OJI;Ojibwa;Ojibwa
+e_mikmaq;MIK;Mikmaq;Mikmaq
+e_ojibwe;OJI;Ojibwa;Ojibwa
 e_salishan;SAL;Salish;Salish
 
 # Mesoamerican/Mayan/Andean
@@ -178,11 +178,11 @@ e_salishan;SAL;Salish;Salish
 e_mixtec;MIX;Mixtec;Empire Mixtec
 k_mixteca;MIX;Mixtec;Kingdom Mixtec
 d_mixteca;MIX;Mixtec;Duchy Mixtec
-#e_nahua;AZT;Aztec;Aztec
+e_nahua;AZT;Aztec;Aztec
 e_zapotec;ZAP;Zapotec;Empire Zapotec
 k_zapoteca;ZAP;Zapotec;Kingdom Zapotec
-#e_maya;MAY;Maya;Maya
-#e_inca;INC;Inca;Inca
+e_maya;MAY;Maya;Maya
+e_inca;INC;Inca;Inca
 e_muisca;MCA;Muisca;Muisca
 k_colima;CLM;Colima;Kingdom Colima
 d_colima;CLM;Colima;Duchy Colima

@@ -3475,7 +3475,7 @@ the_gateway_area = {
 	4586 4585 4588 4597 2514
 }
 kentucky_area = { #3
-    940 4707 4708 4711 939
+    940 4707 4708 4711 
 }
 
 mississippi_plain_area = { #Called Arkansas
@@ -3574,8 +3574,12 @@ birmingham_area = {
 	4677 4679 4680 4684 4675
 }
 
-choctaw_area = { #Tennessee
-    918 934 2527 4681 2531 
+choctaw_area = { #West Tennessee
+    918 934 4681 4709 939
+}
+
+east_tennessee_area = {
+	2527 2531 4710
 }
 
 #Chesapeake
@@ -3591,7 +3595,7 @@ delaware_valley_area = { #5
 #Appalachia
 
 south_appalachia_area = { #Overmountain
-	935 2548 941 4710 4709
+	 2548 941 935
 }
 
 #Australia
