@@ -132,10 +132,10 @@ brotherhood_ideas = {
 tagalog_ideas = {
     start = {
         global_sailors_modifier = 0.20
-        hostile_attrition = 1
+        diplomatic_reputation = 2
     }
     bonus = {
-            diplomatic_reputation = 2
+	    hostile_attrition = 1
             }
 
     trigger = {
@@ -148,7 +148,7 @@ tagalog_ideas = {
     free = yes
 
     kalakalang_galyon_ng_maynila = {
-        global_own_trade_power = 0.10
+        trade_efficiency = 0.15
     }
     taga-ilog = {
         global_trade_goods_size_modifier = 0.20
