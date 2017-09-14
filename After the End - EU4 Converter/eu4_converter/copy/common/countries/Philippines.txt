@@ -3,7 +3,7 @@
 
 graphical_culture = asiangfx
 
-color = { 286  186  58 } # = 2 x 116
+color = { 286  186  116 } 
 
 monarch_names = {
 	"Sharif ul Hashim #0" = 50
