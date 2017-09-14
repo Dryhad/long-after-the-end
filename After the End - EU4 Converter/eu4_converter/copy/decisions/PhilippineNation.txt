@@ -8,7 +8,7 @@ country_decisions = {
 				ai = no
 				is_playing_custom_nation = no
 			}
-			NOT = { exists = PNP }
+			NOT = { exists = PHL }
 			primary_culture = filipino #Couldn't find where the vanila cultures are at
 			OR = {
 				ai = no
@@ -36,8 +36,8 @@ country_decisions = {
 			owns_core_province = 2701		# Tagloc (Davao)
 		}
 		effect = {
-			change_tag = PNP
-            set_capital = 656 # Manila
+			change_tag = PHL
+                        set_capital = 656 # Manila
 			if = {
 				limit = {
 					has_custom_ideas = no
@@ -70,36 +70,36 @@ country_decisions = {
 				}
 				set_government_rank = 2
 			}
-            luzon_area = {
+                        luzon_area = {
 				limit = {
 					NOT = { owned_by = ROOT }
 				}
-				add_permanent_claim = PNP
+				add_permanent_claim = PHL
 			}
 			great_moluccas_area = {
 				limit = {
 					NOT = { owned_by = ROOT }
 				}
-				add_permanent_claim = PNP
+				add_permanent_claim = PHL
 			}
 			south_great_moluccas_area = {
 				limit = {
 					NOT = { owned_by = ROOT }
 				}
-				add_permanent_claim = PNP
+				add_permanent_claim = PHL
 			}
 			mindanao_area = {
 				limit = {
 					NOT = { owned_by = ROOT }
 				}
-				add_permanent_claim = PNP
+				add_permanent_claim = PHL
 			}
             every_province = {
                 limit = {
                     province_id = 651
                     NOT = { owned_by = ROOT }
                 }
-                add_permanent_claim = PNP
+                add_permanent_claim = PHL
             }
 			add_country_modifier = {
 				name = "centralization_modifier"
