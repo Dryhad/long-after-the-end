@@ -997,6 +997,8 @@
  canada_nation_diplomatically_title: "Form Canadian Nation Diplomatically"
  canada_nation_diplomatically_desc: "Global expansion in newly discovered areas and the establishment of colonies is transforming Québéc into one of the most powerful and wealthiest nations of our time. Québécois explorers are constantly moving into new lands and extending our borders. Immense amounts of gold and silver are being brought back to our motherland, filling the coffers of our state Treasury."
  forming_canada_diplomatically_tooltip: "[Root.GetName] is the overlord in a vassalage or union between Ontario and Quebec."
+ canada_nation_militarily_title: "Form the Canadian Nation Militarily"
+ canada_nation_militarily_desc: "The old domains of Canada are in our hands. Let us declare ourselves the heirs of that great Empire!"
  caribbean_nation_title: "Form Caribbean Nation"
  caribbean_nation_desc: "Restore the glory of the Caribbean Empire."
  caribbean_nation_cuba_hispaniola_tooltip: "Conquered Cuba and Hispaniola."
