@@ -249,11 +249,11 @@ mousy_ideas = {
 
     fight_choreography = (
         prestige_from_land = 1
-    )
+    }
 
     waltney_princesses = {
         legitimacy = 0.5
-        chance_of_female_advisor = 0.25
+        female_advisor_chance = 0.25
     }
 
     tales_as_old_as_time = {
@@ -261,7 +261,7 @@ mousy_ideas = {
     }
 
     let_it_go = {
-        diplomatic_annex_cost = -0.1
+        diplomatic_annexation_cost = -0.1
     }
 
     tomorrowland = {
