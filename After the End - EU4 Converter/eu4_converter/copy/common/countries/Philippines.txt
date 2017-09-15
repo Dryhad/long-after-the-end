@@ -3,7 +3,7 @@
 
 graphical_culture = asiangfx
 
-color = { 286  186  116 } 
+color = { 95  186  116 } # 0.333333333333333
 
 monarch_names = {
         # Aquino Line
