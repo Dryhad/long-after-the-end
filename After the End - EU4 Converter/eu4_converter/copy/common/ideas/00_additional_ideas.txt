@@ -215,6 +215,60 @@ nys_ideas = {		#New Yorker Ideas
     }
 }
 
+### Dynasty Idea(s) ###
+mousy_ideas = {
+    start = {
+        defensiveness = 0.1
+        culture_conversion_cost = -0.2
+    }
+
+    bonus = {
+        leader_land_shock = 1
+    }
+
+	trigger = {
+		dynasty = "Waltney"
+		OR = {
+			religion = americanist
+			religion = libertarian
+			religion = hamiltonian
+			religion = jeffersonian
+		}
+		government = monarchy
+	}
+
+    free = yes
+
+    house_of_mouse = {
+        prestige = 1
+    }
+
+    waltney_renaissance = {
+        global_institution_spread = 0.1
+    }
+
+    fight_choreography = (
+        prestige_from_land = 1
+    )
+
+    waltney_princesses = {
+        legitimacy = 0.5
+        chance_of_female_advisor = 0.25
+    }
+
+    tales_as_old_as_time = {
+        diplomatic_reputation = 2
+    }
+
+    let_it_go = {
+        diplomatic_annex_cost = -0.1
+    }
+
+    tomorrowland = {
+        technology_cost = -0.1
+    }
+}
+
 ### Group Ideas ###
 maritimer_ideas = {
 	start = {
@@ -406,6 +460,57 @@ californian_ideas = {
 	hawaiian_guard = {
 		global_manpower_modifier = 0.1
 	}
+}
+union_ideas = {
+    start = {
+        light_ship_cost = -0.1
+        interest = -1
+    }
+
+    bonus = {
+        technology_cost = -0.1
+    }
+
+    trigger = {
+        OR = {
+            government = merchant_republic
+            government = oligarchic_republic
+            government = administrative_republic
+        }
+        OR = {
+            primary_culture = rostmann
+            primary_culture = motowner
+            religion = rust_cultist
+        }
+    }
+
+    legacy_of_the_liberator = {
+        republican_tradition = 0.5
+    }
+
+    trade_union = {
+        trade_efficiency = 0.15
+    }
+
+    picket_line = {
+        discipline = 0.05
+    }
+
+    fair_days_pay = {
+        infantry_cost = -0.1
+    }
+
+    teamsters = {
+        spy_offence = 0.1
+    }
+
+    solidarity = {
+        global_prov_trade_power_modifier = 0.2
+    }
+
+    first_strike = {
+        artillery_power = 0.1
+    }
 }
 rostmann_ideas = {
     start = {
