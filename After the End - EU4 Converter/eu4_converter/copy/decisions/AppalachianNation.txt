@@ -35,12 +35,13 @@ country_decisions = {
 			is_nomad = no
 			is_at_war = no
 			owns_core_province = 4651		# Land of Sky
-			owns_core_province = 4707		# Louisville
-			owns_core_province = 918		# Memphis 
+			owns_core_province = 2551		# Monongahela
+			owns_core_province = 4710		# Chatanooga 
+			owns_core_province = 2548		# Clinch 
 		}
 		effect = {
 			change_tag = APP
-            set_capital = 4651 # Land of Sky
+			set_capital = 4651 # Land of Sky
 			if = {
 				limit = {
 					has_custom_ideas = no
@@ -79,55 +80,18 @@ country_decisions = {
 				}
 				add_permanent_claim = APP
 			}
-			kentucky_area = {
-				limit = {
-					NOT = { owned_by = ROOT }
-				}
-				add_permanent_claim = APP
-			}
-			choctaw_area = {
-				limit = {
-					NOT = { owned_by = ROOT }
-				}
-				add_permanent_claim = APP
-			}
 			east_tennessee_area = {
 				limit = {
 					NOT = { owned_by = ROOT }
 				}
 				add_permanent_claim = APP
 			}
-			great_valley_area = {
+			south_appalachia_area = {
 				limit = {
 					NOT = { owned_by = ROOT }
 				}
 				add_permanent_claim = APP
 			}
-			appalachia_area = {
-				limit = {
-					NOT = { owned_by = ROOT }
-				}
-				add_permanent_claim = APP
-			}
-			upper_american_georgia_area = {
-				limit = {
-					NOT = { owned_by = ROOT }
-				}
-				add_permanent_claim = APP
-			}
-			birmingham_area = {
-				limit = {
-					NOT = { owned_by = ROOT }
-				}
-				add_permanent_claim = APP
-			}
-            #every_province = {
-                limit = {
-                    province_id = 651
-                    NOT = { owned_by = ROOT }
-                }
-                add_permanent_claim = APP
-            }
 			add_country_modifier = {
 				name = "centralization_modifier"
 				duration = 7300
