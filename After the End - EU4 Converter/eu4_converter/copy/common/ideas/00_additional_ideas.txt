@@ -148,10 +148,10 @@ tagalog_ideas = {
     free = yes
 
     kalakalang_galyon_ng_maynila = {
-        trade_efficiency = 0.15
+        global_trade_power = 0.20
     }
     taga-ilog = {
-        global_trade_goods_size_modifier = 0.20
+        global_trade_goods_size_modifier = 0.15
     }
     pag-a-anito = {
         tolerance_own = 2
@@ -213,6 +213,53 @@ nys_ideas = {		#New Yorker Ideas
     nys_idea_7 = {
         core_creation = -0.20
     }
+}
+
+ARZ_ideas = {
+    start = {
+        global_spy_defense = 0.25
+	infantry_combat_power = 0.10
+	}
+    bonus = {
+	    unjustified_demands = -0.30
+	    }
+	    
+	trigger = {
+		tag = ARZ
+	}
+	
+	free = yes
+
+        #fortified borders
+	arz_idea_1 = {
+		defensiveness = 0.20
+        army_tradition_decay = -0.02
+	}
+        # volda okhrana
+	arz_idea_2 = {
+		discipline = 0.05
+	}
+        # nirsk steppe farming
+	arz_idea_3 = {
+		production_efficiency = 0.10
+	}
+        # arstotzkan absolutism
+	arz_idea_4 = {
+		yearly_absolutism = 0.03
+        stability_cost = -0.10
+	}
+        # ban on hostile impor'ts
+	arz_idea_5 = {
+		embargo_efficiency = 0.25
+	}
+        # decorated leadership
+	arz_idea_6 = {
+		land_morale = 0.10
+	}
+        # the ministries of arstotzka
+	arz_idea_7 = {
+		state_maintenance_modifier = -0.20
+	}
 }
 
 ### Dynasty Idea(s) ###
