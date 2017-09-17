@@ -1290,4 +1290,20 @@
  solidarity_desc: "Across our trading routes, our merchants have cultivated relationships with others sympathetic to our cause and willing to provide excellent deals. By leveraging these relationships we can extend our trading power even further."
  first_strike: "First Strike!"
  first_strike_desc: "The legends tell of great Unions, who with a single strike could break even the mightiest Enterprise. The weapons they used have been lost to history, but by developing our new artillery, we can perhaps regain some measure of that power."
-
+ ARZ_ideas: “Arstotzkan Ideas”
+ ARZ_ideas_start: “Arstotzkan Traditions"
+ ARZ_ideas_bonus: “Arstotzkan Ambitions"
+ arz_idea_1: “Fortified Borders”
+ arz_idea_1_desc: “By drafting the second sons of every household do we ensure our border defenses are manned as well as teaching valuable lessons normally found on the field of battle.”
+ arz_idea_2: “Volda Okhrana”
+ arz_idea_2_desc: “A special military branch that was established to combat foreign aggression comprised of the men and women who served the military for a minimum of five years has distinguished themselves as the highest example of martial prowess that all soldiers aspire to be.“
+ arz_idea_3: “Nirsk Steppe Farming"
+ arz_idea_3_desc: “The cultivation of any crop grown in the steppes is a delicate affair, as one must maintain a balance of harvest of varying yields, as the soil is prone to erosion. To answer this the Nirsk farmers bred a special strain of tubers that help retain moister preventing desertification and allow grazing on otherwise dry lands.”
+ arz_idea_4: “Arstotzkan Absolutism”
+ arz_idea_4_desc: “The fear of tyranny from the expanding powers of the government has never left the minds of the masses since before the time of the calamity. But knowing what lies beyond our borders was proof enough to accept such necessary evil.“
+ arz_idea_5: “Ban on Hostile Impor'ts”
+ arz_idea_5_desc: “Foreigners and especially merchants are known to take lightly with our laws in response we seize their goods and ban them from our lands. To show them that we’re not to be trifled with.”
+ arz_idea_6: “Decorated Leadership”
+ arz_idea_6_desc: “One might think that these pompous, ancient and quite often rude leadership of the military may be a burden towards its men and nation. But the medals they carry are but proud scars earned from the defense of Arstotzka against her enemies.“
+ arz_idea_7: “The Ministries of Arstotzka”
+ arz_idea_7_desc: “Like a well oiled machine the diligent efforts of our ministries has curbed corruption where ever it may exist so that we may never suffer the fate by forefathers so long ago.“
