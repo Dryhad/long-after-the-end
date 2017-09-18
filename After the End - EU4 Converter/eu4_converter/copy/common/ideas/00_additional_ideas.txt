@@ -79,6 +79,7 @@ WDC_ideas = {
 		diplomatic_reputation = 2
 	}
 }
+
 brotherhood_ideas = {
 	start = {
 		development_cost = -0.15
@@ -217,7 +218,7 @@ nys_ideas = {		#New Yorker Ideas
 
 ARZ_ideas = {
     start = {
-        global_spy_defense = 0.25
+        global_spy_defence = 0.25
 	infantry_power = 0.10
 	}
     bonus = {
