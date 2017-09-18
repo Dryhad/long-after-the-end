@@ -221,8 +221,8 @@ ARZ_ideas = {
 	infantry_combat_power = 0.10
 	}
     bonus = {
-	    unjustified_demands = -0.30
-	    }
+	unjustified_demands = -0.30
+	}
 	    
 	trigger = {
 		tag = ARZ
