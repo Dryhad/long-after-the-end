@@ -177,28 +177,28 @@ national_focus = ADM
 }
 
 #Trade Good Events
-3119.1.1 = {
-	set_global_flag = great_fisheries_happened
-	set_global_flag = spice_trade_happened
-	change_price = {
-			trade_goods = spices
-			key = SPICE_TRADE
-			value = 0.5
-			duration = -1
-		}
-	change_price = {
-			trade_goods = fish
-			key = GREAT_FISHERIES
-			value = -0.1
-			duration = -1
-		}
-	change_price = {
-			trade_goods = salt
-			key = GREAT_FISHERIES
-			value = 0.1
-			duration = -1
-		}
-}
+# 3119.1.1 = {
+	# set_global_flag = great_fisheries_happened
+	# set_global_flag = spice_trade_happened
+	# change_price = {
+			# trade_goods = spices
+			# key = SPICE_TRADE
+			# value = 0.5
+			# duration = -1
+		# }
+	# change_price = {
+			# trade_goods = fish
+			# key = GREAT_FISHERIES
+			# value = -0.1
+			# duration = -1
+		# }
+	# change_price = {
+			# trade_goods = salt
+			# key = GREAT_FISHERIES
+			# value = 0.1
+			# duration = -1
+		# }
+# }
 
 1521.4.28 = {
 	monarch = {
@@ -282,16 +282,16 @@ national_focus = ADM
 		}
 }
 
-#Trade Good Events
-3159.1.1 = {
-	set_global_flag = protestant_fish_happened
-	change_price = {
-			trade_goods = fish
-			key = PROTESTANT_DONT_EAT_FISH
-			value = -0.1
-			duration = -1
-		}
-}
+# #Trade Good Events
+# 3159.1.1 = {
+	# set_global_flag = protestant_fish_happened
+	# change_price = {
+			# trade_goods = fish
+			# key = PROTESTANT_DONT_EAT_FISH
+			# value = -0.1
+			# duration = -1
+		# }
+# }
 
 1551.7.19 = { add_accepted_culture = transylvanian }
 

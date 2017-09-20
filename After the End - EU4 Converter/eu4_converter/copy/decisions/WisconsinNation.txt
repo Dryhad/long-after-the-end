@@ -37,7 +37,7 @@ country_decisions = {
 			owns_core_province = 912			# Sauk
 			owns_core_province = 914			# Green Bay
 			owns_core_province = 2518			# Noquet
-			owns_core_province = 2565			# Milwaukee
+			owns_core_province = 4565			# Milwaukee
 		}
 		effect = {
 			change_tag = WIS
