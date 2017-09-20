@@ -79,7 +79,6 @@ WDC_ideas = {
 		diplomatic_reputation = 2
 	}
 }
-
 brotherhood_ideas = {
 	start = {
 		development_cost = -0.15
@@ -217,13 +216,14 @@ nys_ideas = {		#New Yorker Ideas
 }
 
 ARZ_ideas = {
+
     start = {
         global_spy_defence = 0.25
-	infantry_power = 0.10
+		infantry_power = 0.10
 	}
     bonus = {
-	unjustified_demands = -0.30
-	}
+	    unjustified_demands = -0.30
+	    }
 	    
 	trigger = {
 		tag = ARZ
@@ -261,6 +261,31 @@ ARZ_ideas = {
 	arz_idea_7 = {
 		state_maintenance_modifier = -0.20
 	}
+}
+
+CLM_ideas = {	#Republic of Colima ideas
+	start = {
+		trade_range_modifier = 0.2
+		global_own_trade_power = 0.2
+	}
+	bonus = {
+		range = 0.25
+	}
+	
+	trigger = {
+		tag = CLM
+		government = republic
+	}
+	clm_idea_1 = { merchants = 1 }     							 #Merchants of Mexico
+	clm_idea_2 = { tolerance_own = 2 }     					   	 #The Cathedral of Our Lady of Colima
+	clm_idea_3 = { inflation_reduction = 0.1 }    				 #El Banco de Colima
+	clm_idea_4 = { global_trade_goods_size_modifier = 0.1 }      #Sailfish
+	clm_idea_5 = { trade_steering = 0.25 }    					 #Puerto de Altura
+	clm_idea_6 = { land_morale = 0.15 }     					 #Lucha de Apuestas
+	clm_idea_7 = { range = 0.25 }     							 #Into the Pacific
+
+	
+	free = yes
 }
 
 ### Dynasty Idea(s) ###
