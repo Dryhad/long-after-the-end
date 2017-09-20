@@ -247,7 +247,7 @@ ARZ_ideas = {
         # arstotzkan absolutism
 	arz_idea_4 = {
 		yearly_absolutism = 0.03
-        stability_cost = -0.10
+                stability_cost_modifier = -0.1
 	}
         # ban on hostile impor'ts
 	arz_idea_5 = {
