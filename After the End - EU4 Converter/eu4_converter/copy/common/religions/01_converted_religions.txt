@@ -343,20 +343,20 @@ christian = {
 		has_patriarchs = yes		# Uses patriarch authority
 		misguided_heretic = yes		# Other christians hate them less
 	}
-	presbyterian = {
-		icon = 36
-		color = { 76 76 229 }
-		country = {
-			tolerance_heretic = 2
-			advisor_pool = 1
-		}
-		country_as_secondary = {
-			global_unrest = -1
-			advisor_cost = -0.1
-		}
-		
-		heretic = { METHODIST BAPTIST QUAKER }
-	}
+	#presbyterian = {
+	#	icon = 36
+	#	color = { 76 76 229 }
+	#	country = {
+	#		tolerance_heretic = 2
+	#		advisor_pool = 1
+	#	}
+	#	country_as_secondary = {
+	#		global_unrest = -1
+	#		advisor_cost = -0.1
+	#	}
+	#	
+	#	heretic = { METHODIST BAPTIST QUAKER }
+	#}
 }
 
 eastern = {
@@ -857,59 +857,59 @@ muslim = {
 		
 		uses_piety = yes				# Uses piety mechanics
 	}
-	kharijite = {
-		color = { 0.4 0.8 0.6 }
-		icon = 44
-		country = {
-			improve_relation_modifier = 0.2
-			heir_chance = 1.0
-		}
-		province = {
-			local_missionary_strength = -0.02
-		}
-		country_as_secondary = {
-			advisor_cost = -0.1
-			improve_relation_modifier = 0.1
-		}
-		heretic = { HARURI SUFRI NAJADAT AZRAQI }
-		
-		uses_piety = yes				# Uses piety mechanics
-	}
-	druze = {
-		color = { 0.0 0.9 0.4 }
-		icon = 45
-		country = {
-			heir_chance = 1.0
-			dip_tech_cost_modifier = -0.1 # Promoted intellectualism
-			tolerance_heretic = -1 # Renounced 'false' belief
-		}
-		province = {
-			local_missionary_strength = -0.02
-		}
-		country_as_secondary = {
-			diplomats = 1
-			dip_tech_cost_modifier = -0.05
-		}
-		heretic = { HURUFI ZAIDI }
-		
-		uses_piety = yes				# Uses piety mechanics
-	}
-	hurufi = {
-		color = { 0.4 0.9 0.0 }
-		icon = 49
-		country = {
-			heir_chance = 1.0
-			diplomatic_upkeep = 2
-		}
-		province = {
-			local_missionary_strength = -0.01
-		}
-		country_as_secondary = {
-			diplomatic_upkeep = 1
-			stability_cost_modifier = -0.1
-		}
-		heretic = { DRUZE ZAIDI }
-		
-		uses_piety = yes				# Uses piety mechanics
-	}
+	#kharijite = {
+	#	color = { 0.4 0.8 0.6 }
+	#	icon = 44
+	#	country = {
+	#		improve_relation_modifier = 0.2
+	#		heir_chance = 1.0
+	#	}
+	#	province = {
+	#		local_missionary_strength = -0.02
+	#	}
+	#	country_as_secondary = {
+	#		advisor_cost = -0.1
+	#		improve_relation_modifier = 0.1
+	#	}
+	#	heretic = { HARURI SUFRI NAJADAT AZRAQI }
+	#	
+	#	uses_piety = yes				# Uses piety mechanics
+	#}
+	#druze = {
+	#	color = { 0.0 0.9 0.4 }
+	#	icon = 45
+	#	country = {
+	#		heir_chance = 1.0
+	#		dip_tech_cost_modifier = -0.1 # Promoted intellectualism
+	#		tolerance_heretic = -1 # Renounced 'false' belief
+	#	}
+	#	province = {
+	#		local_missionary_strength = -0.02
+	#	}
+	#	country_as_secondary = {
+	#		diplomats = 1
+	#		dip_tech_cost_modifier = -0.05
+	#	}
+	#	heretic = { HURUFI ZAIDI }
+	#	
+	#	uses_piety = yes				# Uses piety mechanics
+	#}
+	#hurufi = {
+	#	color = { 0.4 0.9 0.0 }
+	#	icon = 49
+	#	country = {
+	#		heir_chance = 1.0
+	#		diplomatic_upkeep = 2
+	#	}
+	#	province = {
+	#		local_missionary_strength = -0.01
+	#	}
+	#	country_as_secondary = {
+	#		diplomatic_upkeep = 1
+	#		stability_cost_modifier = -0.1
+	#	}
+	#	heretic = { DRUZE ZAIDI }
+	#	
+	#	uses_piety = yes				# Uses piety mechanics
+	#}
 }
