@@ -170,21 +170,22 @@ trade_company_north_india = {
 	# }
 # }
 
-# trade_company_philippines = {
-	# color = { 0 200 150 }
+trade_company_philippines = {
+	color = { 0 200 150 }
 	
-	# provinces = {
-		# 651 652 653 654 655 656 657 658 1235 1241 1990 1991 1992 1993 1994 1995 1996 2697 2698 2699 2700 2701 2702 1397 
-	# }
+	provinces = {
+		651 652 653 654 655 656 657 658 1235 1241 1990 1991 1992 1993 1994 1995 1996 2697 2698 2699 2700 2701 2702 1397 
+		4832 4833 4834 4835
+	}
 
-	# # Generic
-	# names = {
-		# name = "TRADE_COMPANY_PHILIPPINES_Root_Culture_GetName"
-	# }
-	# names = {
-		# name = "TRADE_COMPANY_PHILIPPINES_Indonesia_Trade_Company"
-	# }
-# }
+	# Generic
+	names = {
+		name = "TRADE_COMPANY_PHILIPPINES_Root_Culture_GetName"
+	}
+	names = {
+		name = "TRADE_COMPANY_PHILIPPINES_Indonesia_Trade_Company"
+	}
+}
 
 # trade_company_moluccas = {
 	# color = { 196 191 61 }
