@@ -493,7 +493,7 @@ deitsch_ideas = {		#Expanded to apply to all Anabaptists
 }
 californian_ideas = {
 	start = {
-		land_morale = 0.2
+		adm_tech_cost_modifier = -0.1
 		diplomatic_reputation = 1
 	}
 	bonus = { 
