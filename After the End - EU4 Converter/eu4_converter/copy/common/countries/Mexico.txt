@@ -5,7 +5,7 @@ graphical_culture = westerngfx
 #colonial_parent = SPA
 random_nation_chance = 0
 
-color = { 219  124  139 }
+color = { 224 192 18 }
 
 monarch_names = {
 	"Agustín #1" = 20
