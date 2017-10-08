@@ -34,9 +34,7 @@ colonial_middle_east = {
 	
 	names = {
 		trigger = {
-			primary_culture = dixie
-			primary_culture = southron
-			primary_culture = gulfard
+			culture_group = south_anglo
 		}
 		name = "colonial_middle_east_I_Rack"
 	}
@@ -45,4 +43,4 @@ colonial_middle_east = {
 		name = "colonial_middle_east_root_getadjective_middle_east"
 	}
 	
-	}
+}
