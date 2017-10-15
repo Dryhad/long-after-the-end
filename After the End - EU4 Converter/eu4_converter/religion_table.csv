@@ -73,7 +73,8 @@ falling_star;falling_star;1;Falling Star
 #hurufi;shiite;0;Shiite
 
 # Judaism
-#jewish;jewish;0;Jewish
+jewish;jewish;0;Jewish
+reform;reform_faith;1;Reform Judaism
 #samaritan;jewish;0;Jewish
 #karaite;jewish;0;Jewish
 

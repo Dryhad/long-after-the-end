@@ -1,0 +1,10 @@
+amerodeutsch = {
+	yiddish = {
+		dynasty_names = $yiddish$
+	}
+}
+mexicano = {
+	neoladino = {
+		dynasty_names = $neoladino$
+	}
+}
