@@ -10,12 +10,19 @@ raramuri;raramuri;1;Raramuri
 maya;mayan;0;Maya
 yucateco;yucatec;0;Yucatec
 
+# Pan-Atlantic
+british;british;1;British
+nigerian;nigerian;1;Nigerian
+moroccan;moroccan;0;Moroccan
+
 # Pan-Pacific
-yuehai;cantonese;0;Cantonese
+hong_konger;cantonese;0;Cantonese
+yuehai;cantonese;0;Backwards compatibility
 tagalog;filipino;0;Filipino
 singaporean;singaporean;1;Singaporean
 kinh;vietnamese;0;Vietnamese
 ozlander;aboriginal;0;Aboriginal
+wastelander;strayan;1;Strayan
 
 # First Nations
 haida;haida;0;Haida
@@ -40,9 +47,6 @@ navajo;navajo;0;Navajo
 hopi;pueblo;0;Pueblo
 paiute;paiute;1;Paiute
 muscogee;creek;0;Creek
-
-# African
-nigerian;nigerian;1;Nigerian
 
 # Afro-Anglo
 gullah;gullah;1;Gullah
@@ -139,15 +143,13 @@ canuck;canuck;1;Canuck
 cascadian;cascadian;1;Cascadian
 portlander;portlander;1;Portlander
 
-# Old World
-british;british;1;British
-
 # Polynesian
 hawaiian;hawaiian;1;Hawaiian
 
 # Portuguese
 brazilian;brazilian;1;Brazilian
-roraimense;roraimense;1;Roraimense
+amazonense;amazonense;1;Amazonense
+roraimense;amazonense;1;Backwards compatibility
 
 # Rockland
 coloradan;coloradan;1;Coloradan

@@ -34,13 +34,13 @@ british = {
 	}
 }
 #brazilian
-iberian = {
+brazilian_culture_group = {
 	brazilian = {
 		primary = BRZ
 		dynasty_names = $brazilian$
 	}
-	roraimense = {
-		dynasty_names = $roraimense$
+	amazonense = {
+		dynasty_names = $amazonense$
 	}
 }
 #novorusskiy
