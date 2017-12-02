@@ -15,10 +15,6 @@ base_manpower = 1
 
 
 
-discovered_by = high_american 
-discovered_by = RED 
-
- 
 
 discovered_by =  south_american
 discovered_by = MCA

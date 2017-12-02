@@ -2124,9 +2124,9 @@ c_mammoth;4708;4708 - Mammoth;Mammoth - Mammoth
 c_wolf_creek;4708;4708 - Mammoth;Wolf Creek - Mammoth
 c_rough_river;4708;4708 - Mammoth;Rough River - Mammoth
 
-c_owensboro;940;940 - Pennyrile;Owensboro - Pennyrile
-c_mineral_mound;940;940 - Pennyrile;Mineral Mound - Pennyrile
-c_the_purchase;940;940 - Pennyrile;The Purchase - Pennyrile
+c_owensboro;940;940 - Kentucky;Owensboro - Kentucky
+c_mineral_mound;940;940 - Kentucky;Mineral Mound - Kentucky
+c_the_purchase;940;940 - Kentucky;The Purchase - Kentucky
 
 c_cheatham;4709;4709 - Nashville;Cheatham - Nashville
 c_nashville;4709;4709 - Nashville;Nashville - Nashville
@@ -2140,7 +2140,7 @@ d_west_tennessee;918;918 - Tennessee;West Tennessee - Memphis
 c_memphis;918;918 - Tennessee;Memphis - Tennessee
 c_forked_deer;918;918 - Tennessee;Forked Deer - Tennessee
 
-c_reelfoot;939;939 - Reelfoot;Reelfoot - Reelfoot
+c_reelfoot;939;939 - Pennyrile;Reelfoot - Pennyrile
 
 # Carolina
 
