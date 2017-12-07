@@ -1,7 +1,7 @@
 #2685 - Gayo
 
-#owner = PSA
-#controller = PSA
+owner = ATJ
+controller = ATJ
 culture = sumatran
 religion = ahmadi
 capital = "Gayo"
@@ -10,8 +10,8 @@ hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 1
-is_city = no
-#add_core= PSA
+is_city = yes
+add_core= ATJ
 
 
 

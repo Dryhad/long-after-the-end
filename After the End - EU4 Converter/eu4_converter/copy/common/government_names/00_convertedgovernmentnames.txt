@@ -60,6 +60,31 @@ boer_monarchy = {
 		culture_group = boer
 	}
 }
+# Malay
+malay_monarchy = {
+	rank = {
+		1 = PRINCEDOM
+		2 = SULTANATE
+		3 = EMPIRE
+	}
+	
+	ruler_male = {
+		1 = RAJA
+		2 = YANG_DI_PERTUAN_BESAR
+		3 = YANG_DI_PERTUAN_AGONG
+	}
+	
+	ruler_female = {
+		1 = RANI
+		2 = TUANKU_AMPUAN_BESAR
+		3 = RAJA_PERMAISURI_AGONG
+	}
+	
+	trigger = {
+		government = elective_monarchy
+		culture_group = malay
+	}
+}
 # Old World Cultist
 americanist_theocracy = {
 	rank = {

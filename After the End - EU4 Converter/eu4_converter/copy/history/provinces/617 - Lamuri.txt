@@ -1,7 +1,7 @@
 #617 - Lamuri
 
-#owner = PSA
-#controller = PSA
+owner = ATJ
+controller = ATJ
 culture = sumatran
 religion = ahmadi
 capital = "Lamuri"
@@ -10,8 +10,8 @@ hre = no
 base_tax = 4
 base_production = 4
 base_manpower = 3
-is_city = no
-#add_core= PSA
+is_city = yes
+add_core= ATJ
 
 
 
