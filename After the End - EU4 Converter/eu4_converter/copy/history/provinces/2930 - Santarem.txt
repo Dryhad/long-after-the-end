@@ -2,6 +2,7 @@
 
 culture = tupinamba
 discovered_by = south_american 
+discovered_by = andean
 discovered_by = brazilian
 religion = animism
 capital = "Santarem"
@@ -19,7 +20,7 @@ native_hostileness = 6
 	#owner = POR
 	#controller = POR
 	#add_core= POR
-	culture = amazonense
+	culture = amazonico
 	religion = candomble
 	trade_goods = tropical_wood
 	is_city = no 

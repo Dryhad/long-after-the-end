@@ -11,4 +11,12 @@ capital = 236
 	capital = 236
 	add_treasury = 0
 	add_prestige = 4
+	monarch = {
+		name = "Oliver"
+		birth_date = 2999.4.25
+		dynasty = "Crowley"	
+		adm = 3
+		dip = 3
+		mil = 6
+	}
 }

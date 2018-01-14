@@ -1,6 +1,7 @@
 #764 - Santo Amaro
 
 culture = tupinamba discovered_by = south_american 
+discovered_by = andean
 discovered_by = brazilian
 religion = animism
 capital = "Santo Amaro"
@@ -30,10 +31,12 @@ add_core = RDJ
 # = { unrest = 0 } # The Jesuits are expulsed from the region
 owner = RDJ
 controller = RDJ
+	religion = cult_of_saints
 add_core = RDJ
 3053.1.1 = {
 	owner = RDJ
 	controller = RDJ
+	religion = cult_of_saints
 }
 
 

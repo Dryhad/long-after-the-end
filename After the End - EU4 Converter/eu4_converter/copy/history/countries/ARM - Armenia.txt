@@ -1,0 +1,6 @@
+government = despotic_monarchy 
+primary_culture = armenian
+religion = coptic
+technology_group = indian
+capital = 419	# Yerevan
+

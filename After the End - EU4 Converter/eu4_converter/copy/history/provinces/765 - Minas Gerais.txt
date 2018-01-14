@@ -1,6 +1,7 @@
 #765 - Minas Gerais
 
 culture = ge discovered_by = south_american 
+discovered_by = andean
 discovered_by = brazilian
 religion = animism
 capital = "Sabará"
@@ -34,10 +35,12 @@ add_core = MIG
 # = { MIG = {} #controller = POR } # Joaquim José da Silva Xavier is captured
 owner = MIG
 controller = MIG
+	religion = cult_of_saints
 add_core = MIG
 3053.1.1 = {
 	owner = MIG
 	controller = MIG
+	religion = cult_of_saints
 }
 
 

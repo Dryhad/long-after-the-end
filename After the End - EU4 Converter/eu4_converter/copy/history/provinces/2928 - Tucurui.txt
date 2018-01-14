@@ -2,6 +2,7 @@
 
 culture = tupinamba
 discovered_by = south_american 
+discovered_by = andean
 discovered_by = brazilian
 religion = animism
 capital = "Tucurui"
@@ -25,7 +26,7 @@ native_hostileness = 3
 	#controller = POR
 	#add_core= POR
 	is_city = no
-	culture = amazonense
+	culture = amazonico
 	religion = candomble
 	trade_goods = cocoa
 #}

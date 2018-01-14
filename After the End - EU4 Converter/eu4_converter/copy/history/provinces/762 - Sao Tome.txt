@@ -2,6 +2,7 @@
 
 culture = tupinamba
 discovered_by = south_american 
+discovered_by = andean
 discovered_by = brazilian
 religion = animism
 capital = "Sao Tome"
@@ -28,10 +29,12 @@ add_core = RDJ
 # = { capital = "São Salvador de Campos" }
 owner = RDJ
 controller = RDJ
+	religion = cult_of_saints
 add_core = RDJ
 3053.1.1 = {
 	owner = RDJ
 	controller = RDJ
+	religion = cult_of_saints
 }
 
 

@@ -2,6 +2,7 @@
 
 culture = maipurean
 discovered_by = south_american 
+discovered_by = andean
 discovered_by = brazilian
 religion = animism
 capital = "Caceres"
@@ -20,7 +21,7 @@ native_hostileness = 1
 	#controller = POR
 	#add_core= POR
 	is_city = no
-	culture = amazonense
+	culture = amazonico
 	religion = candomble
 	trade_goods = grain
 #} 
