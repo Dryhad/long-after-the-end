@@ -507,7 +507,7 @@ c_morelos;852;852 - Mexico;Morelos - Mexico
 c_teoloyucan;852;852 - Mexico;Teoloyucan - Mexico
 
 c_temascalcingo;2626;2626 - Tulucan;Temascalcingo - Tulucan
-c_cuauhtemoc;2626;2626 - Tulucan;Cuauhtemoc - Tulucan
+c_toluca;2626;2626 - Tulucan;Toluca - Tulucan
 
 d_hidalgo;853;853 - Huastec;Duchy Hidalgo - Huastec
 c_pachuca;853;853 - Huastec;Pachuca - Huastec
@@ -710,6 +710,7 @@ d_corpus_christi;884;884 - Karankawa;Corpus - Karankawa
 c_nueces;884;884 - Karankawa;Nueces - Karankawa
 c_duval;884;884 - Karankawa;Duval - Karankawa
 c_goliad;884;884 - Karankawa;Goliad - Karankawa
+c_live_oak;884;884 - Karankawa;Live Oak - Karankawa
 
 c_maverick;883;883 - Lipan;Maverick - Alamo
 c_val_verde;883;883 - Lipan;Val Verde - Alamo
@@ -1205,7 +1206,7 @@ d_minnesota;908;908 - Minnesota;Minnesota - Minnesota
 c_rush;908;908 - Minnesota;Rush - Minnesota
 c_sauk;908;908 - Minnesota;Sauk - Minnesota
 c_cuyuna;908;908 - Minnesota;Cuyuna - Minnesota
-c_otter_tail-pelican;908;908 - Minnesota;Otter Tail-Pelican - Minnesota
+c_otter_tail_pelican;908;908 - Minnesota;Otter Tail-Pelican - Minnesota
 c_pokegama;908;908 - Minnesota;Pokegama - Minnesota
 
 c_coteau;2512;2512 - Wahpekute;Coteau - Wahpekute
@@ -1286,6 +1287,7 @@ c_newell;2602;2602 - Siksikawa;Newell - Siksikawa
 c_foothills;2018;2018 - Tsuutina;Foothills - Tsuutina
 c_clearwater;2018;2018 - Tsuutina;Clearwater - Tsuutina
 c_banff;2018;2018 - Tsuutina;Banff - Tsuutina
+c_yellowhead;2018;2018 - Tsuutina;Yellowhead - Tsuutina
 
 c_edmonton;2017;2017 - Nehiyawewin;Edmonton - Nehiyawewin
 c_red_deer;2017;2017 - Nehiyawewin;Red Deer - Nehiyawewin
@@ -1328,16 +1330,28 @@ c_kelowna;2607;2607 - Okanagan;Kelowna - Okanagan
 c_arrowhead;2607;2607 - Okanagan;Arrowhead - Okanagan
 c_kinbasket;2607;2607 - Okanagan;Kinbasket - Okanagan
 
-d_cariboo;2606;2606 - Tsiloqotin;Duchy Cariboo - Tsiloqotin
-c_cariboo;2606;2606 - Tsiloqotin;County Cariboo - Tsiloqotin
-c_harrison;2606;2606 - Tsiloqotin;Harrison - Tsiloqotin
-c_fraser;2606;2606 - Tsiloqotin;Fraser - Tsiloqotin
-c_kamloops;2606;2606 - Tsiloqotin;Kamloops - Tsiloqotin
+#d_cariboo;2606;2606 - Tsiloqotin;Duchy Cariboo - Tsiloqotin
+c_kamloops;2605;2605 - Secwepemc;Kamloops - Secwepemc
+c_cariboo;2605;2605 - Secwepemc;County Cariboo - Secwepemc
+c_prince_george;2605;2605 - Secwepemc;Prince George - Secwepemc
+c_fraser_valley;2605;2605 - Secwepemc;Fraser - Secwepemc
+
+#d_great_valleys;2606;2606 - Tsiloqotin;Great Valleys - Tsiloqotin
 c_itcha_ilgachuz;2606;2606 - Tsiloqotin;Itcha Ilgachuz - Tsiloqotin
+c_harrison;2606;2606 - Tsiloqotin;Harrison - Tsiloqotin
+c_beyond_hope;2606;2606 - Tsiloqotin;Beyond Hope - Tsiloqotin
+c_similkameen;2606;2606 - Tsiloqotin;Similkameen - Tsiloqotin
+c_sea_to_sky;2606;2606 - Tsiloqotin;Sea to Sky - Tsiloqotin
 
 c_klinaklini;974;974 - Kwakiutl;Klinaklini - Kwakiutl
 c_discovery_islands;974;974 - Kwakiutl;Discovery Islands - Kwakiutl
 c_homathko;974;974 - Kwakiutl;Homathko - Kwakiutl
+
+d_the_coast;975;975 - Tsimshian;The Coast - Tsimshian
+c_fjordland;975;975 - Tsimshian;Fjordland - Tsimshian
+c_rivers_inlet;975;975 - Tsimshian;Rivers Inlet - Tsimshian
+c_bella_coola;975;975 - Tsimshian;Bella Coola - Tsimshian
+c_kitimat;975;975 - Tsimshian;Kitimat - Tsimshian
 
 c_sunshine_coast;2610;2610 - Heiltsuk;Sunshine Coast - Heiltsuk
 c_powell;2610;2610 - Heiltsuk;Powell - Heiltsuk
@@ -1464,6 +1478,7 @@ d_death_valley;4513;4513 - Death Valley;Duchy Death Valley - Death Valley
 c_inyo;4513;4513 - Death Valley;Inyo - Death Valley
 c_hawthorne;4513;4513 - Death Valley;Hawthorne - Death Valley
 c_ridgecrest;4513;4513 - Death Valley;Ridgecrest - Death Valley
+c_nye_pass;4513;4513 - Death Valley;Nye Pass - Death Valley
 
 # Gran Francisco
 
@@ -1528,6 +1543,7 @@ d_ensenada;865;865 - Cochimi;Duchy Ensenada - Cochimi
 c_el_arco;865;865 - Cochimi;El Arco - Cochimi
 c_el_rosario;865;865 - Cochimi;El Rosario - Cochimi
 c_guerrero_negro;865;865 - Cochimi;Guerrero Negro - Cochimi
+c_isla_guadalupe;865;865 - Cochimi;Isla Guadalupe - Cochimi
 
 d_baja_sur;866;866 - Guaycura;Baja Sur - Guaycura
 c_la_paz;4742;4742 - La Paz;La Paz - La Paz
@@ -1600,7 +1616,7 @@ c_bonneville;2490;2490 - Goshute;Bonneville - Goshute
 c_grand_staircase;4520;4520 - Grand Staircase;Grand Staircase - Grand Staircase
 c_canyonlands;4523;4523 - Canyonlands;Canyonlands - Canyonlands
 c_uintah;4522;4522 - Yampa;Uintah - Yampa
-c_manti-la_sal;4521;4521 - Manti-la-Sal;Manti-la Sal - Manti-la-Sal
+c_manti_la_sal;4521;4521 - Manti-la-Sal;Manti-la Sal - Manti-la-Sal
 c_fishlake;4518;4518 - Bonneville; Fishlake - Bonneville
 c_zion;4519;4519 - Zion;Zion - Zion
 c_bonneville;4518;4518 - Bonneville; Bonneville - Bonneville

@@ -28,7 +28,7 @@ NMisc = {
 	START_DATE_YEAR = 3053,
 	START_DATE_MONTH = 1,
 	START_DATE_DAY = 1,
-	EU4_VERSION = "1.24",
+	EU4_VERSION = "1.25",
 },
 
 NTechGroups = {
