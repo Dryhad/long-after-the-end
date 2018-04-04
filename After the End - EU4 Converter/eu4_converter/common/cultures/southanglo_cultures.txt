@@ -23,4 +23,7 @@ south_anglo = {
 	riverlander = {
 		dynasty_names = $riverlander$
 	}
+	carpetbagger = {
+		dynasty_names = $carpetbagger$
+	}
 }

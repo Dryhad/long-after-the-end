@@ -47,6 +47,7 @@ navajo;navajo;0;Navajo
 hopi;pueblo;0;Pueblo
 paiute;paiute;1;Paiute
 muscogee;creek;0;Creek
+iroquois;iroquois;0;Iroquois
 
 # Afro-Anglo
 gullah;gullah;1;Gullah
@@ -137,6 +138,7 @@ hudsonian;hudsonian;1;Hudsonian
 maritimer;maritimer;1;Maritimer
 newfie;newfie;1;Newfie
 yankee;yankee;1;Yankee
+new_english;new_english;1;New English
 
 # North Pacific
 canuck;canuck;1;Canuck
@@ -167,6 +169,7 @@ dixie;dixie;1;Dixie
 gulfard;gulfard;1;Gulfard
 melungeon;melungeon;1;Melungeon
 riverlander;riverlander;1;Riverlander
+carpetbagger;carpetbagger;1;Carpetbagger
 
 # Venezolano
 agraciado;agraciado;1;Agraciado
@@ -183,3 +186,5 @@ texan;texan;1;Texan
 
 # Misc
 horse;equine;1;Equine
+bear;jan_mayenese;0;Jan Mayenese
+cat;cat;1;Cat

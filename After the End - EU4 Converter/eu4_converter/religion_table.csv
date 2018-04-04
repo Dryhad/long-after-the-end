@@ -46,6 +46,8 @@ confederated;confederated;1;Confederated
 anabaptist;anabaptist;1;Anabaptist
 evangelical;protestant;0;Protestant
 high_church;anglican;0;Anglican
+anglo_papalist;anglican;0;Anglican
+united_church;anglican;0;Anglican
 antinomian;protestant;0;Protestant
 charismatic;protestant;0;Protestant
 falling_star;falling_star;1;Falling Star
@@ -80,7 +82,7 @@ reform;reform_faith;1;Reform Judaism
 
 # Indian
 #buddhist;buddhism;0;Buddhist
-#hindu;hinduism;0;Hindu
+hindu;hinduism;0;Hindu
 #jain;jain;1;Jain
 
 # Latter-Day Saints

@@ -23,4 +23,8 @@ north_atlantic = {
 		primary = NFL
 		dynasty_names = $newfie$
 	}
+	new_english = {
+		primary = NEN
+		dynasty_names = $new_english$
+	}
 }
