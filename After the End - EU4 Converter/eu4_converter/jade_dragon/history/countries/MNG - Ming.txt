@@ -1,0 +1,4 @@
+government = jungle_horde
+government_rank = 3
+technology_group = brazilian
+capital = 763	# Rio de Janiero
