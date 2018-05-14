@@ -394,7 +394,7 @@ eastern = {
 		
 		harmonized_modifier = harmonized_gaian
 	}
-	nousthreskia = {
+	nousthreskeia = {
 		icon = 87
 		color = { 0.44 0.39 0.33 }
 		country = {
@@ -408,7 +408,7 @@ eastern = {
 		
 		heretic = { GOAT_SKULL }
 		
-		harmonized_modifier = harmonized_nousthreskia
+		harmonized_modifier = harmonized_nousthreskeia
 	}
 }
 
