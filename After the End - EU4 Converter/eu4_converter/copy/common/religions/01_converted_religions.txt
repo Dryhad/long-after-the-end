@@ -394,6 +394,22 @@ eastern = {
 		
 		harmonized_modifier = harmonized_gaian
 	}
+	nousthreskia = {
+		icon = 76
+		color = { 0.44 0.39 0.33 }
+		country = {
+			tolerance_heathen = 1
+			tolerance_heretic = 1
+		}
+		country_as_secondary = {
+			tolerance_heathen = 1
+			tolerance_heretic = 1
+		}
+		
+		heretic = { GOAT_SKULL }
+		
+		harmonized_modifier = harmonized_nousthreskia
+	}
 }
 
 dharmic = {

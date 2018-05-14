@@ -14,4 +14,7 @@ caribeno = {
 	nuyorican = {
 		dynasty_names = $nuyorican$
 	}
+	yanquito = {
+		dynasty_names = $yanquito$
+	}
 }

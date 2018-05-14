@@ -35,12 +35,22 @@ british = {
 }
 #brazilian
 brazilian_culture_group = {
-	brazilian = {
-		primary = BRZ
+	carioca = {
+		primary = RDJ
 		dynasty_names = $brazilian$
 	}
 	amazonense = {
 		dynasty_names = $amazonense$
+	}
+	
+	baiano = {
+		primary = BIA
+		dynasty_names = $baiano$
+	}
+}
+argentine = {
+	gaucho = {
+		primary = AGR
 	}
 }
 #novorusskiy

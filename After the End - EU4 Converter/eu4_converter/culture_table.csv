@@ -14,6 +14,7 @@ yucateco;yucatec;0;Yucatec
 british;british;1;British
 nigerian;nigerian;1;Nigerian
 moroccan;moroccan;0;Moroccan
+wladfaeg;welsh;0;Welsh
 
 # Pan-Pacific
 hong_konger;cantonese;0;Cantonese
@@ -95,6 +96,7 @@ cubano;cubano;1;Cubano
 dominicano;dominicano;1;Dominicano
 nuyorican;nuyorican;1;Nuyorican
 boricua;boricua;1;Boricua
+yanquito;yanquito;1;Yanquito
 
 # Centrolatino
 chapin;chapin;1;Chapin
@@ -110,6 +112,7 @@ acadien;acadien;1;Acadien
 cajun;cajun;1;Cajun
 creole;creole;1;Creole
 quebecois;quebecois;1;Quebecois
+ontarois;ontarois;1;Ontarois
 
 # Laurentian
 chicagoan;chicagoan;1;Chicagoan
@@ -149,9 +152,11 @@ portlander;portlander;1;Portlander
 hawaiian;hawaiian;1;Hawaiian
 
 # Portuguese
-brazilian;brazilian;1;Brazilian
+brazilian;carioca;1;Carioca
 amazonense;amazonense;1;Amazonense
 roraimense;amazonense;1;Backwards compatibility
+baiano;baiano;1;Baiano
+gaucho;gaucho;1;Gaucho
 
 # Rockland
 coloradan;coloradan;1;Coloradan
