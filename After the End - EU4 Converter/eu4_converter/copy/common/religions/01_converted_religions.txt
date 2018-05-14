@@ -395,7 +395,7 @@ eastern = {
 		harmonized_modifier = harmonized_gaian
 	}
 	nousthreskia = {
-		icon = 76
+		icon = 87
 		color = { 0.44 0.39 0.33 }
 		country = {
 			tolerance_heathen = 1
@@ -437,7 +437,7 @@ oldworld = {
 	
 	atomicist = {
 		color = { 0.75 0.95 0.2 }
-		icon = 28
+		icon = 86
 		country = {
 			defensiveness = 0.1
 			tolerance_own = 1
