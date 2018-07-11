@@ -27,7 +27,8 @@ c_guadeloupe;496;496 - Guadeloupe;Guadeloupe - Guadeloupe
 c_antigua_and_barbuda;495;495 - Antigua;Antigua and Barbuda - Antigua
 
 c_st_kitts_and_nevis;494;494 - St. Kitts;St. Kitts and Nevis - St. Kitts
-c_st_kitts_and_nevis;1881;1881 - St. Martin;St. Kitts and Nevis - St. Martin
+
+c_anguilla_and_st_martin;1881;1881 - St. Martin;Anguilla and St. Martin - St. Martin
 
 c_virgin_islands;493;493 - St. Thomas;Virgin Islands - St. Thomas
 
@@ -785,7 +786,8 @@ c_kicpahat;885;885 - Comanche;Kicpahat - Comanche
 
 d_washita;892;892 - Wichita;Washita - Wichita
 c_foss;892;892 - Wichita;Foss - Wichita
-c_salt_fork;892;892 - Wichita;Salt Fork - Wichita
+c_salt_fork;892;892 - Wichita;Salt Fork - Wichita (Deprecated)
+c_greer;892;892 - Wichita;Greer - Wichita
 c_fort_sill;892;892 - Wichita;Fort Sill - Wichita
 
 d_oklahoma;891;891 - Jicarilla;Duchy Oklahoma - Jicarilla
@@ -1685,6 +1687,7 @@ c_nipigon;1007;1007 - Ojibwa;Nipigon - Ojibwa
 c_schreiber;2015;2015 - Nipigon;Schreiber - Nipigon
 c_pic;2015;2015 - Nipigon;Pic - Nipigon
 c_michipicoten;2015;2015 - Nipigon;Michipicoten - Nipigon
+c_greenstone;2015;2015 - Nipigon;Greenstone - Nipigon
 
 c_nagagamisis;2590;2590 - Shaggami;Nagamisis - Shaggami
 
@@ -1846,6 +1849,7 @@ c_st_johns;980;980 - Beothuk;St Johns - Beothuk
 
 c_st_mary;2573;2573 - Placentia;St Mary - Placentia
 c_fortune_bay;2573;2573 - Placentia;Fortune Bay - Placentia
+c_st_pierre;2573;2573 - Placentia;St. Pierre - Placentia
 
 # Maritimes
 

@@ -12,7 +12,9 @@ occultist;occultist;1;Occultist
 occultist_reformed;occultist;1;Reformed Occultist
 thelemic;thelemic;1;Thelemic
 thelemic_reformed;thelemic;1;Reformed Thelemic
-celticist;celticist;1;Celticist
+celticist;celticist;1;Backwards compatibility
+celtic_pagan;celticist;1;Druidic
+celtic_pagan_reformed;celticist;1;Reformed Druidic
 #tengri_pagan;tengri_pagan_reformed;0;Tengri
 #tengri_pagan_reformed;tengri_pagan_reformed;1;Reformed Tengri
 #baltic_pagan;animism;0;Romuva

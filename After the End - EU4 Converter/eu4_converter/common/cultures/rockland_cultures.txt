@@ -10,4 +10,7 @@ rockland = {
 		primary = DES
 		dynasty_names = $utahn$
 	}
+	prairielander = {
+		dynasty_names = $prairielander$
+	}
 }
