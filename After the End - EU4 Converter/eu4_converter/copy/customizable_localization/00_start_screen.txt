@@ -601,6 +601,20 @@ defined_text = {
 			religion = norse_pagan_reformed
         }
     }
+	#Ursuline
+	text = {
+        localisation_key = string_start_religion_ursuline
+        trigger = {
+			religion = ursuline
+        }
+    }
+	#Anglican
+	text = {
+        localisation_key = string_start_religion_anglican
+        trigger = {
+			religion = anglican
+        }
+    }
 	#Fallback (Currently used by Animism, Judaism and Totemism)
 	text = {
         localisation_key = string_start_religion_fallback
