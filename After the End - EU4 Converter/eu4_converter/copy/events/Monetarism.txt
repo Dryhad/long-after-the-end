@@ -116,11 +116,11 @@ country_event = {
 		set_global_flag = consumerist_schism
 		enable_religion = monetarist
 		random_owned_province = {
-			#limit = {
-			#	can_have_center_of_reformation_trigger = { #Might need to script this?
-			#		RELIGION = monetarist
-			#	}
-			#}
+			limit = {
+				can_have_center_of_reformation_trigger = { #Might need to script this?
+					RELIGION = monetarist
+				}
+			}
 			change_religion = monetarist
 			add_reform_center = monetarist
 			add_permanent_province_modifier = {
