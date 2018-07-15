@@ -71,9 +71,11 @@ c_la_vega;2659;2659 - Magua;La Vega - Magua
 
 d_puerto_rico;492;492 - Puerto Rico;Duchy Puerto Rico - Puerto Rico
 c_san_juan;492;492 - Puerto Rico;San Juan - Puerto Rico
-c_ponce;492;492 - Puerto Rico;Ponce - Puerto Rico
-c_bayamon;492;492 - Puerto Rico;Bayamon - Puerto Rico
 c_mayaguez;492;492 - Puerto Rico;Mayaguez - Puerto Rico
+c_guayama;492;492 - Puerto Rico;Guayama - Puerto Rico
+c_abacoa;492;492 - Puerto Rico;Abacoa - Puerto Rico
+c_ponce;492;492 - Puerto Rico;Backwards compatibility
+c_bayamon;492;492 - Puerto Rico;Backwards compatibility
 
 # Cuba
 
@@ -152,6 +154,8 @@ d_cayenne;746;746 - Cayenne;Duchy Cayenne - Cayenne
 c_cayenne;746;746 - Cayenne;County Cayenne - Cayenne
 c_saint_laurent_du_maroni;746;746 - Cayenne;Saint Laurent du Maroni - Cayenne
 c_inini;746;746 - Cayenne;Inini - Cayenne
+
+c_uaca;2938;2938 - Oiapoque;Uaca - Oiapoque
 
 # Roraima
 
@@ -609,8 +613,10 @@ c_los_mochis;4745;4745 - Los Moches;Los Mochis - Los Mochis
 
 d_sonora;862;862 - Yaqui;Sonora - Yaqui
 c_hermosillo;862;862 - Yaqui;Hermosillo - Yaqui
-c_guaymas;4743;4743 - Guyamas;Guayamas - Guayamas
 c_nogales;862;862 - Yaqui;Nogales - Yaqui
+
+c_guaymas;4743;4743 - Guyamas;Guayamas - Guayamas
+c_el_novillo;4743;4743 - Guyamas;El Novillo - Guayamas
 
 d_altar;2616;2616 - Seri;Altar - Seri
 c_caborca;2616;2616 - Seri;Caborca - Seri

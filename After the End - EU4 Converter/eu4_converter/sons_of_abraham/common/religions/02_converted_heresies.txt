@@ -368,19 +368,19 @@ latter_day_saints = {
 		
 		fervor = yes
 	}
-	godbeite = {
+	woolleyite = {
 		color = { 0.8 0.55 0.6 }
 		icon = 80
 		
 		country = {
-			tolerance_own = 1
-			tolerance_heretic = -1
+			global_missionary_strength = 0.01
+			heir_chance = 1.0
 		}
 		province = {
 			local_missionary_strength = -0.01
 		}
 		
-		heretic = { BICKERTONITE STRANGITE }
+		heretic = { GODBEITE BICKERTONITE STRANGITE }
 		
 		fervor = yes
 	}
