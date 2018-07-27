@@ -94,6 +94,7 @@ e_yooper;SUP;Superior;Empire Superior
 k_superior;SUP;Superior;Kingdom Superior
 d_superior;SUP;Superior;Duchy Superior
 e_tuskegean;TSK;Tuskegee;Empire Tuskegee
+k_tuskegee;TSK;Tuskegee;Kingdom Tuskegee
 d_tuskegee;TSK;Tuskegee;Duchy Tuskegee
 c_tuskegee;TSK;Tuskegee;County Tuskegee
 e_valleyan;VAL;Valley;Empire Valley
@@ -118,6 +119,7 @@ e_llanero;LLL;LosLlanos;Empire Los Llanos
 k_los_llanos;LLL;LosLlanos;Kingdom Los Llanos
 e_metis;MTC;Metis;Empire Metis
 e_neomexicano;NMX;NewMexico;Empire New Mexico
+k_new_mexico;NMX;NewMexico;Kingdom New Mexico
 d_new_mexico;NMX;NewMexico;Duchy New Mexico
 e_portlander;OGN;Oregon;Empire Oregon
 e_tejano;RIO;RioGrande;Empire Rio Grande
@@ -130,6 +132,7 @@ c_tachira;TCR;Tachira;County Tachira
 e_jarocho;VRC;Veracruz;Empire Veracruz
 d_veracruz;VRC;Veracruz;Duchy Veracruz
 e_dellsman;WIS;Wisconsin;Empire Wisconsin
+k_wisconsin;WIS;Wisconsin;Kingdom Wisconsin
 
 # EU4 Colonies
 
