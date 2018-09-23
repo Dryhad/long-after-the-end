@@ -62,7 +62,7 @@ gov_chiefdom;tribal;tribal_despotism;2;
 gov_noble_chiefdom;tribal;tribal_kingdom;1;
 gov_khaganate;tribal;steppe_horde;0;
 gov_clan;tribal;steppe_horde;0;
-gov_mercenary;republic;oligarchic_reform;0;
+gov_mercenary;republic;oligarchy_reform;0;
 gov_muslim_despotic_monarchy;monarchy;iqta;1;
 gov_muslim_despotic_autocracy;monarchy;autocracy_reform;1;
 gov_muslim_aristocratic_monarchy;monarchy;iqta;2;
