@@ -2873,17 +2873,18 @@
  east_tennessee_area_name:0 "East Tennessee"
  east_tennessee_area_adj:0 "East Tennessean"
  east_tennessee_area:0 "East Tennessee"
-
-
-
-
-
-
-
-
- 
-
-
+ cook_strait_area_name:0 "Cook Strait"
+ cook_strait_area:0 "Cook Strait"
+ cook_strait_area_adj:0 "Cook"
+ auckland_area_name:0 "Auckland"
+ auckland_area:0 "Auckland"
+ auckland_area_adj:0 "Jaffa"
+ west_coast_area_name:0 "West Coast"
+ west_coast_area:0 "West Coast"
+ west_coast_area_adj:0 "West Coaster"
+ canterbury_area_name:0 "Canterbury"
+ canterbury_area:0 "Canterbury"
+ canterbury_area_adj:0 "Canterburian"
 
 
 
