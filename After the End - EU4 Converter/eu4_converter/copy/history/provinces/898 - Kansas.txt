@@ -26,6 +26,6 @@ discovered_by = nomad_group
 	#owner = OSA
 	#controller = OSA
 	#add_core= OSA
-	trade_goods = grain
+	trade_goods = unknown
 	is_city = no 
 } #Osage-Kansas alliance

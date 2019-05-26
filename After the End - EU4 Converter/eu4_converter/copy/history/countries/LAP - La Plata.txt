@@ -1,0 +1,7 @@
+government = monarchy 
+add_government_reform = feudalism_reform
+technology_group = south_american
+religion = cult_of_saints
+primary_culture = platinean
+capital = 778	# Santa María del Buen Ayre
+

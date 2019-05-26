@@ -170,21 +170,23 @@ trade_company_north_india = {
 	# }
 # }
 
-# trade_company_philippines = {
-	# color = { 0 200 150 }
+trade_company_philippines = {
+	color = { 0 200 150 }
 	
-	# provinces = {
-		# 651 652 653 654 655 656 657 658 1235 1241 1990 1991 1992 1993 1994 1995 1996 2697 2698 2699 2700 2701 2702 1397 
-	# }
+	provinces = {
+		651 652 653 654 655 656 657 658 1235 1241 1990 1991 1992 1993 1994 1995 1996 2697 2698 2699 2700 2701 2702 1397 
+		4348 4349 4350 4356 4351 4352 4353 4355 4354
+		4832 4833 4834 4835
+	}
 
-	# # Generic
-	# names = {
-		# name = "TRADE_COMPANY_PHILIPPINES_Root_Culture_GetName"
-	# }
-	# names = {
-		# name = "TRADE_COMPANY_PHILIPPINES_Indonesia_Trade_Company"
-	# }
-# }
+	# Generic
+	names = {
+		name = "TRADE_COMPANY_PHILIPPINES_Root_Culture_GetName"
+	}
+	names = {
+		name = "TRADE_COMPANY_PHILIPPINES_Indonesia_Trade_Company"
+	}
+}
 
 # trade_company_moluccas = {
 	# color = { 196 191 61 }
@@ -281,7 +283,7 @@ trade_company_bolivia = {
 	color = { 200 0 0 }
 	
 	provinces = {
-		795 797 800 801 802 803 2831 2832 2833 2834 2835 2838 2940 2941 2942 2946 2947
+		795 797 800 801 802 803 2831 2832 2833 2834 2835 2838 2882 2940 2941 2942 2946 2947
 	}
 	
 	# Specific
@@ -318,6 +320,7 @@ trade_company_chile = {
 	
 	provinces = {
 		783 784 787 792 793 796 2840 2841 2862 2873 2874
+		791 794 2836 2837 2839  #tucuman
 	}
 	
 	# Specific
@@ -349,12 +352,66 @@ trade_company_patagonia = {
 	}
 }
 
+trade_company_amazon = {
+	color = { 57 160 0 }
+	
+	provinces = {
+		2889 2930 2933 2934
+		747 2935 2938
+		748 2890 2928 2929
+		752 2886 2925
+		749 2923 2924 2926 2927
+		750 751 753
+		754 755 2912 2921 2922
+		756 757 760 2914 2916
+		2885 2913 2915 2917 2918
+		2909 2910 2911
+	}
+	
+	# Specific
+	# Generic
+	names = {
+		name = "TRADE_COMPANY_AMAZON_Root_Culture_GetName"
+	}
+	names = {
+		name = "TRADE_COMPANY_AMAZON_South_America_Trade_Company"
+	}
+}
+
+trade_company_south_brazil = {
+	color = { 57 160 101 }
+	
+	provinces = {
+		2888 2903 2904 2905 
+		2881 2893 2920 
+		2900 2901 2902 
+		766 769 2896 
+		768 2895 2897 
+		761 762 763 764
+		758 2906 2907 2908 2919
+		759 2898 2891
+		765 2892 2894 2899
+		2857 2879 2884 2887
+	}
+	
+	# Specific
+	# Generic
+	names = {
+		name = "TRADE_COMPANY_SOUTH_BRAZIL_Root_Culture_GetName"
+	}
+	names = {
+		name = "TRADE_COMPANY_SOUTH_BRAZIL_South_America_Trade_Company"
+	}
+}
+
 trade_company_uruguay = {
 	color = { 0 175 0 }
 	
 	provinces = {
-		777 778 2846 2848 2849 2853 2855 2858 2859
+		777 778 2842 2846 2848 2849 2853 2855 2858 2859
 		772 773 2850 2851 2852
+		775 776 799 2883 #Paraguay
+		790 2854 2878 #Chaco
 	}
 	
 	# Specific
@@ -367,7 +424,38 @@ trade_company_uruguay = {
 	}
 }
 
-# Unused - Argentina and Paraguay
-# 791 794 2836 2837 2839 2842 #tucuman
-# 790 2854 2878 #Chaco
-# 775 776 799 2882 2883 #Paraguay
+trade_company_polynesia = {
+	color = { 30 200 80 }
+
+	provinces = {
+		1235 1239 1240 1241 1242 1243 1244
+		1986 1987 1988 1989 1990 1991 1992 1993 1994 1995 1996 1997
+	}
+
+	names = {
+		name = "TRADE_COMPANY_POLYNESIA_Root_Culture_GetName"
+	}
+	names = {
+		name = "TRADE_COMPANY_POLYNESIA_Trade_Company"
+	}
+}
+
+
+# Japan (30)
+trade_company_japan = {
+	color = { 230 230 70 }
+
+	provinces = {
+		1012 1014 1015 1017 1018 1019 1020 1021 1023 1024 1025 1026 1027 1028 1029 1030 1031 1032
+		1818 1819 1820 1825 1830 1832 1835 1837 1839 1843 1847 1852
+		4131 4180 4181 4182 4186 4183 4184 4185 1832 4188 4189 
+		4190 4191 4192 4193 1832 4187 4359 4360
+	}
+
+	names = {
+		name = "TRADE_COMPANY_JAPAN_Root_Culture_GetName"
+	}
+	names = {
+		name = "TRADE_COMPANY_JAPAN_Trade_Company"
+	}
+}

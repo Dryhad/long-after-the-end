@@ -1,5 +1,9 @@
 # - Camana
 
+owner = PEU
+controller = PEU
+add_core= PEU
+is_city = yes
 culture = aimara
 religion = inti
 capital = "Camana"
@@ -14,28 +18,7 @@ native_hostileness = 1
 
 
 
-discovered_by = south_american
+discovered_by = south_american 
 discovered_by = andean
-
-
-# = {
-	#owner = INC
-	#controller = INC
-	#add_core= INC
-	is_city = no
-	trade_goods = fish
-}
-# = {
-	#discovered_by = SPA 
-	#owner = SPA
-	#controller = SPA
-	#add_core= SPA
-	culture = castillian
-	religion = catholic
-	trade_goods = fish
-} # Diego de Almagro
-# = {
-	#owner = CHL
-	#controller = CHL
-	#add_core= CHL
-} # First National Government Junta
+discovered_by = brazilian
+discovered_by = andean

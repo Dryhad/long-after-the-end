@@ -1,0 +1,23 @@
+#4397 - Homs
+
+owner = ASY
+controller = ASY
+add_core = ASY
+culture = al_suryah_arabic
+religion = nestorian
+capital = "Homs"
+trade_goods = cotton
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 1
+#is_city = yes
+#add_core = SYR
+#add_core = FAD
+#add_core = MAM
+discovered_by = east_african
+discovered_by = high_american
+
+discovered_by = indian
+
+

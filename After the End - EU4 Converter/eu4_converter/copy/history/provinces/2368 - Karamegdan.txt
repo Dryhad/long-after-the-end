@@ -28,15 +28,22 @@ discovered_by = KAS
 	#owner = KZH
 	#controller = KZH
 	remove_core = CHG 
-} # Kazakh horde forms
+#} # Kazakh horde forms
 # = { discovered_by = RUS }
 # = {
 	#owner = OIR 
 	#controller = OIR
 	#add_core= OIR 
-} # Dzungarian invasion
+#} # Dzungarian invasion
 # = {
 	#owner = QNG
 	#controller = QNG
 	#add_core= QNG
-}
+#}
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+discovered_by = NRU 
+discovered_by = NRA

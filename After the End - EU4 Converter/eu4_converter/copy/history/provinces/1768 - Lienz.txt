@@ -16,5 +16,10 @@ hre = no
 
 
 
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
 discovered_by = indian
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

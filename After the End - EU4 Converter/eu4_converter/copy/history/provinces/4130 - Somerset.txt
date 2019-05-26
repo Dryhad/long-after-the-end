@@ -2,21 +2,23 @@
 
 #owner = ENG
 #controller = ENG
-culture = british
+culture = chav
 religion = thelemic
 hre = no
-base_tax = 1
-base_production = 1
+base_tax = 3
+base_production = 3
 trade_goods = unknown
-base_manpower = 1
+base_manpower = 2
 capital = "Bath"
 is_city = no
 estate = estate_church
 #add_core= ENG
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
 discovered_by = indian
 discovered_by = indian
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
 
 # = { unrest = 5 } # Start of the War of the Roses
 # = { unrest = 0 revolt = { type = pretender_rebels size = 0 } #controller = REB } # Increasing Yorkist Support in the South
@@ -32,4 +34,9 @@ discovered_by = high_american
 	#controller = GBR
 	#add_core= GBR
 	remove_core = ENG
-}
+#}
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

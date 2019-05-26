@@ -1,0 +1,19 @@
+government = tribal 
+add_government_reform = steppe_horde
+primary_culture = khazak
+religion = sunni
+technology_group = indian
+capital = 456	#Turkestan
+religious_school = hanafi_school
+
+
+
+3000.1.1 = {
+	monarch = {
+		name = "Ghubaydulla"
+		dynasty = "Edigüid"
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+}

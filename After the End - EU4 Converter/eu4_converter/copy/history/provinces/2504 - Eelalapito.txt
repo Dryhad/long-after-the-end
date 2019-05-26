@@ -26,6 +26,6 @@ discovered_by = nomad_group
 	#controller = CHY
 	#add_core= CHY
 	culture = cheyenne
-	trade_goods = grain
+	trade_goods = unknown
 	is_city = no 
 } #19th century native expansion

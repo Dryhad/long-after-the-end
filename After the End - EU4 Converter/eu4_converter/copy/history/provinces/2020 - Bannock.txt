@@ -3,7 +3,7 @@
 culture = shoshone
 religion = totemism 
 capital = "Bannock"
-trade_goods = fur 
+trade_goods = unknown
 hre = no 
 base_tax = 4
 base_production = 4
@@ -26,3 +26,9 @@ discovered_by = nomad_group
 
 # = { discovered_by = USA } #Lewis and Clark
 
+
+discovered_by = NRU 
+discovered_by = NRA
+
+discovered_by = NRU 
+discovered_by = NRA

@@ -35,6 +35,6 @@ discovered_by =  mesoamerican
 	is_city = no
 	culture = castillian
 	religion = catholic
-	trade_goods = wool
+	trade_goods = unknown
 }
 # = { #owner = MEX #add_core= MEX #controller = SPA } # Mexican War of Independence

@@ -1,6 +1,6 @@
 #1103 - Bourbon
 
-culture = madagascan
+culture = madagasque
 religion = hinduism
 capital = "Bourbon"
 trade_goods = unknown

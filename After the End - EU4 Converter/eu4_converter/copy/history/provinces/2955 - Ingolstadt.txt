@@ -7,7 +7,7 @@ culture = bavarian
 religion = matrem
 base_tax = 1
 base_production = 1
-trade_goods = unknown beer over time
+trade_goods = unknown
 base_manpower = 1
 capital	= "Ingolstadt" 
 is_city = yes
@@ -15,5 +15,6 @@ hre = no
 
 
 
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
 discovered_by = indian

@@ -15,4 +15,8 @@ galloamerican = {
 		primary = LOU
 		dynasty_names = $cajun$
 	}
+	ontarois = {
+		primary = ONT
+		dynasty_names = $ontarois$
+	}
 }

@@ -35,7 +35,7 @@ discovered_by =  mesoamerican
 	religion = catholic
 	capital = "San Luis Rey de Francia"
 	culture = castillian
-	trade_goods = wool 
+	trade_goods = unknown
 } # First Spanish colonists
 # = { capital = "Monterrey" }
 # = { #owner = MEX #add_core= MEX #controller = MEX } # Mexican War of Independence

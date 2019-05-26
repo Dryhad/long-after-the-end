@@ -31,10 +31,17 @@ discovered_by = indian
 	#controller = VIE
 	#add_core= VIE
 	remove_core = LXA
-} # Lan Xangs declared itself independent, partitioned into three kingdoms; Vientiane, Champasak & Luang Prabang
+#} # Lan Xangs declared itself independent, partitioned into three kingdoms; Vientiane, Champasak & Luang Prabang
 # = {
 	#owner = CHK
 	#controller = CHK
 	#add_core= CHK
 	remove_core = VIE
-}
+#}
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+discovered_by = NRU 
+discovered_by = NRA

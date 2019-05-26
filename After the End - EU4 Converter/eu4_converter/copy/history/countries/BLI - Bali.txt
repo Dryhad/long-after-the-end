@@ -1,0 +1,17 @@
+government = despotic_monarchy
+primary_culture = javanese
+technology_group = chinese
+religion = hinduism
+capital = 631	# Bali
+
+
+3050.1.1 = {
+	monarch = {
+		name = "Dewa Pacekan"
+		dynasty = "Klungkung"
+		birth_date = 3020.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

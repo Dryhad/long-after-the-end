@@ -1,0 +1,20 @@
+government = monarchy 
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = south_american
+primary_culture = baiano
+religion = cult_of_saints
+clear_scripted_personalities = yes
+capital = 756
+3053.1.1 {
+	capital = 756
+	monarch = {
+		name = "João"
+		birth_date = 3012.4.2
+		dynasty = "Freire de Andrade"	
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}

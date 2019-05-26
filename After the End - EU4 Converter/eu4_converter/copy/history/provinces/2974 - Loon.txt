@@ -14,8 +14,10 @@ base_manpower = 1
 
 
 
-discovered_by = high_american
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
+discovered_by = high_american 
+discovered_by = RED
 discovered_by = indian
 discovered_by = indian
 
@@ -33,11 +35,15 @@ discovered_by = indian
 	#owner = FRA
 	#controller = FRA
 	#add_core= FRA
-} # Treaty of Campo Formio
+#} # Treaty of Campo Formio
 # = { hre = no } # The Holy Roman Empire is dissolved
 # = {
 	#owner = NED
 	#controller = NED
 	#add_core= NED
 	remove_core = FRA
-} # The United Kingdom of the Netherlands
+#} # The United Kingdom of the Netherlands
+
+native_size = 5
+native_ferocity = 10
+native_hostileness = 10

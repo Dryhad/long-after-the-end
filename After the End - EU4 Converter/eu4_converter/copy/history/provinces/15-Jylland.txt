@@ -1,10 +1,7 @@
 #15 - Western Jutland, incl. Ribe and Ringkøbing
 
-#owner = DAN
-#controller = DAN
-#add_core= DAN
 culture = danish
-religion = catholic
+religion = norse_pagan_reformed
 hre = no
 base_tax = 1
 base_production = 1
@@ -12,25 +9,11 @@ trade_goods = unknown
 base_manpower = 1
 capital = "Ribe"
 is_city = no
-estate = estate_nobles
-discovered_by = high_american
-discovered_by = high_american
-discovered_by = indian
+discovered_by = high_american 
+discovered_by = RED
 discovered_by = indian
 
 
-# = { revolt = { type = revolutionary_rebels size = 1 } #controller = REB } # 'Grevefejden'(Christofer of Oldenburg)
-# = { revolt = {} #controller = DAN } # Liberated by Christian III
-# = { religion = protestant }
-# = {
-	#controller = HAB
-}
-# = {
-	#controller = DAN
-}
-# = { #controller = SWE } # Torstenssons War- Captured by Lennart Torstensson
-# = { #controller = DAN } # The Peace of Brömsebro
-# = {
-	fort_15th = no
-	fort_17th = yes
-}
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

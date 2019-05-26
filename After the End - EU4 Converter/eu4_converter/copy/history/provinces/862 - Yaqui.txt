@@ -3,7 +3,7 @@
 culture = piman 
 religion = animism 
 capital = "Yaqui" 
-trade_goods = unknown 
+trade_goods = unknown
 hre = no 
 base_tax = 1
 base_production = 1
@@ -25,15 +25,6 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by =  mesoamerican
 
-# = { discovered_by = SPA }
 
-# = {
-	#owner = SPA
-	#controller = SPA
-	#add_core= SPA
-	is_city = no
-	culture = castillian
-	religion = catholic
-	trade_goods = wool 
-}
-# = { #owner = MEX #add_core= MEX #controller = SPA } # Mexican War of Independence
+discovered_by = NRU 
+discovered_by = NRA

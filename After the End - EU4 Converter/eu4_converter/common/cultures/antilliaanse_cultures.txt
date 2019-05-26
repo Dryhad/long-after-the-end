@@ -3,6 +3,7 @@ antilliaanse = {
 		dynasty_names = $papiamen$
 	}
 	sranan = {
+		primary = SUR
 		dynasty_names = $sranan$
 	}
 }

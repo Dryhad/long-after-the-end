@@ -1,64 +1,18 @@
 #260 - Lublin
 
-#owner = POL
-#controller = POL
 capital= "Lublin"
 culture = polish
-religion = catholic
+religion = matrem
 trade_goods = unknown
 hre = no
 base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = no
-estate = estate_nobles
-#add_core= POL
-
-
-discovered_by = KAZ
-discovered_by = CRI
-discovered_by = GOL
-discovered_by = AST
-discovered_by = QAS
-discovered_by = high_american
-discovered_by = high_american
-discovered_by = indian
+discovered_by = high_american 
+discovered_by = RED
 discovered_by = indian
 
-
-# = { unrest = 6 } # Uprising led by Mukha
-# = { unrest = 0 } 
-# = { religion = reformed }
-# = {
-	#owner = PLC
-	#controller = PLC
-	remove_core = POL
-	#add_core= PLC
-} # Union of Lublin
-# = { revolt = { type = revolutionary_rebels size = 0 } #controller = REB } # Civil war
-# = { revolt = {} #controller = PLC } # Coronation of Sigismund III
-# = { unrest = 4 } # Religious struggles, union of Brest
-# = { unrest = 0 }
-# The Deluge
-# = { revolt = { type = revolutionary_rebels size = 0 } #controller = REB } # The war of Polish succession
-# = { revolt = {} #controller = PLC }
-# = { unrest = 4 } # Struggle against serfdom
- # Second settlement patent
-# = { unrest = 8 } # Kosciuszko uprising
-# = { unrest = 0 } # The end of the uprising
-# = {
-	#owner = HAB
-	#controller = HAB
-	#add_core= HAB
-} # Third partition of Poland
-# = {
-	#owner = POL
-	#controller = POL
-	#add_core= POL
-	remove_core = HAB
-} # The Duchy of Warsaw is established after the treaty of Tilsit, ruled by Frederick Augustus I of Saxony
-# = { #controller = RUS }
-# = {
-	#owner = RUS
-	#add_core= RUS
-} # Napoleon abdicates
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

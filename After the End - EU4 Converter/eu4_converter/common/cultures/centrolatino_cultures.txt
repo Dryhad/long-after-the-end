@@ -4,6 +4,7 @@ centrolatino = {
 		dynasty_names = $chapin$
 	}
 	istmeno = {
+		primary = PNM
 		dynasty_names = $istmeno$
 	}
 }

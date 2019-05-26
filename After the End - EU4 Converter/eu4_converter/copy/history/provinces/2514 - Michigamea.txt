@@ -26,39 +26,43 @@ discovered_by = nomad_group
 	#controller = ILL
 	#add_core= ILL
 	is_city = no 
-}
-# = { discovered_by = FRA } # Médard Chouart Des Groseilliers
+
+# = { discovered_by = FRA  # Médard Chouart Des Groseilliers
 # = {
 	#owner = XXX
 	#controller = XXX
 	is_city = no
 	culture = illini 
-	} #Vast areas left deserted after the Beaver Wars and the Iroquois withdrawal
+	 #Vast areas left deserted after the Beaver Wars and the Iroquois withdrawal
 # = {
 	#owner = FRA
 	#controller = FRA
 	#add_core= FRA
 	is_city = no
-	trade_goods = grain
+	trade_goods = unknown
 	religion = catholic
 	culture = cosmopolitan_french
-}
+
 # = {
 	#owner = SPA
 	#controller = SPA
 	#add_core= SPA
 	remove_core = FRA
-} # Treaty of Fontainebleau, secretely ceded to Spain
+ # Treaty of Fontainebleau, secretely ceded to Spain
 # = {
 	#owner = FRA
 	#controller = FRA
 	#add_core= FRA
 	remove_core = SPA
 	culture = cosmopolitan_french
-} # Treaty of San Ildefonso
+ # Treaty of San Ildefonso
 # = {
 	#owner = USA
 	#controller = USA
 	#add_core= USA
 	remove_core = FRA
-} # The Louisiana purchase
+ # The Louisiana purchase
+
+discovered_by = GBR
+
+discovered_by = GBR

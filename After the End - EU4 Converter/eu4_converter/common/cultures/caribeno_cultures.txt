@@ -1,14 +1,23 @@
 caribeno = {
 	cubano = {
+		primary = CUB
 		dynasty_names = $cubano$
 	}
 	dominicano = {
+		primary = DOM
 		dynasty_names = $dominicano$
 	}
 	boricua = {
+		primary = PTR
 		dynasty_names = $boricua$
 	}
 	nuyorican = {
 		dynasty_names = $nuyorican$
+	}
+	yanquito = {
+		dynasty_names = $yanquito$
+	}
+	afrocubano = {
+		dynasty_names = $afrocubano$
 	}
 }

@@ -24,19 +24,25 @@ discovered_by = indian
 	#controller = KSD
 	#owner = KSD
 	#add_core= KSD 
-}
+#}
 # = { discovered_by = SPA }#Novus Atlas Sinensis
 # = {
 	#owner = ZUN
 	#controller = ZUN
-} #Zunghar invasion of Tibet
+#} #Zunghar invasion of Tibet
 # = {
 	#owner = UTS
 	#controller = UTS
 	#add_core= UTS
-}
+#}
 # = {
 	#owner = QNG
 	#controller = QNG
 	#add_core= QNG
-} # U-tsang integrated into Qing empire after Sino-nepalese war
+#} # U-tsang integrated into Qing empire after Sino-nepalese war
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+discovered_by = NRU 
+discovered_by = NRA

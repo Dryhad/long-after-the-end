@@ -2,8 +2,10 @@
 
 
 
-discovered_by = high_american
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
+discovered_by = high_american 
+discovered_by = RED
 discovered_by = SWE
 discovered_by = NOR
 discovered_by = DAN
@@ -22,3 +24,8 @@ discovered_by = PLT
 discovered_by = SMO
 discovered_by = NZH
 
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

@@ -3,7 +3,7 @@
 #owner = HSE
 #controller = HSE
 culture = karen
-religion = animism
+religion = buddhism
 capital = "Mong Pai"
 trade_goods = tropical_wood
 hre = no
@@ -24,7 +24,7 @@ discovered_by = indian
 	#owner = SST
 	#add_core= SST
 	remove_core = HSE
-}
+#}
 # = { discovered_by = POR }
 # = { #add_core= TAU }
 # = { #controller = TAU } # The Shan dynasty is overthrown
@@ -32,16 +32,23 @@ discovered_by = indian
 # = {
 	#owner = SST
 	#controller = SST
-}
+#}
 # = {
 	#owner = TAU
 	#controller = TAU
-}
+#}
 # = {
 	#owner = SST
 	#controller = SST
-}
+#}
 # = {
 	#owner = TAU
 	#controller = TAU
-}
+#}
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+discovered_by = NRU 
+discovered_by = NRA

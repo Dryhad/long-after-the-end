@@ -1,6 +1,8 @@
 government_rank = 1
-government = merchant_republic
+government = republic 
+add_government_reform = merchants_reform
 primary_culture = al_iraqiya_arabic
 religion = shiite
 technology_group = indian
 capital = 2340	# Kuwait
+religious_school = jafari_school

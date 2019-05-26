@@ -15,8 +15,10 @@ base_manpower = 1
 
 
 
-discovered_by = high_american
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
+discovered_by = high_american 
+discovered_by = RED
 discovered_by = indian
 discovered_by = indian
 
@@ -42,3 +44,8 @@ discovered_by = indian
 # = { unrest = 5 }
 # = { unrest = 0 }
 # = { hre = no } # The Holy Roman Empire is dissolved
+
+
+native_size = 5
+native_ferocity = 10
+native_hostileness = 10

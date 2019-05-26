@@ -26,10 +26,17 @@ discovered_by = indian
 	#owner = ZUN
 	#controller = ZUN
 	#add_core= ZUN
-}
+#}
 # = {
 	#owner = KAS
 	#controller = KAS
 	#add_core= KAS 
-}
+#}
 # = { #owner = QNG #controller = QNG #add_core= QNG } # Part of the Manchu empire
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+discovered_by = NRU 
+discovered_by = NRA

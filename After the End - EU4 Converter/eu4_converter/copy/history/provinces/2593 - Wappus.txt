@@ -30,7 +30,7 @@ discovered_by = nomad_group
 	culture = cosmopolitan_french
 	religion = catholic
 	is_city = no
-	trade_goods = fur
+	trade_goods = unknown
  } #Fort St Charles
 # = {
 	#discovered_by = GBR

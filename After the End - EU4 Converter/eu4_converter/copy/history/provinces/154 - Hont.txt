@@ -15,8 +15,10 @@ estate = estate_nobles
 fort_15th = yes #Spiš castle, Eger Castle, Orava
 #add_core= HUN
 #add_core= SLO
-discovered_by = high_american
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
+discovered_by = high_american 
+discovered_by = RED
 discovered_by = indian
 discovered_by = indian
 discovered_by = KAZ
@@ -35,7 +37,7 @@ discovered_by = QAS
 	#owner = HAB
 	#controller = HAB
 	#add_core= HAB
-} #Hungary fractured after Battle of Mohacs
+#} #Hungary fractured after Battle of Mohacs
 # = { religion = protestant } # Synod of Erdod
 # = { religion = reformed } # Synod of Debrecen
 # = { fort_15th = no fort_16th = yes } # New Start Fort of Érsekújvár
@@ -46,3 +48,8 @@ discovered_by = QAS
 # = { revolt = { type = nationalist_rebels size = 2 } #controller = REB } # Kuruc rebellion, lead by Francisc Rakoczy
 # = { revolt = {} } # Plague
 # = { #controller = HAB } # The House of Habsburg recognized as the new ruler
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

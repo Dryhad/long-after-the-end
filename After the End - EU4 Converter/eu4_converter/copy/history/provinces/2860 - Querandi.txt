@@ -1,38 +1,21 @@
 # - Querandi
 
-culture = het
-discovered_by = south_american
-religion = animism
+owner = LAP
+controller =LAP
+religion = cult_of_saints
+add_core = LAP
+culture = platinean
+discovered_by = south_american 
+discovered_by = andean
+discovered_by = brazilian
+religion = cult_of_saints
 capital = "Querandi"
 trade_goods = unknown
+is_city = yes
 hre = no
-base_tax = 1 
-base_production = 1
-base_manpower = 1
+base_tax = 4
+base_production = 4
+base_manpower = 2
 native_size = 5
 native_ferocity = 1
 native_hostileness = 1
-
-
-
-
-# = { discovered_by = SPA }
-
-# = {
-	#owner = SPA
-	#controller = SPA
-	#add_core= SPA
-	is_city = no
-	capital = "Lobos"
-	culture = castillian
-	religion = catholic
-	trade_goods = wool
-}
-# = { unrest = 6 } # Desire for independence
-# = {
-	#owner = LAP
-	#controller = LAP
-	#add_core= LAP
-	remove_core = SPA
-	unrest = 0
-} # Argentina is declared independent

@@ -27,13 +27,20 @@ discovered_by = indian
 	#owner = SHY
 	#controller = SHY
 	#add_core= SHY
-} # Muhammad Shaybani
+#} # Muhammad Shaybani
 # = { 
 	#owner = BUK 
 	#add_core= BUK
 	#controller = BUK
 	remove_core = SHY
 	remove_core = TIM 
-} # The Uzbek Shaybanids brings an end to the Timurid dynasty
+#} # The Uzbek Shaybanids brings an end to the Timurid dynasty
 # = { discovered_by = RUS }
 # = { #owner = KOK #controller = KOK remove_core = BUK }
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+discovered_by = NRU 
+discovered_by = NRA

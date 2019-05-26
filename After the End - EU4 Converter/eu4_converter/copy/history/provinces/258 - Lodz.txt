@@ -1,59 +1,19 @@
 #258 - Lodz
 
-#owner = POL
-#controller = POL
 capital = "Sieradz"
 culture = polish
-religion = catholic
+religion = matrem
 trade_goods = unknown
 hre = no
 base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = no
-#add_core= POL
-
-
-discovered_by = KAZ
-discovered_by = CRI
-discovered_by = GOL
-discovered_by = AST
-discovered_by = QAS
-discovered_by = high_american
-discovered_by = high_american
-discovered_by = indian
+discovered_by = high_american 
+discovered_by = RED
 discovered_by = indian
 
 
-# = {
-	#owner = PLC
-	#controller = PLC
-	remove_core = POL
-	#add_core= PLC
-} # Union of Lublin
-# = { revolt = { type = revolutionary_rebels size = 0 } #controller = REB } # Civil war
-# = { revolt = {} #controller = PLC } # Coronation of Sigismund III
-# = { revolt = { type = revolutionary_rebels size = 0 } #controller = REB } # Civil war
-# = { revolt = {} #controller = PLC } # Minor victory of Sigismund
-# = { #controller = SWE } # The Deluge
-# = { #controller = PLC }
-# = { revolt = { type = revolutionary_rebels size = 0 } #controller = REB } # The war of Polish succession
-# = { revolt = {} #controller = PLC }
-# = {
-	#controller = PRU
-	#owner = PRU
-	#add_core= PRU
-} # Second partition
-# = { revolt = { type = nationalist_rebels size = 0 } #controller = REB } # Polish uprising instigated by Napoleon
-# = {
-	revolt = {}
-	#owner = POL
-	#controller = POL
-	#add_core= POL
-	remove_core = PRU
-} # The Duchy of Warsaw is established after the treaty of Tilsit, ruled by Frederick Augustus I of Saxony
-# = { #controller = RUS }
-# = {
-	#owner = RUS
-	#add_core= RUS
-} # Napoleon abdicates. Congress Poland, under Russian control after the Congress of Vienna
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

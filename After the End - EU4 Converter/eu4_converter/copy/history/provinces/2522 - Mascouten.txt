@@ -25,28 +25,29 @@ discovered_by = nomad_group
 	#owner = POT
 	#controller = POT
 	is_city = no
-	trade_goods = fur
+	trade_goods = unknown
 	#add_core= POT
 	culture = anishinabe 
-} #Around the time of the Beaver Wars
-# = { discovered_by = FRA } # Médard Chouart Des Groseilliers
-# = { discovered_by = ENG }
+ #Around the time of the Beaver Wars
+# = { discovered_by = FRA  # Médard Chouart Des Groseilliers
+# = { discovered_by = ENG 
 # = { 
 	#owner = IRO
 	#controller = IRO
 	culture = iroquois 
-} #Taken by Iroquois in Beaver Wars.
+ #Taken by Iroquois in Beaver Wars.
 # = {
 	#owner = POT
 	#controller = POT
 	is_city = no
 	culture = anishinabe 
-} #Retaken by French/Allies in Beaver Wars
-# = { discovered_by = GBR }
+ #Retaken by French/Allies in Beaver Wars
+# = { discovered_by = GBR 
 # = {
 	#owner = USA
 	#controller = USA
 	#add_core= USA
 	culture = american
 	religion = protestant 
-} #The death of Tecumseh mark the end of organized native resistance 
+ #The death of Tecumseh mark the end of organized native resistance 
+discovered_by = GBR

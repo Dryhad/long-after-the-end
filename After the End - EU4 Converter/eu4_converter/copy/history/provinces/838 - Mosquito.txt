@@ -31,5 +31,5 @@ discovered_by =  mesoamerican
 	religion = protestant
 	culture = english
 	is_city = no
-	trade_goods = coffee
+	trade_goods = unknown
 } # Treaty of Friendship & Alliance, British protectorate 

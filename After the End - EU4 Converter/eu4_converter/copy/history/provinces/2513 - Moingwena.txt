@@ -26,14 +26,16 @@ discovered_by = nomad_group
 	#controller = ILL
 	#add_core= ILL
 	is_city = no 
-}
-# = { discovered_by = FRA } # Robert Cavelier de La Salle
+
+# = { discovered_by = FRA  # Robert Cavelier de La Salle
 # = {
 	#owner = USA
 	#controller = USA
 	#add_core= USA
-	trade_goods = grain
+	trade_goods = unknown
 	religion = protestant
 	culture = american 
-} #Fort Madison
+ #Fort Madison
 
+
+discovered_by = GBR

@@ -1,8 +1,9 @@
 # Utopia Limited, or Dryhad fanboys out over Gilbert & Sullivan
-government = feudal_monarchy
+government = monarchy 
+add_government_reform = feudalism_reform
 government_rank = 2
 technology_group = chinese
-primary_culture = polynesian # Dunno if we want a new culture
+primary_culture = gilbertese
 religion = consumerist
 capital = 1991 # Gilbert Islands, geddit?
 
@@ -21,6 +22,7 @@ capital = 1991 # Gilbert Islands, geddit?
 		monarch_name = "Zara I"
 		dynasty = "Tarara"
 		birth_date = 3026.7.17
+		death_date = 3100.1.1
 		claim = 95
 		adm = 5
 		dip = 5
@@ -30,8 +32,8 @@ capital = 1991 # Gilbert Islands, geddit?
 }
 
 3052.10.7 = {
-	leader = { name = "Arthur Fitzbattleaxe"	type = general	rank = 0	fire = 3	shock = 3	manuever = 3	siege = 0 }
-	leader = { name = "Edward Corcoran"	type = admiral	rank = 0	fire = 3	shock = 3	manuever = 3	siege = 0 } # What, never? No, never!
+	leader = { name = "Arthur Fitzbattleaxe"	type = general	fire = 3	shock = 3	manuever = 3	siege = 0 }
+	leader = { name = "Edward Corcoran"	type = admiral	fire = 3	shock = 3	manuever = 3	siege = 0 } # What, never? No, never!
 	# Other flowers of progress?
 	
 	queen = {

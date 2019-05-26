@@ -1,0 +1,25 @@
+#4394 - Sulimaniyeh
+
+owner = BSU
+controller = BSU
+add_core = BSU
+culture = kurdish
+religion = nestorian
+capital = "Sulimaniyeh"
+trade_goods = wool
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 2
+is_city = yes
+add_core = ASY
+#add_core = BHT
+#add_core = ARD
+discovered_by = east_african
+discovered_by = high_american
+discovered_by = indian 
+discovered_by = RED
+
+
+
+

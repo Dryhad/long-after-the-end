@@ -1,0 +1,17 @@
+government = republic 
+add_government_reform = oligarchy_reform
+technology_group = chinese
+religion = cult_of_saints
+primary_culture = filipino
+capital = 2701 #Tagloc
+
+3050.1.1 = {
+	monarch = {
+		name = "Carlos"
+		dynasty = "Bartholome"
+		birth_date = 3007.2.5
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+}

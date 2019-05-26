@@ -1,30 +1,21 @@
 # - Montevideo
 
-culture = charruan
-discovered_by = south_american
-religion = candomble
+owner = URU
+controller = URU
+	religion = cult_of_saints
+add_core= URU
+is_city = yes
+culture = litoraleno
+discovered_by = south_american 
+discovered_by = andean
+discovered_by = brazilian
+religion = cult_of_saints
 capital = "Montevideo"
 trade_goods = grain
 hre = no
-base_tax = 2 
-base_production = 1
-base_manpower = 1
+base_tax = 6
+base_production = 6
+base_manpower = 5
 native_size = 5
 native_ferocity = 1
 native_hostileness = 5	
-
-
-
-
-# = { discovered_by = SPA }
-# = { discovered_by = POR } # Estimate
-
-# = {
-	#owner = SPA
-	#controller = SPA
-	#add_core= SPA
-	culture = castillian
-	religion = candomble
-	trade_goods = grain
-} # Portugese colony
-# = {	is_city = no }

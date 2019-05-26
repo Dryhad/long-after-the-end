@@ -319,6 +319,12 @@ estate_church =
 			religion = americanist
 		}
 	}
+	custom_name = {
+		desc = estate_tech_priests #Could also be railroads based on individual titles
+		trigger = {
+			religion = rust_cultist
+		}
+	}
 	
 	# For province assignment
 	ai_grant_province = {

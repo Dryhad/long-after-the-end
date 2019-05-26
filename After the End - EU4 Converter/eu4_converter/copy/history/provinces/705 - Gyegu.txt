@@ -24,21 +24,28 @@ discovered_by = indian
 	#controller = KSD
 	#owner = KSD
 	#add_core= KSD 
-}
+#}
 # = {
 	#owner = ZUN
 	#controller = ZUN
-} #Zunghar invasion of Tibet
+#} #Zunghar invasion of Tibet
 # = {
 	#owner = KSD
 	#controller = KSD
 	#add_core= KSD
-}
+#}
 # = { discovered_by = SPA }
 # = {
 	#owner = QNG
 	#controller = QNG
 	#add_core= QNG
-} # Qinghai conquered by Qing
+#} # Qinghai conquered by Qing
 # = { revolt_risk = 7 } # Rebellion aginst the Chinese
 # = { revolt_risk = 0 }
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+discovered_by = NRU 
+discovered_by = NRA

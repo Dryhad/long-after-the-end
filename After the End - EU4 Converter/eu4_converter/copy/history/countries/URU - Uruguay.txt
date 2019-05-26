@@ -1,0 +1,19 @@
+government = monarchy 
+add_government_reform = feudalism_reform
+government_rank = 2
+technology_group = south_american
+religion = cult_of_saints
+primary_culture = litoraleno
+capital = 2850
+
+3053.1.1 {
+	capital = 2850
+	monarch = {
+		name = "Carlos"
+		birth_date = 2997.1.17
+		dynasty = "Gonzaga"
+		adm = 6
+		dip = 2
+		mil = 2
+	}
+}

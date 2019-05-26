@@ -1,0 +1,10 @@
+government = monarchy 
+add_government_reform = iqta
+technology_group = indian
+religion = sunni
+primary_culture = gulf_arabic
+capital = 398	# Sharjah
+religious_school = hanbali_school
+
+
+

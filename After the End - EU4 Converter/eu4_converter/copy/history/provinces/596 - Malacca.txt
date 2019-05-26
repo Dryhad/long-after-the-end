@@ -1,7 +1,7 @@
 #596 - Malacca
 
-#owner = MLC
-#controller = MLC
+owner = MSA
+controller = MSA
 culture = malayan
 religion = sunni
 capital = "Malacca"
@@ -10,11 +10,10 @@ hre = no
 base_tax = 7 
 base_production = 7
 base_manpower = 3
-is_city = no
-#add_core= MLC
+is_city = yes
+add_core= MSA
+add_core= MLC
 discovered_by = chinese
-discovered_by = indian
-discovered_by = indian
 discovered_by = indian
 
 extra_cost = 15
@@ -24,25 +23,9 @@ add_permanent_province_modifier = {
 	duration = -1
 }
 
-# = { discovered_by = POR } # Diego Lopez de Sequiera
-# = {
-	#owner = POR
-	#controller = POR
-	unrest = 8
-}# Conquered by the Portuguese, fierce resistance
-# = { fort_15th = yes }
-# = { unrest = 0 } # The Malay forces are finally subdued
-# = { #add_core= POR }
-# = {
-	#owner = NED
-	#controller = NED
-	remove_core = POR
-}# Conquered by the Dutch
-# = { #add_core= NED }
-# = {
-	#owner = GBR
-	#controller = GBR
-	remove_core = NED
-	fort_15th = no
-}# Captured by the British
-# = { #add_core= GBR }
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+discovered_by = NRU 
+discovered_by = NRA

@@ -28,7 +28,7 @@ discovered_by = nomad_group
 	#controller = SPA
 	#add_core= SPA
 	is_city = no
-	trade_goods = grain
+	trade_goods = unknown
 	religion = catholic
 	culture = castillian 
 } #Isleta Mission

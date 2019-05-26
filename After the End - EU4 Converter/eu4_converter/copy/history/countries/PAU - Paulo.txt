@@ -1,0 +1,19 @@
+government = monarchy 
+add_government_reform = feudalism_reform
+government_rank = 2
+technology_group = south_american
+religion = cult_of_saints
+primary_culture = paulistano
+capital = 769
+
+3053.1.1 {
+	capital = 769
+	monarch = {
+		name = "Pedro"
+		birth_date = 3008.2.23
+		dynasty = "Melo"
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}

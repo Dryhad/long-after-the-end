@@ -15,8 +15,10 @@ base_manpower = 1
 #add_core= ENG
 #add_core= FRA
 add_local_autonomy = 80
-discovered_by = high_american
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
+discovered_by = high_american 
+discovered_by = RED
 discovered_by = indian
 discovered_by = indian
 
@@ -25,7 +27,7 @@ discovered_by = indian
 	#controller = FRA
 	estate = estate_nobles
 	add_local_autonomy = -80
-}
+#}
 # = { remove_core = ALE }
 # = { unrest = 7 } # Mazarin arrests the Princes Condé, Conti & Longueville, the beginning of the Second Fronde
 # = { unrest = 4 } # An unstable peace is concluded
@@ -34,3 +36,8 @@ discovered_by = indian
 # = { unrest = 8 } # Edict of Nantes revoked by Louis XIV
 # = { religion = cult_of_reason unrest = 0 } # Dragonnard campaign succesful, region back to cult_of_reasonism
 # = { base_tax = 1ase_production = 1 # The Eden Agreement
+
+
+native_size = 5
+native_ferocity = 10
+native_hostileness = 10

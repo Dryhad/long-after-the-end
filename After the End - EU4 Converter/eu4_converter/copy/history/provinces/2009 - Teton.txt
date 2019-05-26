@@ -26,7 +26,7 @@ discovered_by = nomad_group
 	#owner = PAW
 	#controller = PAW
 	#add_core= PAW
-	trade_goods = fur
+	trade_goods = unknown
 	is_city = no 
 } #Horses allow plain tribes to expand
 # = {

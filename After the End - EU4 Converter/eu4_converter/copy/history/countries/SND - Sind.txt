@@ -1,0 +1,9 @@
+government = monarchy 
+add_government_reform = iqta
+technology_group = indian
+primary_culture = sindhi
+religion = sunni
+capital = 504	# Thatta
+religious_school = hanafi_school
+
+

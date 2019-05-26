@@ -27,9 +27,14 @@ discovered_by = indian
 	#owner = CZH
 	#controller = CZH
 	#add_core= CZH
-} # Three Feudatories
+#} # Three Feudatories
 # = {
 	#owner = QNG
 	#controller = QNG
 	#add_core= QNG
-}
+#}
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

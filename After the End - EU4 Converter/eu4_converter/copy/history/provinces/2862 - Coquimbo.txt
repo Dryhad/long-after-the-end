@@ -1,40 +1,26 @@
 # - Coquimbo
+base_tax = 4
+base_production = 4
+base_manpower = 2
+owner = MPC
+controller = MPC
+add_core = MPC
 
 culture = mapuche
 
 
 
-discovered_by = south_american
+discovered_by = south_american 
+discovered_by = andean
+discovered_by = brazilian
 discovered_by = andean
 
 religion = animism
-capital = "Coquimbo"
+capital = "Coquimbo”
+is_city = yes
 trade_goods = unknown
 hre = no
-base_tax = 2 
-base_production = 1
-base_manpower = 1
+
 native_size = 20
 native_ferocity = 2
 native_hostileness = 9	
-
-# = {
-	#owner = INC
-	#controller = INC
-	#add_core= INC
-	is_city = no
-	religion = inti
-	trade_goods = grain
-}
-# = { discovered_by = SPA } # Ferdinand Magellan
-# = {	#owner = SPA
-	#controller = SPA
-	culture = castillian
-	religion = catholic
-}
-# = { #add_core= SPA }
-# = {
-	#owner = CHL
-	#controller = CHL
-	#add_core= CHL
-} # First National Government Junta

@@ -1,7 +1,12 @@
-owner = GBR
-controller = GBR
-add_core = GBR
+owner = MNS
+controller = MNS
+add_core = MNS
 3053.1.1 = {
-	owner = GBR
-	controller = GBR
+	owner = MNS
+	controller = MNS
 }
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

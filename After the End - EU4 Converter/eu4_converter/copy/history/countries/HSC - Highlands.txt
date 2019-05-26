@@ -1,0 +1,17 @@
+government = monarchy 
+add_government_reform = feudalism_reform
+primary_culture = highland_scottish
+religion = celticist
+technology_group = high_american
+capital = 252 # Inverness
+
+
+3031.1.1 = {
+	monarch = {
+		name = "Murchadh"
+		dynasty = "Caimbeulach"
+		dip = 3
+		adm = 1
+		mil = 3
+	}
+}

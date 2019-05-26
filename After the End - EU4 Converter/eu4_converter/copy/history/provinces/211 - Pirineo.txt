@@ -12,8 +12,10 @@ trade_goods = unknown
 base_manpower = 1
 capital = "Huesca" 
 is_city = no
-discovered_by = high_american
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
+discovered_by = high_american 
+discovered_by = RED
 discovered_by = indian
 discovered_by = indian
 
@@ -22,10 +24,15 @@ discovered_by = indian
 # = {	#controller = SPA
 	#owner = SPA
 	#add_core= SPA
-} # King Fernando dies, Carlos inherits Aragon and becames co-regent of Castille
+#} # King Fernando dies, Carlos inherits Aragon and becames co-regent of Castille
 # = { fort_16th = yes } #Star Fort of Jaca
 # = { #controller = HAB } # Aragon joins the Austrian side in the War of Spanish Succession
 # = { #controller = SPA } # Aragon surrenders
 # = { remove_core = ARA }
 # = { revolt = { type = pretender_rebels size = 1 } #controller = REB }
 # = { revolt = {} #controller = SPA }
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

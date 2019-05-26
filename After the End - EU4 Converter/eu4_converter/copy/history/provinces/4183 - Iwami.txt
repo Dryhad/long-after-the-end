@@ -1,7 +1,7 @@
 #4183 - Iwami
 
-#owner = YMN
-#controller = YMN
+owner = KOB
+controller = KOB
 culture = japanese
 religion = shinto
 capital = "Hamada"
@@ -10,19 +10,12 @@ hre = no
 base_tax = 4
 base_manpower = 2
 base_production = 2
-is_city = no
-#add_core= YMN
+is_city = yes
+add_core= KOB
 discovered_by = chinese
-discovered_by = MCH
-discovered_by = KHA
-discovered_by = OIR
-discovered_by = QNG
 
-# = { #add_core= OUC #owner = OUC #controller = OUC }
-# = { #add_core= AMA } 
-# = { trade_goods = gold } # Iwami Silver mine disconvered
-#   = { discovered_by = POR }
-#   = { #add_core= MRI remove_core = YMN }
-# = { #owner = MRI #controller = MRI remove_core = OUC }
-# = { #owner = TKG #controller = TKG #add_core= TKG remove_core = MRI fort_15th = no }
-# = { trade_goods = fish } # Estimate, Japan stops silver export
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+discovered_by = NRU 
+discovered_by = NRA

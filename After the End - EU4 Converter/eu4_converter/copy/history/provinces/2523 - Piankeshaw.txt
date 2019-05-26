@@ -26,26 +26,28 @@ discovered_by = nomad_group
 	#controller = MMI
 	#add_core= MMI
 	is_city = no
-	trade_goods = fur 
-} #Extent of the Miami around the start of the Beaver Wars
-# = { discovered_by = FRA } # Médard Chouart Des Groseilliers
-# = { discovered_by = ENG }
+	trade_goods = unknown
+ #Extent of the Miami around the start of the Beaver Wars
+# = { discovered_by = FRA  # Médard Chouart Des Groseilliers
+# = { discovered_by = ENG 
 # = { 
 	#owner = IRO
 	#controller = IRO
 	culture = iroquois 
-} #Taken by Iroquois in Beaver Wars.
+ #Taken by Iroquois in Beaver Wars.
 # = {
 	#owner = MMI
 	#controller = MMI
 	is_city = no
 	culture = illini 
-} #Return of the Miami after the end of the Beaver Wars
-# = { discovered_by = GBR }
+ #Return of the Miami after the end of the Beaver Wars
+# = { discovered_by = GBR 
 # = {
 	#owner = USA
 	#controller = USA
 	#add_core= USA
 	culture = american
 	religion = protestant
-} # Treaty of Vincennes and subsequent, Natives cede much of this region
+ # Treaty of Vincennes and subsequent, Natives cede much of this region
+
+discovered_by = GBR

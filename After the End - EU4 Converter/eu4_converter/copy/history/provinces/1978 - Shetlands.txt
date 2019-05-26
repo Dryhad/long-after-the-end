@@ -15,10 +15,12 @@ is_city = no # Estimated
 
 
 
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
 discovered_by = indian
 discovered_by = indian
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
 
 
 # = {
@@ -27,10 +29,15 @@ discovered_by = high_american
 	#controller = SCO
 	#add_core= SCO
 	remove_core = NOR
-} # Formally ceded to the crown of Scotland
+#} # Formally ceded to the crown of Scotland
 # = { religion = reformed } # First Protestant Minister Arrives in the Orkneys
 # = {
 	#owner = GBR
 	#controller = GBR
 	#add_core= GBR
-}
+#}
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

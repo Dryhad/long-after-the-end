@@ -26,15 +26,15 @@ discovered_by = chinese
 	#owner = QNG
 	#controller = QNG
 	#add_core= QNG
-}
+#}
 # = { 
 	#controller = MNG 
 	#owner = MNG
-}
+#}
 # = {
 	#owner = QNG
 	#controller = QNG
-}
+#}
 # = { discovered_by = SPA }#Novus Atlas Sinensis
 # = { #controller = QNG } 
 # = { remove_core = MNG }
@@ -42,3 +42,10 @@ discovered_by = chinese
 # = { #controller = QNG }
 # = { revolt_risk = 6 } # Miao rebellion
 # = { revolt_risk = 0 }
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+discovered_by = NRU 
+discovered_by = NRA

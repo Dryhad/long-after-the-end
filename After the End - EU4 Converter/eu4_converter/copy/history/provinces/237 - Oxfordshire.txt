@@ -6,10 +6,10 @@
 culture = british
 religion = thelemic
 hre = no
-base_tax = 1
-base_production = 1
+base_tax = 5
+base_production = 5
 trade_goods = unknown
-base_manpower = 1
+base_manpower = 4
 capital = "Oxford"
 is_city = no # Includes Reading
 #add_core= ENG
@@ -17,10 +17,12 @@ seat_in_parliament = yes
 
 
 
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
 discovered_by = indian
 discovered_by = indian
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
 
 
 # = { unrest = 5 } # Start of the War of the Roses
@@ -42,4 +44,9 @@ discovered_by = high_american
 	#add_core= GBR
 	remove_core = ENG
 	seat_in_parliament = yes
-}
+#}
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

@@ -1,5 +1,9 @@
 #2696 - Yamdena
 
+owner = TER
+controller = TER
+add_core = TER
+is_city = yes
 culture = moluccan
 religion = brethren
 capital = "Yamdena"
@@ -16,3 +20,6 @@ native_hostileness = 2
 
 discovered_by = chinese
 
+
+discovered_by = NRU 
+discovered_by = NRA

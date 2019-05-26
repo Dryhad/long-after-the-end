@@ -1,6 +1,6 @@
 south_anglo = {
 	beltway = {
-		primary = USA
+		primary = WDC
 		dynasty_names = $beltway$
 	}
 	southron = {
@@ -10,9 +10,11 @@ south_anglo = {
 		dynasty_names = $dixie$
 	}
 	appalachian = {
+		primary = APP
 		dynasty_names = $appalachian$
 	}
 	gulfard = {
+		primary = FLD
 		dynasty_names = $gulfard$
 	}
 	melungeon = {
@@ -20,5 +22,8 @@ south_anglo = {
 	}
 	riverlander = {
 		dynasty_names = $riverlander$
+	}
+	carpetbagger = {
+		dynasty_names = $carpetbagger$
 	}
 }

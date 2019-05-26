@@ -23,9 +23,16 @@ discovered_by = indian
 	#owner = DGL
 	#controller = DGL
 	remove_core = POR
-}	# Independence is restored under Muhammad Thakurufaanu Al-Azam
+#}	# Independence is restored under Muhammad Thakurufaanu Al-Azam
 # = { #owner = NED #controller = NED #add_core= NED }
 # = {
 	#owner = DGL
 	#controller = DGL 
-} # The Dutch are driven out by the British
+#} # The Dutch are driven out by the British
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+discovered_by = NRU 
+discovered_by = NRA

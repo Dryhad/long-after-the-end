@@ -16,8 +16,10 @@ is_city = no
 
 
 
-discovered_by = high_american
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
+discovered_by = high_american 
+discovered_by = RED
 discovered_by = indian
 discovered_by = indian
 
@@ -27,9 +29,14 @@ discovered_by = indian
 # = {	#controller = SPA
 	#owner = SPA
 	#add_core= SPA
-} # King Fernando dies, Carlos inherits Aragon and becames co-regent of Castille
+#} # King Fernando dies, Carlos inherits Aragon and becames co-regent of Castille
 # = { remove_core = CAS }
 # = { revolt = { type = pretender_rebels size = 2 } #controller = REB }
 # = { revolt = {} #controller = SPA }
 # = { revolt = { type = pretender_rebels size = 2 } #controller = REB }
 # = { revolt = {} #controller = SPA }
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

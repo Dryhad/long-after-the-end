@@ -1,14 +1,19 @@
 # - Melodia
 
-culture = chacoan
+owner = PRG
+controller = PRG
+add_core = PRG
+culture = litoraleno
 
 
 
-discovered_by = south_american
-discovered_by = CCQ
+discovered_by = south_american 
+discovered_by = andean
+discovered_by = brazilian
 
-religion = animism
+religion = candomble
 capital = "Melodia"
+is_city = yes
 trade_goods = unknown
 hre = no
 base_tax = 1 
@@ -21,23 +26,15 @@ native_hostileness = 1
 
 
 
-# = { discovered_by = SPA }
-
-# = {
-	#discovered_by = SPA
-	#owner = SPA
-	#controller = SPA
-	#add_core= SPA
-	is_city = no
-	trade_goods = wool
-	culture = castillian
-	religion = catholic
+owner = PRG
+controller = PRG
+add_core = PRG
+3053.1.1 = {
+	owner = PRG
+	controller = PRG
 }
-# = { unrest = 6 } # The desire for independence grew
-# = {
-	#owner = LAP
-	#controller = LAP
-	#add_core= LAP
-	remove_core = SPA
-	unrest = 0
-} # Argentina is declared independent
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

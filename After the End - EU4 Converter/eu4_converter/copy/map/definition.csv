@@ -930,12 +930,12 @@ province;red;green;blue;x;x
 929;141;94;173;Muskogee;x
 930;13;96;32;Yamasee;x
 931;141;98;79;Chiaha;x
-932;14;100;126;Santee;x
+932;14;100;126;Santee;x	#Charleston
 933;142;102;173;Catawba;x
 934;14;104;32;Shawnee;x
 935;142;106;79;Cherokee;x
 936;14;108;126;Cheraw;x	#Renamed to Appilachian Mountains
-937;142;110;173;Tuscarora;x
+937;142;110;173;Tuscarora;x		#Durham
 938;14;112;32;Pamlico;x
 939;143;114;79;Pennyrile;x
 940;15;116;126;Kentucky;x
@@ -2228,7 +2228,7 @@ province;red;green;blue;x;x
 2227;208;154;12;Kunduz;x
 2228;40;59;211;Maymana;x
 2229;90;156;34;Bust;x
-2230;143;34;255;Chagai;x
+2230;129;171;129;Chakhansur;x
 2231;121;210;41;Bela;x
 2232;190;72;59;Kharan;x
 2233;152;137;59;Western Makran;x
@@ -2530,21 +2530,21 @@ province;red;green;blue;x;x
 2529;160;221;196;Natchez;x
 2530;97;12;145;Biloxi;x
 2531;223;132;95;Napochi;x
-2532;55;131;46;Tohome;x
+2532;55;131;46;Tohome;x		#Conecuh
 2533;181;201;246;Chatot;x
 2534;118;131;196;Yustaga;x
 2535;244;231;145;Calusa;x
 2536;16;19;95;Mayaimi;x
 2537;142;31;46;Fresno;x		#LAtE California
 2538;79;131;246;Yamasee;x
-2539;205;1;196;Mocama;x
-2540;37;6;145;Coweta;x
+2539;205;1;196;Mocama;x		#Hinesville
+2540;37;6;145;Coweta;x	#Augusta
 2541;163;191;95;Saluda;x
-2542;100;3;46;Cusabo;x
-2543;226;41;246;Waccamaw;x
+2542;100;3;46;Cusabo;x		#Was Beaufort
+2543;226;41;246;Waccamaw;x	#Grand Strand
 2544;58;1;196;Yadkin;x
 2545;184;31;145;Waxhaw;x
-2546;121;161;95;Chicora;x
+2546;121;161;95;Chicora;x	#Cape Fear
 2547;247;131;46;Roanoke;x
 2548;19;131;246;Tutelo;x
 2549;145;255;196;Moratok;x
@@ -2577,7 +2577,7 @@ province;red;green;blue;x;x
 2576;26;3;95;Mingan;x
 2577;152;1;46;Manicouagan;x
 2578;89;121;246;Anticosti;x
-2579;215;2;196;Piekougami;x
+2579;215;2;196;Piekougami;x		
 2580;47;1;145;Atikamekw;x
 2581;173;199;95;Timiskaming;x
 2582;110;1;46;Maliseet;x
@@ -2627,7 +2627,7 @@ province;red;green;blue;x;x
 2626;101;31;95;Tulucan;x
 2627;227;201;46;Cihuatlan;x
 2628;59;132;246;Tepeacac;x
-2629;185;227;196;Coyolapan;x
+2629;185;227;196;Alexandria;x	#Repurposed
 2630;122;232;145;Tochtepec;x
 2631;248;248;95;Zaachila;x
 2632;20;131;46;Xicallanco;x
@@ -4239,6 +4239,126 @@ province;red;green;blue;x;x
 4238;37;208;93;Liegnitz;x
 4239;239;10;10;Belgrade;x
 4240;89;225;36;Fejer;x
+4241;203;127;53;Wenden;x
+4242;35;224;48;Ula;x
+4243;239;225;69;Toropets;x
+4244;170;114;128;Starodub;x
+4245;69;133;239;Vyazma;x
+4246;152;182;201;Mstislav;x
+4247;34;217;219;Owrucz;x
+4248;215;30;112;Kashin;x
+4249;141;220;172;Zubtsov;x
+4250;153;30;210;Mologa;x
+4251;46;39;195;Mozhaisk;x
+4252;83;167;188;Kolomna;x
+4253;15;241;244;Yuriev;x
+4254;222;17;17;Starodub;x
+4255;215;103;103;Pronsk;x
+4256;44;142;46;Solvychegodsk;x
+4257;44;152;95;Mezen;x
+4258;9;169;133;Onega;x
+4259;201;146;58;Velsk;x
+4260;79;181;81;Vyshny Volochyok;x
+4261;166;50;94;Ustyuzhna;x
+4262;31;227;36;Totma;x
+4263;171;13;54;Sol Galitskaya;x
+4264;159;200;147;Tetyushi;x
+4265;39;208;178;Ar-Chally;x
+4266;191;107;198;Izhkar;x
+4267;198;197;95;Bolgar;x
+4268;213;56;56;Aqabah;x
+4269;214;231;24;Al Wajh;x
+4270;209;227;59;Azraq;x
+4271;91;196;33;Suwayda;x
+4272;255;14;59;Al Jawf;x
+4273;127;84;164;Al-Kariatan;x
+4274;31;210;90;Sudayr;x
+4275;53;200;195;Al-Yamamah;x
+4276;188;102;18;Jabal Tubaiq;x
+4277;219;23;88;Taifa;x
+4278;69;59;200;Qunfudhah;x
+4279;67;107;179;Zabid;x
+4280;215;128;24;Taiz;x
+4281;67;191;24;Dhamar;x
+4282;210;179;54;Sahda;x;
+4283;224;24;38;Shihr;x
+4284;99;150;71;Al Ghayda;x
+4285;181;124;124;Baraimi Oasis;x
+4286;187;208;10;Sur;x
+4287;200;92;20;Ibra;x
+4288;83;203;86;Shatt;x
+4289;17;195;138;Shushtar;x
+4290;79;184;27;Hoveyzeh;x
+4291;168;219;32;Qazaniya;x
+4292;53;76;176;Mardin;x
+4293;212;79;154;Arbil;x
+4294;150;146;41;Sulimaniyeh;x
+4295;48;167;51;Hisn Kayfa;x
+4296;116;62;183;Bitlis;x
+4297;99;32;200;Homs;x
+4298;231;78;10;Ayntab;x
+4299;70;198;70;Shamakhi;x
+4300;225;205;36;Mianeh;x
+4301;232;184;55;Gori;x
+4302;13;94;109;Bayazid;x
+4303;213;197;16;Oltu;x
+4304;184;111;111;Khoy;x
+4305;210;42;42;Shaki;x
+4306;117;109;201;Khumuk;x
+4307;134;177;141;Aksaray;x
+4308;69;25;75;Denizli;x
+4309;118;176;123;Aydin;x
+4310;135;155;105;Divrigi;x
+4311;67;121;108;Karahisar;x
+4312;105;195;57;Sultanönü;x
+4313;94;189;108;Kangiri;x
+4314;159;73;73;Kirshehir;x
+4315;124;60;86;Tokat;x
+4316;51;172;108;Mansura;x
+4317;99;77;195;Buhaira;x
+4318;63;128;27;Atfih;x
+4319;163;183;82;Isna;x
+4320;195;83;191;Girga;x
+4321;121;21;154;Eastern Desert;x
+4322;184;65;29;Eastern Desert;x
+4323;224;40;15;Farafreh;x
+4324;149;186;149;Ghuriyan;x
+4325;222;47;29;Sarakhs;x
+4326;134;196;131;Nishapur;x
+4327;244;221;131;Jask;x
+4328;143;34;255;Chagai;x
+4329;96;128;136;Fasa;x
+4330;54;193;106;Darab;x
+4331;212;14;89;Kazarun;x
+4332;112;120;148;Siraf;x
+4333;104;180;181;Dahlak Archipelago;x
+4334;224;12;72;Tabas;x
+4335;236;112;20;Kashan;x
+4336;215;155;85;Tus;x
+4337;73;158;166;Savah;x
+4338;201;70;30;Soltanieh;x
+4339;208;71;200;Rasht;x
+4340;88;224;142;Astara;x
+4341;191;220;33;Sari;x
+4342;208;198;117;Malamir;x
+4343;208;26;73;Termez;x
+4344;178;231;94;Kish;x
+4345;155;155;198;Saidabad;x
+4346;149;226;227;Qamr Bay;x
+4347;144;206;207;Pirate Coast;x
+4348;198;47;101;Ifuago;x
+4349;105;219;142;Laguna;x
+4350;154;86;212;Mindoro;x
+4351;104;196;152;Buglas;x
+4352;219;168;88;Cebu;x
+4353;89;35;145;Leyte;x
+4354;135;77;125;Zamboanga;x
+4355;248;245;172;Caraga;x
+4356;201;167;29;Taytay;x
+4357;125;226;241;Visayan Sea;x
+4358;112;219;220;Cuyo Archipelago;x
+4359;185;227;40;Ise;x
+4360;235;159;33;Mikawa;x
 4500;30;49;56;Eureka;x
 4501;200;150;156;Klamath;x
 4502;200;200;156;Sacramento;x
@@ -4318,9 +4438,9 @@ province;red;green;blue;x;x
 4576;35;166;198;Scioto;x	
 4577;189;195;40;Erie;x
 4578;197;73;77;Niagara;x
-4579;34;194;242;Genesee;x
+4579;34;194;242;Susquehannock;x
 4580;8;50;116;Canacdea;x
-4581;91;68;97;Seneca;x
+4581;91;68;97;Seneca;x		#UNUSED
 4582;7;188;155;Cortland;x
 4583;112;19;63;Schoharie;x
 4584;194;122;137;Albany;x
@@ -4416,7 +4536,7 @@ province;red;green;blue;x;x
 4672;93;40;4;Dothan;x
 4673;207;40;201;Benning;x
 4674;97;79;147;Lagrange;x
-4675;155;135;201;Taladega;x
+4675;115;135;201;Taladega;x
 4676;68;63;0;Napa;x		#California
 4677;87;174;198;Coosa;x
 4678;98;61;207;Demopolis;x
@@ -4573,6 +4693,80 @@ province;red;green;blue;x;x
 4829;43;34;193;Giishkimanisiiwaaboong;x
 4830;89;184;131;Mishkeegogamang;x
 4831;88;19;67;Katchiskataouakigs;x
+4832;225;136;86;UNUSED;x			#UNUSED
+4833;154;147;18;UNUSED;x			#UNUSED
+4834;8;204;7;UNUSED;x				#UNUSED
+4835;212;14;96;UNUSED;x				#UNUSED
+4836;28;200;60;Ishim;x
+4837;94;209;99;Balagansky;x
+4838;19;2;77;Bratsky;x
+4839;21;94;53;Kachugsky;x
+4840;255;5;125;Tunka;x
+4841;140;156;26;Nizhneudinsky;x
+4842;204;112;99;Hunter;x
+4843;197;20;226;Illawara;x
+4844;24;250;208;Gippsland;x
+4845;203;210;196;Central Tablelands;x
+4846;161;2;230;Parkes;x
+4847;171;121;101;Riverina;x
+4848;78;48;165;Kangaroo Island;x
+4849;26;105;166;Maranoa;x
+4850;228;131;185;Balonne;x
+4851;208;111;98;Ngaanyatjarraku;x
+4852;114;51;97;Wiluna;x
+4853;45;68;253;Leonora;x
+4854;105;33;40;Sandstone;x
+4855;113;13;179;Murchison;x
+4856;76;215;187;Wheatbelt;x
+4857;233;0;222;Great Victoria Desert;x
+4858;147;215;47;Gaborone;x
+4859;16;248;236;Traansval;x
+4860;128;228;21;Kalagadi;x
+4861;139;73;198;Namib;x
+4862;61;153;144;Windhoek;x
+4863;223;49;159;Otzojondjupa;x
+4864;107;134;89;Oshikoto;x
+4865;91;255;78;Kavongo;x
+4866;220;108;8;Okavongo;x
+4867;162;249;117;Khaudum;x
+4868;255;22;158;Tlhabologo ;x
+4869;45;97;221;Ghanzi;x
+4870;44;216;93;Kweneg;x
+4871;226;13;31;Kalahari;x
+4872;19;156;131;Serowe;x
+4873;4;222;70;Francistown;x
+4874;195;171;74;Mahalapye;x
+4875;143;2;147;Makgadikgadi ;x
+4876;191;46;189;Chobe;x
+4877;66;82;216;Kanye;x
+4878;174;216;163;Mahikeng;x
+4879;224;193;166;Senanga;x
+4880;104;41;204;Kazungala;x
+4881;121;253;118;Kaoma;x
+4882;10;23;164;Lumbala N'guimbo;x
+4883;181;190;95;Crowly;x
+4884;152;133;97;Arp;x
+4885;179;200;63;Alexandria;x
+4886;237;94;197;Gisborne;x
+4887;230;141;180;Manuwatu-Wanganui;x
+4888;155;238;66;Taupo;x
+4889;59;11;50;Wellington;x
+4890;238;20;236;Marlborough;x
+4891;92;233;57;Kaikoura;x
+4892;85;3;255;Christchurch;x
+4893;53;204;161;Tasman;x
+4894;170;97;145;Otago;x
+4895;145;160;30;Dunedin;x
+4896;100;90;99;Fiordland;x
+4897;255;173;69;Auckland;x
+
+
+
+
+
+
+
+
 
 
 

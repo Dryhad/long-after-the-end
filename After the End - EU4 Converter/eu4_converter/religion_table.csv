@@ -12,7 +12,9 @@ occultist;occultist;1;Occultist
 occultist_reformed;occultist;1;Reformed Occultist
 thelemic;thelemic;1;Thelemic
 thelemic_reformed;thelemic;1;Reformed Thelemic
-celticist;celticist;1;Celticist
+celticist;celticist;1;Backwards compatibility
+celtic_pagan;celticist;1;Druidic
+celtic_pagan_reformed;celticist;1;Reformed Druidic
 #tengri_pagan;tengri_pagan_reformed;0;Tengri
 #tengri_pagan_reformed;tengri_pagan_reformed;1;Reformed Tengri
 #baltic_pagan;animism;0;Romuva
@@ -45,7 +47,9 @@ angeline;ursuline;1;Ursuline
 confederated;confederated;1;Confederated
 anabaptist;anabaptist;1;Anabaptist
 evangelical;protestant;0;Protestant
-high_church;protestant;0;Protestant
+high_church;anglican;0;Anglican
+anglo_papalist;anglican;0;Anglican
+united_church;anglican;0;Anglican
 antinomian;protestant;0;Protestant
 charismatic;protestant;0;Protestant
 falling_star;falling_star;1;Falling Star
@@ -73,13 +77,14 @@ falling_star;falling_star;1;Falling Star
 #hurufi;shiite;0;Shiite
 
 # Judaism
-#jewish;jewish;0;Jewish
+jewish;jewish;0;Jewish
+reform;reform_faith;1;Reform Judaism
 #samaritan;jewish;0;Jewish
 #karaite;jewish;0;Jewish
 
 # Indian
 #buddhist;buddhism;0;Buddhist
-#hindu;hinduism;0;Hindu
+hindu;hinduism;0;Hindu
 #jain;jain;1;Jain
 
 # Latter-Day Saints
@@ -87,6 +92,7 @@ mormon;mormon;1;Mormon
 bickertonite;mormon;1;Mormon
 godbeite;mormon;1;Mormon
 strangite;mormon;1;Mormon
+woolleyite;mormon;1;Mormon
 
 # Old World Cultist
 americanist;americanist;1;Americanist
@@ -101,6 +107,7 @@ monetarist;consumerist;1;Consumerist
 cetic;cetic;1;Cetic
 gaian;gaian;1;Gaian
 shinto;shinto;0;Shinto
+nousthreskeia;nousthreskeia;1;Nousthreskeia
 
 # Afro-Syncretic
 rastafarian;rastafarian;1;Rastafarian

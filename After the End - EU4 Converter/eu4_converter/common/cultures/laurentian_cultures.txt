@@ -8,7 +8,7 @@ laurentian = {
 		dynasty_names = $ontarian$
 	}
 	chicagoan = {
-		primary = GLK
+		primary = ORD
 		dynasty_names = $chicagoan$
 	}
 }

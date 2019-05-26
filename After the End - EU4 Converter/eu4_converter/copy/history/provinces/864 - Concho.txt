@@ -3,7 +3,7 @@
 culture = navajo 
 religion = animism 
 capital = "Concho" 
-trade_goods = unknown 
+trade_goods = unknown
 hre = no 
 base_tax = 1
 base_production = 1
@@ -35,6 +35,6 @@ discovered_by =  mesoamerican
 	religion = catholic 
 	culture = castillian
 	capital = "Chihuahua"
-	trade_goods = wool 
+	trade_goods = unknown
 } # Francisco de Ibarra 
 # = { #owner = MEX #add_core= MEX #controller = SPA } # Mexican War of Independence

@@ -27,6 +27,6 @@ discovered_by = nomad_group
 	#controller = SIO
 	#add_core= SIO
 	culture = dakota
-	trade_goods = fur
+	trade_goods = unknown
 	is_city = no 
 } #19th century native expansion

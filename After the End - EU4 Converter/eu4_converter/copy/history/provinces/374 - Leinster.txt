@@ -3,19 +3,22 @@
 #owner = LEI
 #controller = LEI
 culture = irish
-religion = thelemic
+religion = celticist
 hre = no
-base_tax = 1
-base_production = 1
+base_tax = 4
+base_production = 4
 trade_goods = unknown
-base_manpower = 1
+base_manpower = 2
 capital = "Wexford"
 is_city = no
 #add_core= LEI
 
 
 
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
 discovered_by = indian
-discovered_by = indian
-discovered_by = high_american
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

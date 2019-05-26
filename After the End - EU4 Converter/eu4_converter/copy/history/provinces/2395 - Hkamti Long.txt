@@ -3,7 +3,7 @@
 #owner = MYA
 #controller = MYA
 culture = kachin
-religion = animism
+religion = buddhism
 capital = "Hkamti Long"
 trade_goods = grain
 hre = no
@@ -25,26 +25,33 @@ discovered_by = indian
 	#owner = SST
 	#add_core= SST
 	remove_core = MYA
-}
+#}
 # = { #add_core= TAU }
 # = { #controller = TAU }
 # = {	#owner = TAU }
 # = {
 	#owner = SST
 	#controller = SST
-}
+#}
 # = {
 	#owner = TAU
 	#controller = TAU
-}
+#}
 # = { discovered_by = SPA }#Novus Atlas Sinensis
 # = {
 	#owner = QNG
 	#controller = QNG
 	#add_core= QNG
-}
+#}
 # = {
 	#owner = TAU
 	#controller = TAU
 	remove_core = QNG
-}
+#}
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+discovered_by = NRU 
+discovered_by = NRA

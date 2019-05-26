@@ -1,7 +1,9 @@
 #425 - Dagestan
-
-culture = dagestani
-religion = shiite
+add_core = QUB
+owner = QUB
+controller = QUB
+culture = azerbaijani
+religion = jewish
 capital = "Derbent"
 trade_goods = unknown
 hre = no
@@ -16,5 +18,6 @@ native_hostileness = 2
 
 discovered_by = indian
 discovered_by = indian
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
 #discovered_by = nomad_group

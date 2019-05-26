@@ -28,7 +28,7 @@ discovered_by =  mesoamerican
 	#add_core= SPA
 	religion = catholic
 	culture = castillian
-	trade_goods = cocoa
+	trade_goods = unknown
 	is_city = no
  } #First permanent missions
 # = { #owner = MEX #add_core= MEX #controller = SPA } # Mexican War of Independence

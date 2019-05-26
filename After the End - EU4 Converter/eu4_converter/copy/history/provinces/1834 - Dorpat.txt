@@ -1,11 +1,7 @@
 #Dorpat
 
-#owner = LIV
-#controller = LIV
-#add_core= LIV
-#add_core= LVA
 culture = latvian
-religion = catholic
+religion = matrem
 hre = no
 base_tax = 1
 base_production = 1
@@ -13,33 +9,10 @@ trade_goods = unknown
 base_manpower = 1
 capital = "Dorpat"
 is_city = no
-estate = estate_nobles
-discovered_by = KAZ
-discovered_by = CRI
-discovered_by = GOL
-discovered_by = AST
-discovered_by = QAS
-discovered_by = high_american
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
+discovered_by = indian
 
-
-# = { religion = protestant} # Unknown date
-# = { #controller = RUS } # Russian conquest
-# = {
-	#owner = LIT
-	#add_core= LIT
-	remove_core = LIV
-} # Livonia ceases to exist
-# = {
-	#owner = PLC
-	#add_core= PLC
-} # Union of Lublin
-# = { #controller = PLC } # Peace of Jam-Zapolski
-# = { #controller = SWE } # 2nd Polish War-Captured by Duke Karl
-# = { #controller = PLC } # 2nd Polish War-Captured by Chodkiewicz
-# = { #controller = SWE } # 2nd Polish War-Captured by Jakob de la Gardie
-# = { #owner = SWE #add_core= SWE remove_core = PLC } # The Armistice of Altmark
-# = { #controller = RUS } # Karl X Gustavs Russian War-Captured by Russians
-# = { #controller = SWE } # The Peace of Kardis
-# = { #controller = RUS } # The Great Nordic War-Captured Dorpat
-# = { #owner = RUS #add_core= RUS remove_core = SWE } # The Peace of Nystad
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

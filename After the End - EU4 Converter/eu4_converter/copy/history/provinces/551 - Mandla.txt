@@ -18,3 +18,8 @@ fort_15th = yes #Mandla fort + lots of minor forts
 
 discovered_by = indian
 discovered_by = chinese
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

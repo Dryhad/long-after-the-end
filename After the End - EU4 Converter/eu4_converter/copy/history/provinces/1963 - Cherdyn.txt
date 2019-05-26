@@ -1,29 +1,23 @@
 #Cherdyn
 
-#owner = PRM
-#controller = PRM
 capital = "Cherdyn"
-culture = uralic
-religion = finnish_pagan_reformed #Sami Shamanism
+owner = KOM
+controller = KOM
+add_core= KOM
+culture = ostyaki
+religion = tengri_pagan_reformed
 trade_goods = unknown
 hre = no
 base_tax = 1
 base_production = 1
 base_manpower = 1
-is_city = no
-#add_core= PRM
+discovered_by = indian
 
 
+discovered_by = high_american 
+discovered_by = RED
 
-discovered_by = high_american
-#discovered_by = nomad_group
 
-
-# = { religion = orthodox }
-# = {
-	#owner = RUS
-	#controller = RUS
-	#add_core= RUS 
-	remove_core = PRM
-	culture = russian 
-}
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

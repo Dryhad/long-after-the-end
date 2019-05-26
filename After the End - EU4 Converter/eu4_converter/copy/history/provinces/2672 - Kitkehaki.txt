@@ -26,6 +26,6 @@ discovered_by = nomad_group
 	#owner = PAW
 	#controller = PAW
 	#add_core= PAW
-	trade_goods = grain
+	trade_goods = unknown
 	is_city = no 
 } #Great Plain tribes spread over vast territories

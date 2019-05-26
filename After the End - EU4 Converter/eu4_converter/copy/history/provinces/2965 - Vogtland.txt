@@ -13,8 +13,10 @@ base_manpower = 1
 is_city = no
 estate = estate_nobles
 #add_core= SAX
-discovered_by = high_american
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
+discovered_by = high_american 
+discovered_by = RED
 discovered_by = indian
 discovered_by = indian
 
@@ -24,7 +26,7 @@ discovered_by = indian
 	#owner = SAX
 	#controller = SAX
 	remove_core = THU
-}
+#}
 # = { unrest = 5 } # Peasant revolt
 # = { unrest = 0 }
 # = { hre = no } # The Holy Roman Empire is dissolved
@@ -33,4 +35,9 @@ discovered_by = indian
 	#controller = PRU
 	#add_core= PRU
 	remove_core = SAX
-} # Congress of Vienna
+#} # Congress of Vienna
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

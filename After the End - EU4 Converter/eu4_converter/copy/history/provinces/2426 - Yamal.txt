@@ -1,11 +1,8 @@
 #2426 - Yamal
 
 
-
-
-discovered_by = NOV
-
-# = { discovered_by = SIB }
-# = { discovered_by = NOV }
-# = { discovered_by = RUS }
-
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+discovered_by = NRU 
+discovered_by = NRA

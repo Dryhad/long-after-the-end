@@ -5,24 +5,26 @@
 culture = irish
 religion = thelemic
 hre = no
-base_tax = 1
-base_production = 1
+base_tax = 4
+base_production = 4
 trade_goods = unknown
-base_manpower = 1
+base_manpower = 2
 capital = "Carrickfergus"
 is_city = no
 #add_core= ULS
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
 discovered_by = indian
 discovered_by = indian
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
 
 # = {
 	#owner = ENG
 	#controller = ENG
 	#add_core= ENG
 	capital = Belfast
-} # Flight of the Earls
+#} # Flight of the Earls
 # = { culture = british religion = protestant } # Jacobean Plantations
 # = { unrest = 15 }
 # = { unrest = 0 }
@@ -33,7 +35,12 @@ discovered_by = high_american
 	#controller = GBR
 	#add_core= GBR
 	remove_core = ENG
-}
+#}
 # = { trade_goods = unknownof Linen Board
 # = { unrest = 10 } # Irish rebellion
 # = { unrest = 0 } # The rebels are defeated
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

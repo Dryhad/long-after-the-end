@@ -1,36 +1,23 @@
 #Shenkursk
 
-#owner = NOV 
-#controller = NOV 
+owner = VLG
+add_core = VLG
+controller = VLG 
 culture = novgorodian
-religion = orthodox
+religion = tengri_pagan_reformed
 hre = no
 base_tax = 1
 base_production = 1
 trade_goods = unknown
 base_manpower = 1
+discovered_by = indian
 capital = "Shenkursk"
-is_city = no
-#add_core= NOV
-discovered_by = KAZ
-discovered_by = CRI
-discovered_by = GOL
-discovered_by = AST
-discovered_by = QAS
-discovered_by = high_american
-discovered_by = high_american
 
-# = {
-	#owner = MOS
-	#controller = MOS
-	#add_core= MOS
-	remove_core = NOV 
-} # Passed to Muscovy with the rest of Novgorod republic
-# = {
-	#owner = RUS
-	#controller = RUS
-	#add_core= RUS 
-	remove_core = MOS 
-}
-# = { unrest = 5 } # "Time of troubles"
-# = { unrest = 0 } # Order returned, Romanov dynasty, kremlin built
+discovered_by = high_american 
+discovered_by = RED
+
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

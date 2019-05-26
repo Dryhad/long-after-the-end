@@ -7,9 +7,11 @@ west_anglo = {
 		dynasty_names = $texan$
 	}
 	arixan = {
+		primary = ARX
 		dynasty_names = $arixan$
 	}
 	ozark = {
+		primary = OZK
 		dynasty_names = $ozark$
 	}
 }

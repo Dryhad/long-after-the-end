@@ -28,7 +28,7 @@ discovered_by =  mesoamerican
 	#add_core= SPA
 	culture = castillian
 	religion = catholic
-	trade_goods = gold
+	trade_goods = unknown
 	is_city = no
 } # First discoveries of silver 
 # = { #owner = MEX #add_core= MEX #controller = MEX } # Mexican War of Independence

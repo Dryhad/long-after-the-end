@@ -1,7 +1,7 @@
 #1012 - Satsuma
 
-#owner = SMZ
-#controller = SMZ
+owner = RYU
+controller = RYU
 culture = kyushuan
 religion = shinto
 capital = "Kagoshima"
@@ -10,14 +10,13 @@ hre = no
 base_tax = 3
 base_manpower = 3
 base_production = 3
-is_city = no
-#add_core= SMZ
+is_city = yes
+add_core= RYU
 discovered_by = chinese
-discovered_by = MCH
-discovered_by = KHA
-discovered_by = OIR
-discovered_by = QNG
 
-# = { discovered_by = POR }
 
-# = { fort_15th = yes } # Uchi Castle, the capital of the Shimazu clan
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+discovered_by = NRU 
+discovered_by = NRA

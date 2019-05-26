@@ -13,7 +13,8 @@ fort_15th = yes #Vienna + Outer ring of fortifications
 capital = "Wien" 
 is_city = no
 hre = no
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
 discovered_by = indian
 
 extra_cost = 10
@@ -22,3 +23,7 @@ add_permanent_province_modifier = {
 	name = inland_center_of_trade_modifier
 	duration = -1
 }
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

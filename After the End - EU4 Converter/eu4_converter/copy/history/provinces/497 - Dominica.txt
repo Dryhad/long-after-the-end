@@ -3,7 +3,7 @@
 culture = carib
 religion = animism
 capital = "Dominica"
-trade_goods = unknown 
+trade_goods = unknown
 hre = no
 base_tax = 1
 base_production = 1
@@ -16,8 +16,8 @@ discovered_by = ARW
 
 
 
-# = { discovered_by = CAS } # Columbus names the island "Sunday" but doesn't settle it for fierce Carib resistance
-# = {	#discovered_by = SPA }
+# = { discovered_by = CAS  # Columbus names the island "Sunday" but doesn't settle it for fierce Carib resistance
+# = {	#discovered_by = SPA 
 
 # = {
 	#owner = FRA 
@@ -25,9 +25,9 @@ discovered_by = ARW
 	#add_core= FRA
 	culture = cosmopolitan_french
 	religion = catholic 
-	trade_goods = dyes
+	trade_goods = unknown
 	is_city = no
-} # Colonized by France
+ # Colonized by France
 # = {
 	#owner = GBR
 	#controller = GBR
@@ -35,7 +35,7 @@ discovered_by = ARW
 	remove_core = FRA
 	culture = english
 	religion = reformed
-} # The English took control at the end of the year
+ # The English took control at the end of the year
 # = {
 	#owner = FRA
 	#controller = FRA
@@ -43,7 +43,9 @@ discovered_by = ARW
 	remove_core = GBR
 	religion = catholic
 	culture = cosmopolitan_french
-} # French attack, inspired by the American revolution
-# = { #owner = GBR #controller = GBR #add_core= GBR } # The Battle of the Saints, the French administration was over
-# = { unrest = 5 } # Escaped slaves were beginning to start revolts
+ # French attack, inspired by the American revolution
+# = { #owner = GBR #controller = GBR #add_core= GBR  # The Battle of the Saints, the French administration was over
+# = { unrest = 5  # Escaped slaves were beginning to start revolts
  # Hurrican in 1779
+
+discovered_by = GBR

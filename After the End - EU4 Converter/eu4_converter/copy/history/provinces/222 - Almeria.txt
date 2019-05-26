@@ -16,8 +16,10 @@ is_city = no
 
 
 
-discovered_by = high_american
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
+discovered_by = high_american 
+discovered_by = RED
 discovered_by = indian
 discovered_by = indian
 
@@ -31,7 +33,7 @@ discovered_by = indian
 	#owner = SPA
 	#add_core= SPA
 	remove_core = CAS
-} # King Fernando dies, Carlos inherits Aragon and becomes co-regent of Castille
+#} # King Fernando dies, Carlos inherits Aragon and becomes co-regent of Castille
 # = { unrest = 15 } # Sublevation of the morisques in the kingdom of Granada.
 # = { unrest = 0 culture = castillian } # To quell the revolt, the morisques in Granada are forcefully deported to other Spanish territories
 # = { remove_core = CAS }
@@ -39,3 +41,8 @@ discovered_by = indian
 # = { revolt = {} #controller = SPA }
 # = { revolt = { type = pretender_rebels size = 0 } #controller = REB }
 # = { revolt = {} #controller = SPA }
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

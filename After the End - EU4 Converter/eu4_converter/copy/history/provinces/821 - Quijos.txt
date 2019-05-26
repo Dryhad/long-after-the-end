@@ -4,10 +4,16 @@ culture = jivaro
 
 
 
-discovered_by = south_american
+discovered_by = south_american 
+discovered_by = andean
+discovered_by = brazilian
 discovered_by = andean
 
-religion = animism
+owner = CJA
+controller = CJA
+add_core = CJA
+is_city = yes
+religion = inti
 capital = "Baeza"
 trade_goods = unknown
 hre = no
@@ -17,22 +23,3 @@ base_manpower = 1
 native_size = 10
 native_ferocity = 1 
 native_hostileness = 1
-
-# = {
-	#discovered_by = SPA
-	#owner = SPA
-	#controller = SPA
-	#add_core= SPA
-	culture = castillian
-	religion = catholic
-	is_city = no
-	trade_goods = cocoa
-}
-# = { unrest = 8 } # Abused indians rebel & destroy Avila & Archidona
-# = { unrest = 0 } # Help arives from Quito
-# = {
-	#owner = COL
-	#controller = COL
-	#add_core= COL
-} # Colombia declares independence
-# = { remove_core = SPA } # Colombia's independence is recongnized

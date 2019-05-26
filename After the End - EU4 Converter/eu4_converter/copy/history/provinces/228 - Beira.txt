@@ -15,10 +15,12 @@ is_city = no
 
 
 
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
 discovered_by = indian
 discovered_by = indian
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
 
 
 #fort_15th = yes
@@ -33,3 +35,8 @@ discovered_by = high_american
 # = { #controller = POR }
 # = { #controller = FRA } # Invaded after the battle of Côa
 # = { #controller = POR } # The Napoleonic army retreats from Portugal
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

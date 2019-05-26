@@ -1,14 +1,20 @@
 #791 - Catamarca
 
-culture = diaguita
+owner = CHL
+controller = CHL
+add_core = CHL
+culture = platinean
 
 
 
-discovered_by = south_american
+discovered_by = south_american 
+discovered_by = andean
+discovered_by = brazilian
 discovered_by = andean
 
-religion = animism
+religion = candomble
 capital = "Catamarca"
+is_city = yes
 trade_goods = unknown
 hre = no
 base_tax = 2 
@@ -18,28 +24,3 @@ native_size = 30
 native_ferocity = 1
 native_hostileness = 7	
 
-# = {
-	#owner = INC
-	#controller = INC
-	#add_core= INC
-	is_city = no
-	religion = inti
-	trade_goods = grain
-}
-# = {
-	#discovered_by = SPA
-	#owner = SPA
-	#controller = SPA
-	#add_core= SPA
-}# The death of Atahualpa
-# = { discovered_by = SPA } # Juan Pérez de Zurita, the colony is under constant attack
-# = {
-	culture = castillian
-	religion = catholic
-} # First real permanent settlement
-# = {
-	#owner = LAP
-	#controller = LAP
-	#add_core= LAP
-	remove_core = SPA
-} # Argentina is declared independent

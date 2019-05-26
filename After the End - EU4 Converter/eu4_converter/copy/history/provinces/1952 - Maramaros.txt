@@ -19,8 +19,10 @@ discovered_by = CRI
 discovered_by = GOL
 discovered_by = AST
 discovered_by = QAS
-discovered_by = high_american
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
+discovered_by = high_american 
+discovered_by = RED
 discovered_by = indian
 discovered_by = indian
 
@@ -29,18 +31,18 @@ discovered_by = indian
 # = {
 	#owner = TRA
 	#controller = TRA
-} # Battle of Mohács, the end of the independent Kingdom of Hungary
+#} # Battle of Mohács, the end of the independent Kingdom of Hungary
 # = {
 	#owner = HAB
 	#controller = HAB
 	#add_core= HAB
-} # Ferdinand gains Transylvania from Treaty of Weissenburg
+#} # Ferdinand gains Transylvania from Treaty of Weissenburg
 # = { #owner = TRA #controller = TRA } # Isabella Jagiello is restored as queen of Transylvania
 # = {
 	remove_core = TRA
 	#owner = HAB
 	#controller = HAB
-} #Treaty of Speyer
+#} #Treaty of Speyer
 # = { revolt = { type = nationalist_rebels size = 1 } #controller = REB } # The nobility in Royal Hungary rebelled against Habsburg & Jesuit repression
 # = { revolt = {} #controller = HAB } # Peace treaty
 # = { revolt = { type = nationalist_rebels size = 1 } #controller = REB } # Occupied by Gabriel Bethlen
@@ -52,7 +54,7 @@ discovered_by = indian
 	#controller = TRA
 	#add_core= TRA
 	remove_core = HAB
-} # Uzgorod is united with Transylvania
+#} # Uzgorod is united with Transylvania
 # = { revolt = { type = nationalist_rebels size = 1 } #controller = REB } # Occupied by Imrich Tokoli
 # = {
 	revolt = {}
@@ -60,7 +62,12 @@ discovered_by = indian
 	#controller = HAB
 	#add_core= HAB
 	remove_core = TRA
-} # Imrich Tokoli surrendered to the emperor's soldiers
+#} # Imrich Tokoli surrendered to the emperor's soldiers
 # = { unrest = 6 } # Kuruc rebellion, lead by Francisc Rakoczy
  # Great plague
 # = { unrest = 0 } # Treaty of Szatmar, the House of Habsburg recognized as the new ruler
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

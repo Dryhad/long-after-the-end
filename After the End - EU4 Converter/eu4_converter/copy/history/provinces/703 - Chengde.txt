@@ -24,19 +24,26 @@ discovered_by = chinese
 	#owner = KHA
 	#controller = KHA
 	#add_core= KHA
-} # The Oirads are defeated & Altan Khan reunites the the area.
+#} # The Oirads are defeated & Altan Khan reunites the the area.
 # = { discovered_by = SPA }
 # = {
 	#owner = MCH
 	#controller = MCH
 	#add_core= MCH
 	remove_core = KHA
-} # The Later Jin Khanate
+#} # The Later Jin Khanate
 # = {
 	#owner = QNG
 	#controller = QNG
 	#add_core= QNG
 	remove_core = MCH
-} # The Qing Dynasty 
+#} # The Qing Dynasty 
 ## = { remove_core = MNG } # The government in Taiwan surrendered
 # = { discovered_by = SPA }
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+discovered_by = NRU 
+discovered_by = NRA

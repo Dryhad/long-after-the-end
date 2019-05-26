@@ -15,8 +15,10 @@ is_city = no
 
 
 
-discovered_by = high_american
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
+discovered_by = high_american 
+discovered_by = RED
 discovered_by = indian
 discovered_by = indian
 
@@ -25,7 +27,7 @@ discovered_by = indian
 	#controller = VEN
 	#add_core= VEN
 	remove_core = MLO
-} # To Milano
+#} # To Milano
 # = { #add_core= HAB } # War of the League of Cambrai 
 # = { #controller = HAB } # Venice collapses
 # = { #owner = HAB } # Austria switches sides
@@ -34,15 +36,20 @@ discovered_by = indian
 # = {	#owner = HAB
 	#controller = HAB
 	#add_core= HAB
-} # Treaty of Campo Formio
+#} # Treaty of Campo Formio
 # = {	#owner = ITA
 	#controller = ITA
 	#add_core= ITA
 	remove_core = HAB
-} # Treaty of Pressburg
+#} # Treaty of Pressburg
 # = { hre = no } # The Holy Roman Empire is dissolved
 # = {	#owner = HAB
 	#controller = HAB
 	#add_core= HAB
 	remove_core = ITA
-} # Treaty of Fontainebleau, Napoleon abdicates unconditionally
+#} # Treaty of Fontainebleau, Napoleon abdicates unconditionally
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

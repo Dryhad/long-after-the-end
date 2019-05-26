@@ -1,0 +1,18 @@
+government = monarchy 
+add_government_reform = autocracy_reform 
+primary_culture = russian
+religion = atomicist
+technology_group = indian
+capital = 1081 #Simbirsk
+
+
+
+3000.1.1 = {
+	monarch = {
+		name = "Yefimiy"
+		dynasty = "Zhytomyrsky"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}

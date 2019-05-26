@@ -5,7 +5,7 @@
 culture = highland_mayan 
 religion = mesoamerican_religion
 capital = "Guatemala" 
-trade_goods = cocoa 
+trade_goods = unknown
 hre = no 
 base_tax = 1
 base_production = 1
@@ -33,3 +33,8 @@ discovered_by = AZT
 # = { discovered_by = ENG } # Drake 
 # = { capital = "Guatemala city" } 
 # = { #owner = MEX #add_core= MEX #controller = SPA } # Mexican War of Independence
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

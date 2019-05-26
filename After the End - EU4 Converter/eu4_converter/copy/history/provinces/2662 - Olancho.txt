@@ -30,7 +30,7 @@ discovered_by =  mesoamerican
 	religion = catholic
 	capital = "Ocotepoque"
 	is_city = no
-	trade_goods = cocoa
+	trade_goods = unknown
 } # Settlement inland
 # = { capital = "Gracias" }
 # = { capital = "Comayagua" }

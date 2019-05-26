@@ -1,7 +1,11 @@
 #334 - Tangiers
 
+owner = MOR
+controller = MOR
+add_core = MOR
+is_city = yes
 culture = moroccan
-religion = sunni
+religion = brethren
 capital = "Tangier"
 trade_goods = unknown
 hre = no
@@ -14,10 +18,9 @@ native_hostileness = 0
 
 
 
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
 discovered_by = indian
-discovered_by = indian
-discovered_by = high_american
 
 extra_cost = 15
 

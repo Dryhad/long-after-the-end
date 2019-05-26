@@ -15,8 +15,10 @@ is_city = no
 #add_core= LIT
 
 
-discovered_by = high_american
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
+discovered_by = high_american 
+discovered_by = RED
 discovered_by = indian
 discovered_by = indian
 #discovered_by = nomad_group
@@ -26,10 +28,15 @@ discovered_by = indian
 	#owner = PLC
 	#controller = PLC
 	#add_core= PLC
-} # Union of Lublin
+#} # Union of Lublin
 # = { unrest = 6 } # Kosciuszko uprising
 # = { unrest = 0 }
 # = { 	#add_core= RUS
 	#owner = RUS
 	#controller = RUS 
-} # Third Partition of Poland, tightened ice regime
+#} # Third Partition of Poland, tightened ice regime
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

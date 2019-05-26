@@ -22,16 +22,23 @@ discovered_by = indian
 	#owner = KAS
 	#controller = KAS
 	#add_core= KAS
-}
+#}
 # = { discovered_by = RUS }
 
 # = {
 	#owner = ZUN
 	#controller = ZUN
 	#add_core= ZUN
-}
+#}
 # = {
 	#owner = QNG
 	#controller = QNG
 	#add_core= QNG
-}
+#}
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+discovered_by = NRU 
+discovered_by = NRA

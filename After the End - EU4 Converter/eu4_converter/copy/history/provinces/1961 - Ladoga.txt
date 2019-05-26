@@ -1,26 +1,25 @@
 #Ladoga
 
-#owner = NOV
-#controller = NOV
+owner = STP
+controller = STP
+add_core = STP
 culture = novgorodian
-religion = orthodox
+religion = rust_cultist
 hre = no
-base_tax = 1
-base_production = 1
+base_tax = 2
+base_production = 2
 trade_goods = unknown
-base_manpower = 1
+base_manpower = 2
+discovered_by = indian
 capital = "Ladoga"
-is_city = no
-#add_core= NOV
 
 
 
-discovered_by = high_american
-discovered_by = high_american
-#discovered_by = nomad_group
+
+discovered_by = high_american 
+discovered_by = RED
 
 
-# = {	#owner = MOS #controller = MOS #add_core= MOS remove_core = NOV }
-# = {	#owner = RUS #controller = RUS #add_core= RUS remove_core = MOS }
-# = { #controller = SWE } # Occupied by Jakob de la Gardie
-# = { #controller = RUS } # Peace of Stolbova
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

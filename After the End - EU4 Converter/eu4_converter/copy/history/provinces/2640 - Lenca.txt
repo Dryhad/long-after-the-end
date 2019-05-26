@@ -30,7 +30,7 @@ discovered_by =  mesoamerican
 	religion = catholic
 	is_city = no
 	capital = "Choluteca"
-	trade_goods = fish
+	trade_goods = unknown
 } # First settlers
 # = { capital = "Tegucigalpa" }
 # = { #owner = MEX #add_core= MEX #controller = SPA } # Mexican War of Independence

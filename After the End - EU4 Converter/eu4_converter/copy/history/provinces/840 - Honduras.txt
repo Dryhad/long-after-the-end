@@ -32,7 +32,7 @@ discovered_by = AZT
 	#add_core= SPA
 	capital = "Trujillo"
 	culture = castillian
-	trade_goods = fish
+	trade_goods = unknown
 	religion = matrem
 	is_city = no
  } # de Olid

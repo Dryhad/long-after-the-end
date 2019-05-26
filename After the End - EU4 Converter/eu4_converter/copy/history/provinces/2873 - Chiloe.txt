@@ -1,32 +1,23 @@
 # - Chiloe
-
-culture = mapuche
-discovered_by = south_american
+add_core = PGO
+owner = PGO
+controller = PGO
+culture = platinean
+discovered_by = south_american 
+discovered_by = andean
+discovered_by = brazilian
 religion = animism
 capital = "Chiloe"
 trade_goods = unknown
 hre = no
-base_tax = 1 
-base_production = 1
-base_manpower = 1
+base_tax = 6
+base_production = 6
+base_manpower = 3
 native_size = 10
 native_ferocity = 2
 native_hostileness = 9
 
-# = { discovered_by = SPA } # Discovered by Ferdinand Magellan
-# = {
-	#owner = SPA
-	#controller = SPA
-	#add_core= SPA
-	is_city = no
-	culture = castillian
-	religion = catholic
-	trade_goods = fish
+add_permanent_province_modifier = {
+	name = center_of_trade_modifier
+	duration = -1
 }
-# = { unrest = 9 } # Great uprising, all Spaniards south of Biobio are driven out
-# = { unrest = 0 }
-# = {
-	#owner = CHL
-	#controller = CHL
-	#add_core= CHL
-} # First National Government Junta

@@ -1,14 +1,20 @@
 # - La Rioja
 
-culture = huarpe
+owner = CHL
+controller = CHL
+add_core = CHL
+culture = platinean
 
 
 
-discovered_by = south_american
+discovered_by = south_american 
+discovered_by = andean
+discovered_by = brazilian
 discovered_by = andean
 
-religion = animism
+religion = candomble
 capital = "La Rioja"
+is_city = yes
 trade_goods = unknown
 hre = no
 base_tax = 2 
@@ -18,25 +24,3 @@ native_size = 20
 native_ferocity = 2
 native_hostileness = 9	
 
-# = {
-	#owner = INC
-	#controller = INC
-	#add_core= INC
-	is_city = no
-	religion = inti
-	trade_goods = wine
-}
-# = {
-	#discovered_by = SPA
-	#owner = SPA
-	#controller = SPA
-	#add_core= SPA
-	culture = castillian
-	religion = catholic
-}# The death of Atahualpa
-# = {
-	#owner = LAP
-	#controller = LAP
-	#add_core= LAP
-	remove_core = SPA
-} # Argentina is declared independent

@@ -1,6 +1,18 @@
-government = daimyo
+government = monarchy 
+add_government_reform = daimyo
 government_rank = 1
 primary_culture = togoku
 religion = shinto
 technology_group = chinese
 capital = 4131	# Or whatever
+
+3050.1.1 = {
+	      monarch = {
+		            name = "Hanzo"
+		            dynasty = "Shimada"
+		            birth_date = 3012.3.22
+		            adm = 3
+		            dip = 3
+		            mil = 5
+	     }
+}

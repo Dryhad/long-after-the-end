@@ -26,15 +26,15 @@ discovered_by = nomad_group
 	#controller = SUS
 	#add_core= SUS
 	is_city = no
-	trade_goods = grain 
-} #Full extent of the Susquehannock at start of the Beaver Wars
+	trade_goods = unknown
+ #Full extent of the Susquehannock at start of the Beaver Wars
 # = {
  	#owner = IRO
 	#controller = IRO
 	#add_core= IRO
 	culture = iroquois
-} #Iroquois drives off other natives in Beaver Wars
-# = { discovered_by = ENG } # Abraham Wood
+ #Iroquois drives off other natives in Beaver Wars
+# = { discovered_by = ENG  # Abraham Wood
 # = {
  	#owner = LEN
 	#controller = LEN
@@ -42,18 +42,20 @@ discovered_by = nomad_group
 	remove_core = IRO
 	is_city = no
 	culture = delaware 
-} #Lenape vassals of Iroquois resettle
-# = { discovered_by = GBR }
+ #Lenape vassals of Iroquois resettle
+# = { discovered_by = GBR 
 # = {
 	#owner = GBR
 	#controller = GBR
 	#add_core= GBR
 	culture = english
 	religion = protestant 
-} #Fort Hunter
+ #Fort Hunter
 # = {
 	#owner = USA
 	#controller = USA
 	#add_core= USA
-} # Declaration of independence
-# = { remove_core = GBR unrest = 0  } # Preliminary articles of peace, the British recognized American independence
+ # Declaration of independence
+# = { remove_core = GBR unrest = 0   # Preliminary articles of peace, the British recognized American independence
+
+discovered_by = GBR

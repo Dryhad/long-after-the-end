@@ -1,7 +1,11 @@
 #1245 - Manokwari
 
+owner = PNG
+controller = PNG
+add_core = PNG
+is_city = yes
 culture = papuan
-religion = animism
+religion = sunni
 capital = "Manokwari"
 trade_goods = unknown
 hre = no
@@ -14,8 +18,4 @@ native_hostileness = 9
 
 
 
-discovered_by = MKS
-discovered_by = TER
-discovered_by = TID
-
-# = { discovered_by = POR }
+discovered_by = chinese

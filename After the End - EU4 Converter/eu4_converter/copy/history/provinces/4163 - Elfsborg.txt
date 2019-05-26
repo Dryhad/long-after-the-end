@@ -1,26 +1,19 @@
 #Elfsborgs Län
 
-#add_core= SWE
-#owner = SWE
-#controller = SWE
 culture = swedish
-religion = catholic
+religion = norse_pagan_reformed
 hre = no
 base_tax = 1
 base_production = 1
 trade_goods = unknown
 base_manpower = 1
-fort_15th = yes #Old Älvsborg Castle
-capital = "Elfsborg"
+capital = "Göteborg"
 is_city = no
-discovered_by = high_american
-discovered_by = high_american
-discovered_by = indian
+discovered_by = high_american 
+discovered_by = RED
 discovered_by = indian
 
-# = { religion = protestant}
-# = { #controller = PLC } # Sigismund tries to reconquer his crown
-# = { #controller = SWE } # Duke Karl get it back
-# = { #controller = DAN } # The War of Kalmar-Captured by Christian IV
-# = { #controller = SWE }# The Peace of Knäred
-# = { capital = "Göteborg" }
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

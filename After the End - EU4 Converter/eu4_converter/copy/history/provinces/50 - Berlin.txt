@@ -14,8 +14,10 @@ base_manpower = 1
 fort_15th = yes
 capital = "Berlin-Cölln"
 is_city = no
-discovered_by = high_american
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
+discovered_by = high_american 
+discovered_by = RED
 discovered_by = indian
 discovered_by = indian
 
@@ -32,12 +34,17 @@ discovered_by = indian
 	base_tax = 1
 	base_production = 1
 	base_manpower = 1
-} # Friedrich III becomes king of Prussia
+#} # Friedrich III becomes king of Prussia
 # = {
 	capital = "Berlin" #Merger of the twin cities.
-}
+#}
 # = {  base_tax = 1base_production = 1}
 # = { base_manpower = 1}
 # = { hre = no } # The Holy Roman Empire is dissolved
 # = { #controller = FRA }
 # = { #controller = PRU } # The Second treaty of Tilsit
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

@@ -37,6 +37,11 @@ westafricangfx;africangfx;0;
 tuskegeangfx;africangfx;0;
 
 mongolgfx;asiangfx;0;
+whitepacificgfx;asiangfx;0;
+brownpacificgfx;asiangfx;0;
+blackpacificgfx;asiangfx;0;
+chinesepacificgfx;asiangfx;0;
+#Backwards Compatibility
 white_pacificgfx;asiangfx;0;
 brown_pacificgfx;asiangfx;0;
 black_pacificgfx;asiangfx;0;

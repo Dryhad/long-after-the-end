@@ -3,7 +3,7 @@
 culture = aleutian
 religion = totemism
 capital = "Kwakiutl"
-trade_goods = unknown 
+trade_goods = unknown
 hre = no
 base_tax = 4
 base_production = 4
@@ -25,3 +25,6 @@ discovered_by = nomad_group
 # = { discovered_by = FRA } # Jean Francois la Perouse
 # = { discovered_by = SPA } # Alessandro Malaspina
 
+
+discovered_by = NRU 
+discovered_by = NRA

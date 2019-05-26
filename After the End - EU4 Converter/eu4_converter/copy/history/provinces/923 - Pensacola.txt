@@ -3,7 +3,7 @@
 culture = creek
 religion = totemism
 capital = "Pensacola"
-trade_goods = cotton
+trade_goods = unknown
 hre = no
 base_tax = 4
 base_production = 4
@@ -21,7 +21,7 @@ discovered_by = ottoman
 discovered_by = nomad_group
 
 
-# = { discovered_by = SPA } # Alvarez de Piñeda explored the Gulf Coast
+# = { discovered_by = SPA  # Alvarez de Piñeda explored the Gulf Coast
 
 # = {
 	#owner = SPA
@@ -30,7 +30,7 @@ discovered_by = nomad_group
 	culture = castillian
 	religion = catholic
 	is_city = no
-}
+
 # = {
 	#owner = GBR
 	#controller = GBR
@@ -38,12 +38,14 @@ discovered_by = nomad_group
 	remove_core = SPA
 	culture = english
 	religion = protestant
-} # Part of British West Florida after the Treaty of Paris
-# = { #owner = SPA #controller = SPA #add_core= SPA remove_core = GBR } # Part of Spanish West Florida
-# = { unrest = 7 } # Controversy over the Treaty of Versaille & the Treaty of Paris, Spanish or American?
+ # Part of British West Florida after the Treaty of Paris
+# = { #owner = SPA #controller = SPA #add_core= SPA remove_core = GBR  # Part of Spanish West Florida
+# = { unrest = 7  # Controversy over the Treaty of Versaille & the Treaty of Paris, Spanish or American?
 # = {
 	#owner = USA
 	#controller = USA
 	#add_core= USA
 	remove_core = SPA
-} # The Adams-Onís Treaty
+ # The Adams-Onís Treaty
+
+discovered_by = GBR

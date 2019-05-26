@@ -1,8 +1,8 @@
 #601 - Sukhothai
 
-#owner = SUK
-#controller = SUK
-culture = central_thai
+owner = SUK
+controller = SUK
+culture = northern_thai
 religion = buddhism
 capital = "Sukhothai"
 trade_goods = chinaware
@@ -10,9 +10,9 @@ hre = no
 base_tax = 6
 base_production = 6
 base_manpower = 3
-is_city = no
+is_city = yes
 fort_15th = yes
-#add_core= SUK
+add_core= SUK
 
 
 
@@ -20,15 +20,8 @@ discovered_by = chinese
 discovered_by = indian
 
 
-# = {	
-	#add_core= AYU
-} # Sukhothai is under Personal Union with Ayutthaya
-# = { #add_core= LNA } # Lan Na Invasion of Sukhothai
-# = { remove_core = LNA }
-# = { #owner = AYU
-	#controller = AYU
-	remove_core = SUK
-} # Completely annexed by Ayutthaya
-# = { discovered_by = POR }
-# = { unrest = 7 } # The fall of Ayutthaya
-# = { unrest = 0 }
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+discovered_by = NRU 
+discovered_by = NRA

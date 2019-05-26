@@ -26,12 +26,18 @@ discovered_by = chinese
 # = {
 	#owner = QNG
 	#add_core= QNG
-}
+#}
 # = {
 	#controller = MNG 
 	#owner = MNG
-}
+#}
 # = {
 	#owner = QNG
 	#controller = QNG
-}
+#}
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+discovered_by = NRU 
+discovered_by = NRA

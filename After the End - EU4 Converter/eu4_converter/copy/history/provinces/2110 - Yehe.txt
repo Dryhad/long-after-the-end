@@ -24,11 +24,17 @@ discovered_by = chinese
 	#owner = MCH
 	#controller = MCH
 	#add_core= MCH
-} # The Later Jin Khanate
+#} # The Later Jin Khanate
 # = {
 	#owner = QNG
 	#controller = QNG
 	#add_core= QNG
 	remove_core = MCH
-} # The Qing Dynasty
+#} # The Qing Dynasty
 # = { discovered_by = SPA }
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+discovered_by = indian

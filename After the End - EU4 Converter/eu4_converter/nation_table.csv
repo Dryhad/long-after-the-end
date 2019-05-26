@@ -4,12 +4,19 @@
 k_papal_state;PAP;Papal;Papal State Kingdom
 k_ursuline;URS;Ursuline;Ursuline See
 
+# HCC
+e_dixie;HLR;HolyRomanEmpire;Confederacy
+
 # Hordes
 
-e_redcoat_dominion;GBR;GreatBritain;Great Britain
+e_redcoat_dominion;RED;Redcoats;Redcoats
 e_brazil;BRZ;Brazil;Brazil
-e_edokko;JAP;Japan;Japan
-e_novorusskiy;NRU;NewRussia;New Russia
+e_edokko;BKK;Beikoku;Japan
+e_novorusskiy;NRA;NewRussianAmerica;New Russia
+
+# Holy Orders
+d_midwestern_brotherhood;MWB;MidWestBrotherhood;Midwestern Brotherhood
+d_steel_brotherhood;SBH;SteelBrotherhood;Steel Brotherhood
 
 # Converter Originals
 e_california;CAL;California;Empire California
@@ -17,17 +24,115 @@ e_ontarian;ONT;Ontario;Empire Ontario
 k_ontario;ONT;Ontario;Kingdom Ontario
 d_arklatex;TXK;Texarkana;Duchy Texarkana
 c_texarkana;TXK;Texarkana;County Texarkana
-k_columbia;WCD;Columbia;Kingdom Columbia
+e_beltway;WDC;Columbia;Empire Columbia
+k_columbia;WDC;Columbia;Kingdom Columbia
 d_capital;WDC;Columbia;Duchy Columbia
-c_washington;WCD;Columbia;County Columbia
-e_caribbean;CAR;Caribbean;Empire Caribbean
-d_new_york;NYS;NewYork;Duchy New York
-k_new_york;NYS;NewYork;Kingdom New York/Gotham
+c_washington;WDC;Columbia;County Columbia
+e_caribbean;CBN;Caribbean;Empire Caribbean
 e_nys;NYS;NewYork;Empire New York/Empire State
+k_new_york;NYS;NewYork;Kingdom New York/Gotham
+d_new_york;NYS;NewYork;Duchy New York
 e_cascadia;CSC;Cascadia;Empire Cascadia
 k_cascadia;CSC;Cascadia;Kingdom Cascadia
 e_lone_star;TEX;Texas;Empire Texas
+e_texas;TEX;Texas;Cultural Empire Texas
 e_great_lakes;GLK;TheGreatLakes;Empire Great Lakes
+e_chicagoan;ORD;Chicagoland;Empire Chicagoland
+k_chicagoland;ORD;Chicagoland;Kingdom Chicagoland
+d_calumet;ORD;Chicagoland;Duchy Chicagoland
+e_cuba;CUB;Cuba;Empire Cuba
+k_cuba;CUB;Cuba;Kingdom Cuba
+e_deitsch;DEI;Deitscherei;Empire Deitscherei
+k_deitscherei;DEI;Deitscherei;Kingdom Deitscherei
+e_utahn;DES;Deseret;Empire Deseret
+k_deseret;DES;Deseret;Kingdom Deseret
+e_dominica;DOM;Dominica;Empire Dominica
+d_dominica;DOM;Dominica;Duchy Dominica
+e_garinagu;HON;Honduras;Empire Honduras
+k_honduras;HON;Honduras;Kingdom Honduras
+e_miskito;MSK;Miskito;Empire Miskito
+k_mosquito;MSK;Miskito;Kingdom Miskito
+d_mosquito;MSK;Miskito;Duchy Miskito
+e_yankee;NEN;NewEngland;Empire New England
+k_new_england;NEN;NewEngland;Kingdom New England
+e_newfie;NFL;Newfoundland;Empire Newfoundland
+k_newfoundland;NFL;Newfoundland;Kingdom Newfoundland
+d_newfoundland;NFL;Newfoundland;Duchy Newfoundland
+e_istmeno;PNM;Panama;Empire Panama
+k_puente_grande;PNM;Panama;Kingdom Panama
+d_panama;PNM;Panama;Duchy Panama
+e_appalachia;APP;Appalachia;Empire Appalachia
+k_appalachia;APP;Appalachia;Kingdom Appalachia
+e_arixan;ARX;Arixo;Empire Arixo
+k_arixo;ARX;Arixo;Kingdom Arixo
+e_californio;BAJ;Baja;Empire Baja
+k_baja_california;BAJ;Baja;Kingdom Baja
+d_baja;BAJ;Baja;Duchy Baja
+e_bayfolk;BAY;GranFrancisco;Empire Gran Francisco
+k_francisco;BAY;GranFrancisco;Kingdom Gran Francisco
+e_bermudian;BRM;Bermuda;Empire Bermuda
+k_grand_bermuda;BRM;Bermuda;Kingdom Bermuda
+d_bermuda;BRM;Bermuda;Duchy Bermuda
+c_bermuda;BRM;Bermuda;County Bermuda
+e_coloradan;CLR;Colorado;Empire Colorado
+k_colorado;CLR;Colorado;Kingdom Colorado
+e_tapatio;JAL;Jalisco;Empire Jalisco
+k_jalisco;JAL;Jalisco;Kingdom Jalisco
+d_jalisco;JAL;Jalisco;Duchy Jalisco
+e_angeleno;LAX;Socal;Empire Socal
+k_socal;LAX;Socal;Kingdom Socal
+e_maritimer;MRT;Maritimes;Empire Maritimes
+k_maritimes;MRT;Maritimes;Kingdom Maritimes
+e_ozark;OZK;Ozarks;Empire Ozarks
+k_ozarks;OZK;Ozarks;Kingdom Ozarks
+e_puerto_rico;PTR;PuertoRico;Empire Puerto Rico
+d_puerto_rico;PTR;PuertoRico;Duchy Puerto Rico
+e_sonorense;SNR;Sonora;Empire Sonora
+k_sonora;SNR;Sonora;Kingdom Sonora
+d_sonora;SNR;Sonora;Duchy Sonora
+e_yooper;SUP;Superior;Empire Superior
+k_superior;SUP;Superior;Kingdom Superior
+d_superior;SUP;Superior;Duchy Superior
+e_tuskegean;TSK;Tuskegee;Empire Tuskegee
+k_tuskegee;TSK;Tuskegee;Kingdom Tuskegee
+d_tuskegee;TSK;Tuskegee;Duchy Tuskegee
+c_tuskegee;TSK;Tuskegee;County Tuskegee
+e_valleyan;VAL;Valley;Empire Valley
+k_the_valley;VAL;Valley;Kingdom Valley
+e_paisa;ANQ;Antioquia;Empire Antioquia
+k_antioquia;ANQ;Antioquia;Kingdom Antioquia
+d_antioquia;ANQ;Antioquia;Duchy Antioquia
+e_kriol;BLZ;Belize;Empire Belize
+d_belize;BLZ;Belize;Duchy Belize
+e_bolivariano;BOV;Bolivar;Empire Bolivar
+k_bolivar;BOV;Bolivar;Kingdom Bolivar
+e_cayennais;CAY;Cayenne;Empire Cayenne
+d_cayenne;CAY;Cayenne;Duchy Cayenne
+c_cayenne;CAY;Cayenne;County Cayenne
+e_delawarean;DLW;Delaware;Empire Delaware
+d_delaware_valley;DLW;Delaware;Duchy Delaware
+e_gulfard;FLD;Florida;Empire Florida
+k_florida;FLD;Florida;Kingdom Florida
+e_guyanese;GYN;Guyana;Empire Guyana
+k_guyana;GYN;Guyana;Kingdom Guyana
+e_llanero;LLL;LosLlanos;Empire Los Llanos
+k_los_llanos;LLL;LosLlanos;Kingdom Los Llanos
+e_metis;MTC;Metis;Empire Metis
+e_neomexicano;NMX;NewMexico;Empire New Mexico
+k_new_mexico;NMX;NewMexico;Kingdom New Mexico
+d_new_mexico;NMX;NewMexico;Duchy New Mexico
+e_portlander;OGN;Oregon;Empire Oregon
+e_tejano;RIO;RioGrande;Empire Rio Grande
+k_rio_grande;RIO;RioGrande;Kingdom Rio Grande
+e_sranan;SUR;Suriname;Empire Suriname
+k_suriname;SUR;Suriname;Kingdom Suriname
+d_suriname;SUR;Suriname;Duchy Suriname
+e_gocho;TCR;Tachira;Empire Tachira
+c_tachira;TCR;Tachira;County Tachira
+e_jarocho;VRC;Veracruz;Empire Veracruz
+d_veracruz;VRC;Veracruz;Duchy Veracruz
+e_dellsman;WIS;Wisconsin;Empire Wisconsin
+k_wisconsin;WIS;Wisconsin;Kingdom Wisconsin
 
 # EU4 Colonies
 
@@ -36,14 +141,16 @@ e_gran_colombia;COL;Colombia;Colombia
 e_haiti;HAT;Haiti;Empire Haiti
 k_hispaniola;HAT;Haiti;Kingdom Haiti
 d_haiti;HAT;Haiti;Duchy Haiti
-k_louisiana;LOU;Louisiana;Louisiana
+e_cajun;LOU;Louisiana;Empire Louisiana
+k_louisiana;LOU;Louisiana;Kingdom Louisiana
 e_mexico;MEX;Mexico;Empire Mexico
 k_mexico;MEX;Mexico;Kingdom Mexico
 d_mexico;MEX;Mexico;Duchy Mexico
 e_quebec;QUE;Quebec;Empire Quebec
 k_quebec;QUE;Quebec;Kingdom Quebec
 e_usa;USA;USA;America
-k_venezuela;VNZ;Venezuela;Venezuela
+e_agraciado;VNZ;Venezuela;Empire Venezuela
+k_venezuela;VNZ;Venezuela;Kingdom Venezuela
 e_guatemala;CAM;UPCA;Empire of Guatemala/United Central America
 
 # Native (Most of these disabled because Sunset Invasion is a butt)
@@ -58,6 +165,7 @@ e_guatemala;CAM;UPCA;Empire of Guatemala/United Central America
 #k_dinetah;NAH;Navajo;Kingdom Navajo
 #d_navajoland;NAH;Navajo;Duchy Navajo
 #e_sioux;SIO;Sioux;Empire Sioux
+#k_lakotah;SIO;Sioux;Kingdom Sioux
 #d_siouxland;SIO;Sioux;Duchy Sioux
 
 # First Nations
@@ -81,3 +189,4 @@ k_zapoteca;ZAP;Zapotec;Kingdom Zapotec
 e_muisca;MCA;Muisca;Muisca
 k_colima;CLM;Colima;Kingdom Colima
 d_colima;CLM;Colima;Duchy Colima
+e_purepecha;TAR;Tarascan;Tarascan

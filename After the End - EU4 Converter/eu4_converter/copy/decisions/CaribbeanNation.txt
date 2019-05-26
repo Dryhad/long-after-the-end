@@ -8,7 +8,7 @@ country_decisions = {
 				ai = no
 				is_playing_custom_nation = no
 			}
-			NOT = { exists = CAR }
+			NOT = { exists = CBN }
 			NOT = { tag = PAP }
 			NOT = { tag = HLR }
 			OR = {	# Just opening it up to everyone; this isn't a West Indian cultural empire anymore)
@@ -102,7 +102,7 @@ country_decisions = {
 			}
 		}
 		effect = {
-			change_tag = CAR
+			change_tag = CBN
 			if = {
 				limit = {
 					has_custom_ideas = no
@@ -134,7 +134,7 @@ country_decisions = {
 				limit = {
 					NOT = { owned_by = ROOT }
 				}
-				add_permanent_claim = CAR
+				add_permanent_claim = CBN
 			}
 			add_country_modifier = {
 				name = "centralization_modifier"

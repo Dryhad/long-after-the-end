@@ -19,8 +19,10 @@ discovered_by = CRI
 discovered_by = GOL
 discovered_by = AST
 discovered_by = QAS
-discovered_by = high_american
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
+discovered_by = high_american 
+discovered_by = RED
 discovered_by = indian
 discovered_by = indian
 
@@ -30,7 +32,7 @@ discovered_by = indian
 	#owner = PLC
 	#controller = PLC
 	#add_core= PLC
-} # Union of Lublin
+#} # Union of Lublin
 # = { fort_16th = yes } #Birzai
 # = { fort_16th = no fort_17th = yes } #Birzai
 # = { #controller = SWE } # Swedish occupation
@@ -40,3 +42,8 @@ discovered_by = indian
 # = { #owner = RUS #controller = RUS #add_core= RUS } # Annexed by Russia, third partition
 # = { #controller = FRA } # Occupied by French troops
 # = { #controller = RUS }
+
+
+native_size = 5
+native_ferocity = 10
+native_hostileness = 10

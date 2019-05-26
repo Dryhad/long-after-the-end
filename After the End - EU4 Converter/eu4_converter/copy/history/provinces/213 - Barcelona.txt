@@ -17,8 +17,10 @@ estate = estate_burghers
 
 
 
-discovered_by = high_american
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
+discovered_by = high_american 
+discovered_by = RED
 discovered_by = indian
 discovered_by = indian
 
@@ -34,14 +36,14 @@ discovered_by = indian
 	#controller = SPA
 	#owner = SPA
 	#add_core= SPA
-} # King Fernando dies, Carlos inherits Aragon and becames co-regent of Castille
+#} # King Fernando dies, Carlos inherits Aragon and becames co-regent of Castille
 # = { revolt = { type = nationalist_rebels size = 1 } #controller = REB } # "Corpus of blood". The Viceroy is killed and the Catalan sublevation begins, fastly spreading to other cities. 
 # = {
 	revolt = {}
 	#owner = FRA
 	#controller = FRA
 	#add_core= FRA
-} # Louis XIII of France, Count of Barcelona.
+#} # Louis XIII of France, Count of Barcelona.
 # = { #owner = SPA #controller = SPA remove_core = FRA } # Barcelona surrenders
 # = { unrest = 5 } # Peasant revolt of the "barretines"
 # = { unrest = 0 } # End of the revolt
@@ -55,3 +57,8 @@ discovered_by = indian
 # = { revolt = {} #controller = SPA } # Barcelona surrenders
 # = { revolt = { type = pretender_rebels size = 1 } #controller = REB }
 # = { revolt = {} #controller = SPA }
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

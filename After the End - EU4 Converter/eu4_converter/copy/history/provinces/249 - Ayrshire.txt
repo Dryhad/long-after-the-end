@@ -2,23 +2,25 @@
 
 #owner = SCO
 #controller = SCO
-culture = scottish
+culture = weegan
 religion = thelemic
 hre = no
-base_tax = 1
-base_production = 1
+base_tax = 7
+base_production = 7
 trade_goods = unknown
-base_manpower = 1
-capital = "Ayr"
+base_manpower = 4
+capital = "Glasgow"
 is_city = no
 #add_core= SCO
 
 
 
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
 discovered_by = indian
 discovered_by = indian
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
 
 
 # = { religion = reformed }
@@ -30,4 +32,9 @@ discovered_by = high_american
 # = {	#owner = GBR
 	#controller = GBR
 	#add_core= GBR
-}
+#}
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

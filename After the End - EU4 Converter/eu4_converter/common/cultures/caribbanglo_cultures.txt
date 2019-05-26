@@ -1,25 +1,29 @@
 caribbanglo = {
 	west_indian = {
-		primary = CAR
+		primary = CBN
 		dynasty_names = $west_indian$
 	}
 	calypsonian = {
-		primary = CAR
+		primary = CBN
 		dynasty_names = $calypsonian$
 	}
 	bermudian = {
+		primary = BRM
 		dynasty_names = $bermudian$
 	}
 	garinagu = {
+		primary = HON
 		dynasty_names = $garinagu$
 	}
 	raizal = {
 		dynasty_names = $raizal$
 	}
 	kriol = {
+		primary = BLZ
 		dynasty_names = $kriol$
 	}
 	guyanese = {
+		primary = GYN
 		dynasty_names = $guyanese$
 	}
 }

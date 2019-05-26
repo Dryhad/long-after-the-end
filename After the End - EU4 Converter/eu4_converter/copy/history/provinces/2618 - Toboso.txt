@@ -35,6 +35,6 @@ discovered_by =  mesoamerican
 	religion = catholic 
 	culture = castillian
 	capital = "Santa Barbara"
-	trade_goods = wool 
+	trade_goods = unknown
 } # Francisco de Ibarra 
 # = { #owner = MEX #add_core= MEX #controller = SPA } # Mexican War of Independence

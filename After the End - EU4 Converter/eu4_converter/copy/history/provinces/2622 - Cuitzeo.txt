@@ -7,7 +7,7 @@ culture = purepecha
 is_city = no
 religion = nahuatl
 capital = "Zinapecuaro"
-trade_goods = grain
+trade_goods = unknown
 hre = no
 base_tax = 6
 base_production = 6
@@ -25,12 +25,7 @@ discovered_by = ottoman
 discovered_by =  mesoamerican
 
 
-# = {
-	#owner = SPA
-	#controller = SPA
-	#add_core= SPA
-	religion = catholic
-	unrest = 5
-} #Tangaxuan II is deposed and murdered.
-# = { culture = castillian } # growing aculturation
-# = { #owner = MEX #add_core= MEX #controller = MEX } # Mexican War of Independence
+
+
+discovered_by = NRU 
+discovered_by = NRA

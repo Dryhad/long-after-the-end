@@ -34,7 +34,7 @@ discovered_by = nomad_group
 	is_city = no
 	culture = castillian
 	religion = catholic 
-	trade_goods = wool 
+	trade_goods = unknown
 } #Cerrelvo
  #first serious settlements of the lower Rio Grande
 # = { #owner = MEX #add_core= MEX #controller = MEX } # Mexican War of Independence

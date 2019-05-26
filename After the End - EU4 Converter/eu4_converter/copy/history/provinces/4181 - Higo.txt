@@ -1,7 +1,7 @@
 #4181 - Higo
 
-#owner = KKC
-#controller = KKC
+owner = AMK
+controller = AMK
 culture = kyushuan
 religion = shinto
 capital = "Kumamoto"
@@ -10,19 +10,12 @@ hre = no
 base_tax = 2
 base_manpower = 3
 base_production = 3
-is_city = no
-#add_core= KKC
+is_city = yes
+add_core= AMK
 discovered_by = chinese
-discovered_by = MCH
-discovered_by = KHA
-discovered_by = OIR
-discovered_by = QNG
 
-# = { discovered_by = POR }
-# = { #add_core= OTM #owner = OTM #controller = OTM remove_core = KKC }
-# = { #add_core= SMZ }
-# = { #owner = SMZ #controller = SMZ remove_core = OTM }
-# = { fort_15th = yes } # Kumamoto Castle
-# = { #owner = ODA #controller = ODA #add_core= ODA remove_core = SMZ} #Hideyoshi's conquest of Kyushu
-# = { #owner = TKG #controller = TKG #add_core= TKG remove_core = ODA }
-# = { #owner = HSK #controller = HSK #add_core= HSK remove_core = TKG fort_16th = yes } # Kumamoto-han granted to Hosokawa
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+discovered_by = NRU 
+discovered_by = NRA

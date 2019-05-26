@@ -1,7 +1,12 @@
-owner = BRZ
-controller = BRZ
-add_core = BRZ
+owner = SLT
+controller = SLT
+add_core = SLT
 3053.1.1 = {
-	owner = BRZ
-	controller = BRZ
+	owner = SLT
+	controller = SLT
 }
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

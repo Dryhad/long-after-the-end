@@ -10,12 +10,20 @@ raramuri;raramuri;1;Raramuri
 maya;mayan;0;Maya
 yucateco;yucatec;0;Yucatec
 
+# Pan-Atlantic
+british;british;1;British
+nigerian;nigerian;1;Nigerian
+moroccan;moroccan;0;Moroccan
+wladfaeg;welsh;0;Welsh
+
 # Pan-Pacific
-yuehai;cantonese;0;Cantonese
+hong_konger;cantonese;0;Cantonese
+yuehai;cantonese;0;Backwards compatibility
 tagalog;filipino;0;Filipino
 singaporean;singaporean;1;Singaporean
 kinh;vietnamese;0;Vietnamese
 ozlander;aboriginal;0;Aboriginal
+wastelander;strayan;1;Strayan
 
 # First Nations
 haida;haida;0;Haida
@@ -40,9 +48,7 @@ navajo;navajo;0;Navajo
 hopi;pueblo;0;Pueblo
 paiute;paiute;1;Paiute
 muscogee;creek;0;Creek
-
-# African
-nigerian;nigerian;1;Nigerian
+iroquois;iroquois;0;Iroquois
 
 # Afro-Anglo
 gullah;gullah;1;Gullah
@@ -55,6 +61,7 @@ dellsman;dellsman;1;Dellsman
 northlander;northlander;1;Northlander
 rostmann;rostmann;1;Rostmann
 yooper;yooper;1;Yooper
+yiddish;yiddish;1;Yiddish
 
 # Antillais
 cayennais;cayennais;1;Cayennais
@@ -89,6 +96,8 @@ cubano;cubano;1;Cubano
 dominicano;dominicano;1;Dominicano
 nuyorican;nuyorican;1;Nuyorican
 boricua;boricua;1;Boricua
+yanquito;yanquito;1;Yanquito
+afrocubano;afrocubano;1;Afro-Cubano
 
 # Centrolatino
 chapin;chapin;1;Chapin
@@ -104,6 +113,7 @@ acadien;acadien;1;Acadien
 cajun;cajun;1;Cajun
 creole;creole;1;Creole
 quebecois;quebecois;1;Quebecois
+ontarois;ontarois;1;Ontarois
 
 # Laurentian
 chicagoan;chicagoan;1;Chicagoan
@@ -120,6 +130,7 @@ norteno;norteno;1;Norteno
 sonorense;sonorense;1;Sonorense
 tapatio;tapatio;1;Tapatio
 tejano;tejano;1;Tejano
+neoladino;neoladino;1;Neoladino
 
 # Nihonjin
 edokko;edokko;1;Edokko
@@ -131,25 +142,28 @@ hudsonian;hudsonian;1;Hudsonian
 maritimer;maritimer;1;Maritimer
 newfie;newfie;1;Newfie
 yankee;yankee;1;Yankee
+new_english;new_english;1;New English
 
 # North Pacific
 canuck;canuck;1;Canuck
 cascadian;cascadian;1;Cascadian
 portlander;portlander;1;Portlander
 
-# Old World
-british;british;1;British
-
 # Polynesian
 hawaiian;hawaiian;1;Hawaiian
 
 # Portuguese
-brazilian;brazilian;1;Brazilian
+brazilian;carioca;1;Carioca
+amazonense;amazonense;1;Amazonense
+roraimense;amazonense;1;Backwards compatibility
+baiano;baiano;1;Baiano
+gaucho;gaucho;1;Gaucho
 
 # Rockland
 coloradan;coloradan;1;Coloradan
 mountainer;mountainer;1;Mountainer
 utahn;utahn;1;Utahn
+prairielander;prairielander;1;Prairielander
 
 # Sibir
 novorusskiy;novorusskiy;1;Novorusskiy
@@ -162,6 +176,7 @@ dixie;dixie;1;Dixie
 gulfard;gulfard;1;Gulfard
 melungeon;melungeon;1;Melungeon
 riverlander;riverlander;1;Riverlander
+carpetbagger;carpetbagger;1;Carpetbagger
 
 # Venezolano
 agraciado;agraciado;1;Agraciado
@@ -178,3 +193,5 @@ texan;texan;1;Texan
 
 # Misc
 horse;equine;1;Equine
+bear;jan_mayenese;0;Jan Mayenese
+cat;cat;1;Cat

@@ -1,41 +1,20 @@
 # - Ortelsburg
 
-#owner = TEU
-#controller = TEU
 capital = "Ortelsburg"
-culture = prussian
-religion = catholic
+culture = polish
+religion = matrem
 trade_goods = unknown
 hre = no
 base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = no
-#add_core= TEU
-discovered_by = high_american
-discovered_by = high_american
-discovered_by = indian
+discovered_by = high_american 
+discovered_by = RED
 discovered_by = indian
 
-# = { #add_core= POL revolt = { type = revolutionary_rebels size = 2 } #controller = REB } # Beginning of the "thirteen years war"
-# = { revolt = {} #controller = TEU #add_core= PRU } # "Peace of Torun", became a Polish fief
-# = {
-	#owner = PRU
-	#controller = PRU
-	remove_core = TEU
-	remove_core = POL
-	religion = protestant
-} # Albert of Prussia became a protestant
-# = {
-	#owner = BRA
-	#controller = BRA
-	#add_core= BRA
-} # Prussia in a personal union with Brandenburg
- # plague
-# = {
-	#owner = PRU
-	#controller = PRU
-	remove_core = BRA
-} # Kingdom of Prussia
-# = { #controller = RUS } # Occupied by Russia
-# = { #controller = PRU } # Russians withdraw
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

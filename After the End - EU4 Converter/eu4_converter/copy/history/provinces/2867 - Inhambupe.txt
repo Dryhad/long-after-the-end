@@ -1,7 +1,13 @@
 # - Chanar
 
-culture = het
-discovered_by = south_american
+owner = MPC
+controller = MPC
+add_core = MPC
+is_city = yes
+culture = platinean
+discovered_by = south_american 
+discovered_by = andean
+discovered_by = brazilian
 religion = animism
 capital = "Chanar"
 trade_goods = unknown
@@ -13,4 +19,3 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 1
 
-# = { discovered_by = SPA }

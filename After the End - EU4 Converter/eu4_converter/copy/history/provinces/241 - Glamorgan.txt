@@ -5,10 +5,10 @@
 culture = welsh
 religion = thelemic
 hre = no
-base_tax = 1
-base_production = 1
+base_tax = 4
+base_production = 4
 trade_goods = unknown
-base_manpower = 1
+base_manpower = 2
 capital = "Carmarthen"
 is_city = no
 #add_core= ENG
@@ -16,10 +16,12 @@ is_city = no
 
 
 
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
 discovered_by = indian
 discovered_by = indian
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
 
 
 # = { unrest = 20 } # Buildup to the Welsh Revolt
@@ -41,5 +43,10 @@ discovered_by = high_american
 	#controller = GBR
 	#add_core= GBR
 	remove_core = ENG
-}
+#}
 # = { religion = reformed }
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

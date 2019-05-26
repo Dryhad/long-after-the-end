@@ -13,10 +13,12 @@ base_manpower = 1
 is_city = no
 estate = estate_nobles
 #add_core= POR
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
 discovered_by = indian
 discovered_by = indian
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
 
 
 # = { #controller = SPA }
@@ -25,3 +27,7 @@ discovered_by = high_american
 # = { unrest = 0 }
 # = { #controller = FRA } # Occupied by France
 # = { #controller = POR }
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

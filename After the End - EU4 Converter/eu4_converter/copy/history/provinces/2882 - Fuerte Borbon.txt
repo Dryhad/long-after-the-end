@@ -1,14 +1,20 @@
 # - Fuerte Borbon
 
-culture = chacoan
+owner = PRG
+controller = PRG
+add_core = PRG
+culture = litoraleno
 
 
 
-discovered_by = south_american
+discovered_by = south_american 
+discovered_by = andean
+discovered_by = brazilian
 discovered_by = andean
 
-religion = animism
+religion = candomble
 capital = "Fuerte Borbon"
+is_city = yes
 trade_goods = unknown
 hre = no
 base_tax = 1 
@@ -18,19 +24,15 @@ native_size = 50
 native_ferocity = 1
 native_hostileness = 7
 
-# = {
-	#discovered_by = SPA
-	#owner = SPA
-	#controller = SPA
-	#add_core= SPA
-	religion = catholic
-	culture = castillian
-	trade_goods = wool
-	is_city = no
-} # Founded by Diego de Villaruel
-# = {
-	#owner = LAP
-	#controller = LAP
-	#add_core= LAP
-	remove_core = SPA
-} # Argentina is declared independent
+owner = BRZ
+controller = BRZ
+add_core = BRZ
+3053.1.1 = {
+	owner = BRZ
+	controller = BRZ
+}
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

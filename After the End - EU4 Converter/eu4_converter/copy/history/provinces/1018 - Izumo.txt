@@ -1,7 +1,7 @@
 #1018 - Izumo
 
-#owner = AMA
-#controller = AMA
+owner = KOB
+controller = KOB
 culture = japanese
 religion = shinto
 capital = "Matsue"
@@ -10,19 +10,14 @@ hre = no
 base_tax = 3 
 base_production = 3
 base_manpower = 2
-is_city = no
-#add_core= AMA
+is_city = yes
+add_core= KOB
 fort_15th = yes #Gassantoda Castle
 discovered_by = chinese
-discovered_by = MCH
-discovered_by = KHA
-discovered_by = OIR
-discovered_by = QNG
 
-# = { fort_15th = yes } # Gassan Toda Castle
-# = { discovered_by = POR }
-# = { #add_core= MRI }
-# = { #owner = MRI #controller = MRI remove_core = AMA }
-# = { fort_15th = no } # Gassan Toda Castle has fallen
-# = { #add_core= TKG #owner = TKG #controller = TKG remove_core = MRI }
-# = { trade_goods = fish } # Sakoku reduces sword demand
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+discovered_by = NRU 
+discovered_by = NRA

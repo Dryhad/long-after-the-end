@@ -28,7 +28,7 @@ discovered_by = nomad_group
 	#add_core= NED
 	culture = dutch
 	religion = reformed
-	trade_goods = fur
+	trade_goods = unknown
 } # Dutch settlers
 # = { discovered_by = ENG }
 # = { is_city = no }

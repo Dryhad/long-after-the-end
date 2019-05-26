@@ -22,15 +22,21 @@ discovered_by = chinese
 	#owner = KAS
 	#controller = KAS
 	#add_core= KAS
-}
+#}
 # = {
 	#owner = ZUN
 	#controller = ZUN
 	#add_core= ZUN
-}
+#}
 # = { discovered_by = SPA }
 # = {
 	#owner = QNG
 	#controller = QNG
 	#add_core= QNG
-}
+#}
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+discovered_by = indian

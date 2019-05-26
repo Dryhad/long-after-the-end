@@ -3,7 +3,7 @@
 culture = athabascan
 religion = totemism 
 capital = "Tsuutina" 
-trade_goods = unknown 
+trade_goods = unknown
 hre = no 
 base_tax = 4
 base_production = 4
@@ -28,5 +28,5 @@ discovered_by = nomad_group
 	#controller = GBR
 	#add_core= GBR
 	is_city = no
-	trade_goods = fur
+	trade_goods = unknown
 } #Rocky Mountain House trading post

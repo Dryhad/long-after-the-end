@@ -1,5 +1,7 @@
-government = iqta
+government = monarchy 
+add_government_reform = iqta
 primary_culture = telegu
 religion = sunni
 technology_group = indian
 capital = 542 #Hyderabad
+religious_school = hanafi_school

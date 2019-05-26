@@ -1,19 +1,26 @@
 #617 - Lamuri
 
-#owner = PSA
-#controller = PSA
+owner = ATJ
+controller = ATJ
 culture = sumatran
-religion = sunni
+religion = ahmadi
 capital = "Lamuri"
 trade_goods = spices
 hre = no
 base_tax = 4
 base_production = 4
 base_manpower = 3
-is_city = no
-#add_core= PSA
+is_city = yes
+add_core= ATJ
 
 
 
 discovered_by = indian
 discovered_by = chinese
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+discovered_by = NRU 
+discovered_by = NRA

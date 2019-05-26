@@ -1,7 +1,7 @@
 capital = "Farmington"
 culture = piman
 religion = totemism 
-trade_goods = unknown 
+trade_goods = unknown
 hre = no 
 base_tax = 6
 base_production = 6
@@ -12,3 +12,5 @@ native_hostileness = 3
 
 discovered_by = nomad_group
 
+
+discovered_by = GBR

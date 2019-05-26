@@ -1,5 +1,9 @@
 #647 - Ceram
 
+owner = TER
+controller = TER
+add_core = TER
+is_city = yes
 culture = moluccan
 religion = hinduism
 capital = "Ceram"
@@ -15,3 +19,5 @@ native_hostileness = 3
 
 
 discovered_by = chinese
+discovered_by = NRU 
+discovered_by = NRA

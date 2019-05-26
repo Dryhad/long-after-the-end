@@ -1,0 +1,20 @@
+#4306 - Lakia
+add_core = QUB
+owner = QUB
+controller = QUB
+culture = azerbaijani
+religion = jewish
+capital = "Kumukh"
+trade_goods = iron
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 3
+#is_city = yes
+
+discovered_by = indian 
+discovered_by = RED
+discovered_by = high_american
+
+
+

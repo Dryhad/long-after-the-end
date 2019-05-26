@@ -1,0 +1,18 @@
+government = republic 
+add_government_reform = merchants_reform
+primary_culture = russian
+religion = atomicist
+technology_group = indian
+capital = 2199 #Tarki
+
+
+
+3000.1.1 = {
+	monarch = {
+		name = "Trifon"
+		dynasty = "Ulich"
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}

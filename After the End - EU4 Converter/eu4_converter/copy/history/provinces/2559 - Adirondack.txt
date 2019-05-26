@@ -20,25 +20,25 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = nomad_group
 
-# = { discovered_by = FRA } # Samuel de Champlain
-# = { discovered_by = ENG }
+# = { discovered_by = FRA  # Samuel de Champlain
+# = { discovered_by = ENG 
 
 # = {
 	#owner = IRO
 	#controller = IRO
 	#add_core= IRO
 	is_city = no
-	trade_goods = naval_supplies 
-} #Extent of the Iroquois circa the Beaver Wars
-# = { discovered_by = GBR }
+	trade_goods = unknown
+ #Extent of the Iroquois circa the Beaver Wars
+# = { discovered_by = GBR 
 # = {
 	#owner = FRA
 	#controller = FRA
 	#add_core= FRA
 	culture = cosmopolitan_french
 	religion = catholic
-} # Construction of Fort St. Frédérick
-# = { fort_18th = yes }
+ # Construction of Fort St. Frédérick
+# = { fort_18th = yes 
 # = {
 	#owner = GBR
 	#controller = GBR
@@ -46,11 +46,14 @@ discovered_by = nomad_group
 	culture = english
 	religion = protestant
 	remove_core = FRA
-} # Treaty of Paris, ceded to Britain & France gave up its claim
-# = { revolt = { type = nationalist_rebels size = 2 } #controller = REB culture = american } #Capture of Ticonderoga
+ # Treaty of Paris, ceded to Britain & France gave up its claim
+# = { revolt = { type = nationalist_rebels size = 2  #controller = REB culture = american  #Capture of Ticonderoga
 # = {
 	#owner = USA
 	#controller = USA
 	#add_core= USA
 	remove_core = GBR
-} 
+ 
+discovered_by = GBR
+
+discovered_by = GBR

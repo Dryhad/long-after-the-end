@@ -652,7 +652,7 @@
  PROV651:0 "Sulu"
  PROV652:0 "Maguindanao"
  PROV653:0 "Lanao"
- PROV654:0 "Visayas"
+ PROV654:0 "Samar"
  PROV655:0 "Palawan"
  PROV656:0 "Manila"
  PROV657:0 "Ilocos"
@@ -764,7 +764,7 @@
  PROV763:0 "Rio de Janeiro"
  PROV764:0 "Santo Amaro"
  PROV765:0 "Minas Gerais"
- PROV766:0 "Sao Vicente"
+ PROV766:0 "Sao Paulo"	#Was Sao Vicente
  PROV767:0 "Ortelsburg"
  PROV768:0 "Guayra"
  PROV769:0 "Curitiba"
@@ -776,7 +776,7 @@
  PROV775:0 "Asuncion"
  PROV776:0 "Concepcion"
  PROV777:0 "Corrientes"
- PROV778:0 "Rio de la Plata"
+ PROV778:0 "Buenos Aires"	#Was Rio de la Plata
  PROV779:0 "Tandil"
  PROV780:0 "Candelaria"
  PROV781:0 "Puerto Deseado"
@@ -852,7 +852,7 @@
  PROV851:0 "Coalcoman"		#Was Zacatula
  PROV852:0 "Mexico"
  PROV853:0 "Huastec"
- PROV854:0 "Peurto Vallarta" #Was Sayultecas
+ PROV854:0 "Puerto Vallarta" #Was Sayultecas
  PROV855:0 "Tepic"		#Was Totorames
  PROV856:0 "Zacatecas"
  PROV857:0 "Guachichil"
@@ -867,59 +867,59 @@
  PROV866:0 "Guaycura"
  PROV867:0 "Cahuilla"
  PROV868:0 "Santa Barbara" #Was Chumash
- PROV869:0 "Montery"	
+ PROV869:0 "Monterrey"	#Was Montery
  PROV870:0 "Tulare"	#Was Yokuts
  PROV871:0 "Sonoma"	#Was Pomo
  PROV872:0 "Siuslaw"
- PROV873:0 "Chinook"
+ PROV873:0 "Astoria" #Was Chinook
  PROV874:0 "Salish"
  PROV875:0 "Paiute"
  PROV876:0 "Yavapai"
- PROV877:0 "Pima"
+ PROV877:0 "Two Sun" #Was Pima
  PROV878:0 "Navajo"
  PROV879:0 "Apache"
  PROV880:0 "Pueblo"
- PROV881:0 "Piro"
+ PROV881:0 "Socorro" #Was Piro
  PROV882:0 "Mescalero"
- PROV883:0 "Lipan"
+ PROV883:0 "Alamo"	#Was Lipan
  PROV884:0 "Karankawa"
- PROV885:0 "Teyas"
+ PROV885:0 "Amarillo"	#Was Teyas
  PROV886:0 "Waco"
- PROV887:0 "Tonkawa"
- PROV888:0 "Atakapa"
- PROV889:0 "Arapaho"
+ PROV887:0 "Metroplex"	#Was Tonkawa
+ PROV888:0 "Houston"	#Was Atakapa
+ PROV889:0 "Laverne"	#Was Arapaho
  PROV890:0 "Kiowa"
- PROV891:0 "Naisha"
+ PROV891:0 "Oklahoma"		#Was Naisha
  PROV892:0 "Wichita"
- PROV893:0 "Chitimacha"
- PROV894:0 "Caddo"
- PROV895:0 "Arkansas"
- PROV896:0 "Yscani"
- PROV897:0 "Quapaw"
+ PROV893:0 "New Orleans" #Was Chitimacha
+ PROV894:0 "Timberland" #Was Caddo
+ PROV895:0 "Arkansas Post"	#Was Arkansas
+ PROV896:0 "Sequoyah" #Was Yscani
+ PROV897:0 "Arkansas" #Was Quapaw
  PROV898:0 "Kansas"
- PROV899:0 "Pahatsi"
- PROV900:0 "Tamaroa"
+ PROV899:0 "Salem" #Was Pahatsi
+ PROV900:0 "Chariton"	#Was Tamaroa
  PROV901:0 "Pawnee"
- PROV902:0 "Missouri"
+ PROV902:0 "Boonslick"	#Was Missouri
  PROV903:0 "Omaha"
  PROV904:0 "Wahpeton"
  PROV905:0 "Iowa"
  PROV906:0 "Yanktonai"
  PROV907:0 "Yankton"
- PROV908:0 "Sisseton"
+ PROV908:0 "Minnesota" #Was Sisseton
  PROV909:0 "Mandan"
- PROV910:0 "Makoua"
- PROV911:0 "Menominee"
+ PROV910:0 "Red Lake" #Was Makoua
+ PROV911:0 "Soo" #Was Menominee
  PROV912:0 "Sauk"
- PROV913:0 "Mesquakie"
+ PROV913:0 "Prairie du Chien" #Was Mesquakie
  PROV914:0 "Winnebago"
- PROV915:0 "Illinois"
- PROV916:0 "Kaskaskia"
- PROV917:0 "Cahokia"
- PROV918:0 "Tennessee"
+ PROV915:0 "Chicagoland"	#Was Illinois
+ PROV916:0 "Illinois" #Was Kaskaskia
+ PROV917:0 "Forgottonia"	#Was Cahokia
+ PROV918:0 "Memphis"		#Was Tennessee
  PROV919:0 "Chickasaw"
  PROV920:0 "Choctaw"
- PROV921:0 "Bayougoula"
+ PROV921:0 "Baton Rouge" #Was Bayougoula
  PROV922:0 "Mobile"
  PROV923:0 "Pensacola"
  PROV924:0 "Montgomery" #Was Alabama
@@ -927,89 +927,89 @@
  PROV926:0 "Ais"
  PROV927:0 "Timucua"
  PROV928:0 "Apalachee"
- PROV929:0 "Guale"
- PROV930:0 "Muskogee"
- PROV931:0 "Coosa"
- PROV932:0 "Santee"
+ PROV929:0 "Savannah" #Was Guale
+ PROV930:0 "Atlanta" #Was Muskogee
+ PROV931:0 "Peachtree" #Was Coosa
+ PROV932:0 "Charleston"		#Was Santee
  PROV933:0 "Catawba"
- PROV934:0 "Yuchi"
- PROV935:0 "Cherokee"
+ PROV934:0 "Tullahoma" #Was Yuchi
+ PROV935:0 "Watauga" #Was Cherokee
  PROV936:0 "Appalachian Mountains" #Was Cheraw
- PROV937:0 "Tuscarora"
+ PROV937:0 "Durham"	#Was Tuscarora
  PROV938:0 "Pamlico"
- PROV939:0 "Kaskinampo"
+ PROV939:0 "Reelfoot" #Was Kaskinampo
  PROV940:0 "Pennyrile" #Was Kentucky
- PROV941:0 "Chisca"
+ PROV941:0 "Corbin" #Was Chisca
  PROV942:0 "Wea"
  PROV943:0 "Miami"
  PROV944:0 "Potawatomi"
  PROV945:0 "Michigan"
- PROV946:0 "Wyandot"
- PROV947:0 "Cayahoga" #Was Erie
+ PROV946:0 "Sandusky" #Was Wyandot
+ PROV947:0 "Cleveland" #Was Erie
  PROV948:0 "Ohio"
  PROV949:0 "Monacan"
  PROV950:0 "Chesapeake"
  PROV951:0 "Kanawha"
- PROV952:0 "Powhatan"
+ PROV952:0 "James River" #Was Powhatan
  PROV953:0 "Conoy"
  PROV954:0 "Allegheny"
  PROV955:0 "Three Mile Island"	#Was Susquehanna
- PROV956:0 "Lenape"
+ PROV956:0 "Philadelphia" #Was Lenape
  PROV957:0 "Delaware"
- PROV958:0 "Seneca"
- PROV959:0 "Cayuga"
- PROV960:0 "Onondaga"
- PROV961:0 "Oneida"
+ PROV958:0 "Cayuga" #Was Seneca
+ PROV959:0 "Rochester"
+ PROV960:0 "Raquette"	#Was Oswego
+ PROV961:0 "Watertown"	#Was Oneida
  PROV962:0 "Unami"
- PROV963:0 "Mahican"
- PROV964:0 "Mohawk"
+ PROV963:0 "Albany"
+ PROV964:0 "Chepontuc"	#Was Schenectady
  PROV965:0 "Manhattan"
  PROV966:0 "Nipmuc"
- PROV967:0 "Narraganset"
+ PROV967:0 "Rhode Island" #Was Narraganset. Could also be Providence
  PROV968:0 "Massachusetts"
- PROV969:0 "Pocumtuk"
+ PROV969:0 "Bennington" #Was Pocumtuk
  PROV970:0 "Merrimack"
  PROV971:0 "Penobscott"
  PROV972:0 "Nootka"
- PROV973:0 "Squamish"
+ PROV973:0 "Vancouver" #Was Squamish
  PROV974:0 "Kwakiutl"
  PROV975:0 "Tsimshian"
  PROV976:0 "Tlingit"
  PROV977:0 "Yakutat"
  PROV978:0 "Kenai"
  PROV979:0 "Aleut"
- PROV980:0 "Beothuk"
- PROV981:0 "Taqamkuk"
- PROV982:0 "Unamakik"
- PROV983:0 "Epekwitk"
- PROV984:0 "Sipeknekatik"
+ PROV980:0 "Avalon" #Was Beothuk
+ PROV981:0 "Cape Ray" #Was Taqamkuk
+ PROV982:0 "Cape Breton" #Was Unamakik
+ PROV983:0 "Prince Edward Isl." #Was Epekwitk
+ PROV984:0 "Fundy" #Was Sipeknekatik
  PROV985:0 "Mikmaq"
- PROV986:0 "Kespek"
+ PROV986:0 "Gaspe" #Was Kespek
  PROV987:0 "Welland" #Was Niagra
  PROV988:0 "Simcoe"	#Was Huron
  PROV989:0 "Thousand Islands" #Was Ontario
- PROV990:0 "Maisouna"
+ PROV990:0 "Three Rivers" #Was Maisouna
  PROV991:0 "Nipissing"
- PROV992:0 "Algonquin"
+ PROV992:0 "Hull" #Was Algonquin
  PROV993:0 "Île de Montréal" #Was Hochelaga
  PROV994:0 "Stadacona"
  PROV995:0 "Tadoussac"
- PROV996:0 "Innu"
+ PROV996:0 "Mecatina" #Was Innu
  PROV997:0 "Chisedec"
- PROV998:0 "Qikirmiut"
- PROV999:0 "Cisasipi"
+ PROV998:0 "Fort Richmond" #Was Qikirmiut
+ PROV999:0 "Eastmain" #Was Cisasipi
  PROV1000:0 "Cree"
- PROV1001:0 "Soto"
+ PROV1001:0 "Sault Ste. Marie" #Was Soto
  PROV1002:0 "Matagami" #Was Abitibi
  PROV1003:0 "Mosoni"
  PROV1004:0 "Attawapiskat"
  PROV1005:0 "Muskegon"
- PROV1006:0 "Chipewyan"
+ PROV1006:0 "Churchill" #Was Chipewyan
  PROV1007:0 "Ojibwa"
  PROV1008:0 "Winnipeg"
- PROV1009:0 "Atikaki"
+ PROV1009:0 "Berens River" #Was Atikaki
  PROV1010:0 "Manitoba"
- PROV1011:0 "Kinougeoulini"
+ PROV1011:0 "The Pas" #Was Kinougeoulini
  PROV1012:0 "Satsuma"
  PROV1013:0 "Cheongju"
  PROV1014:0 "Bungo"
@@ -1172,7 +1172,7 @@
  PROV1171:0 "Ndongo"
  PROV1172:0 "Benguela"
  PROV1173:0 "Namibia"
- PROV1174:0 "Ezorongondo"
+ PROV1174:0 "Walvis Bay" #Was Ezorongondo
  PROV1175:0 "Lesser Namaqualand"
  PROV1176:0 "Roggeveld"
  PROV1177:0 "Cape"
@@ -1788,8 +1788,8 @@
  PROV1787:0 "Himalaya"
  PROV1788:0 "Arunachal"
  PROV1789:0 "Papua"
- PROV1790:0 "Western Australia"
- PROV1791:0 "Central Australia"
+ PROV1790:0 "Great Sandy Desert"
+ PROV1791:0 "Outback"
  PROV1792:0 "Merina"
  PROV1793:0 "El Djouf"
  PROV1794:0 "Central Sahara"
@@ -1799,7 +1799,7 @@
  PROV1798:0 "Imatong"
  PROV1799:0 "Urgoma"
  PROV1800:0 "Limpopo"
- PROV1801:0 "Kalahari"
+ PROV1801:0 "Angola"	#Was Kalahari
  PROV1802:0 "Western Amazonas"
  PROV1803:0 "Eastern Amazonas"
  PROV1804:0 "Greenland"
@@ -2001,27 +2001,27 @@
  PROV2000:0 "Qinghai Lake"
  PROV2001:0 "Siling Lake"
  PROV2002:0 "Galápagos Islands"
- PROV2003:0 "Ktunaxa"
+ PROV2003:0 "Kootenai" #Was Ktunaxa
  PROV2004:0 "Niitsitapi"
  PROV2005:0 "Asinaan"
  PROV2006:0 "Apsáalooke"
- PROV2007:0 "Arikara"
+ PROV2007:0 "Les Cedres" #Was Arikara
  PROV2008:0 "Lakota"
  PROV2009:0 "Oglala"
  PROV2010:0 "Connecticut"
  PROV2011:0 "Shenandoah"
- PROV2012:0 "Arsigantegok"
- PROV2013:0 "Androscoggin"
- PROV2014:0 "Natchitoches"
+ PROV2012:0 "Memphremagog" #Was Arsigantegok
+ PROV2013:0 "Casco" #Was Androscoggin
+ PROV2014:0 "Ouachita"	#Was Natchitoches
  PROV2015:0 "Nipigon"
- PROV2016:0 "Bungi"
- PROV2017:0 "Nehiyawewin"
- PROV2018:0 "Tsuu Tina"
+ PROV2016:0 "Great Forks" #Was Bungi
+ PROV2017:0 "Edmonton" #Was Nehiyawewin
+ PROV2018:0 "Jasper" #Was Tsuu Tina
  PROV2019:0 "Nimiipu"
  PROV2020:0 "Bannock"
  PROV2021:0 "San Francisco" #Was Miwok
  PROV2022:0 "Haida"
- PROV2023:0 "Munsee"
+ PROV2023:0 "Lechaa" #Was Munsee
  PROV2024:0 "Garoowe"
  PROV2026:0 "Tanjore"
  PROV2027:0 "Arcot"
@@ -2487,17 +2487,17 @@
  PROV2487:0 "Spokane"
  PROV2488:0 "Palus"
  PROV2489:0 "Bohogue"
- PROV2490:0 "Goshute"
+ PROV2490:0 "Salt Lake"	#Was Goshute
  PROV2491:0 "Hualapai"
  PROV2492:0 "Chiricahua"
  PROV2493:0 "Hopi"
  PROV2494:0 "Zuni"
  PROV2495:0 "Acoma"
  PROV2496:0 "Jicarilla"
- PROV2497:0 "Lipiyanes"
- PROV2498:0 "Jumano"
+ PROV2497:0 "Estacado"	#Was Lipiyanes
+ PROV2498:0 "El Paso" #Was Jumano
  PROV2499:0 "Coahuilteco"
- PROV2500:0 "Querecho"
+ PROV2500:0 "Balcones"	#Was Querecho
  PROV2501:0 "Piegan"
  PROV2502:0 "Haaninin"
  PROV2503:0 "Ashshipite"
@@ -2506,103 +2506,103 @@
  PROV2506:0 "Kuccuntikka"
  PROV2507:0 "Baachinena"
  PROV2508:0 "Skiri"
- PROV2509:0 "Utsetha"
+ PROV2509:0 "Topeka"	#Was Utsetha
  PROV2510:0 "Hidatsa"
  PROV2511:0 "Itscheabine"
  PROV2512:0 "Wahpekute"
  PROV2513:0 "Moingwena"
- PROV2514:0 "Michigamea"
- PROV2515:0 "Satuskhdin"
- PROV2516:0 "Adai"
- PROV2517:0 "Mdewakanton"
+ PROV2514:0 "Great River" #Was Michigamea
+ PROV2515:0 "Turner Ward Knob" #Was Satuskhdin
+ PROV2516:0 "L'Acadiane"	#Was Adai
+ PROV2517:0 "Mille Lacs" #Was Mdewakanton
  PROV2518:0 "Noquet"
  PROV2519:0 "Kilatika"
- PROV2520:0 "Mengkonkia"
+ PROV2520:0 "Little Egypt" #Was Mengkonkia
  PROV2521:0 "Okouara"
- PROV2522:0 "Mascouten"
+ PROV2522:0 "Grand Rapids" #Was Mascouten
  PROV2523:0 "Piankeshaw"
  PROV2524:0 "Muncie"	#Was Wabash
- PROV2525:0 "Chillicothe"
- PROV2526:0 "Shatteras"
- PROV2527:0 "Chickamauga"
- PROV2528:0 "Yazoo"
+ PROV2525:0 "Miami Valley" #Was Chillicothe
+ PROV2526:0 "Buckhorn" #Was Shatteras
+ PROV2527:0 "Murfreesboro"	#Was Chickamauga
+ PROV2528:0 "Yazoo"	
  PROV2529:0 "Natchez"
- PROV2530:0 "Biloxi"
- PROV2531:0 "Napochi"
- PROV2532:0 "Tohome"
+ PROV2530:0 "Tallahoma"	#Was Biloxi
+ PROV2531:0 "Huntsville" #Was Napochi
+ PROV2532:0 "Conecuh"	#Was Tohome
  PROV2533:0 "Chatot"
  PROV2534:0 "Yustaga"
  PROV2535:0 "Calusa"
  PROV2536:0 "Mayaimi"
  PROV2537:0 "Fresno" #Was Hitchiti
- PROV2538:0 "Yamasee"
- PROV2539:0 "Mocama"
- PROV2540:0 "Coweta"
+ PROV2538:0 "Fidius" #Was Yamasee
+ PROV2539:0 "Hinesville"	#Was Mocama
+ PROV2540:0 "Augusta"	#Was Coweta
  PROV2541:0 "Saluda"
- PROV2542:0 "Cusabo"
- PROV2543:0 "Waccamaw"
- PROV2544:0 "Unifour"	#Was Yadkin
+ PROV2542:0 "Beaufort"	#Was Cusabo
+ PROV2543:0 "Grand Strand"	#Was Waccamaw
+ PROV2544:0 "Danville"	#Was Yadkin
  PROV2545:0 "Waxhaw"
- PROV2546:0 "Chicora"
+ PROV2546:0 "Cape Fear"	#Was Chicora
  PROV2547:0 "Roanoke"
- PROV2548:0 "Tutelo"
- PROV2549:0 "Moratok"
- PROV2550:0 "Doeg"
+ PROV2548:0 "Clinch" #Was Tutelo
+ PROV2549:0 "Lynchburg"	#Was Moratok
+ PROV2550:0 "Rappahannock" #Was Doeg
  PROV2551:0 "Monongahela"
  PROV2552:0 "Appalachian Mountains"	#Was Manahoac
  PROV2553:0 "Potomac"
- PROV2554:0 "Nanticoke"
+ PROV2554:0 "Baltimore" #Was Nanticoke
  PROV2555:0 "Honniasont"
  PROV2556:0 "Juniata"
- PROV2557:0 "Atrakwaye"
- PROV2558:0 "Espachomy"
- PROV2559:0 "Adirondack"
+ PROV2557:0 "Williamsport" #Was Atrakwaye
+ PROV2558:0 "Catskills" #Was Espachomy
+ PROV2559:0 "Petonbowk" #Was Adirondack
  PROV2560:0 "Quinnipiac"
- PROV2561:0 "Wampanoag"
+ PROV2561:0 "Plymouth" #Was Wampanoag
  PROV2562:0 "Pennacook"
- PROV2563:0 "Missisquoi"
- PROV2564:0 "Sokoki"
- PROV2565:0 "Kennebec"
- PROV2566:0 "Passamaquoddy"
+ PROV2563:0 "Vermont" #Was Missisquoi
+ PROV2564:0 "White Mountains" #Was Sokoki
+ PROV2565:0 "Moosehead"	#Was Kennebec
+ PROV2566:0 "Castine" #Was Passamquoddy
  PROV2567:0 "Aroostook"
- PROV2568:0 "Kespukwitk"
+ PROV2568:0 "Cape Sable" #Was Kespukwitk
  PROV2569:0 "Eskikewakik"
- PROV2570:0 "Wolystoq"
+ PROV2570:0 "St. John" #Was Wolystoq
  PROV2571:0 "Madawaska"
- PROV2572:0 "Siknikt"
+ PROV2572:0 "Campbelton" #Was Siknikt
  PROV2573:0 "Placentia"
- PROV2574:0 "Sikumiut"
+ PROV2574:0 "Nain" #Was Sikumiut
  PROV2575:0 "Naskapi"
  PROV2576:0 "Mingan"
  PROV2577:0 "Outardes"	#Was Manicouagan
  PROV2578:0 "Anticosti"
  PROV2579:0 "Piekouagami"
- PROV2580:0 "Atikamekw"
+ PROV2580:0 "Wemotaci" #Was Atikamekw
  PROV2581:0 "Timiskaming"
- PROV2582:0 "Maliseet"
+ PROV2582:0 "Rimouski" #Was Maliseet
  PROV2583:0 "Etchemins"
  PROV2584:0 "Loup"
  PROV2585:0 "Kichesipi"
  PROV2586:0 "Wellington"	#Was Tionontate
  PROV2587:0 "Huron"			#Was Odawa
- PROV2588:0 "Piscatang"
+ PROV2588:0 "Cloche"     #Was Piscatang
  PROV2589:0 "Abitibi" 		#Was Kesagami
  PROV2590:0 "Shaggami"
  PROV2591:0 "Outoulibi"
- PROV2592:0 "Omushkego"
- PROV2593:0 "Wappus"
+ PROV2592:0 "Severn" #Was Omushkego
+ PROV2593:0 "Lake of the Woods" #Was Wappus
  PROV2594:0 "Quennebigon"
- PROV2595:0 "Kesyehotinne"
+ PROV2595:0 "Ile a la Crosse" #Was Kesyehotinne
  PROV2596:0 "Mahmikiwiniyak"
- PROV2597:0 "Sipiwininiwak"
+ PROV2597:0 "South Branch" #Was Sipiwininiwak
  PROV2598:0 "Hebina"
  PROV2599:0 "Athabasca"
- PROV2600:0 "Nihithawak"
- PROV2601:0 "Danezaa"
+ PROV2600:0 "Vermillion" #Was Nihithawak
+ PROV2601:0 "Dunvegan" #Was Danezaa
  PROV2602:0 "Siksikawa"
  PROV2603:0 "Sekani"
- PROV2604:0 "Dakelh"
- PROV2605:0 "Secwepemc"
+ PROV2604:0 "Prince George" #Was Dakelh
+ PROV2605:0 "Shuswap" #Was Secwepemc
  PROV2606:0 "Tsilhoqotin"
  PROV2607:0 "Okanagan"
  PROV2608:0 "Rocky Mountains"
@@ -2626,7 +2626,7 @@
  PROV2626:0 "Tullucan"
  PROV2627:0 "Lazaro Cardenas" #Cihuatlan
  PROV2628:0 "Tepeacac"
- PROV2629:0 "Tlapa" 		#Was Coyolapan
+ PROV2629:0 "Coyolapan" 		#Was Coyolapan
  PROV2630:0 "Tochtepec"	
  PROV2631:0 "Olmeca"		#Was Mixe
  PROV2632:0 "Xicallanco"
@@ -2662,13 +2662,13 @@
  PROV2662:0 "Olancho"
  PROV2663:0 "Nicoya"
  PROV2664:0 "Veraguas"
- PROV2665:0 "Eyeish"
+ PROV2665:0 "Neches"	#Was Eyeish
  PROV2666:0 "Tuintsundé"
  PROV2667:0 "Cacaxtes"
  PROV2668:0 "Borrado"
- PROV2669:0 "Hasinai"
+ PROV2669:0 "Arklatex"	#Was Hasinai
  PROV2670:0 "Toronto" #Was Tkaronto
- PROV2671:0 "Missisage"
+ PROV2671:0 "Ronde" #Was Missisage
  PROV2672:0 "Kitkehaki"
  PROV2673:0 "Pasai"
  PROV2674:0 "Peureulak"
@@ -3222,6 +3222,126 @@
  PROV4238:0 "Liegnitz"
  PROV4239:0 "Belgrade"
  PROV4240:0 "Fejér"
+ PROV4241:0 "Wenden"
+ PROV4242:0 "Ula"
+ PROV4243:0 "Toropets"
+ PROV4244:0 "Trubchevsk"
+ PROV4245:0 "Vyazma"
+ PROV4246:0 "Mstislav"
+ PROV4247:0 "Owrucz"
+ PROV4248:0 "Kashin"
+ PROV4249:0 "Zubtsov"
+ PROV4250:0 "Mologa"
+ PROV4251:0 "Mozhaisk"
+ PROV4252:0 "Kolomna"
+ PROV4253:0 "Yuriev"
+ PROV4254:0 "Starodub"
+ PROV4255:0 "Pronsk"
+ PROV4256:0 "Solvychegodsk"
+ PROV4257:0 "Mezen"
+ PROV4258:0 "Onega"
+ PROV4259:0 "Velsk"
+ PROV4260:0 "Vyshny Volochyok"
+ PROV4261:0 "Ustyuzhna"
+ PROV4262:0 "Totma"
+ PROV4263:0 "Sol Galitskaya"
+ PROV4264:0 "Tetyushi"
+ PROV4265:0 "Ar-Chally"
+ PROV4266:0 "Izhkar"
+ PROV4267:0 "Bolgar"
+ PROV4268:0 "Aqabah"
+ PROV4269:0 "Al Wajh"
+ PROV4270:0 "Azraq"
+ PROV4271:0 "Suwayda"
+ PROV4272:0 "Al Jawf"
+ PROV4273:0 "Al-Kariatan"
+ PROV4274:0 "Sudayr"
+ PROV4275:0 "Al-Yamamah"
+ PROV4276:0 "Jabal Tubaiq"
+ PROV4277:0 "Taif"
+ PROV4278:0 "Qunfudhah"
+ PROV4279:0 "Zabid"
+ PROV4280:0 "Taiz"
+ PROV4281:0 "Dhamar"
+ PROV4282:0 "Sahda"
+ PROV4283:0 "Shihr"
+ PROV4284:0 "Al Ghaydah"
+ PROV4285:0 "Baraimi"
+ PROV4286:0 "Ash Sharqiyah"
+ PROV4287:0 "Ibra"
+ PROV4288:0 "Shatt"
+ PROV4289:0 "Shushtar"
+ PROV4290:0 "Hoveyzeh"
+ PROV4291:0 "Qazaniya"
+ PROV4292:0 "Mardin"
+ PROV4293:0 "Arbil"
+ PROV4294:0 "Sulimaniyeh"
+ PROV4295:0 "Hisn Kayfa"
+ PROV4296:0 "Bitlis"
+ PROV4297:0 "Homs"
+ PROV4298:0 "Ayntab"
+ PROV4299:0 "Shamakhi"
+ PROV4300:0 "Mianeh"
+ PROV4301:0 "Kartli"
+ PROV4302:0 "Bayazid"
+ PROV4303:0 "Oltu"
+ PROV4304:0 "Khoy"
+ PROV4305:0 "Shaki"
+ PROV4306:0 "Lakia"
+ PROV4307:0 "Aksaray"
+ PROV4308:0 "Denizli"
+ PROV4309:0 "Aydin"
+ PROV4310:0 "Divrigi"
+ PROV4311:0 "Karahisar"
+ PROV4312:0 "Sultanönü"
+ PROV4313:0 "Kangiri"
+ PROV4314:0 "Kirshehir"
+ PROV4315:0 "Tokat"
+ PROV4316:0 "Sharqiya"
+ PROV4317:0 "Bahiriya"
+ PROV4318:0 "Atfih"
+ PROV4319:0 "Isna"
+ PROV4320:0 "Girga"
+ PROV4321:0 "Egyptian Desert"
+ PROV4322:0 "Egyptian Desert"
+ PROV4323:0 "Farafreh"
+ PROV4324:0 "Ghuriyan"
+ PROV4325:0 "Sarakhs"
+ PROV4326:0 "Nishapur"
+ PROV4327:0 "Jask"
+ PROV4328:0 "Chagai"
+ PROV4329:0 "Fasa"
+ PROV4330:0 "Darab"
+ PROV4331:0 "Kazerun"
+ PROV4332:0 "Siraf"
+ PROV4333:0 "Dahlak Archipelago"
+ PROV4334:0 "Tabas"
+ PROV4335:0 "Kashan"
+ PROV4336:0 "Tun"
+ PROV4337:0 "Savah"
+ PROV4338:0 "Soltanieh"
+ PROV4339:0 "Rasht"
+ PROV4340:0 "Astara"
+ PROV4341:0 "Sari"
+ PROV4342:0 "Malamir"
+ PROV4343:0 "Termez"
+ PROV4344:0 "Kish"
+ PROV4345:0 "Saidabad"
+ PROV4346:0 "Qamr Bay"
+ PROV4347:0 "Pirate Coast"
+ PROV4348:0 "Ifugao"
+ PROV4349:0 "Laguna"
+ PROV4350:0 "Mindoro"
+ PROV4351:0 "Buglas"
+ PROV4352:0 "Cebu"
+ PROV4353:0 "Leyte"
+ PROV4354:0 "Zamboanga"
+ PROV4355:0 "Caraga"
+ PROV4356:0 "Taytay"
+ PROV4357:0 "Cuyo Archipelago"
+ PROV4358:0 "Philippine Trench"
+ PROV4359:0 "Ise"
+ PROV4360:0 "Mikawa"
  test_province_name:0 "Test Province Name"
  other_province_name:0 "Other Province Name"
  rand_prov_straits_of:0 "Straits of $prov$"
@@ -3361,7 +3481,7 @@
  PROV4541:0 "Newburgh"
  PROV4542:0 "The Berkshires"
  PROV4543:0 "Burlington"
- PROV4544:0 "Mahoosuc"
+ PROV4544:0 "Mahoosuc"	
  PROV4545:0 "Skowhegan"
  PROV4546:0 "St John Valley"
  PROV4547:0 "Riviere-Du-Loup"
@@ -3390,21 +3510,21 @@
  PROV4570:0 "Manitoulin"
  PROV4571:0 "Superior"
  PROV4572:0 "Lakehead"
- PROV4573:0 "Vincennes" #Was Kentuckiana
+ PROV4573:0 "Hoosier" #Was Kentuckiana
  PROV4574:0 "Cincinnatti"
  PROV4575:0 "Stanislaus" 
  PROV4576:0 "Scioto"
  PROV4577:0 "Erie"
  PROV4578:0 "Niagara"
- PROV4579:0 "Genesee"
+ PROV4579:0 "East Susquehanna"
  PROV4580:0 "Canacdea"
  PROV4581:0 "Seneca"
- PROV4582:0 "Cortland"
- PROV4583:0 "Schoharie"
- PROV4584:0 "Albany"
+ PROV4582:0 "Pocono"
+ PROV4583:0 "Mohawk Valley"
+ PROV4584:0 "Hudson"
  PROV4585:0 "St Louis"
  PROV4586:0 "Gasconade"
- PROV4587:0 "Kaskasia"
+ PROV4587:0 "Kaskasia"	
  PROV4588:0 "Lead Belt"
  PROV4589:0 "Alpena"
  PROV4590:0 "Copperland"
@@ -3414,7 +3534,7 @@
  PROV4594:0 "Toronto Bay"
  PROV4595:0 "Hayward"
  PROV4596:0 "Marin"
- PROV4597:0 "Cuivre"
+ PROV4597:0 "Twain"	#Was Cuivre
  PROV4598:0 "San Joaquin"
  PROV4599:0 "Clearwater"
  PROV4600:0 "Deer Lodge"
@@ -3438,11 +3558,11 @@
  PROV4618:0 "Washington"
  PROV4619:0 "Choptank"
  PROV4620:0 "Pocomoke"
- PROV4621:0 "Coalland"
+ PROV4621:0 "Schuylkill"
  PROV4622:0 "Kittatinny"
  PROV4623:0 "Rothrock"
  PROV4624:0 "Pittsburgh"
- PROV4625:0 "Susquehannock"
+ PROV4625:0 "UNUSED"
  PROV4626:0 "Upper Allegheny"
  PROV4627:0 "Lower Allegheny"
  PROV4628:0 "Ashtabula"
@@ -3500,7 +3620,7 @@
  PROV4680:0 "Buttahatchee"
  PROV4681:0 "Winston"
  PROV4682:0 "Emporia"
- PROV4683:0 "Lynchburg"
+ PROV4683:0 "The James"	#Was Lynchburg, history file renamed.
  PROV4684:0 "Birmingham"
  PROV4685:0 "Lake Gairdner"
  PROV4686:0 "Lake Torrens"
@@ -3522,13 +3642,13 @@
  PROV4702:0 "Jacksonopolis"
  PROV4703:0 "Maumee"
  PROV4704:0 "Indianapolis"
- PROV4705:0 "Effingham"
- PROV4706:0 "Mount Vernon"
- PROV4707:0 "Rough River"
+ PROV4705:0 "Vincennes"
+ PROV4706:0 "Effingham"
+ PROV4707:0 "Louisville"	#Was Rough River
  PROV4708:0 "Mammoth"
  PROV4709:0 "Nashville"
  PROV4710:0 "Chattanooga"
- PROV4711:0 "Cumberland"
+ PROV4711:0 "Covington"	#Was Cumberland
  PROV4712:0 "Santa Clara"
  PROV4713:0 "Pinar del Rio"
  PROV4714:0 "Guantanamo"
@@ -3649,6 +3769,65 @@
  PROV4829:0 "Giishkimanisiiwaaboong"
  PROV4830:0 "Mishkeegogamang"
  PROV4831:0 "Katchiskataouakigs"
+ PROV4832:0 "Mindoro"
+ PROV4833:0 "Western Visayas"
+ PROV4834:0 "Central Visayas"
+ PROV4835:0 "Zamboanga"
+ PROV4836:0 "Ishim"
+ PROV4837:0 "Balagansky "
+ PROV4838:0 "Bratsky"
+ PROV4839:0 "Kachugsky "
+ PROV4840:0 "Tunka"
+ PROV4841:0 "Nizhneudinsky"
+ PROV4842:0 "Hunter"
+ PROV4843:0 "Illawara"
+ PROV4844:0 "Gippsland"
+ PROV4845:0 "Central Tablelands"
+ PROV4846:0 "Parkes"
+ PROV4847:0 "Riverina"
+ PROV4848:0 "Kangaroo Island"
+ PROV4849:0 "Maranoa"
+ PROV4850:0 "Balonne"
+ PROV4851:0 "Ngaanyatjarraku"
+ PROV4852:0 "Wiluna"
+ PROV4853:0 "Leonora"
+ PROV4854:0 "Sandstone"
+ PROV4855:0 "Murchison"
+ PROV4856:0 "Wheatbelt"
+ PROV4857:0 "Great Victoria Desert"
+ PROV4858:0 "Gaborone"
+ PROV4859:0 "Traansval"
+ PROV4860:0 "Kalagadi"
+ PROV4861:0 "Hardap"
+ PROV4862:0 "Windhoek"
+ PROV4863:0 "Otzojondjupa"
+ PROV4864:0 "Oshikoto"
+ PROV4865:0 "Kavongo"
+ PROV4866:0 "Okavongo"
+ PROV4867:0 "Khaudum"
+ PROV4868:0 "Tlhabologo"
+ PROV4869:0 "Ghanzi"
+ PROV4870:0 "Kweneg"
+ PROV4871:0 "Kalahari"
+ PROV4872:0 "Serowe"
+ PROV4873:0 "Francistown"
+ PROV4874:0 "Mahalapye"
+ PROV4875:0 "Makgadikgadi"
+ PROV4876:0 "Chobe"
+ PROV4877:0 "Kanye"
+ PROV4878:0 "Mahikeng"
+ PROV4879:0 "Senanga"
+ PROV4880:0 "Kazungala"
+ PROV4881:0 "Kaoma"
+ PROV4882:0 "Lumbala N'guimbo"
+ PROV4883:0 "Crowly"
+ PROV4884:0 "Arp"
+ PROV4885:0 "Alexandria"
+
+
+
+
+
 
 
 

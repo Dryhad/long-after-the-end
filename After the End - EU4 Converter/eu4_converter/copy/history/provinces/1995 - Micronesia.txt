@@ -1,7 +1,7 @@
 #1995 - Micronesia
 
-culture = polynesian
-religion = animism
+culture = micronesian
+religion = occultist # Ponape Scripture
 capital = "Palikir"
 trade_goods = unknown
 hre = no
@@ -11,7 +11,3 @@ base_manpower = 1
 native_size = 1
 native_ferocity = 1
 native_hostileness = 1
-
-# = {
-	#discovered_by = SPA	# Ferdinand Magellanm unknown date
-}

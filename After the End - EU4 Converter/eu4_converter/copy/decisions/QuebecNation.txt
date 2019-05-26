@@ -80,7 +80,7 @@ country_decisions = {
 				}
 				set_government_rank = 2
 			}
-			quebec_area = {
+			notre_dame_mountains_area = {
 				limit = {
 					NOT = { owned_by = ROOT }
 				}

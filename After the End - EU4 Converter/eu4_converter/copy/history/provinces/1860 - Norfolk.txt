@@ -6,20 +6,22 @@
 culture = british
 religion = thelemic
 hre = no
-base_tax = 1
-base_production = 1
+base_tax = 3
+base_production = 3
 trade_goods = unknown
-base_manpower = 1
+base_manpower = 2
 capital = "Norwich"
 is_city = no
 #add_core= ENG
 
 
 
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
 discovered_by = indian
 discovered_by = indian
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
 
 
 # = { unrest = 5 } # Start of the War of the Roses
@@ -43,4 +45,9 @@ discovered_by = high_american
 	#controller = GBR
 	#add_core= GBR
 	remove_core = ENG
-}
+#}
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

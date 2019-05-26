@@ -15,8 +15,10 @@ is_city = no
 
 
 
-discovered_by = high_american
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
+discovered_by = high_american 
+discovered_by = RED
 discovered_by = indian
 discovered_by = indian
 
@@ -25,3 +27,8 @@ discovered_by = indian
 # = { unrest = 2 } # Wolfgang is placed under the ban by Charles V
 # = { unrest = 0 } # Wolfgang bought his land back
 # = { hre = no } # The Holy Roman Empire is dissolved
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

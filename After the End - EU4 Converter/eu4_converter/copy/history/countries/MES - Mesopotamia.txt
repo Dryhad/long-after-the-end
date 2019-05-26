@@ -1,7 +1,8 @@
 # Mesopotamia
-government = feudal_monarchy
+government = monarchy 
+add_government_reform = feudalism_reform
 government_rank = 2
 technology_group = south_american
 primary_culture = litoraleno
-religion = candomble
-capital = 2835
+religion = cult_of_saints
+capital = 2853

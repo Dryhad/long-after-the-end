@@ -2,13 +2,13 @@
 
 #owner = ENG
 #controller = ENG
-culture = british
+culture = tyke
 religion = thelemic
 hre = no
-base_tax = 1
-base_production = 1
+base_tax = 6
+base_production = 6
 trade_goods = unknown
-base_manpower = 1
+base_manpower = 3
 capital = "York"
 is_city = no
 #add_core= ENG
@@ -16,10 +16,12 @@ is_city = no
 
 
 
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
 discovered_by = indian
 discovered_by = indian
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
 
 
 # = { unrest = 5 } # Start of the War of the Roses
@@ -42,5 +44,10 @@ discovered_by = high_american
 	#controller = GBR
 	#add_core= GBR
 	remove_core = ENG
-}
+#}
 # = { capital = "Leeds"  }
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

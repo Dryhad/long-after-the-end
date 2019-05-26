@@ -24,7 +24,7 @@ discovered_by = indian
 	#owner = KAS
 	#controller = KAS
 	#add_core= KAS
-}
+#}
 # = { #owner = KZH #controller = KZH remove_core = KAS } # Kazakh horde forms
 # = { discovered_by = RUS }
 # = { #owner = OIR #controller = OIR } # Dzungarian invasion
@@ -34,4 +34,9 @@ discovered_by = indian
 	#owner = QNG
 	#controller = QNG
 	#add_core= QNG
-}
+#}
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

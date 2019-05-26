@@ -27,6 +27,7 @@ feudalism = {
 				government = tribal_despotism
 				government = tribal_federation
 				government = tribal_democracy
+				government = jungle_horde
 
 				#technology_group = andean
 				#technology_group = mesoamerican
@@ -171,19 +172,36 @@ renaissance = {
 	}
 
 
-	historical_start_date = 3050.1.1
+	historical_start_date = 3050.1.1	#Equivalent of 1450 in vanilla
 	historical_start_province = 4021 # Antsiranana, Madagascar
 
 	history = {
-		is_year = 3050
+		is_year = 3050.1.1 
+		development = 21
+		owner = {
+			NOT = {
+				government = siberian_native_council
+				government = steppe_horde
+				government = tribal_kingdom
+				government = tribal_despotism
+				government = tribal_federation
+				government = tribal_democracy
+
+				#technology_group = andean
+				#technology_group = mesoamerican
+				#technology_group = north_american
+				#technology_group = south_american
+			}
+		}
 	}
 	
 	can_start = {
 		is_year = 3050
 		development = 21
 		is_island = no
-		NOT = { region = moluccas_region }
-		NOT = { region = indonesia_region }
+		continent = north_america
+		
+
 	}
 	start_chance = 5		#in 100 for when a province can_start
 	
@@ -237,7 +255,7 @@ renaissance = {
 		modifier = {
 			factor = 0.1
 			scale = yes
-			is_year = 1500
+			is_year = 3100
 			development = 5
 		}
 		modifier = {

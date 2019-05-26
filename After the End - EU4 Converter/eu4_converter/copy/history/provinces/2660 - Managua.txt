@@ -29,6 +29,6 @@ discovered_by =  mesoamerican
 	culture = castillian
 	religion = catholic
 	is_city = no
-	trade_goods = coffee
+	trade_goods = unknown
 } # First permanent Spanish settlement 
 # = { #owner = MEX #add_core= MEX #controller = SPA } # Mexican War of Independence

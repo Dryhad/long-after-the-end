@@ -27,15 +27,20 @@ discovered_by = chinese
 	#owner = KSH
 	#controller = KSH
 	#add_core= KSH
-} #Shah Mirs
+#} #Shah Mirs
 # = {
 	#owner = LDK
 	#controller = LDK
 	remove_core = KSH
-}
+#}
 
 
 
 # = { discovered_by = ENG }
 # = { discovered_by = GBR }
 
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

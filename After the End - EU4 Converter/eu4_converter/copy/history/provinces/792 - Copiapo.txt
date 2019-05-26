@@ -1,14 +1,20 @@
 #792 - Copiapo
 
-culture = mapuche
+owner = CHL
+controller = CHL
+add_core = CHL
+culture = platinean
 
 
 
-discovered_by = south_american
+discovered_by = south_american 
+discovered_by = andean
+discovered_by = brazilian
 discovered_by = andean
 
-religion = animism
+religion = candomble
 capital = "Copiapo"
+is_city = yes
 trade_goods = unknown
 hre = no
 base_tax = 2 
@@ -17,26 +23,4 @@ base_manpower = 1
 native_size = 20
 native_ferocity = 2
 native_hostileness = 2
-
-# = {
-	#owner = INC
-	#controller = INC
-	#add_core= INC
-	religion = inti
-	trade_goods = copper
-	is_city = no
-}
-# = {
-	#discovered_by = SPA
-	#owner = SPA
-	#controller = SPA
-	culture = castillian
-	religion = catholic
-} # Diego de Almagro
-# = { #add_core= SPA }
-# = {
-	#owner = CHL
-	#controller = CHL
-	#add_core= CHL
-} # First National Government Junta
 

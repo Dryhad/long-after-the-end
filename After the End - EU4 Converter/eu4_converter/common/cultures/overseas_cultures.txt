@@ -1,11 +1,13 @@
 #singaporean
-#hawaiian
 malay = {
 	singaporean = {
 		primary = SGP
 		dynasty_names = $singaporean$
 	}
-	hawaiian = { # Could just be polynesian? Or maybe a new group?
+}
+#hawaiian
+polynesian_g = {
+	hawaiian = {
 		primary = HWI
 		dynasty_names = $hawaiian$
 	}
@@ -32,10 +34,23 @@ british = {
 	}
 }
 #brazilian
-iberian = {
-	brazilian = {
-		primary = BRZ
+brazilian_culture_group = {
+	carioca = {
+		primary = RDJ
 		dynasty_names = $brazilian$
+	}
+	amazonense = {
+		dynasty_names = $amazonense$
+	}
+	
+	baiano = {
+		primary = BIA
+		dynasty_names = $baiano$
+	}
+}
+argentine = {
+	gaucho = {
+		primary = AGR
 	}
 }
 #novorusskiy

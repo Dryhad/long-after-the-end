@@ -39,13 +39,18 @@ nestorian;nestorian;1;Nestorian
 angeline;angeline;1;Angeline
 
 # Protestant Heresies
-high_church;high_church;1;High Church
+#high_church;high_church;1;High Church #Anglican now
 antinomian;antinomian;1;Antinomian
 charismatic;charismatic;1;Charismatic
 
+# Anglican Heresies
+anglo_papalist;anglo_papalist;1;Anglo-Catholic
+united_church;united_church;1;United
+
 # Mormon Heresies
 bickertonite;bickertonite;1;Bickertonite
-godbeite;godbeite;1;Godbeite
+godbeite;woolleyite;1;Backwards compatibility
+woolleyite;woolleyite;1;Woolleyite
 strangite;strangite;1;Strangite
 
 # Americanist Heresies

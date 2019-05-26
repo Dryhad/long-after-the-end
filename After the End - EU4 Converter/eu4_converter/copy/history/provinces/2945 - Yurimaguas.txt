@@ -1,7 +1,11 @@
 # - Yurimaguas
 
+owner = CJA
+controller = CJA
+add_core = CJA
+is_city = yes
 culture = jivaro
-religion = animism
+religion = inti
 capital = "Yurimaguas"
 trade_goods = unknown
 hre = no
@@ -14,18 +18,7 @@ native_hostileness = 1
 
 
 
-discovered_by = south_american
+discovered_by = south_american 
 discovered_by = andean
-discovered_by = CHM
-
-
-# = {
-	#discovered_by = SPA
-	#owner = SPA
-	#controller = SPA
-	#add_core= SPA
-	culture = castillian
-	religion = catholic
-	is_city = no
-	trade_goods = tropical_wood
-} # The death of Atahualpa
+discovered_by = brazilian
+discovered_by = andean

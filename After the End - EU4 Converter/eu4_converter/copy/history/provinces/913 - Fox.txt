@@ -26,8 +26,8 @@ discovered_by = nomad_group
 	#controller = FOX
 	#add_core= FOX
 	is_city = no	 
-} #Fleeing from the Beaver Wars
-# = { discovered_by = FRA } # Nicolas Perrot
+ #Fleeing from the Beaver Wars
+# = { discovered_by = FRA  # Nicolas Perrot
 # = {
 	#owner = FRA
 	#controller = FRA
@@ -35,8 +35,8 @@ discovered_by = nomad_group
 	remove_core = FOX
 	culture = cosmopolitan_french
 	religion = catholic
-	trade_goods = iron 
-} #End of the second Fox war
+	trade_goods = unknown
+ #End of the second Fox war
 # = {
 	#discovered_by = GBR
 	#owner = GBR
@@ -45,7 +45,7 @@ discovered_by = nomad_group
 	remove_core = FRA
 	culture = english
 	religion = protestant
-} # Treaty of Paris - ceded to Britain, France gave up its claim
+ # Treaty of Paris - ceded to Britain, France gave up its claim
 # = {
 	#owner = FOX
 	#controller = FOX
@@ -54,11 +54,12 @@ discovered_by = nomad_group
 	is_city = no
 	culture = chiwere
 	religion = totemism
-} # Royal Proclamation, British recognize native territory
+ # Royal Proclamation, British recognize native territory
 # = {
 	#owner = USA
 	#controller = USA
 	#add_core= USA
 	culture = american
 	religion = protestant 
-} #The death of Tecumseh mark the end of organized native resistance 
+ #The death of Tecumseh mark the end of organized native resistance 
+discovered_by = GBR

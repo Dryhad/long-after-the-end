@@ -3,7 +3,7 @@
 culture = carib
 religion = animism
 capital = "Antigua"
-trade_goods = unknown 
+trade_goods = unknown
 hre = no
 base_tax = 1
 base_production = 1
@@ -16,8 +16,8 @@ discovered_by = ARW
 
 
 
-# = { discovered_by = CAS } # Christopher Columbus
-# = { discovered_by = SPA }
+# = { discovered_by = CAS  # Christopher Columbus
+# = { discovered_by = SPA 
 
 # = {
 	#owner = ENG
@@ -27,14 +27,16 @@ discovered_by = ARW
 	religion = protestant
 	culture = english 
 	is_city = no
-	trade_goods = sugar 
-} # The first English settlers arrived
+	trade_goods = unknown
+ # The first English settlers arrived
 # = {
 	#discovered_by = GBR
 	#owner = GBR
 	#controller = GBR
 	#add_core= GBR
 	remove_core = ENG
-}
-# = { unrest = 3 } # Slave uprising
-# = { unrest = 0 } # The plot was discovered and put down
+
+# = { unrest = 3  # Slave uprising
+# = { unrest = 0  # The plot was discovered and put down
+
+discovered_by = GBR

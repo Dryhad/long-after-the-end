@@ -3,7 +3,7 @@
 owner = EGY
 controller = EGY
 culture = al_misr_arabic
-religion = sunni
+religion = thelemic
 capital = "Benghazi"
 trade_goods = wool
 hre = no
@@ -16,7 +16,10 @@ add_core = EGY
 
 
 
-discovered_by = high_american
+discovered_by = high_american 
+discovered_by = RED
 discovered_by = indian
-discovered_by = indian
-discovered_by = high_american
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

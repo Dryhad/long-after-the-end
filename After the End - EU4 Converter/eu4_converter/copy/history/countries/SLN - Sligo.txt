@@ -1,0 +1,18 @@
+government = monarchy 
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = high_american
+primary_culture = irish
+religion = celticist
+capital = 4119	# Sligo
+
+
+3025.1.1 = {
+	monarch = {
+		name = "Donnchadh"
+		dynasty = "O'Conor"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
