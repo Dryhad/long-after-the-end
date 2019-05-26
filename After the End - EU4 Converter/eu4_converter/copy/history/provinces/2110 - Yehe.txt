@@ -12,7 +12,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = no
-estate = estate_nomadic_tribes
+#estate = #estate_nomadic_tribes
 
 
 
@@ -29,7 +29,7 @@ discovered_by = chinese
 	#owner = QNG
 	#controller = QNG
 	#add_core= QNG
-	remove_core = MCH
+	
 #} # The Qing Dynasty
 # = { discovered_by = SPA }
 

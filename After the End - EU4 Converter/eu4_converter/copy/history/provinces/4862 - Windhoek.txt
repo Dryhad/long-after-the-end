@@ -1,5 +1,11 @@
+
+owner = NAM
+controller = NAM
+add_core = NAM
+is_city = yes
 culture = khoisan
 religion = mwari 
+capital = "Windhoek"
 trade_goods = unknown 
 hre = no 
 base_tax = 1

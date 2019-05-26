@@ -1,0 +1,28 @@
+# Ontarian Empire
+government = monarchy 
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = ontarian
+religion = anglican
+clear_scripted_personalities = yes
+capital = 2670
+3030.9.18 = {
+	monarch = {
+		name = "Charlotte"
+		birth_date = 3030.4.25
+		dynasty = "Dysart"
+		adm = 0
+		dip = 3
+		mil = 3
+		female = yes
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = kind_hearted_personality
+}
+3053.1.1 {
+	capital = 2670
+	add_treasury = -2
+	add_prestige = 679
+}

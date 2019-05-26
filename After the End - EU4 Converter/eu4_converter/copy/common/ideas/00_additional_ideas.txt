@@ -345,6 +345,7 @@ mousy_ideas = {
 			religion = libertarian
 			religion = hamiltonian
 			religion = jeffersonian
+			tag = FLD 	#Florida should just get this in the Standalone
 		}
 		government = monarchy
 	}
@@ -359,7 +360,7 @@ mousy_ideas = {
         global_institution_spread = 0.1
     }
 
-    fight_choreography = (
+    fight_choreography = {
         prestige_from_land = 1
     }
 
@@ -798,5 +799,45 @@ LAP_ideas = {		#Argentine Ideas. From Extended Timline.
 	}
 	argentinian_cultural_heritage = {
 		prestige = 1
+	}
+}
+
+gaian_ideas = {		#Gaian Ideas
+	start = {
+		diplomats = 1
+		diplomatic_reputation = 1
+	}
+
+	bonus = {
+		range = 0.25
+	}
+
+	trigger = {
+		OR = {
+			religion = gaian
+		}
+	}
+	free = yes		# will be added at load
+
+	gaian_idea_1 = {
+		land_attrition = -0.1
+	}
+	gaian_idea_2 = {
+		idea_cost = -0.10
+	}
+	gaian_idea_3 = {
+		army_tradition = 0.5
+	}
+	gaian_idea_4 = {
+		development_cost = -0.1
+	}
+	gaian_idea_5 = {
+		legitimacy = 1
+	}
+	gaian_idea_6 = {
+		defensiveness = 0.20
+	}
+	gaian_idea_7 = {
+		colonists = 1
 	}
 }

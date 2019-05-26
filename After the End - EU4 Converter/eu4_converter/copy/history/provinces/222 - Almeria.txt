@@ -11,7 +11,7 @@ base_production = 1
 trade_goods = unknown
 base_manpower = 1
 capital = "Almería"
-estate = estate_nobles
+#estate = #estate_nobles
 is_city = no
 
 
@@ -32,11 +32,11 @@ discovered_by = indian
 	#controller = SPA
 	#owner = SPA
 	#add_core= SPA
-	remove_core = CAS
+	
 #} # King Fernando dies, Carlos inherits Aragon and becomes co-regent of Castille
 # = { unrest = 15 } # Sublevation of the morisques in the kingdom of Granada.
 # = { unrest = 0 culture = castillian } # To quell the revolt, the morisques in Granada are forcefully deported to other Spanish territories
-# = { remove_core = CAS }
+# = {  }
 # = { revolt = { type = pretender_rebels size = 0 } #controller = REB }
 # = { revolt = {} #controller = SPA }
 # = { revolt = { type = pretender_rebels size = 0 } #controller = REB }

@@ -11,7 +11,7 @@ base_production = 1
 trade_goods = unknown
 base_manpower = 1
 capital = "Badajoz" 
-estate = estate_nobles
+#estate = #estate_nobles
 is_city = no
 
 
@@ -34,7 +34,7 @@ discovered_by = indian
 	#owner = SPA
 	#add_core= SPA
 #} # King Fernando dies, Carlos inherits Aragon and becames co-regent of Castille
-# = { remove_core = CAS }
+# = {  }
 # = { revolt = { type = pretender_rebels size = 1 } #controller = REB }
 # = { revolt = {} #controller = SPA }
 # = { revolt = { type = pretender_rebels size = 1 } #controller = REB }

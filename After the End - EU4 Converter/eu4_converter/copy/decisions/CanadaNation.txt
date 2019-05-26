@@ -161,7 +161,7 @@ country_decisions = {
 		do_not_integrate = QUE
 	}	
 	
-	canada_nation_militarily = { # Canadian Wedding
+	canada_nation_militarily = { 
 		major = yes
 		potential = {
 			NOT = { has_country_flag = formed_canada_flag }
@@ -172,6 +172,7 @@ country_decisions = {
 			OR = {
 				tag = QUE
 				tag = ONT
+				tag = MRT
 				primary_culture = ontarian
 				primary_culture = quebecois
 				primary_culture = maritimer

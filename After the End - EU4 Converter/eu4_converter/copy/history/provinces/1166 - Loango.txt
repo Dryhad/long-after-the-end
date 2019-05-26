@@ -1,12 +1,13 @@
-#1166 - Loango
+#1166 - Loango now Pointe-Noire
 
-owner = KON
-controller = KON
-add_core = KON
+owner = CBD
+controller = CBD
+add_core = CBD
 is_city = yes
+
 culture = kongolese
 religion = ahmadi
-capital = "Loango"
+capital = "Pointe-Noire"
 trade_goods = unknown
 hre = no
 base_tax = 3 

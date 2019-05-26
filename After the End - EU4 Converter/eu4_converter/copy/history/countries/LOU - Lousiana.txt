@@ -1,1 +1,7 @@
-#This file is necessary because Paradox can't spell
+#Louisiana
+government = monarchy 
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = eastern
+primary_culture = creole
+religion = protestant

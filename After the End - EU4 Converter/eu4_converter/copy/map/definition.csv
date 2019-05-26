@@ -796,7 +796,7 @@ province;red;green;blue;x;x
 795;241;86;0;Potosi;x
 796;113;88;64;Arica;x
 797;241;90;128;Oruro;x
-798;215;191;212;Mbwila
+798;215;191;212;Cuanza Norte;x
 799;242;94;255;Chaco Boreal;x
 800;114;96;0;Chiquitos;x
 801;242;98;64;Caranga;x
@@ -1110,13 +1110,13 @@ province;red;green;blue;x;x
 1109;167;70;173;Timaru;x
 1110;39;72;32;Rio de Oro;x
 1111;167;74;79;Arguin;x
-1112;39;76;126;Trarza;x
-1113;167;78;173;Cayor;x
-1114;40;80;32;Gabu;x
+1112;39;76;126;Nouakchott;x
+1113;167;78;173;Dakar;x
+1114;40;80;32;Bissau;x
 1115;168;82;79;Brakna;x
-1116;40;84;126;Wolof;x
+1116;40;84;126;Diourbel;x
 1117;168;86;173;Futa Jallon;x
-1118;40;88;32;Sierra Leone;x
+1118;40;88;32;Salone;x
 1119;168;90;79;Grain Coast;x
 1120;40;92;126;Bambuk;x
 1121;169;94;173;Bure;x
@@ -1164,14 +1164,14 @@ province;red;green;blue;x;x
 1163;175;50;79;Calabar;x
 1164;47;52;126;Cameroon;x
 1165;175;54;173;Gabon;x
-1166;47;236;32;Loango;x
+1166;47;236;32;Pointe-Noire;x
 1167;175;58;79;Luanda;x
-1168;206;217;77;Nsoyo;x
-1169;175;62;173;Mayombe;x
-1170;48;64;32;Kongo;x
-1171;176;66;79;Ndongo;x
+1168;206;217;77;Quicama;x
+1169;175;62;173;Anziku;x
+1170;48;64;32;Namibe;x
+1171;176;66;79;Cuanza Sul;x
 1172;48;68;126;Benguela;x
-1173;176;70;173;Namibia;x
+1173;176;70;173;Skeleton Coast;x
 1174;48;172;32;Angra Pequena;x
 1175;176;74;79;Lesser Namaqualand;x
 1176;48;76;126;Roggeveld;x
@@ -1180,16 +1180,16 @@ province;red;green;blue;x;x
 1179;177;82;79;Swellendam;x
 1180;49;84;126;Transkei;x
 1181;177;86;173;Natal;x
-1182;49;88;32;Delagoa Bay;x
+1182;49;88;32;Maputo;x
 1183;177;90;79;Inhambane;x
-1184;50;92;126;Zimbabwe;x
-1185;178;94;173;Uteve;x
+1184;50;92;126;Masvingo;x
+1185;178;94;173;Midlands;x
 1186;50;96;32;Sofala;x
-1187;178;98;79;Urungwe;x
-1188;50;100;126;Tete;x
-1189;178;202;173;Barwe;x
-1190;50;104;32;Zumbo;x
-1191;179;106;79;Sena;x
+1187;178;98;79;Zambezi;x
+1188;50;100;126;Mashonaland;x
+1189;178;202;173;Matabeleland;x
+1190;50;104;32;Lusaka;x
+1191;179;106;79;Tete;x
 1192;51;108;126;Quelimane;x
 1193;179;110;173;Menabe;x
 1194;51;212;32;Besalampy;x
@@ -1795,11 +1795,11 @@ province;red;green;blue;x;x
 1794;202;46;173;Central Sahara;x
 1795;74;48;32;East Sahara;x
 1796;202;50;79;Central Africa;x
-1797;74;52;126;Inner Kongo;x
+1797;74;52;126;Inner Congo;x
 1798;202;54;173;Imatong;x
 1799;74;56;32;Urgoma;x
-1800;203;58;79;Limpopo;x
-1801;75;60;126;Kalahari;x
+1800;203;58;79;Gaza;x
+1801;75;60;126;Angolan Exclusion Zone;x
 1802;203;62;173;Northern Amazonas;x
 1803;75;64;32;Southern Amazonas;x
 1804;203;66;79;Greenland;x
@@ -1899,7 +1899,7 @@ province;red;green;blue;x;x
 1898;15;0;232;Tonie Sap Lake;x
 1899;16;0;236;Tana lake;x
 1900;17;0;240;Lake Turkana;x
-1901;81;104;191;Mpangu;x
+1901;81;104;191;M'banza-Ngungu;x
 1902;19;0;248;Lake Poopo;x
 1903;20;0;232;Lake Champlain;x
 1904;21;0;236;Lac Saint Jean;x
@@ -2235,11 +2235,11 @@ province;red;green;blue;x;x
 2234;193;215;62;Rafsanjan;x
 2235;190;72;96;Sabzevar;x
 2236;131;211;134;Bojnord;x
-2237;160;109;157;Tekrur;x
+2237;160;109;157;Podor;x
 2238;80;73;160;Kantor;x
-2239;120;75;185;Siine;x 
+2239;120;75;185;The Gambia;x 
 2240;120;137;132;Galam;x
-2241;200;111;182;Beafada;x
+2241;200;111;182;Conakry;x
 2242;240;69;110;Karou;x
 2243;80;135;107;Termes;x
 2244;160;139;157;Tagant;x
@@ -2946,11 +2946,11 @@ province;red;green;blue;x;x
 2945;121;162;208;Yurimaguas;x
 2946;42;72;201;Quillacas;x
 2947;68;225;26;Macaya;x
-2948;196;104;191;Matamba;x
-2949;72;198;51;Mbata;x
-2950;32;218;173;Buhera;x
-2951;236;57;116;Manikya;x
-2952;236;220;116;Madanda;x
+2948;196;104;191;Malanje;x
+2949;72;198;51;M'banza-Kongo;x
+2950;32;218;173;Harare;x
+2951;236;57;116;Manica;x
+2952;236;220;116;Manicaland;x
 2953;236;222;116;Hjälmaren;x
 2954;29;59;159;Djerba;x
 2955;107;121;191;Ingolstadt;x
@@ -4044,7 +4044,7 @@ province;red;green;blue;x;x
 4043;171;67;109;Phangwa;x
 4044;219;159;183;Ngonde;x
 4045;44;123;42;Tumbuka;x
-4046;106;189;104;Lala;x
+4046;106;189;104;Mkushi;x
 4047;33;220;28;Nsenga;x
 4048;225;80;159;Lomwe;x
 4049;123;127;208;Ibo;x
@@ -4065,9 +4065,9 @@ province;red;green;blue;x;x
 4064;172;118;32;Buganda;x
 4065;220;52;0;Bunyoro;x
 4066;187;203;173;Ndorwe;x
-4067;133;213;62;Nduga;x
-4068;97;177;26;Buzozo;x
-4069;28;191;70;Bushubi;x
+4067;133;213;62;Rwanda;x
+4068;97;177;26;North-Kivu;x
+4069;28;191;70;Burundi;x
 4070;219;44;196;Nkoma;x
 4071;207;205;37;Buyogoma;x
 4072;181;113;48;Ruguru;x
@@ -4079,35 +4079,35 @@ province;red;green;blue;x;x
 4078;219;94;40;Mayumba;x
 4079;220;158;209;Ngoyo;x
 4080;120;115;207;Soyo;x
-4081;82;225;176;Tyo;x
-4082;217;90;204;Kasanje;x
-4083;217;173;199;Shinje;x
-4084;32;114;111;Malem;x
-4085;87;220;115;Yaka;x
-4086;219;217;53;Nunu;x
-4087;52;121;25;Kumbana;x
-4088;213;60;93;Munene;x
-4089;96;201;25;Kuba;x
-4090;219;217;76;Songye;x
-4091;101;224;33;Mpasu;x
-4092;140;15;150;Rund;x
-4093;150;15;175;Lwena;x
-4094;160;15;200;Chokwe;x
-4095;170;15;100;Ishindi;x
-4096;180;15;150;Kalundwe;x
-4097;190;15;175;Luba;x
+4081;82;225;176;Kinshasa;x
+4082;217;90;204;Cambundi;x
+4083;217;173;199;Cafunfo;x
+4084;32;114;111;Bie;x
+4085;87;220;115;Kenge;x
+4086;219;217;53;Kwilu;x
+4087;52;121;25;Lucapa;x
+4088;213;60;93;Kasai;x
+4089;96;201;25;Tshilenge;x
+4090;219;217;76;Sankuru;x
+4091;101;224;33;Lulua;x
+4092;140;15;150;Mweru;x
+4093;150;15;175;Lunda Sul;x
+4094;160;15;200;Alto Zambeze;x
+4095;170;15;100;Solwezi;x
+4096;180;15;150;Kabinda;x
+4097;190;15;175;Kaniama;x
 4098;200;15;200;Upemba;x
-4099;210;15;100;Hemba;x
+4099;210;15;100;Kongolo;x
 4100;220;15;150;Luapala;x
 4101;230;15;175;Lualaba;x
 4102;240;15;200;Bemba;x
-4103;250;15;100;Tabwa;x
-4104;207;15;150;Lamba;x
-4105;207;15;175;Kusu;x
-4106;207;15;200;Lenje;x
+4103;250;15;100;Kalemie;x
+4104;207;15;150;Lubumbashi;x
+4105;207;15;175;Kasongo;x
+4106;207;15;200;Kabwe;x
 4107;197;15;100;Kanongesha;x
-4108;207;15;100;Kaonde;x
-4109;197;15;150;Lega;x
+4108;207;15;100;Copperbelt;x
+4109;197;15;150;South-Kivu;x
 4110;231;127;43;Sutherland;x
 4111;119;212;150;Saintonge;x
 4112;157;124;213;Aurilac;x
@@ -4593,8 +4593,8 @@ province;red;green;blue;x;x
 4729;90;202;227;Johannesburg;x
 4730;169;239;22;Ermelo;x
 4731;228;239;22;Swaziland;x
-4732;44;187;225;Sperrgebiet;x
-4733;179;179;31;Naukluft;x
+4732;44;187;225;Huambo;x
+4733;179;179;31;Cunene;x
 4734;40;128;201;Il Karas;
 4735;149;130;78;Obispo;x
 4736;89;228;79;Ventura;x
@@ -4722,17 +4722,17 @@ province;red;green;blue;x;x
 4858;147;215;47;Gaborone;x
 4859;16;248;236;Traansval;x
 4860;128;228;21;Kalagadi;x
-4861;139;73;198;Namib;x
+4861;139;73;198;Hardap;x
 4862;61;153;144;Windhoek;x
 4863;223;49;159;Otzojondjupa;x
 4864;107;134;89;Oshikoto;x
 4865;91;255;78;Kavongo;x
 4866;220;108;8;Okavongo;x
-4867;162;249;117;Khaudum;x
+4867;162;249;117;Huila;x
 4868;255;22;158;Tlhabologo ;x
 4869;45;97;221;Ghanzi;x
 4870;44;216;93;Kweneg;x
-4871;226;13;31;Kalahari;x
+4871;226;13;31;Boteti;x
 4872;19;156;131;Serowe;x
 4873;4;222;70;Francistown;x
 4874;195;171;74;Mahalapye;x
@@ -4740,8 +4740,8 @@ province;red;green;blue;x;x
 4876;191;46;189;Chobe;x
 4877;66;82;216;Kanye;x
 4878;174;216;163;Mahikeng;x
-4879;224;193;166;Senanga;x
-4880;104;41;204;Kazungala;x
+4879;224;193;166;Sesheke;x
+4880;104;41;204;Livingstone;x
 4881;121;253;118;Kaoma;x
 4882;10;23;164;Lumbala N'guimbo;x
 4883;181;190;95;Crowly;x
@@ -4759,30 +4759,137 @@ province;red;green;blue;x;x
 4895;145;160;30;Dunedin;x
 4896;100;90;99;Fiordland;x
 4897;255;173;69;Auckland;x
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+4899;147;137;5;Kitsap;x
+4900;228;135;38;Wallawalla;x
+4901;56;17;45;Xalt'as;x
+4902;65;184;145;Inuuwaay;x
+4903;201;148;41;Clark;x
+4904;86;21;148;The Cascades;x
+4905;178;195;157;Columbia Mountains;x
+4906;119;177;183;Sdalaay;x
+4907;148;120;101;Revelstoke;x
+4908;104;144;224;Great Valleys;x
+4909;4;187;28;Kamloops;x
+4910;118;119;14;Sea-to-Sky;x
+4911;164;104;237;Itcha Ilgachuz;x
+4912;215;21;71;Juuts'ags;x
+4913;119;254;1;Baker;x
+4914;0;14;150;Texcoco;x
+4915;40;69;175;Tlacopan;x
+4916;80;137;200;Malinalco;x
+4917;120;176;225;Acambaro;x
+4918;160;14;250;Ihuatzio;x
+4919;200;69;150;Puruaran;x
+4920;240;137;175;Amaxocotlan;x
+4921;202;14;175;Tohono;x
+4922;1;176;200;Tzapotzingo;x
+4923;41;14;225;Sayula;x
+4924;81;69;250;Tecoman;x
+4925;121;137;150;Yohualtepec;x
+4926;161;176;175;Teotitlan;x
+4927;201;14;200;Xocotla;x
+4928;241;69;225;Mitla;x
+4929;2;137;250;Tzotzil;x
+4930;42;176;150;Jakaltek;x
+4931;82;14;175;Qumarkaj;x
+4932;122;69;200;Kobox;x
+4933;162;137;225;Moran;x
+4934;202;176;250;Xiu;x
+4935;242;14;150;Sotuta;x
+4936;3;69;175;Ulva;x
+4937;43;137;200;Xicaque;x
+4938;83;176;225;Tzul;x
+4939;123;14;250;Guaymi;x
+4940;163;69;150;Kuna;x
+4941;203;137;175;Talamanca;x
+4942;243;176;200;Cuauhtochco;x
+4943;4;14;225;Sinu;x
+4944;44;69;250;Magangue;x
+4945;84;137;150;Chimila;x
+4946;124;176;175;Motilones;x
+4947;164;14;200;Moniquira;x
+4948;204;69;225;Pastos;x
+4949;244;137;250;Putumayos;x
+4950;242;69;200;Chichitames;x
+4951;5;176;150;Pijaos;x
+4952;55;14;175;Achaguas;x
+4953;85;69;200;Variquicimeto;x
+4954;125;137;225;Yukpa;x
+4955;165;176;250;Wayuu;x
+4956;205;14;150;Tacarigua;x
+4957;245;69;175;Guanaguanare;x
+4958;6;137;200;Tunebo;x
+4959;66;176;225;Guanipa;x
+4960;86;14;250;Anzoategui;x
+4961;126;69;150;Guaju;x
+4962;166;137;175;Yaquimo;x
+4963;206;176;200;Marien;x
+4964;246;14;225;Ciguayo;x
+4965;7;69;250;Higuey;x
+4966;67;137;150;Canimar;x
+4967;87;176;175;Escambrey;x
+4968;127;14;200;Guane;x
+4969;167;69;225;Mayaca;x
+4970;247;176;150;Potano;x
+4971;8;14;175;Tanu;x
+4972;68;69;200;Nitahende;x
+4973;88;137;225;Tel Kondaha;x
+4974;128;176;250;Natahende;x
+4975;168;14;150;Towa;x
+4976;208;69;175;Keres;x
+4977;248;137;200;Sobaipuri;x
+4978;9;176;225;Tsekaadn;x
+4979;69;14;250;Taaqtam;x
+4980;89;69;150;Choinumni;x
+4981;129;137;175;Ohlone;x
+4982;169;176;200;Wintun;x
+4983;209;14;225;Paipai;x
+4984;249;69;250;Tecpatitlan;x
+4985;1;137;150;Xilotepec;x
+4986;61;176;175;Pame;x
+4987;81;14;200;Xiconaque;x
+4988;121;69;225;Jocome;x
+4989;161;137;250;Xochipillan;x
+4990;201;176;150;Tarahumara;x
+4991;241;14;175;Xecora;x
+4992;2;69;200;Acaxee;x
+4993;62;137;250;Mayo;x
+4994;82;176;150;Opata;x
+4995;124;185;118;Yamoussoukro;x
+4996;143;52;49;Montagnes;x
+4997;149;243;76;Brazzaville;x
+4998;234;128;109;Lekoumou;x
+4999;231;67;12;Bandundu;x
+5000;161;103;140;Inongo;x
+5001;39;85;82;Cuvette;x
+5002;12;182;228;Mbandaka;x
+5003;61;115;73;Sangha;x
+5004;21;43;234;Sud-Ubangi;x
+5005;70;146;115;Bangui;x
+5006;134;73;106;Moundou;x
+5007;194;222;197;Nord-Ubangi;x
+5008;137;188;237;Ouham;x
+5009;88;70;67;Bumba;x
+5010;33;39;152;Bas-Uele;x
+5011;61;112;209;Tshopo;x
+5012;15;61;149;Kindu;x
+5013;203;19;155;Haut-Uele;x
+5014;234;103;12;Ituri;x
+5015;176;213;36;Jonglei;x
+5016;134;103;225;Mbini;x
+5017;58;33;209;Upper Congo;x
+5018;231;228;185;Equator Jungle;x
+5019;255;213;55;Western High Plateau;x
+5020;36;112;118;Yaounde;x
+5021;158;36;185;Vakaga;x
+5022;58;21;197;Mambere;x
+5023;103;103;137;Wau;x
+5024;158;106;185;Juba;x
+5025;24;73;106;Lakes;x
+5026;18;128;46;Janob Darfor;x
+5027;197;43;118;Guera;x
+5028;103;97;197;Salamat;x
+5029;103;200;185;Moyen-Chari;x
+5030;100;128;100;Cabinda;x
 
 

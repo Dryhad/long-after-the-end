@@ -1,12 +1,12 @@
-# - Mpangu
+# - Mpangu now M'banza-Ngungu
 
-owner = KON
-controller = KON
-add_core = KON
+owner = DRC
+controller = DRC
+add_core = DRC
 is_city = yes
 culture = kongolese
 religion = ahmadi
-capital = "Sundi"
+capital = "M'banza-Ngungu"
 trade_goods = unknown
 hre = no
 base_tax = 2 

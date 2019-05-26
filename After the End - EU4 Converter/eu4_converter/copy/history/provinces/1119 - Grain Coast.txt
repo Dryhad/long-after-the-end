@@ -1,12 +1,12 @@
-#1119 - Grain Coast
+#1119 - Grain Coast now Sinoe
 
-owner = LIB
-controller = LIB
-add_core = LIB
+owner = LBR
+controller = LBR
+add_core = LBR
 is_city = yes
 culture = liberian
 religion = americanist
-capital = "Mesurado"
+capital = "Greenville"
 trade_goods = unknown #Malaguetta Pepper dominant in early eras
 hre = no
 base_tax = 1 

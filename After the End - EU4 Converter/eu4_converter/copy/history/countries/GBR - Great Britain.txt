@@ -1,0 +1,23 @@
+# Redcoat Dominion
+government = monarchy
+add_government_reform = english_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = high_american
+primary_culture = british
+religion = thelemic
+clear_scripted_personalities = yes
+capital = 236
+3053.1.1 = {
+	capital = 236
+	add_treasury = 0
+	add_prestige = 4
+	monarch = {
+		name = "Oliver"
+		birth_date = 2999.4.25
+		dynasty = "Crowley"	
+		adm = 3
+		dip = 3
+		mil = 6
+	}
+}

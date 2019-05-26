@@ -4,7 +4,7 @@ owner = NRU
 controller = NRU
 add_core = NRU
 culture = novorusskiy
-religion = nousthreskeia
+religion = atomicist
 capital = "Iman"
 trade_goods = fish
 hre = no
@@ -12,7 +12,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 is_city = yes
-estate = estate_nomadic_tribes
+#estate = #estate_nomadic_tribes
 
 
 
