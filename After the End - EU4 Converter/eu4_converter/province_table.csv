@@ -125,7 +125,8 @@ c_gran_sabana;2804;2804 - Guasipati;County Gran Sabana - Guasipati
 c_canaima;2804;2804 - Guasipati;canaima - Guasipati
 
 c_cedeno;2811;2811 - Atabapo;Cedeno - Atabapo
-c_autana;2811;2811 - Atabapo;Autana - Atabapo
+
+c_autana;4961;4961 - Guaju;Autana - Guaju
 
 d_angostura;742;742 - Guayana;Duchy Angostura - Angostura
 c_raul_leoni;742;742 - Guayana;Raul Leoni - Angostura
@@ -170,42 +171,49 @@ c_takutu;2889;2889 - Rio Branco;Takutu - Rio Branco
 
 d_sucre;741;741 - Cumana;Duchy Sucre - Cumana
 c_cumana;741;741 - Cumana;Cumana - Cumana
+
 c_carupano;741;741 - Cumana;Carupano - Cumana
 c_isla_margarita;741;741 - Cumana;Isla Margarita - Cumana
-c_barcelona;741;741 - Cumana;Barcelona - Cumana
-c_anaco;741;741 - Cumana;Anaco - Cumana
-c_maturin;741;741 - Cumana;Maturin - Cumana
 
+c_barcelona;4960;4960 - Anzoategui;Barcelona - Anzoategui
+
+c_anaco;4959;4959 - Guanipa;Anaco - Guanipa
+c_pedro_zaraza;4959;4959 - Guanipa;Pedro Zaraza - Guanipa
+c_el_tigre;4959;4959 - Guanipa;El Tigre - Guanipa
+
+c_maturin;2805;2805 - Uyapari;Maturin - Uyapari
 c_libertador;2805;2805 - Uyapari;Libertador - Uyapari
-c_el_tigre;2805;2805 - Uyapari;El Tigre - Uyapari
+
+
 
 d_costa_gracia;831;831 - Caracas;Costa Gracia - Caracas
 c_caracas;831;831 - Caracas;Caracas - Caracas
 c_miranda;831;831 - Caracas;Miranda - Caracas
-c_carabobo;831;831 - Caracas;Carabobo - Caracas
-c_aragua;831;831 - Caracas;Aragua - Caracas
+c_carabobo;4956;4956 - Tacarigua;Carabobo - Tacarigua
+c_aragua;4956;4956 - Tacarigua;Aragua - Tacarigua
 
 d_falcon;2808;2808 - Coro;Falcon - Coro
-d_lara;2808;2808 - Coro;Lara - Coro
 c_coro;2808;2808 - Coro;Coro - Coro
 c_paraguana;2808;2808 - Coro;Paraguana - Coro
 c_dabajuro;2808;2808 - Coro;Dabajuro - Coro
 c_tocuyo;2808;2808 - Coro;Tocuyo - Coro
-c_barquisimeto;2808;2808 - Coro;Barquisimeto - Coro
-c_yaracuy;2808;2808 - Coro;Yaracuy - Coro
-c_carora;2808;2808 - Coro;Carora - Coro
+
+d_lara;4953;4953 - Variquicimeto;Lara - Variquicimeto
+c_barquisimeto;4953;4953 - Variquicimeto;Barquisimeto - Variquicimeto
+c_yaracuy;4953;4953 - Variquicimeto;Yaracuy - Variquicimeto
+c_carora;4953;4953 - Variquicimeto;Carora - Variquicimeto
 
 # Zulia
 
 d_zulia;830;830 - Maracaibo;Zulia - Maracaibo
 c_maracaibo;830;830 - Maracaibo;Maracaibo - Maracaibo
 c_machiques;830;830 - Maracaibo;Machiques - Maracaibo
-c_catatumbo;830;830 - Maracaibo;Catatumbo - Maracaibo
+c_catatumbo;4954;4954 - Yukpa;Catatumbo - Yukpa
 
 d_aguas;2807;2807 - Altagracia;Aguas - Altagracia
 c_baralt;2807;2807 - Altagracia;Baralt - Altagracia
-c_trujillo;2807;2807 - Altagracia;Trujillo - Altagracia
 c_cabimas;2807;2807 - Altagracia;Cabimas - Altagracia
+c_trujillo;4955;4955 - Wayuu;Trujillo - Wayuu
 
 d_guajira;2806;2806 - Guajira;Guajira - Guajira
 c_riohacha;2806;2806 - Guajira;Riohacha - Guajira
@@ -213,8 +221,9 @@ c_uribia;2806;2806 - Guajira;Uribia - Guajira
 
 d_los_andes;2813;2813 - Merida;Los Andes - Merida
 c_tachira;2813;2813 - Merida;Tachira - Merida
-c_cucuta;2813;2813 - Merida;Cucuta - Merida
 c_sierra_merida;2813;2813 - Merida;Sierra Merida - Merida
+
+c_cucuta;4946;4946 - Motilones;Cucuta - Motilones
 
 # Los Llanos
 
@@ -222,12 +231,12 @@ d_guarico;2939;2939 - Zaraza;Guarico - Zaraza
 c_leonardo_infante;2939;2939 - Zaraza;Leonardo Infante - Zaraza
 c_orituco;2939;2939 - Zaraza;Orituco - Zaraza
 c_las_mercedes;2939;2939 - Zaraza;Las Mercedes - Zaraza
-c_pedro_zaraza;2939;2939 - Zaraza;Pedro Zaraza - Zaraza
 
-d_portuguesa;2809;2809 - Llanos;Portuguesa - Llanos
-c_guanare;2809;2809 - Llanos;Guanare - Llanos
-c_cojedes;2809;2809 - Llanos;Cojedes - Llanos
-c_araure;2809;2809 - Llanos;Araure - Llanos
+d_portuguesa;4957;4957 - Guanaguanare;Portuguesa - Guanaguanare
+c_guanare;4957;4957 - Guanaguanare;Guanare - Guanaguanare
+c_cojedes;4957;4957 - Guanaguanare;Cojedes - Guanaguanare
+c_araure;4957;4957 - Guanaguanare;Araure - Guanaguanare
+
 c_juan_german_roscio;2809;2809 - Llanos;Juan German Roscio - Llanos
 c_calabozo;2809;2809 - Llanos;Calabozo - Llanos
 
@@ -239,10 +248,12 @@ c_arismendi;834;834 - Barinas;Arismendi - Barinas
 c_apure;2810;2810 - Apure;Apure - Apure
 c_capanaparo;2810;2810 - Apure;Capanaparo - Apure
 
-c_yopal;2812;2812 - Pore;Yopal - Pore
+c_yopal;4952;4952 - Achaguas;Yopal - Achaguas
+
 c_casanare;2812;2812 - Pore;Casanare - Pore
-c_paez;2812;2812 - Pore;Paez - Pore
 c_arauca;2812;2812 - Pore;Arauca - Pore
+
+c_paez;4958;4958 - Tuneo;Paez - Tuneo
 
 c_meta;2814;2814 - Meta;Meta - Meta
 c_ariari;2814;2814 - Meta;Ariari - Meta
@@ -257,23 +268,28 @@ d_cartagena;828;828 - Cartagena;Duchy Cartagena - Cartagena
 c_cartagena;828;828 - Cartagena;County Cartagena - Cartagena
 c_atlantico;828;828 - Cartagena;Atlantico - Cartagena
 c_sucre;828;828 - Cartagena;County Sucre - Cartagena
-d_cordoba;828;828 - Cartagena;Duchy Cordoba - Cartagena
-c_monteria;828;828 - Cartagena;Monteria - Cartagena
-c_paramillo;828;828 - Cartagena;Paramillo - Cartagena
-c_momposina;828;828 - Cartagena;Momposina - Cartagena
+
+d_cordoba;4943;4943- Sinu;Duchy Cordoba - Sinu
+c_monteria;4943;4943- Sinu;Monteria - Sinu
+c_paramillo;4943;4943- Sinu;Paramillo - Sinu
+c_uraba;4943;4943 - Sinu;Uraba - Sinu
+
 c_aguachica;828;828 - Cartagena;Aguachica - Cartagena
+
+c_valledupar;4945;4945 - Chimila;Valledupar - Chimila
 
 d_magdalena;829;829 - Magdalena;Duchy Magdalena - Magdalena
 c_santa_marta;829;829 - Magdalena;Santa Marta - Magdalena
 c_magdalena_sur;829;829 - Magdalena;Magdalena Sur - Magdalena
-c_valledupar;829;829 - Magdalena;Valledupar - Magdalena
+
+c_momposina;4944;4944 - Magangué;Momposina - Magangué
 
 # Puente Grande
 
 d_darien;2819;2819 - Darien;Duchy Darien - Darien
 c_darien;2819;2819 - Darien;County Darien - Darien
 c_guna_yala;2819;2819 - Darien;Guna Yala - Darien
-c_uraba;2819;2819 - Darien;Uraba - Darien
+
 
 d_panama;835;835 - Panama;Duchy Panama - Panama
 c_panama;835;835 - Panama;County Panama - Panama
@@ -298,29 +314,35 @@ c_limon;4764;4764 - Limon;Limon - Limon
 # Antioquia
 
 d_antioquia;827;827 - Antioquia;Duchy Antioquia - Antioquia
-c_aburra;827;827 - Antioquia;Aburra - Antioquia
+
 c_bajo_cauca;827;827 - Antioquia;Bajo Cauca - Antioquia
 c_sabanalarga;827;827 - Antioquia;Sabanalarga - Antioquia
 c_yolombo;827;827 - Antioquia;Yolombo - Antioquia
-c_oriente_antioqueno;827;827 - Antioquia;Oriente Antioqueno - Antioquia
-c_selva_virgen;827;827 - Antioquia;Selva Virgen - Antioquia
+
+c_oriente_antioqueno;824;824 - Mariquita;Oriente Antioqueno - Mariquita
+c_aburra;824;824 - Mariquita;Aburra - Mariquita
+c_selva_virgen;824;824 - Mariquita;Selva Virgen - Mariquita
 
 d_choco;826;826 - Choco;Duchy Choco - Choco
 c_quibdo;826;826 - Choco;Quibdo - Choco
-c_buenaventura;826;826 - Choco;Buenaventura - Choco
+
+c_buenaventura;823;823 - Cauca;Buenaventura - Cauca
+
+c_atrato;4940;4940 - Kuna;Atrato - Kuna
 
 d_cauca;823;823 - Cauca;Cauca - Cauca
-c_cali;823;823 - Cauca;Cali - Cauca
 c_tulua;823;823 - Cauca;Tulua - Cauca
 c_manizales;823;823 - Cauca;Manizales - Cauca
 c_quindio;823;823 - Cauca;Quindio - Cauca
 c_risaralda;823;823 - Cauca;Risaralda - Cauca
-c_popayan;823;823 - Cauca;Popayan - Cauca
+
+c_popayan;2818;2818 - Popayan;Popayan - Popayan
+c_cali;2818;2818 - Popayan;Cali - Popayan
 
 # Andina
 
-c_la_dorada;824;824 - Mariquita;La Dorada - Mariquita
-c_ibague;824;824 - Mariquita;Ibague - Mariquita
+c_la_dorada;4951;4951 - Pijaos;La Dorada - Pijaos
+c_ibague;4951;4951 - Pijaos;Ibague - Pijaos
 
 c_saldana;2817;2817 - Neiva;Saldana - Neiva
 c_huila;2817;2817 - Neiva;Huila - Neiva
@@ -329,12 +351,13 @@ c_bogota;825;825 - Bogota;Bogota - Bogota
 c_caqueza;825;825 - Bogota;Caqueza - Bogota
 
 d_santander;832;832 - Chiancon;Duchy Santander - Chiancon
-c_bucaramanga;832;832 - Chiancon;Bucaramanga - Chiancon
 c_sogamoso;832;832 - Chiancon;Sogamoso - Chiancon
-c_barrancabermeja;832;832 - Chiancon;Barrancabermeja - Chiancon
 c_velez;832;832 - Chiancon;Velez - Chiancon
 c_tunja;832;832 - Chiancon;Tunja - Chiancon
 c_zipaquira;832;832 - Chiancon;Zipaquira - Chiancon
+
+c_barrancabermeja;4947;4947 - Moniquira;Barrancabermeja - Moniquira
+c_bucaramanga;4947;4947 - Moniquira;Bucaramanga - Moniquira
 
 # Miskito
 
@@ -445,9 +468,9 @@ c_villahermosa;2632;2632 - Xicallanco;Villahermosa - Xicallanco
 # Chiapas
 
 d_zapata;2635;2635 - Chiapas;Zapata - Chiapas
-c_comitan;2635;2635 - Chiapas;Comitan - Chiapas
+c_comitan;4930;4930 - Jakaltek;Comitan - Jakaltek
 c_montes_azules;2635;2635 - Chiapas;Montes Azules - Chiapas
-c_nezahualcoyatl;2635;2635 - Chiapas;Nezahualcoyatl - Chiapas
+c_nezahualcoyatl;4929;4929 - Tzotzil;Nezahualcoyatl - Tzotzil
 
 d_chiapas;2649;2649 - Tehuantepec;Chiapas - Chiapas
 c_tuxtla_gutierrez;2649;2649 - Tehuantepec;Coyatoc - Chiapas
@@ -457,17 +480,17 @@ c_la_fraylesca;2649;2649 - Tehuantepec;La Fraylesca - Tehuantepec
 
 # Zapoteca
 
-d_istmo;4751;4751 - Juchitan;Istmo - Juchitan
+d_istmo;4751;844;844 - Zapotec;Istmo - Zapotec
 c_tehuantepec;844;844 - Zapotec;Tehuantepec - Zapotec
-c_chimalapas;4752;4752 - Chimalapas;Chimalapas - Chimalapas
-c_juchitan;4751;4751 - Juchitan;Juchitan - Juchitan
+c_chimalapas;4928;4928 - Mitla;Chimalapas - Mitla
+c_juchitan;2649;2649 - Chiapas;Juchitan - Chiapas
 
-d_oaxaca;844;844 - Zapotec;Duchy Oaxaca - Zapotec
-c_oaxaca;4750;4750 - Oxaca;Oaxaca - Oaxaca
-c_nochixtlan;844;844 - Zapotec;Nochixtlan - Zapotec
-c_sierra_sur;4750;4750 - Oxaca;Sierra Sur - Oaxaca
-c_tlacolula;4750;4750 - Oxaca;Tlacolula - Oaxaca
-c_tlaxiaco;844;844 - Zapotec;Tlaxiaco - Zapotec
+d_oaxaca;2629;2629 - Coyolapan;Duchy Oaxaca - Coyolapan
+c_oaxaca;2629;2629 - Coyolapan;Oaxaca - Coyolapan
+c_nochixtlan;2629;2629 - Coyolapan;Nochixtlan - Coyolapan
+c_sierra_sur;2629;2629 - Coyolapan;Sierra Sur - Coyolapan
+c_tlacolula;2629;2629 - Coyolapan;Tlacolula - Coyolapan
+c_tlaxiaco;2629;2629 - Coyolapan;Tlaxiaco - Coyolapan
 
 # Mixteca
 
@@ -476,10 +499,10 @@ c_jamiltepec;847;847 - Mixtec;Jamiltepec - Mixtec
 c_ometepec;847;847 - Mixtec;Ometepec - Mixtec
 c_pochutla;847;847 - Mixtec;Pochutla - Mixtec
 
-d_mixteca;2629;2629 - Coyolapan;Mixteca - Coyolapan
-c_acatlan;2629;2629 - Coyolapan;Acatlan - Coyolapan
-c_huajuapan;2629;2629 - Coyolapan;Huajuapan - Coyolapan
-c_tlapa;2629;2629 - Coyolapan;Tlapa - Coyolapan
+d_mixteca;2646;2646 - Coixtlahuacan;Mixteca - Coixtlahuacan
+c_acatlan;2646;2646 - Coixtlahuacan;Acatlan - Coixtlahuacan
+c_huajuapan;2646;2646 - Coixtlahuacan;Huajuapan - Coixtlahuacan
+c_tlapa;4925;4925 - Yohualtepec;Tlapa - Yohualtepec
 
 c_acapulco;849;849 - Tlapanec;Acapulco - Tlapanec
 
@@ -495,27 +518,32 @@ c_coatzacoalcos;2631;2631 - Zaachila;Coatzacoalcos - Zaachila
 d_veracruz;2647;2647 - Cuetlaxtlan;Veracruz - Cuetlaxtlan
 c_heroica_veracruz;2647;2647 - Cuetlaxtlan;Heroica Veracruz - Cuetlaxtlan
 c_las_montanas;2647;2647 - Cuetlaxtlan;Las Montanas - Cuetlaxtlan
-c_xalapa;2647;2647 - Cuetlaxtlan;Xalapa - Cuetlaxtlan
+c_xalapa;4942;4942 - Cuauhtochco;Xalapa - Cuauhtochco
 
-c_totonacapan;848;848 - Tohancapan;Totonacapan - Tohancapan
+
 c_tononaca;848;848 - Tohancapan;Tononaca - Tohancapan
 
-c_tehuacan;2628;2628 - Tepeacac;Tehuacan - Tepeacac
-
-c_puebla;2644;2644 - Cholula;Puebla - Cholula
-
+d_puebla;2644;2644 - Cholula;Duchy Puebla - Cholula
+c_totonacapan;4927;4927 - Xocotla;Xocotla - Tohancapan
+c_tehuacan;4926;4926 - Teotitlan;Tehuacan - Teotitlan
+c_puebla;2628;2628 - Tepeacac;Puebla - Tepeacac
 c_tlaxcala;850;850 - Tlaxcala;Tlaxcala - Tlaxcala
+
 
 d_mexico;852;852 - Mexico;Duchy Mexico - Mexico
 c_mexico;852;852 - Mexico;County Mexico - Mexico
-c_morelos;852;852 - Mexico;Morelos - Mexico
 c_teoloyucan;852;852 - Mexico;Teoloyucan - Mexico
+c_texcoco;852;852 - Mexico;Texcoco - Mexico
 
 c_temascalcingo;2626;2626 - Tulucan;Temascalcingo - Tulucan
-c_toluca;2626;2626 - Tulucan;Toluca - Tulucan
+
+c_toluca;4916;4916 - Malinalco;Toluca - Malinalco
+
+c_morelos;4915;4915 - Tlacopan;Morelos - Tlacopan
 
 d_hidalgo;853;853 - Huastec;Duchy Hidalgo - Huastec
 c_pachuca;853;853 - Huastec;Pachuca - Huastec
+c_sierra_gorda;853;853 - Huastec;Sierra Gorda - Huastec
 
 d_huasteca;2641;2641 - Tziccoac;Huasteca - Tziccoac
 c_tampico;2641;2641 - Tziccoac;Tampico - Tziccoac
@@ -525,28 +553,30 @@ c_tuxpan;2641;2641 - Tziccoac;Tuxpan - Tziccoac
 
 # Bajio
 
-d_queretaro;2642;2642 - Metztitlan;Queretaro - Metztitlan
-c_santiago_de_queretaro;2642;2642 - Metztitlan;Santiago de Queretaro - Metztitlan
-c_jalpan_de_serra;2642;2642 - Metztitlan;Jalpan de Serra - Metztitlan
-c_sierra_gorda;2642;2642 - Metztitlan;Sierra Gorda - Metztitlan
+d_queretaro;4985;4985 - Xilotepec;Queretaro - Xilotepec
+c_santiago_de_queretaro;4985;4985 - Xilotepec;Santiago de Queretaro - Xilotepec
+c_jalpan_de_serra;4985;4985 - Xilotepec;Jalpan de Serra - Xilotepec
 
-d_los_altos;2615;2615 - Guamares;Los Altos - Guamares
-c_aguascalientes;2615;2615 - Guamares;Aguascalientes - Guamares
-c_atenas;2615;2615 - Guamares;Atenas - Guamares
+
+d_los_altos;4984;4984 - Tecpatitlan;Los Altos - Tecpatitlan
+c_aguascalientes;4984;4984 - Tecpatitlan;Aguascalientes - Tecpatitlan
+c_atenas;4984;4984 - Tecpatitlan;Atenas - Tecpatitlan
+
 d_guanajuato;2615;2615 - Guamares;Duchy Guanajuato - Guamares
 c_guanajuato;2615;2615 - Guamares;County Guanajuato - Guamares
 c_leon;2615;2615 - Guamares;Leon - Guamares
 
-c_tepatitlan;2622;2622 - Cuitzeo;Tepatitlan - Cuitzeo
-c_celaya;2622;2622 - Cuitzeo;Celaya - Cuitzeo
-c_irapuato;2622;2622 - Cuitzeo;Irapuato - Cuitzeo
+c_tepatitlan;2621;2621 - Tizapan;Tepatitlan - Tizapan
+
+c_celaya;4917;4917 - Acambaro;Celaya - Acambaro
+c_irapuato;4917;4917 - Acambaro;Irapuato - Acambaro
 
 # Gran Chichimeca
 
-d_san_luis_potosi;857;857 - Guachichil;Duchy San Luis Potosi - Guachichil
-c_san_luis_potosi;857;857 - Guachichil;County San Luis Potosi - Guachichil
+d_san_luis_potosi;4986;4986 - Pame;Duchy San Luis Potosi - Pame
+c_san_luis_potosi;4986;4986 - Pame;County San Luis Potosi - Pame
 c_matehuala;857;857 - Guachichil;Matahuala - Guachichil
-c_ciudad_valles;4748;4748 - El Cielo;Ciudad Valles - El Cielo
+c_ciudad_valles;2642;2642 - Metztitlan;Ciudad Valles - El Cielo
 
 d_salado;856;856 - Zacatecas;Salado - Zacatecas
 c_sombrerete;856;856 - Zacatecas;Sombrerete - Zacatecas
@@ -561,43 +591,44 @@ c_mixton;2617;2617 - Huichol;Mixton - Huichol
 # Jalisco/Colima
 
 d_nayarit;855;855 - Huichol;Nayarit - Huichol
-c_tepic;855;855 - Huichol;Tepic - Huichol
+c_tepic;854;854 - Sayultecas;Tepic - Sayultecas
 c_acaponeta;855;855 - Huichol;Acaponeta - Huichol
-c_islas_marias;4746;4746 - Mazatlan;Islas Marias - Mazatlan
+c_islas_marias;855;855 - Huichol;Islas Marias - Huichol
 c_mazatlan;4746;4746 - Mazatlan;Mazatlan - Mazatlan
 
-d_costalegre;854;854 - Sayultecas;Duchy Costalegre - Sayultecas
-c_costalegre;854;854 - Sayultecas;County Costalegre - Sayultecas
-c_puerto_vallarta;854;854 - Sayultecas;Puerto Vallarta - Sayultecas
+d_costalegre;4920;4920 - Amaxocotlan;Duchy Costalegre - Amaxocotlan
+c_costalegre;4920;4920 - Amaxocotlan;County Costalegre - Amaxocotlan
+c_puerto_vallarta;4920;4920 - Amaxocotlan;Puerto Vallarta - Amaxocotlan
 
 d_jalisco;2621;2621 - Tizapan;Duchy Jalisco - Tizapan
 c_guadalajara;2621;2621 - Tizapan;Guadalajara - Tizapan
-c_sierra_de_amula;2621;2621 - Tizapan;Sierra de Amula - Tizapan
-c_ameca;2621;2621 - Tizapan;Ameca - Tizapan
+c_sierra_de_amula;4923;4923 - Sayula;Sierra de Amula - Sayula
+c_ameca;4923;4923 - Sayula;Ameca - Sayula
 
 d_colima;2657;2657 - Colima;Duchy Colima - Colima
 c_colima;2657;2657 - Colima;County Colima - Colima
-c_manzanillo;4749;4749 - Manzanillo;Manzanillo - Manzanillo
+c_manzanillo;2657 - Colima;Manzanillo - Colima
 
 # Michoacan
 
 c_zapotlan_el_grande;2643;2643 - Apatzingan;Zapotlan el Grande - Apatzingan
-c_tepalcatepec;2643;2643 - Apatzingan;Tepalcatepec - Apatzingan
+c_tepalcatepec;4919;4919 - Puruaran;Tepalcatepec - Puruaran
 
 d_michoacan;2624;2624 - Patzcuaro;Duchy Michoacan - Patzcuaro
-c_zamora;2624;2624 - Patzcuaro;Zamora - Patzcuaro
-c_morelia;2624;2624 - Patzcuaro;Morelia - Patzcuaro
+c_zamora;4818;4918 - Ihuatzio;Zamora - Ihuatzio
+c_morelia;2622;2622 - Patzcuaro;Morelia - Cuitzeo
 c_patzcuaro;2624;2624 - Patzcuaro;Patzcuaro - Patzcuaro
-c_uruapan;2624;2624 - Patzcuaro;Uruapan - Patzcuaro
+c_uruapan;4818;4918 - Ihuatzio;Uruapan - Ihuatzio
 
 d_tierra_caliente;2623;2623 - Cutzamala;Tierra Caliente - Cutzamala
 c_huetamo;2623;2623 - Cutzamala;Huetamo - Cutzamala
-c_oriente;2623;2623 - Cutzamala;Oriente - Cutzamala
+c_oriente;4916;4916 - Malinalco;Oriente - Malinalco
 
 c_coyuca_de_catalan;2645;2645 - Teloloapan;Coyuca de Catalan - Teloloapan
 
-c_iguala;2646;2646 - Coixtlahuacan;Iguala - Coixtlahuacan
-c_chilpancingo;2646;2646 - Coixtlahuacan;Chilpancingo - Coixtlahuacan
+c_iguala;4925;4925 - Yohualtepec;Iguala - Yohualtepec
+
+c_chilpancingo;4925;4925 - Yohualtepec;Chilpancingo - Yohualtepec
 
 c_coalcoman;851;851 - Tarasco;Coalcoman - Tarasco
 
@@ -608,15 +639,18 @@ c_petatlan;2648;2648 - Yopitzinco;Petatlan - Yopitzinco
 # Sonora
 
 d_sinaloa;859;859 - Sinaloa;Sinaloa - Sinaloa
+c_los_mochis;4743;4743 - Los Moches;Los Mochis - Los Mochis
 c_culiacan;859;859 - Sinaloa;Culiacan - Sinaloa
-c_los_mochis;4745;4745 - Los Moches;Los Mochis - Los Mochis
+
 
 d_sonora;862;862 - Yaqui;Sonora - Yaqui
 c_hermosillo;862;862 - Yaqui;Hermosillo - Yaqui
-c_nogales;862;862 - Yaqui;Nogales - Yaqui
 
-c_guaymas;4743;4743 - Guyamas;Guayamas - Guayamas
-c_el_novillo;4743;4743 - Guyamas;El Novillo - Guayamas
+c_nogales;4994;4994 - Opata;Nogales - Opata
+c_el_novillo;4994;4994 - Opata;El Novillo - Opata
+
+c_guaymas;4993;4993 - Mayo;Guayamas - Mayo
+
 
 d_altar;2616;2616 - Seri;Altar - Seri
 c_caborca;2616;2616 - Seri;Caborca - Seri
@@ -624,14 +658,13 @@ c_plutarco;4741;4741 - Plutarcho;Plutarco - Plutarco
 
 # Arixo
 
-c_two_sun;877;877 - Pima;Two Sun - Pima
-c_sierra_vista;877;877 - Pima;Sierra Vista - Pima
+c_two_sun;4977;4977 - Kanye;Two Sun - Kanye
+c_sierra_vista;879;879 - Pima;Sierra Vista - Pima
+c_yuma;877;877 - Yuma;Yuma - Pima
 
 c_ahwe_nyava;876;876 - Yavapai;Ahwe Nyava - Yavapai
 c_phoenix;876;876 - Yavapai;Phoenix - Yavapai
-c_yuma;876;876 - Yavapai;Yuma - Yavapai
-
-c_gila;879;879 - Apache;Gila - Apache
+c_gila;4978;4978 - Tsékaadn;Gila - Tsékaadn
 
 c_grand_canyon;2491;2491 - Hualapai;Grand Canyon - Hualapai
 c_flagstaff;2491;2491 - Hualapai;Flagstaff - Hualapai
@@ -649,9 +682,9 @@ c_fort_defiance;878;878 - Navajo;Fort Defiance - Navajo
 c_shiwinnaqin;2494;2494 - Zuni;Shiwinnaqin - Zuni
 
 d_apacheria;2495;2495 - Acoma;Apacheria - Acoma
-c_jicarilla;2495;2495 - Acoma;Jicarilla - Acoma
 c_acoma;2495;2495 - Acoma;Acoma - Acoma
-c_los_alamos;2495;2495 - Acoma;Los Alamos - Acoma
+c_los_alamos;4976;4976 - Keres;Los Alamos - Keres
+c_jicarilla;4976;4976 - Keres;Jicarilla - Keres
 
 c_mogollon;2492;2492 - Chiricahua;Mogollon - Chiricahua
 
@@ -661,24 +694,25 @@ c_hidalgo;881;881 - Piro;County Hidalgo - Piro
 # Sierra Madre
 
 c_ahumada;863;863 - Suma;Ahumada - Suma
-c_ascension;863;863 - Suma;Ahumada - Suma
+c_ascension;4988;4988 - Jocome;Ahumada - Jocome
 
-c_tutuaca;864;864 - Concho;Tutuaca - Concho
+c_tutuaca;4990;4990 - Tarahumara;Tutuaca - Tarahumara
 c_chihuahua;864;864 - Concho;County Chihuahua - Concho
 c_guerrero;864;864 - Concho;Guerrero - Concho
 c_santa_elena;864;864 - Concho;Santa Elena - Concho
 
-c_guachochi;2618;2618 - Toboso;Guachochi - Toboso
+c_guachochi;4990;4990 - Tarahumara;Guachochi - Tarahumara
 c_parral;2618;2618 - Toboso;Parral - Toboso
 
-d_durango;860;860 - Tepehuan;Duchy Durango - Tepehuan
-c_durango;860;860 - Tepehuan;County Durango - Tepehuan
-c_altamirano;860;860 - Tepehuan;Altamirano - Tepehuan
+d_durango;4991;4991 - Xecora;Duchy Durango - Xecora
+c_durango991;4991 - Xecora;County Durango - Xecora
+c_altamirano;4992;4992 - Acaxee;Altamirano - Acaxee
 c_fernandez;860;860 - Tepehuan;Fernandez - Tepehuan
 
 # Rio Bravo
 
-c_maderas_del_carmen;861;861 - Coahuila;Maderas del Carmen - Coahuila
+c_maderas_del_carmen;4950;4950 - Chichitames;Maderas del Carmen - Chichitames
+
 c_monclova;861;861 - Coahuila;Monclova - Coahuila
 
 c_cuatrocienegas;2619;2619 - Laguerneros;Cuatrocienegas - Laguerneros
@@ -808,12 +842,13 @@ c_white_sands;882;882 - Mescalero;White Sands - Mescalero
 c_socorro;882;882 - Mescalero;Socorro - Mescalero
 c_groom;882;882 - Mescalero;Groom - Mescalero
 
-c_sandia;880;880 - Pueblo;Sandia - Pueblo
-c_santa_fe;880;880 - Pueblo;Santa Fe - Pueblo
+c_sandia;4975;4975 - Towa;Sandia - Towa
+c_santa_fe;4975;4975 - Towa;Santa Fe - Towa
 
-c_tucumcari;2496;2496 - Jicarilla;Tucumcari - Jicarilla
+c_tucumcari;4974;4974 - Natahéndé;Tucumcari - Natahéndé
+
 c_raton;2496;2496 - Jicarilla;Raton - Jicarilla
-c_taos;2496;2496 - Jicarilla;Taos - Jicarilla
+
 
 # Louisiana
 
@@ -1294,7 +1329,6 @@ c_newell;2602;2602 - Siksikawa;Newell - Siksikawa
 
 c_foothills;2018;2018 - Tsuutina;Foothills - Tsuutina
 c_clearwater;2018;2018 - Tsuutina;Clearwater - Tsuutina
-c_banff;2018;2018 - Tsuutina;Banff - Tsuutina
 c_yellowhead;2018;2018 - Tsuutina;Yellowhead - Tsuutina
 
 c_edmonton;2017;2017 - Nehiyawewin;Edmonton - Nehiyawewin
@@ -1303,56 +1337,71 @@ c_lloydminster;2017;2017 - Nehiyawewin;Lloydminster - Nehiyawewin
 
 # Lincoln
 
-c_koocanusa;2003;2003 - Ktunaxa;Koocanusa - Ktunaxa
-c_kootenay;2003;2003 - Ktunaxa;Kootenay - Ktunaxa
-c_priest_lake;2003;2003 - Ktunaxa;Priest Lake - Ktunaxa
 
 d_colville;2487;2487 - Spokane;Duchy Colville - Spokane
-c_colville;2487;2487 - Spokane;County Colville - Spokane
+c_priest_lake;2487;2487 - Spokane;Priest Lake - Spokane
 c_pend_oreille;2487;2487 - Spokane;Pend Oreille - Spokane
 c_spokane_valley;2487;2487 - Spokane;Spokane Valley - Spokane
-c_adams;2487;2487 - Spokane;Adams - Spokane
-c_coeur_dalene;2487;2487 - Spokane;Coeur d'Alene - Spokane
+
+c_colville;4906;4906 - Sdalaay;County Colville - Sdalaay
+c_okanogan;4906;4906 - Sdalaay;Okanogan - Sdalaay
+
+c_adams;2488;2488 - Palus;Adams - Palus
+c_whitman;2488;2488 - Palus;Whitman - Palus
+
+c_coeur_dalene;4599;4599 - Sinu;Coeur d'Alene - Sinu
+c_silver_valley;4599;4599 - Sinu;Silver Valley - Sinu
 
 d_horse_heaven;2486;2486 - Yakima;Horse Heaven - Yakima
 c_yakama;2486;2486 - Yakima;Yakama - Yakima
 c_kittitas;2486;2486 - Yakima;Kittitas - Yakima
-c_klickitat;2486;2486 - Yakima;Klickitat - Yakima
-c_okanogan;2486;2486 - Yakima;Okanogan - Yakima
-c_douglas;2486;2486 - Yakima;Douglas - Yakima
-c_grant;2486;2486 - Yakima;Grant - Yakima
 
-c_whitman;2488;2488 - Palus;Whitman - Palus
-c_franklin;2488;2488 - Palus;Franklin - Palus
-c_wallawalla;2488;2488 - Palus;Wallawalla - Palus
-c_silver_valley;2488;2488 - Palus;Silver Valley - Palus
+c_klickitat;4901;4901 - Xalt'as;Klickitat - Xalt'as
+
+c_douglas;4902;4902 - Yakima;Douglas - Inuuwaay
+c_grant;4902;4902 - Yakima;Grant - Inuuwaay
+c_franklin;4902;4902 - Palus;Franklin - Inuuwaay
+
+c_wallawalla;4900;4900 - Wallawalla;Wallawalla - Wallawalla
+
 
 c_umatilla;2483;2483 - Umatilla;Umatilla - Umatilla
-c_columbia_gorge;2483;2483 - Umatilla;Columbia Gorge - Umatilla
+
+c_columbia_gorge;4912;4912 - Juuts'ags;Columbia Gorge - Juuts'ags
+c_deschutes;4912;4912 - Juuts'ags;Deschutes - Juuts'ags
 
 # Grand/British Columbia
+
+c_koocanusa;2003;2003 - Ktunaxa;Koocanusa - Ktunaxa
+c_kootenay;2003;2003 - Ktunaxa;Kootenay - Ktunaxa
+c_banff;2003;2003 - Ktunaxa;Banff - Ktunaxa
+c_kinbasket;2003;2003 - Ktunaxa;Kinbasket - Ktunaxa
 
 d_monashee;2607;2607 - Okanagan;Monashee - Okanagan
 c_shuswap;2607;2607 - Okanagan;Shuswap - Okanagan
 c_kelowna;2607;2607 - Okanagan;Kelowna - Okanagan
-c_arrowhead;2607;2607 - Okanagan;Arrowhead - Okanagan
-c_kinbasket;2607;2607 - Okanagan;Kinbasket - Okanagan
+
+c_arrowhead;4907;4907 - Revelstoke;Arrowhead - Revelstoke
+
 
 #d_cariboo;2606;2606 - Tsiloqotin;Duchy Cariboo - Tsiloqotin
-c_kamloops;2605;2605 - Secwepemc;Kamloops - Secwepemc
-c_cariboo;2605;2605 - Secwepemc;County Cariboo - Secwepemc
-c_prince_george;2605;2605 - Secwepemc;Prince George - Secwepemc
+
+c_cariboo;2604;2604 - Dakelh;County Cariboo - Dakelh
+c_prince_george;2604;2604 - Dakelh;Prince George - Dakelh
 c_fraser_valley;2605;2605 - Secwepemc;Fraser - Secwepemc
+c_itcha_ilgachuz;4911;4911 - Itcha Ilgachuz;Itcha Ilgachuz - Itcha Ilgachuz
 
 #d_great_valleys;2606;2606 - Tsiloqotin;Great Valleys - Tsiloqotin
-c_itcha_ilgachuz;2606;2606 - Tsiloqotin;Itcha Ilgachuz - Tsiloqotin
-c_harrison;2606;2606 - Tsiloqotin;Harrison - Tsiloqotin
-c_beyond_hope;2606;2606 - Tsiloqotin;Beyond Hope - Tsiloqotin
-c_similkameen;2606;2606 - Tsiloqotin;Similkameen - Tsiloqotin
-c_sea_to_sky;2606;2606 - Tsiloqotin;Sea to Sky - Tsiloqotin
+c_harrison;4908;4908 - Great Valleys;Harrison - Great Valleys
+c_beyond_hope;4908;4908 - Great Valleys;Beyond Hope - Great Valleys
+c_similkameen;4908;4908 - Great Valleys;Similkameen - Great Valleys
+
+c_sea_to_sky;4910;4910 - Sea to Sky;Sea to Sky - Sea to Sky
+c_kamloops;4909;4909 - Kamloops;Kamloops - Kamloops
 
 c_klinaklini;974;974 - Kwakiutl;Klinaklini - Kwakiutl
 c_discovery_islands;974;974 - Kwakiutl;Discovery Islands - Kwakiutl
+
 c_homathko;974;974 - Kwakiutl;Homathko - Kwakiutl
 
 d_the_coast;975;975 - Tsimshian;The Coast - Tsimshian
@@ -1386,42 +1435,44 @@ c_port_hardy;4552;4552 - Tajaaw;Port Hardy - Tajaaw
 
 # Cascadia
 
-d_puget;874;874 - Salish;Puget - Salish
-c_seattle;874;874 - Salish;Seattle - Salish
-c_snohomish;874;874 - Salish;Snohomish - Salish
+d_puget;2485;2485 - Chehalis;Puget - Chehalis
+c_seattle;2485;2485 - Chehalis;Seattle - Chehalis
+c_snohomish;2485;2485 - Chehalis;Snohomish - Chehalis
+c_rainier;2485;2485 - Chehalis;Ranier - Chehalis
+
 c_camano;874;874 - Salish;Camano - Salish
 
-c_capitol;2485;2485 - Chehalis;Capitol - Chehalis
-c_rainier;2485;2485 - Chehalis;Rainier - Chehalis
+c_capitol;4899;4899 - Kitsap;Capitol - Kitsap
+c_kitsap;4899;4899 - Kitsap;Kitsap - Kitsap
+c_willapa_bay;4899;4899 - Kitsap;Willapa Bay - Kitsap
 
 d_olympus;2484;2484 - Quileute;Olympus - Quileute
 c_quinault;2484;2484 - Quileute;Quinault - Quileute
 c_cape_alava;2484;2484 - Quileute;Cape Alava - Quileute
-c_kitsap;2484;2484 - Quileute;Kitsap - Quileute
 
-d_portlandia;873;873 - Chinook;Portlandia - Chinook
-c_caltsop;873;873 - Chinook;Clatsop - Chinook
+
+#d_portlandia;873;873 - Chinook;Portlandia - Chinook
 c_portland;873;873 - Chinook;Portland - Chinook
 c_mount_hood;873;873 - Chinook;Mount Hood - Chinook
-c_clark;873;873 - Chinook;Clark - Chinook
-c_willapa_bay;873;873 - Chinook;Willapa Bay - Chinook
+c_santiam;873;873 - Chinook;Santiam - Chinook
 
+c_clark;4903;4903 - Clark;Clark - Clark
+
+c_caltsop;872;872 - Kalapuya;Clatsop - Siuslaw
 c_tillamook;872;872 - Kalapuya;Tillamook - Siuslaw
-c_coos_bay;872;872 - Kalapuya;Coos Bay - Siuslaw
 c_siuslaw;872;872 - Kalapuya;Siuslaw - Siuslaw
 
+c_coos_bay;872;872 - Kalapuya;Coos Bay - Siuslaw
 c_umpqua;2482;2482 - Kalapuya;Umpqua - Kalapuya
 c_lane;2482;2482 - Kalapuya;Lane - Kalapuya
-c_santiam;2482;2482 - Kalapuya;Santiam - Kalapuya
-c_crater;2482;2482 - Kalapuya;Crater - Kalapuya
+
+c_crater;4515;4515 - Hart Mountain;Crater - Hart Mountain
+c_klamath_falls;4515;4515 - Hart Mountain;Klamath Falls - Hart Mountain
+c_hart_mountain;4515;4515 - Hart Mountain; Hart Mountain - Hart Mountain
 
 d_north_jefferson;2481;2481 - Klamath;North Jefferson - Klamath
 c_josephine;2481;2481 - Klamath;Josephine - Klamath
 c_rogue_valley;2481;2481 - Klamath;Rogue Valley - Klamath
-c_klamath_falls;2481;2481 - Klamath;Klamath Falls - Klamath
-
-c_hart_mountain;4515;4515 - Hart Mountain; Hart Mountain - Hart Mountain
-c_deschutes;4515;4515 - Hart Mountain;Deschutes - Hart Mountain
 
 d_highdesert;4516;4516 - Highdesert;Highdesert - Highdesert
 c_malheur;4516;4516 - Highdesert;Malheur - Highdesert
@@ -1562,10 +1613,11 @@ c_mulege;4744;4744 - Mulege;Mulege - Mulege
 # Idaho
 
 d_west_snake;2019;2019 - Nimiipu;West Snake - Nimiipu
-c_gem_canyon;2019;2019 - Nimiipu;West Snake - Nimiipu
 c_salmon_river;2019;2019 - Nimiipu;West Snake - Nimiipu
-c_baker;2019;2019 - Nimiipu;West Snake - Nimiipu
 c_nez_perce;2019;2019 - Nimiipu;West Snake - Nimiipu
+
+c_gem_canyon;4913;4913 - Baker;West Snake - Baker
+c_baker;4913;4913 - Baker;West Snake - Baker
 
 d_northern_basin;4517;4517 - Duck Valley;Northern Basin - Duck Valley
 c_elmore;4517;4517 - Duck Valley;Northern Basin - Duck Valley
@@ -1574,10 +1626,9 @@ c_cassia;4517;4517 - Duck Valley;Northern Basin - Duck Valley
 c_duck_valley;4517;4517 - Duck Valley;Northern Basin - Duck Valley
 c_salt_flats;4517;4517 - Duck Valley;Northern Basin - Duck Valley
 
-c_flathead;4599;4599 - Clearwater;Flathead - Clearwater
-c_bitterroot_valley;4599;4599 - Clearwater;Bitterroot Valley - Clearwater
-
 d_deer_lodge;4600;4600 - Deer Lodge;Deer Lodge - Deer Lodge
+c_flathead;4600;4600 - Deer Lodge;Flathead - Deer Lodge
+c_bitterroot_valley;4600;4600 - Deer Lodge;Bitterroot Valley - Deer Lodge
 c_broadwater;4600;4600 - Deer Lodge;Broadwater - Deer Lodge
 c_granite;4600;4600 - Deer Lodge;Granite - Deer Lodge
 
@@ -1645,7 +1696,9 @@ c_arp;4884;4884 - Arp;Arp - Arp
 c_peketon;4884;4884 - Arp;Peketon - Arp
 
 d_pueblo;4526;4526 - Valana;Peublo - Valana
-c_pueblo;4526;4526 - Valana;Peublo - Valana
+c_pueblo;880;880 - Peublo;Alamosa - Peublo
+c_taos;880;880 - Peublo;Taos - Peublo
+
 c_huerfano;4526;4526 - Valana;Huerfano - Valana
 c_alamosa;4526;4526 - Valana;Alamosa - Valana
 
