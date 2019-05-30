@@ -20,8 +20,8 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = nomad_group
 
-# = { discovered_by = ENG  # George Waymouth
-# = { discovered_by = FRA  # Samuel de Champlain
+# = { discovered_by = ENG } # George Waymouth
+# = { discovered_by = FRA } # Samuel de Champlain
 
 # = {
 	#owner = ENG
@@ -32,29 +32,27 @@ discovered_by = nomad_group
 	culture = english
 	religion = reformed
 	trade_goods = unknown
- # Settled by the British
+} # Settled by the British
  # Fort William & Mary
-# = { capital = "Portsmouth" 
+# = { capital = "Portsmouth" }
 # = {
 	#discovered_by = GBR
 	#owner = GBR
 	#controller = GBR
 	#add_core= GBR
-	
-
+	remove_core = ENG
+}
 # = {
 	culture = american
 	unrest = 6
- # Growing unrest
-# = { unrest = 7  # Local mob led by John Langdon stormed the fort
+} # Growing unrest
+# = { unrest = 7 } # Local mob led by John Langdon stormed the fort
 # = {
 	#owner = USA
 	#controller = USA
 	#add_core= USA
- # Declaration of independence
+} # Declaration of independence
 # = {
-	 
+	remove_core = GBR 
 	unrest = 0
- # Preliminary articles of peace, the British recognized American independence
-
-discovered_by = GBR
+} # Preliminary articles of peace, the British recognized American independence

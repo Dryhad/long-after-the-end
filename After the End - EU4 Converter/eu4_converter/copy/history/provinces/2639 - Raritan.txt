@@ -29,41 +29,39 @@ discovered_by = nomad_group
 	religion = reformed
 	is_city = no
 	trade_goods = unknown
- # Founding of Pavonia
-# = { #controller = ENG  # English seize New Netherlands at outset of Second Anglo-Dutch war
+} # Founding of Pavonia
+# = { #controller = ENG } # English seize New Netherlands at outset of Second Anglo-Dutch war
 # = {
 	#owner = ENG
 	culture = english
 	#add_core= ENG
-	
- # Treaty of Breda
+	remove_core = NED
+} # Treaty of Breda
 # = {
 	#owner = NED
 	#controller = NED
 	#add_core= NED
-	
+	remove_core = ENG
 	culture = dutch
- # Recaptured by the Dutch
+} # Recaptured by the Dutch
 # = {
 	#owner = ENG
 	#controller = ENG
-	
+	remove_core = NED
 	#add_core= ENG
 	culture = english
 	religion = protestant
- # Treaty of Westminster
+} # Treaty of Westminster
 # = {
 	#discovered_by = GBR
 	#owner = GBR
 	#controller = GBR
 	#add_core= GBR
-	
-
+	remove_core = ENG
+}
 # = {
 	#owner = USA
 	#controller = USA
 	#add_core= USA
- # Declaration of independence
-# = {  unrest = 0  # Preliminary articles of peace, the British recognized American independence
-
-discovered_by = GBR
+} # Declaration of independence
+# = { remove_core = GBR unrest = 0 } # Preliminary articles of peace, the British recognized American independence

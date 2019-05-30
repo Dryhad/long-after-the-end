@@ -23,4 +23,44 @@ add_permanent_province_modifier = {
 	duration = -1
 }
 
-discovered_by = GBR
+# = { discovered_by = SPA } # Lucas Vásquez de Ayllón
+# = {
+	#owner = ENG
+	#controller = ENG
+	#add_core= ENG
+	is_city = no
+	religion = protestant
+	culture = english
+	capital = "Charlestown"
+} # Founding of Charlestown
+# = { unrest = 5 } # Conflicts with French and Spanish settlers
+# = { trade_goods = unknown
+# = { unrest = 4 } # Queen Anne's war. Several Spanish settlements are attacked
+# = { unrest = 0 }
+# = {
+	#owner = GBR
+	#controller = GBR
+	#add_core= GBR
+	remove_core = ENG
+} 
+# = { unrest = 4 } # The Carolina revolution
+# = { unrest = 0 } # A new governor is elected & Carolina becomes a royal province shortly after
+# = { unrest = 5 } # Cherokee war
+# = { unrest = 0 } # Peace attempt
+# = {
+	culture = american
+	unrest = 6
+} # Growing unrest
+# = { fort_18th = yes }
+# = {
+	#owner = USA
+	#controller = USA
+	#add_core= USA
+}
+# = { #controller = GBR } # Charlestown under British control
+# = {
+	#controller = USA
+	remove_core = GBR 
+	unrest = 0
+} # Preliminary articles of peace, the British recognized American independence
+# = { capital = "Charleston" } # Name of the city is changed

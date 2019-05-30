@@ -25,6 +25,12 @@ discovered_by = ottoman
 discovered_by =  mesoamerican
 
 
-
-discovered_by = NRU 
-discovered_by = NRA
+# = {
+	#owner = SPA
+	#controller = SPA
+	#add_core= SPA
+	religion = catholic
+	unrest = 5
+} #Tangaxuan II is deposed and murdered.
+# = { culture = castillian } # growing aculturation
+# = { #owner = MEX #add_core= MEX #controller = MEX } # Mexican War of Independence

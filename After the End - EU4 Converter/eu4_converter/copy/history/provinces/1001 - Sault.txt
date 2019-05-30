@@ -23,7 +23,7 @@ discovered_by = nomad_group
 # = {
 	#discovered_by = FRA
 	#discovered_by = ENG
- # Étienne Brulé, Henry Hudson
+} # Étienne Brulé, Henry Hudson
 
 # = {
 	#owner = FRA
@@ -33,16 +33,14 @@ discovered_by = nomad_group
 	religion = catholic
 	capital = "Sault Ste. Marie"
 	is_city = no
-
-# = { discovered_by = GBR 
+}
+# = { discovered_by = GBR }
 # = {
 	#owner = GBR
 	#controller = GBR
 	#add_core= GBR
-	
+	remove_core = FRA
 	religion = protestant
 	culture = english
 	trade_goods = unknown
- # Treaty of Paris
-
-discovered_by = GBR
+} # Treaty of Paris

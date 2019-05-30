@@ -9,9 +9,9 @@ religion = nahuatl
 capital = "Cutzamala"
 trade_goods = unknown
 hre = no
-base_tax = 6
-base_production = 6
-base_manpower = 3
+base_tax = 4
+base_production = 4
+base_manpower = 2
 native_size = 5
 native_ferocity = 1
 native_hostileness = 2
@@ -22,6 +22,12 @@ discovered_by = ottoman
 discovered_by =  mesoamerican
 fort_15th = yes
 
-
-discovered_by = NRU 
-discovered_by = NRA
+# = {
+	#owner = SPA
+	#controller = SPA
+	#add_core= SPA
+	religion = catholic
+	unrest = 5
+} #Tangaxuan II is deposed and murdered.
+# = { culture = castillian } # growing aculturation
+# = { #owner = MEX #add_core= MEX #controller = MEX } # Mexican War of Independence

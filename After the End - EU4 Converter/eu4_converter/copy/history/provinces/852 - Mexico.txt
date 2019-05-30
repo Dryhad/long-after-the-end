@@ -6,10 +6,10 @@
 culture = aztek 
 religion = nahuatl
 capital = "Tenochtitlan" 
-trade_goods = gold
+trade_goods = unknown
 hre = no 
-base_tax = 7 
-base_production = 7
-base_manpower = 2 
+base_tax = 1
+base_production = 1
+base_manpower = 1
 fort_15th = yes
 is_city = no

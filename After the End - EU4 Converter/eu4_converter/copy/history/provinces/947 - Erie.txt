@@ -27,25 +27,25 @@ discovered_by = nomad_group
 	#add_core= HUR
 	is_city = no
 	trade_goods = unknown
- #Hurons escape to Erie territory, ally with them
+} #Hurons escape to Erie territory, ally with them
 # = {
  	#owner = IRO
 	#controller = IRO
 	#add_core= IRO
 	culture = iroquois 
- #Taken by Iroquois in Beaver Wars.
+} #Taken by Iroquois in Beaver Wars.
 
 
 
-# = { discovered_by = FRA 
-# = { discovered_by = GBR 
+# = { discovered_by = FRA }
+# = { discovered_by = GBR }
 
 # = {
 	#owner = IRO
 	#controller = IRO
 	#add_core= IRO
 	culture = iroquois 
-
+}
 # = {
 	#owner = FRA
 	#controller = FRA
@@ -53,31 +53,29 @@ discovered_by = nomad_group
 	culture = cosmopolitan_french
 	religion = catholic
 	trade_goods = unknown
- # Construction of Fort Presque Isle
-# = { #controller = GBR  # Occupied by the British
+} # Construction of Fort Presque Isle
+# = { #controller = GBR } # Occupied by the British
 # = {
 	#owner = GBR
 	#add_core= GBR
-	
+	remove_core = FRA
 	culture = english
 	religion = protestant
- # Treaty of Paris - ceded to Britain, France gave up its claim
+} # Treaty of Paris - ceded to Britain, France gave up its claim
 # = {
 	#owner = LEN
 	#controller = LEN
 	#add_core= LEN
-	
+	remove_core = GBR
 	is_city = no
 	culture = delaware
 	religion = totemism
- # Royal proclamation, Britan recognize native lands (as protectorates)
+} # Royal proclamation, Britan recognize native lands (as protectorates)
 # = {
 	#owner = USA
 	#controller = USA
 	#add_core= USA
 	culture = american
 	religion = protestant
- # Treaty of Greenville, much of Ohio ceded by Natives.
-# = { capital = "Cleveland" 
-
-discovered_by = GBR
+} # Treaty of Greenville, much of Ohio ceded by Natives.
+# = { capital = "Cleveland" }

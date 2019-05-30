@@ -20,7 +20,7 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = nomad_group
 
-# = { discovered_by = ENG  # John Cabot
+# = { discovered_by = ENG } # John Cabot
 
 # = {
 	#owner = FRA
@@ -30,20 +30,18 @@ discovered_by = nomad_group
 	culture = cosmopolitan_french
 	religion = catholic
 	trade_goods = unknown
- # Founding of Fort Ste-Anne
-# = { discovered_by = GBR  
-# = { capital = "Louisbourg" 
-# = { fort_18th = yes 
-# = { #controller = GBR  # The French forces capitulated
-# = { #controller = FRA  # Treaty of Aix-la-Chapelle
-# = { #controller = GBR  # The French surrender
+} # Founding of Fort Ste-Anne
+# = { discovered_by = GBR } 
+# = { capital = "Louisbourg" }
+# = { fort_18th = yes }
+# = { #controller = GBR } # The French forces capitulated
+# = { #controller = FRA } # Treaty of Aix-la-Chapelle
+# = { #controller = GBR } # The French surrender
 # = {
 	#owner = GBR
 	#controller = GBR
 	#add_core= GBR
-	
+	remove_core = FRA
 	culture = english
 	religion = protestant
- # Treaty of Paris, ceded to Britain
-
-discovered_by = GBR
+} # Treaty of Paris, ceded to Britain

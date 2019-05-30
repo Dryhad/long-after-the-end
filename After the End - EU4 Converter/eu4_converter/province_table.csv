@@ -107,7 +107,7 @@ d_gitmo;4714;4714 - Guantanamo;Duchy Guantanamo - Guantanamo
 c_guantanamo;4714;4714 - Guantanamo;County Guantanamo - Guantanamo
 
 c_granma;486;486 - Guantanamo;Granma - Guantanamo
-c_sierra_maestra486;486 - Guantanamo;Sierra Maestra - Guantanamo
+c_sierra_maestra;486;486 - Guantanamo;Sierra Maestra - Guantanamo
 
 # Guyanas
 
@@ -527,6 +527,7 @@ d_puebla;2644;2644 - Cholula;Duchy Puebla - Cholula
 c_totonacapan;4927;4927 - Xocotla;Xocotla - Tohancapan
 c_tehuacan;4926;4926 - Teotitlan;Tehuacan - Teotitlan
 c_puebla;2628;2628 - Tepeacac;Puebla - Tepeacac
+c_puebla;2644;2644 - Cholula;Puebla - Cholula
 c_tlaxcala;850;850 - Tlaxcala;Tlaxcala - Tlaxcala
 
 
@@ -607,7 +608,7 @@ c_ameca;4923;4923 - Sayula;Ameca - Sayula
 
 d_colima;2657;2657 - Colima;Duchy Colima - Colima
 c_colima;2657;2657 - Colima;County Colima - Colima
-c_manzanillo;2657 - Colima;Manzanillo - Colima
+c_manzanillo;2657;2657 - Colima;Manzanillo - Colima
 
 # Michoacan
 
@@ -639,7 +640,7 @@ c_petatlan;2648;2648 - Yopitzinco;Petatlan - Yopitzinco
 # Sonora
 
 d_sinaloa;859;859 - Sinaloa;Sinaloa - Sinaloa
-c_los_mochis;4743;4743 - Los Moches;Los Mochis - Los Mochis
+c_los_mochis;4745;4745 - Los Moches;Los Mochis - Los Mochis
 c_culiacan;859;859 - Sinaloa;Culiacan - Sinaloa
 
 
@@ -650,7 +651,7 @@ c_nogales;4994;4994 - Opata;Nogales - Opata
 c_el_novillo;4994;4994 - Opata;El Novillo - Opata
 
 c_guaymas;4993;4993 - Mayo;Guayamas - Mayo
-
+c_guaymas;4743;4743 - Guayamas;Guayamas - Guayamas
 
 d_altar;2616;2616 - Seri;Altar - Seri
 c_caborca;2616;2616 - Seri;Caborca - Seri
@@ -705,7 +706,7 @@ c_guachochi;4990;4990 - Tarahumara;Guachochi - Tarahumara
 c_parral;2618;2618 - Toboso;Parral - Toboso
 
 d_durango;4991;4991 - Xecora;Duchy Durango - Xecora
-c_durango991;4991 - Xecora;County Durango - Xecora
+c_durango;4991;4991 - Xecora;County Durango - Xecora
 c_altamirano;4992;4992 - Acaxee;Altamirano - Acaxee
 c_fernandez;860;860 - Tepehuan;Fernandez - Tepehuan
 
@@ -1165,7 +1166,7 @@ c_wausau;4694;4694 - Wausau;Wausau - Wausau
 d_soo;911;911 - Menominee;Soo - Menominee
 c_sault_ste_marie;911;911 - Menominee;Sault - Menominee
 c_tahquamenon;4569;4569 - Manistique;Tahquamenon - Manistique
-c_manistique;4569 - Manistique;Manistique - Manistique
+c_manistique;4569;4569 - Manistique;Manistique - Manistique
 #d_marquette;911;911 - Menominee;Duchy Marquette - Menominee
 c_marquette;4590;4590 - Copperland;Marquette - Copperland
 c_pictured_rocks;4590;4590 - Copperland;Pictured Rocks - Copperland

@@ -37,8 +37,3 @@ discovered_by =  mesoamerican
 # = { unrest = 6 } # Natives revolt against Spanish rule, led by CapEk 
 # = { unrest = 0 } 
 # = { #owner = MEX #add_core= MEX #controller = SPA } # Mexican War of Independence
-
-
-native_size = 5
-native_ferocity = 1
-native_hostileness = 3

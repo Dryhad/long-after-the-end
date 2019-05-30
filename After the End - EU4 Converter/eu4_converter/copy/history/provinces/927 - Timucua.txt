@@ -20,7 +20,7 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = nomad_group
 
-# = { discovered_by = SPA  # Lucas Vásquez de Ayllón
+# = { discovered_by = SPA } # Lucas Vásquez de Ayllón
 
 # = {
 	#owner = FRA
@@ -31,33 +31,31 @@ discovered_by = nomad_group
 	is_city = no
 	capital = "Fort Caroline"
 	trade_goods = unknown
- # French Huguenots founded Fort Caroline & some minor settlements
+} # French Huguenots founded Fort Caroline & some minor settlements
 # = {
 	#owner = SPA
 	#controller = SPA
 	#add_core= SPA
-	
+	remove_core = FRA
 	culture = castillian
 	capital = "St. Augustine"
-
-# = { unrest = 8  # Conflict erupted when British settlers began to arrive
-# = { unrest = 0 
-# = { fort_17th = yes  #First star fort completed
-# = { fort_17th = no fort_18th = yes  #Vast upgrade begin 
+}
+# = { unrest = 8 } # Conflict erupted when British settlers began to arrive
+# = { unrest = 0 }
+# = { fort_17th = yes } #First star fort completed
+# = { fort_17th = no fort_18th = yes } #Vast upgrade begin 
 # = {
 	#owner = GBR
 	#controller = GBR
 	#add_core= GBR
-	
+	remove_core = SPA
 	culture = english
 	religion = protestant
- # Primarily a British province
-# = { #owner = SPA #controller = SPA #add_core= SPA  
+} # Primarily a British province
+# = { #owner = SPA #controller = SPA #add_core= SPA remove_core = GBR }
 # = {
 	#owner = USA
 	#controller = USA
 	#add_core= USA
-	
- # The Adams-Onís Treaty
-
-discovered_by = GBR
+	remove_core = SPA
+} # The Adams-Onís Treaty

@@ -27,4 +27,37 @@ add_permanent_province_modifier = {
 	duration = -1
 }
 
-discovered_by = GBR
+
+
+
+# = { discovered_by = SWE }
+# = { discovered_by = NED }
+# = { discovered_by = ENG }
+
+# = {	
+	#owner = ENG
+	#controller = ENG
+	remove_core = LEN
+	culture = english
+	religion = protestant
+	capital = "Philadelphia"
+}
+# = { trade_goods = unknown
+# = { #add_core= ENG }
+# = {
+	#discovered_by = GBR
+	#owner = GBR
+	#controller = GBR
+	#add_core= GBR
+	remove_core = ENG
+}
+# = {
+	culture = american
+	unrest = 6
+} # Growing unrest
+# = {	
+	#owner = USA
+	#controller = USA
+	#add_core= USA
+} # Declaration of independence
+# = { unrest = 0 remove_core = GBR } # Preliminary articles of peace, the British recognized American independence

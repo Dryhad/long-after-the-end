@@ -16,8 +16,8 @@ discovered_by = ARW
 
 
 
-# = { discovered_by = CAS  # Christopher Columbus, never showed much interest for the island
-# = { discovered_by = SPA 
+# = { discovered_by = CAS } # Christopher Columbus, never showed much interest for the island
+# = { discovered_by = SPA }
 
 # = {
 	#owner = FRA
@@ -27,23 +27,21 @@ discovered_by = ARW
 	religion = catholic
 	culture = cosmopolitan_french
 	trade_goods = unknown
- # Most of the Caribs were wiped out by the French
-# = { capital = "Basse-Terre" 
-# = { revolt = { type = nationalist_rebels size = 2  #controller = REB  # Slave rebellion
-# = { revolt = { #controller = GBR  # Seized by the British
-# = { #controller = FRA  # French control is restored
-# = { #controller = GBR  # Occupied by British troop again
+} # Most of the Caribs were wiped out by the French
+# = { capital = "Basse-Terre" }
+# = { revolt = { type = nationalist_rebels size = 2 } #controller = REB } # Slave rebellion
+# = { revolt = {} #controller = GBR } # Seized by the British
+# = { #controller = FRA } # French control is restored
+# = { #controller = GBR } # Occupied by British troop again
 # = {
 	#owner = SWE
 	#controller = SWE
 	#add_core= SWE
-	
- # Ceded to Sweden
+	remove_core = FRA
+} # Ceded to Sweden
 # = {
 	#owner = FRA
 	#controller = FRA
 	#add_core= FRA
-	
- # The Treaty of Paris
-
-discovered_by = GBR
+	remove_core = SWE
+} # The Treaty of Paris

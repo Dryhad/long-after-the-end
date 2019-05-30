@@ -30,18 +30,17 @@ discovered_by = nomad_group
 	capital = "Plymouth"
 	is_city = no
 	trade_goods = unknown
- # Plymouth is established by British settlers
+} # Plymouth is established by British settlers
 # = {
 	#discovered_by = GBR
 	#owner = GBR
 	#controller = GBR
 	#add_core= GBR
-	
-
+	remove_core = ENG
+}
 # = {
 	#owner = USA
 	#controller = USA
 	#add_core= USA
- # Declaration of independence
-# = {  unrest = 0   # Preliminary articles of peace, the British recognized American independence
-discovered_by = GBR
+} # Declaration of independence
+# = { remove_core = GBR unrest = 0  } # Preliminary articles of peace, the British recognized American independence
