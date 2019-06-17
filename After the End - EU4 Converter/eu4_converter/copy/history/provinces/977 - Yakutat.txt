@@ -1,10 +1,10 @@
 #977 - Yakutat
 
-owner = NRU
-controller = NRU
-add_core = NRU
+owner = NRA
+controller = NRA
+add_core = NRA
 culture = novorusskiy
-religion = atomicist
+religion = nousthreskeia
 capital = "Yakutat"
 trade_goods = unknown
 hre = no
@@ -20,4 +20,8 @@ is_city = yes
 
 discovered_by = western
 discovered_by = eastern
-discovered_by = NRU
+discovered_by = NRU 
+discovered_by = NRA
+discovered_by = NRA
+
+

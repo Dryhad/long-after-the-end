@@ -4,6 +4,7 @@ graphical_culture = westerngfx
 color = { 146 62 176 }
 
 
+revolutionary_colors = { 13  6  8 } #Based on Arizona flag
 
 
 leader_names = {
