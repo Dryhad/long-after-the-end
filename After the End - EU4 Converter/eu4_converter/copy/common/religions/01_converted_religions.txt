@@ -94,6 +94,20 @@ pagan = {
 		
 		heretic = { MASCULINIST }	
 	}
+	trailwalker = {
+		icon = 55
+		color = { 0.6 0.6 0.5 }
+		country = {
+			tolerance_own = 1
+			tolerance_heretic = -1
+		}
+		country_as_secondary = {
+			tolerance_own = 2
+			loot_amount = 0.25
+		}
+		
+		heretic = { OLD_TRAILWALKER }	
+	}
 }
 
 christian = {
