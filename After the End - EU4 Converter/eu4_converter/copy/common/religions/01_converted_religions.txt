@@ -331,6 +331,20 @@ christian = {
 		has_patriarchs = yes		# Uses patriarch authority
 		misguided_heretic = yes		# Other christians hate them less
 	}
+	apostolic = {
+		icon = 93
+		color = { 0.7 0.7 0.1 }
+		country = {
+			tolerance_own = 1
+			tolerance_heretic = -1
+		}
+		country_as_secondary = {
+			tolerance_own = 1
+			tolerance_heretic = -1
+		}
+		
+		heretic = { NEOGNOSTIC }
+	}
 	#presbyterian = {
 	#	icon = 36
 	#	color = { 76 76 229 }
