@@ -6,8 +6,6 @@ norse_pagan;norse_pagan_reformed;0;Norse
 norse_pagan_reformed;norse_pagan_reformed;0;Reformed Norse
 revelationist;revelationist;1;Revelationist
 revelationist_reformed;revelationist;1;Reformed Revelationist
-rust_cultist;rust_cultist;1;Rust Cultist
-rust_cultist_reformed;rust_cultist;1;Reformed Rust Cultist
 occultist;occultist;1;Occultist
 occultist_reformed;occultist;1;Reformed Occultist
 thelemic;thelemic;1;Thelemic
@@ -15,6 +13,8 @@ thelemic_reformed;thelemic;1;Reformed Thelemic
 celticist;celticist;1;Backwards compatibility
 celtic_pagan;celticist;1;Druidic
 celtic_pagan_reformed;celticist;1;Reformed Druidic
+trailwalker;trailwalker;1;Trailwalker
+trailwalker_reformed;trailwalker;1;Trailwalker
 #tengri_pagan;tengri_pagan_reformed;0;Tengri
 #tengri_pagan_reformed;tengri_pagan_reformed;1;Reformed Tengri
 #baltic_pagan;animism;0;Romuva
@@ -46,18 +46,22 @@ ursuline;ursuline;1;Ursuline
 angeline;ursuline;1;Ursuline
 confederated;confederated;1;Confederated
 anabaptist;anabaptist;1;Anabaptist
+batenberger;anabaptist;1;Anabaptist
 evangelical;protestant;0;Protestant
 high_church;anglican;0;Anglican
 anglo_papalist;anglican;0;Anglican
 united_church;anglican;0;Anglican
+nonconformist;anglican;0;Anglican
 antinomian;protestant;0;Protestant
 charismatic;protestant;0;Protestant
+postadventist;protestant;0;Protestant
 falling_star;falling_star;1;Falling Star
+moravian;falling_star;1;Falling Star
+apostolic;apostolic;1;Apostolic
 #cathar;catholic;0;Catholic
 #fraticelli;catholic;0;Catholic
 #waldensian;catholic;0;Catholic
 #lollard;catholic;0;Catholic
-#orthodox;orthodox;0;Orthodox
 #monophysite;orthodox;0;Orthodox
 #bogomilist;orthodox;0;Orthodox
 #nestorian;coptic;0;Coptic
@@ -68,17 +72,20 @@ falling_star;falling_star;1;Falling Star
 
 # Islam
 
-#sunni;sunni;0;Sunni
-#zikri;sunni;0;Sunni
+traditionalist;traditionalist;1;Traditionalist
+revivalist;traditionalist;1;Traditionalist
 #yazidi;sunni;0;Sunni
 #ibadi;ibadi;0;ibadi
-#shiite;shiite;0;Shiite
-#druze;shiite;0;Shiite
-#hurufi;shiite;0;Shiite
+imamite;shiite;0;Shiite
+qingzheng;shiite;0;Shiite
+alawiyya;shiite;0;Shiite
+orientalist;orientalist;1;Orientalist
+misrist;orientalist;1;Orientalist
 
 # Judaism
 jewish;jewish;0;Jewish
-reform;reform_faith;1;Reform Judaism
+reform;jewish;0;Jewish
+meshichist;jewish;0;Jewish
 #samaritan;jewish;0;Jewish
 #karaite;jewish;0;Jewish
 
@@ -100,8 +107,12 @@ hamiltonian;americanist;1;Americanist
 jeffersonian;americanist;1;Americanist
 libertarian;americanist;1;Americanist
 atomicist;atomicist;1;Atomicist
+aphite;atomicist;1;Atomicist
 consumerist;consumerist;1;Consumerist
 monetarist;consumerist;1;Consumerist
+rust_cultist;rust_cultist;1;Rust Cultist
+rust_cultist_reformed;rust_cultist;1;Reformed Rust Cultist
+chrome_cultist;chrome_cultist;1;Rust Cultist
 
 # Pacific/"Eastern"
 cetic;cetic;1;Cetic
@@ -119,10 +130,19 @@ espiritista_reformed;espiritista;1;Espiritista
 
 # Pirate
 brethren;brethren;1;Brethren
+pelagic;pelagic;1;Pelagic
 
 # American Native
 raven_tales;raven_tales;1;Raven Tales
-ghost_dance;ghost_dance;1;Ghost Dance
+raven_tales_reformed;raven_tales;1;Raven Tales
+ghost_dance;midewiwin;1;Backwards compatibility
+midewiwin;midewiwin;1;Midewiwin
+midewiwin_reformed;midewiwin;1;Midewiwin
+
+# Amero-syncretic
+peyotist;peyotist;1;Peyotist
+orthodox;orthodox;0;Orthodox #Sure
+exovedate;exovedate;1;Exovedate
 
 # Mesoamerican
 mictlantec;mictlantec;1;Mictlantec

@@ -6,6 +6,8 @@
 #manichean;manichean;1;Manichean
 
 # Judaism
+reform;reform_faith;1;Reform Judaism
+meshichist;meshichist;1;Meshichist
 #samaritan;samaritan;1;Samaritan
 #karaite;karaite;1;Karaite
 
@@ -27,13 +29,19 @@ sedevacantist;neoroman;1;Neoroman
 nestorian;nestorian;1;Nestorian
 
 # Sunni Heresies
+revivalist;sunni;0;Sunni
 #zikri;zikri;1;Zikri
 #yazidi;yazidi;1;Yazidi
 #kharijite;kharijite;1;Kharijite
 
 # Shiite Heresies
+qingzheng;qingzheng;1;Qingzheng
+alawiyya;alawiyya;1;Alawiyya
 #druze;druze;1;Druze
 #hurufi;hurufi;1;hurufi
+
+# Orientalist Heresies
+misrist;misrist;1;Misrist
 
 # Ursuline Heresies
 angeline;angeline;1;Angeline
@@ -42,10 +50,18 @@ angeline;angeline;1;Angeline
 #high_church;high_church;1;High Church #Anglican now
 antinomian;antinomian;1;Antinomian
 charismatic;charismatic;1;Charismatic
+postadventist;postadventist;1;Postadventist
 
 # Anglican Heresies
 anglo_papalist;anglo_papalist;1;Anglo-Catholic
-united_church;united_church;1;United
+united_church;united_church;1;Backwards compatibility
+nonconformist;united_church;1;United
+
+# Anabaptist Heresies
+batenburger;batenburger;1;Batenburger
+
+# Falling Star Heresies
+moravian;moravian;1;Moravian
 
 # Mormon Heresies
 bickertonite;bickertonite;1;Bickertonite
@@ -58,5 +74,11 @@ hamiltonian;hamiltonian;1;Hamiltonian
 jeffersonian;jeffersonian;1;Jeffersonian
 libertarian;libertarian;1;Libertarian
 
+# Atomicist Heresies
+aphite;aphite;1;Aphite
+
 # Consumerist Heresies
 monetarist;monetarist;1;Monetarist
+
+# Rust Cultist Heresies
+chrome_cultist;chrome_cultist;1;Chrome Cultist

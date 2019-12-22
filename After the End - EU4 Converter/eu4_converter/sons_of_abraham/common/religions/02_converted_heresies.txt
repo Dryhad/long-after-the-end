@@ -295,10 +295,24 @@ christian = {
 		heretic = { PURITAN CONGREGATIONALIST }
 		
 	}
-	
-	anglo_papalist = { #Was High Church, but High Church is Anglican now
+	postadventist = {
 		color = { 0.45 0.65 0.7 }
-		icon = 37
+		icon = 38
+		
+		country = {
+			tolerance_own = 1
+			tolerance_heretic = -1
+		}
+		province = {
+			local_missionary_strength = -0.01
+		}
+		
+		heretic = { PENTECOSTAL PURITAN CONGREGATIONALIST }
+	}
+	
+	united_church = { #Was High Church, but High Church is Anglican now
+		color = { 0.5 0.55 0.75 }
+		icon = 33
 		country = {
 			tolerance_own = 2
 			stability_cost_modifier = -0.2
@@ -330,9 +344,39 @@ christian = {
 		heretic = { PENTECOSTAL PURITAN CONGREGATIONALIST }
 		
 	}
-	united_church = {
+	anglo_papalist = {
 		color = { 0.5 0.5 0.9 }
-		icon = 38
+		icon = 42
+		
+		country = {
+			tolerance_own = 1
+			tolerance_heretic = -1
+		}
+		province = {
+			local_missionary_strength = -0.01
+		}
+		
+		heretic = { PENTECOSTAL PURITAN CONGREGATIONALIST }
+	}
+	batenburger = {
+		color = { 0.5 0.5 0.1 }
+		icon = 34
+		
+		country = {
+			tolerance_own = 1
+			tolerance_heretic = -1
+		}
+		province = {
+			local_missionary_strength = -0.01
+		}
+		
+		fervor = yes
+		
+		heretic = { PENTECOSTAL PURITAN CONGREGATIONALIST }
+	}
+	moravian = {
+		color = { 0.7 0.7 0.4 }
+		icon = 37
 		
 		country = {
 			tolerance_own = 1
@@ -463,6 +507,32 @@ oldworld = {
 		
 		heretic = { JEFFERSONIAN HAMILTONIAN }
 	}
+	aphite = {
+		icon = 88
+		color = { 0.6 0.4 0.2 }
+		country = {
+			tolerance_own = 1
+			tolerance_heretic = -1
+		}
+		province = {
+			local_missionary_strength = -0.01
+		}
+		
+		heretic = { VOIDIST }
+	}
+	chrome_cultist = {
+		icon = 89
+		color = { 0.7 0.7 0.62 }
+		country = {
+			tolerance_own = 1
+			tolerance_heretic = -1
+		}
+		province = {
+			local_missionary_strength = -0.01
+		}
+		
+		heretic = { OLD_RUST_CULTIST }
+	}
 }
 
 jewish_group = {
@@ -486,5 +556,81 @@ jewish_group = {
 		}
 		
 		heretic = { KARAITE SAMARITAN }
+	}
+	meshichist = {
+		icon = 50
+		color = { 0.5 0.7 0.2 }
+		country = {
+			advisor_cost = -0.15
+			adm_tech_cost_modifier = -0.05
+			tolerance_heathen = -2
+		}
+		province = {
+			local_missionary_strength = -0.01
+			local_tax_modifier = 0.02
+		}
+		country_as_secondary = {
+			advisor_cost = -0.3
+		}
+		
+		heretic = { KARAITE SAMARITAN }
+	}
+}
+
+muslim = {
+	misrist = {
+		color = { 0.2 0.6 0.2 }
+		icon = 47
+		country = {
+			global_institution_spread = 0.15
+			heir_chance = 1.0
+		}
+		province = {
+			local_missionary_strength = -0.02
+		}
+		country_as_secondary = {
+			global_institution_spread = 0.15
+			heir_chance = 1.0
+		}
+		heretic = { BEKTASHI AHMADI YAZIDI }
+		
+		uses_piety = yes				# Uses piety mechanics
+	}
+	alawiyya = {
+		color = { 0.0 0.9 0.4 }
+		icon = 45
+		country = {
+			heir_chance = 1.0
+			dip_tech_cost_modifier = -0.1 # Promoted intellectualism
+			tolerance_heretic = -1 # Renounced 'false' belief
+		}
+		province = {
+			local_missionary_strength = -0.02
+		}
+		country_as_secondary = {
+			diplomats = 1
+			dip_tech_cost_modifier = -0.05
+		}
+		heretic = { HURUFI ZAIDI }
+		
+		uses_piety = yes				# Uses piety mechanics
+	}
+	qingzheng = {
+		color = { 0.4 0.9 0.0 }
+		icon = 49
+		country = {
+			heir_chance = 1.0
+			diplomatic_upkeep = 2
+		}
+		province = {
+			local_missionary_strength = -0.01
+		}
+		country_as_secondary = {
+			diplomatic_upkeep = 1
+			stability_cost_modifier = -0.1
+		}
+		heretic = { DRUZE ZAIDI }
+		
+		uses_piety = yes				# Uses piety mechanics
 	}
 }

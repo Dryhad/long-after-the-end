@@ -1,7 +1,7 @@
 #1006 - Chipewyan
 
 culture = chipewyan
-religion = ghost_dance
+religion = midewiwin
 capital = "Chipewyan"
 trade_goods = unknown
 hre = no

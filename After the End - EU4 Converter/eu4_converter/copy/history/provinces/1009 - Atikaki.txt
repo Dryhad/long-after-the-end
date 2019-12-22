@@ -1,7 +1,7 @@
 #1009 - Atikaki
 
 culture = cree
-religion = ghost_dance
+religion = midewiwin
 capital = "Manitoba"
 trade_goods = unknown
 hre = no

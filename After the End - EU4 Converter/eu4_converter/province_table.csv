@@ -47,14 +47,14 @@ c_out_islands;482;482 - Bahamas;Out Islands - Bahamas
 
 c_turks_and_caicos;483;483 - Turks Islands;Turks and Caicos - Turks Islands
 
-#c_isla_de_san_andreas;?
-
 # Hispaniola
 
 c_les_cayes;488;488 - Les Cayes;Les Cayes - Les Cayes
+c_jacmel;488;488 - Les Cayes;Jacmel - Les Cayes
+
 c_port_au_prince;4716;4716 - Port-au-Prince;Port au Prince - Port-au-Prince
-c_artibonite;488;488 - Les Cayes;Artibonite - Les Cayes
-c_la_gonave;488;488 - Les Cayes;La Gonave - Les Cayes
+c_la_gonave;4716;4716 - Port-au-Prince;La Gonave - Port-au-Prince
+c_artibonite;4716;4716 - Port-au-Prince;Artibonite - Port-au-Prince
 
 d_tortuga;489;489 - Tortuga;Duchy Tortuga - Tortuga
 c_tortuga;489;489 - Tortuga;County Tortuga - Tortuga
@@ -64,6 +64,7 @@ c_santa_domingo;490;490 - Barahonas;Santa Domingo - Barahonas
 c_la_romana;490;490 - Barahonas;La Romana - Barahonas
 
 c_barahona;2658;2658 - Maguana;Barahona - Maguana
+c_benefactor;2658;2658 - Maguana;Benefactor - Maguana
 
 c_santiago;2659;2659 - Magua;Santiago - Magua
 c_puerto_plata;2659;2659 - Magua;Puerto Plata - Magua
@@ -125,6 +126,7 @@ c_gran_sabana;2804;2804 - Guasipati;County Gran Sabana - Guasipati
 c_canaima;2804;2804 - Guasipati;canaima - Guasipati
 
 c_cedeno;2811;2811 - Atabapo;Cedeno - Atabapo
+c_atures;2811;2811 - Atabapo;Atures - Atabapo
 
 c_autana;4961;4961 - Guaju;Autana - Guaju
 
@@ -369,6 +371,7 @@ c_el_desaguadero;4763;4763 - El Desaguadero;El Desaguadero - El Desaguadero
 d_mosquito;838;838 - Mosquito;Mosquito - Mosquito
 c_bluefields;838;838 - Mosquito;Bluefields - Mosquito
 c_karata;4760;4760 - Karata;Karata - Karata
+c_isla_de_san_andreas;838;838 - Mosquito;San Andreas - Mosquito
 
 d_las_brumas;4762;4762 - Matagalpas;Las Brumas - Matagalpas
 c_chontales;4762;4762 - Matagalpas;Chontales - Matagalpas
@@ -646,6 +649,7 @@ c_culiacan;859;859 - Sinaloa;Culiacan - Sinaloa
 
 d_sonora;862;862 - Yaqui;Sonora - Yaqui
 c_hermosillo;862;862 - Yaqui;Hermosillo - Yaqui
+c_bahia_kino;862;862 - Yaqui;Bahia Kino - Yaqui
 
 c_nogales;4994;4994 - Opata;Nogales - Opata
 c_el_novillo;4994;4994 - Opata;El Novillo - Opata
@@ -708,7 +712,7 @@ c_parral;2618;2618 - Toboso;Parral - Toboso
 d_durango;4991;4991 - Xecora;Duchy Durango - Xecora
 c_durango;4991;4991 - Xecora;County Durango - Xecora
 c_altamirano;4992;4992 - Acaxee;Altamirano - Acaxee
-c_fernandez;860;860 - Tepehuan;Fernandez - Tepehuan
+#c_fernandez;860;860 - Tepehuan;Fernandez - Tepehuan
 
 # Rio Bravo
 
@@ -736,7 +740,7 @@ c_falcon;2668;2668 - Borrado;Falcon - Borrado
 c_laredo;2668;2668 - Borrado;Laredo - Borrado
 
 d_tamaulipas;858;858 - Tamaulipas;Duchy Tamaulipas - Tamaulipas
-c_victoria;4747;4747 - San Fernando;Victoria - San Fernando
+c_ciudad_victoria;4747;4747 - San Fernando;Victoria - San Fernando
 c_el_cielo;4748;4748 - El Cielo;El Cielo - El Cielo
 c_soto_la_marina;858;858 - Tamaulipas;Soto La Marina - Tamaulipas
 c_san_fernando;4747;4747 - San Fernando;San Fernando - San Fernando
@@ -916,7 +920,9 @@ c_homochitto;2529;2529 - Natchez;Homochitto - Natchez
 
 # Florida
 
-c_mobile;922;922 - Mobile;Mobile - Mobile
+d_mobile;922;922 - Mobile;Duchy Mobile - Mobile
+c_mobile;922;922 - Mobile;County Mobile - Mobile
+c_baldwin;922;922 - Mobile;Baldwin - Mobile
 
 c_pensacola;923;923 - Pensacola;Pensacola - Pensacola
 
@@ -1066,6 +1072,7 @@ c_freeborn;904;904 - Nakota;Freeborn - Nakota
 c_floyd;907;907 - Dakota;Floyd - Dakota
 c_rock;907;907 - Dakota;Rock - Dakota
 c_minnehaha;907;907 - Dakota;Minnehaha - Dakota
+c_yankton;907;907 - Dakota;Yankton - Dakota
 
 d_iowa;2513;2513 - Moingwena;Duchy Iowa - Moingwena
 c_cedar;2513;2513 - Moingwena;Cedar - Moingwena
@@ -1291,8 +1298,8 @@ d_wichiyena;909;909 - Mandan;Wichiyena - Mandan
 c_cheyenne_river;909;909 - Mandan;Cheyenne River - Mandan
 c_walworth;909;909 - Mandan;Walworth - Mandan
 
-c_yankton;906;906 - Lakota;Yankton - Lakota
 c_crow_creek;906;906 - Lakota;Crow Creek - Lakota
+c_brown;906;906 - Lakota;Brown - Lakota
 
 # Big Sky
 
@@ -1313,6 +1320,8 @@ d_golden_valley;2006;2006 - Apsaalooke;Golden Valley - Apsaalooke
 c_stillwater;2006;2006 - Apsaalooke;Stillwater - Apsaalooke
 c_meagher;2006;2006 - Apsaalooke;Meagher - Apsaalooke
 c_fergus;2006;2006 - Apsaalooke;Fergus - Apsaalooke
+c_billings;2006;2006 - Apsaalooke;Billings - Apsaalooke
+c_bozeman;2006;2006 - Apsaalooke;Bozeman - Apsaalooke
 
 d_chouteau;2501;2501 - Piegan;Chouteau - Piegan
 c_marias;2501;2501 - Piegan;Marias - Piegan
@@ -1331,10 +1340,15 @@ c_newell;2602;2602 - Siksikawa;Newell - Siksikawa
 c_foothills;2018;2018 - Tsuutina;Foothills - Tsuutina
 c_clearwater;2018;2018 - Tsuutina;Clearwater - Tsuutina
 c_yellowhead;2018;2018 - Tsuutina;Yellowhead - Tsuutina
+c_grande_prairie;2018;2018 - Tsuutina;Grand Prairie - Tsuutina
+c_greenview;2018;2018 - Tsuutina;Greenview - Tsuutina
 
 c_edmonton;2017;2017 - Nehiyawewin;Edmonton - Nehiyawewin
 c_red_deer;2017;2017 - Nehiyawewin;Red Deer - Nehiyawewin
 c_lloydminster;2017;2017 - Nehiyawewin;Lloydminster - Nehiyawewin
+c_athabasca;2017;2017 - Nehiyawewin;Athabasca - Nehiyawewin
+
+c_dawsons_creek;2603;2603 - Sekani;Dawson's Creek - Sekani
 
 # Lincoln
 
@@ -1358,6 +1372,7 @@ c_yakama;2486;2486 - Yakima;Yakama - Yakima
 c_kittitas;2486;2486 - Yakima;Kittitas - Yakima
 
 c_klickitat;4901;4901 - Xalt'as;Klickitat - Xalt'as
+c_benton;4901;4901 - Xalt'as;Benton - Xalt'as
 
 c_douglas;4902;4902 - Yakima;Douglas - Inuuwaay
 c_grant;4902;4902 - Yakima;Grant - Inuuwaay
@@ -1378,11 +1393,12 @@ c_kootenay;2003;2003 - Ktunaxa;Kootenay - Ktunaxa
 c_banff;2003;2003 - Ktunaxa;Banff - Ktunaxa
 c_kinbasket;2003;2003 - Ktunaxa;Kinbasket - Ktunaxa
 
-d_monashee;2607;2607 - Okanagan;Monashee - Okanagan
+#d_monashee;2607;2607 - Okanagan;Monashee - Okanagan
 c_shuswap;2607;2607 - Okanagan;Shuswap - Okanagan
 c_kelowna;2607;2607 - Okanagan;Kelowna - Okanagan
 
 c_arrowhead;4907;4907 - Revelstoke;Arrowhead - Revelstoke
+c_boundary;4907;4907 - Revelstoke;Boundary - Revelstoke
 
 
 #d_cariboo;2606;2606 - Tsiloqotin;Duchy Cariboo - Tsiloqotin
@@ -1390,7 +1406,7 @@ c_arrowhead;4907;4907 - Revelstoke;Arrowhead - Revelstoke
 c_cariboo;2604;2604 - Dakelh;County Cariboo - Dakelh
 c_prince_george;2604;2604 - Dakelh;Prince George - Dakelh
 c_fraser_valley;2605;2605 - Secwepemc;Fraser - Secwepemc
-c_itcha_ilgachuz;4911;4911 - Itcha Ilgachuz;Itcha Ilgachuz - Itcha Ilgachuz
+#c_itcha_ilgachuz;4911;4911 - Itcha Ilgachuz;Itcha Ilgachuz - Itcha Ilgachuz
 
 #d_great_valleys;2606;2606 - Tsiloqotin;Great Valleys - Tsiloqotin
 c_harrison;4908;4908 - Great Valleys;Harrison - Great Valleys
@@ -1400,38 +1416,42 @@ c_similkameen;4908;4908 - Great Valleys;Similkameen - Great Valleys
 c_sea_to_sky;4910;4910 - Sea to Sky;Sea to Sky - Sea to Sky
 c_kamloops;4909;4909 - Kamloops;Kamloops - Kamloops
 
-c_klinaklini;974;974 - Kwakiutl;Klinaklini - Kwakiutl
-c_discovery_islands;974;974 - Kwakiutl;Discovery Islands - Kwakiutl
+c_nechako;2606;2606 - Tsilhoqotin;Nechako - Tsilhoqotin
 
+c_bulkley;4811;4811 - Spatsizi;Bulkley - Spatsizi
+
+c_klinaklini;974;974 - Kwakiutl;Klinaklini - Kwakiutl
+#c_discovery_islands;974;974 - Kwakiutl;Discovery Islands - Kwakiutl
 c_homathko;974;974 - Kwakiutl;Homathko - Kwakiutl
+c_broughton;974;974 - Kwakiutl;Broughton - Kwakiutl
 
 d_the_coast;975;975 - Tsimshian;The Coast - Tsimshian
 c_fjordland;975;975 - Tsimshian;Fjordland - Tsimshian
-c_rivers_inlet;975;975 - Tsimshian;Rivers Inlet - Tsimshian
+#c_rivers_inlet;975;975 - Tsimshian;Rivers Inlet - Tsimshian
 c_bella_coola;975;975 - Tsimshian;Bella Coola - Tsimshian
 c_kitimat;975;975 - Tsimshian;Kitimat - Tsimshian
 
 c_sunshine_coast;2610;2610 - Heiltsuk;Sunshine Coast - Heiltsuk
-c_powell;2610;2610 - Heiltsuk;Powell - Heiltsuk
+#c_powell;2610;2610 - Heiltsuk;Powell - Heiltsuk
 c_texada;2610;2610 - Heiltsuk;Texada - Heiltsuk
 
 c_vancouver;973;973 - Squamish;Vancouver - Squamish
 c_bellingham_bay;973;973 - Squamish;Bellingham Bay - Squamish
 c_san_juan_islands;973;973 - Squamish;San Juan Islands - Squamish
 
-d_vancouver_strait;972;972 - Nootka;Vancouver Strait - Nootka
-c_saanich;972;972 - Nootka;Saanich - Nootka
+d_victoria;972;972 - Nootka;Victoria - Nootka
+c_victoria;972;972 - Nootka;Saanich - Nootka
 c_sooke;972;972 - Nootka;Sooke - Nootka
-c_carmanah;972;972 - Nootka;Carmanah - Nootka
+#c_carmanah;972;972 - Nootka;Carmanah - Nootka
 c_nanaimo;972;972 - Nootka;Nanaimo - Nootka
 
-c_alberni;4553;4553 - Tl'aaj;Alberni - Tl'aaj
+#c_alberni;4553;4553 - Tl'aaj;Alberni - Tl'aaj
 c_clayoquot;4553;4553 - Tl'aaj;Clayoquot - Tl'aaj
 c_comox;4553;4553 - Tl'aaj;Comox - Tl'aaj
 
-d_north_end;4552;4552 - Tajaaw;Duchy North End - Tajaaw
+d_up_island;4552;4552 - Tajaaw;Up Island - Tajaaw
 c_nootka;4552;4552 - Tajaaw;Nootka - Tajaaw
-c_elk_falls;4552;4552 - Tajaaw;Elk Falls - Tajaaw
+#c_elk_falls;4552;4552 - Tajaaw;Elk Falls - Tajaaw
 c_port_hardy;4552;4552 - Tajaaw;Port Hardy - Tajaaw
 
 # Cascadia
@@ -1602,14 +1622,14 @@ c_ensenada;2620;2620 - Nakipa;County Ensenada - Nakipa
 d_ensenada;865;865 - Cochimi;Duchy Ensenada - Cochimi
 c_el_arco;865;865 - Cochimi;El Arco - Cochimi
 c_el_rosario;865;865 - Cochimi;El Rosario - Cochimi
-c_guerrero_negro;865;865 - Cochimi;Guerrero Negro - Cochimi
+#c_guerrero_negro;865;865 - Cochimi;Guerrero Negro - Cochimi
 c_isla_guadalupe;865;865 - Cochimi;Isla Guadalupe - Cochimi
 
 d_baja_sur;866;866 - Guaycura;Baja Sur - Guaycura
 c_la_paz;4742;4742 - La Paz;La Paz - La Paz
 c_loreto;866;866 - Guaycura;Loreto - Guaycura
 c_los_cabos;4742;4742 - La Paz;Los Cabos - La Paz
-c_mulege;4744;4744 - Mulege;Mulege - Mulege
+#c_mulege;4744;4744 - Mulege;Mulege - Mulege
 
 # Idaho
 
@@ -1742,6 +1762,15 @@ c_wabakimi;1007;1007 - Ojibwa;Wabakimi - Ojibwa
 c_lakehead;4572;4572 - Lakehead;Lakehead - Lakehead
 c_nipigon;1007;1007 - Ojibwa;Nipigon - Ojibwa
 
+c_osnaburgh;4793;4793 - Wabakimi;Osnaburgh - Wabakimi
+
+c_big_trout;4829;4829 - Giishkimanisiiwaaboong;Big Trout - Giishkimanisiiwaaboong
+
+c_opasquia;4796;4796 - Opasquia;Opasquia - Opasquia
+
+c_gods_lake;2594;2594 - Quenebigon;God's Lake - Quenebigon
+c_wekusko;2594;2594 - Quenebigon;Wekusko - Quenebigon
+
 # Aurora
 
 c_schreiber;2015;2015 - Nipigon;Schreiber - Nipigon
@@ -1863,7 +1892,7 @@ c_frontenac;2012;2012 - Arsigantegok;Frontenac - Arsigantegok
 
 c_amiante;2583;2583 - Etchemins;Amiante - Etchemins
 c_chaudiere;2583;2583 - Etchemins;Chaudiere - Etchemins
-c_etchemin;2583;2583 - Etchemins;Etchemin - Etchemins
+#c_etchemin;2583;2583 - Etchemins;Etchemin - Etchemins
 
 d_bas_st_laurent;2582;2582 - Maliseet;Bas-St-Laurent - Maliseet
 c_rimouski;2582;2582 - Maliseet;Rimouski - Maliseet
@@ -1930,7 +1959,7 @@ c_kouchibouguac;985;985 - Micmac;Kouchibouguac - Micmac
 d_petitcodiac;985;985 - Micmac;Petitcodiac - Micmac
 c_fundy;985;985 - Micmac;Fundy - Micmac
 c_moncton;4549;4549 - Moncton;Moncton - Moncton
-c_cape_jourimain;4549;4549 - Moncton;Cape Jourimain - Moncton
+#c_cape_jourimain;4549;4549 - Moncton;Cape Jourimain - Moncton
 
 c_chignecto;984;984 - Acadia;Chignecto - Acadia
 
@@ -1939,16 +1968,18 @@ c_epekwitk;983;983 - Epekwitik;Epekwitik - Epekwitik
 c_summerside;983;983 - Epekwitik;Summerside - Epekwitik
 c_madeleine;983;983 - Epekwitik;Madeleine - Epekwitik
 
-c_pisiguit;2568;2568 - Kespukwitk;Pisiguit - Kespukwitk
-c_usitukun;2568;2568 - Kespukwitk;Usitukun - Kespukwitk
+#c_pisiguit;2568;2568 - Kespukwitk;Pisiguit - Kespukwitk
+#c_usitukun;2568;2568 - Kespukwitk;Usitukun - Kespukwitk
 
 c_antigonish;2569;2569 - Eskikewakik;Antigonish - Eskikewakik
-c_wagobagitik;2569;2569 - Eskikewakik;Wagobagitik - Eskikewakik
-c_chebucto;4551;4551 - Halifax;Chebucto - Halifax
+#c_wagobagitik;2569;2569 - Eskikewakik;Wagobagitik - Eskikewakik
+#c_chebucto;4551;4551 - Halifax;Chebucto - Halifax
 
 d_cape_breton;982;982 - Unamakik;Cape Breton - Unamakik
-c_pitupok;982;982 - Unamakik;Pitupok - Unamakik
-c_unamakika;982;982 - Unamakik;Unamakika - Unamakik
+#c_pitupok;982;982 - Unamakik;Pitupok - Unamakik
+#c_unamakika;982;982 - Unamakik;Unamakika - Unamakik
+c_sydney;982;982 - Unamakik;Sydney - Unamakik
+c_inverness;982;982 - Unamakik;Inverness - Unamakik
 
 # New England
 
@@ -2076,7 +2107,7 @@ c_lower_allegheny;4627;4627 - Lower Allegheny;Lower Allegheny - Lower Allegheny
 c_upper_allegheny;4626;4626 - Upper Allegheny;Upper Allegheny - Upper Allegheny
 c_susquehannock;4626;4626 - Upper Allegheny;Susquehannock - Upper Allegheny
 
-d_east_susquehanna;4579;4579 - East Susquehanna;East Susquehanna - East Susquehanna
+d_upper_susquehanna;4579;4579 - East Susquehanna;Upper Susquehanna - East Susquehanna
 c_chemung;4579;4579 - East Susquehanna;Chemung - East Susquehanna
 c_tripolis;4579;4579 - East Susquehanna;Tripolis - Munsee
 c_williamsport;2557;2557 - Atrakwaye;Williamsport - Atrakwaye

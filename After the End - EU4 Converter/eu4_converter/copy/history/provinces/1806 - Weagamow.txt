@@ -1,4 +1,4 @@
-religion = ghost_dance
+religion = midewiwin
 culture = cree
 
 native_size = 5

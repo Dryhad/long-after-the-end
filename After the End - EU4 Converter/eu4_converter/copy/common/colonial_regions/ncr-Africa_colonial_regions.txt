@@ -223,6 +223,12 @@ colonial_horn_of_africa = {
 		2932 774 1219 2801 2802 5021 5023 5026 5028
 	}
 	names = {
+		trigger = {
+			religion = rastafarian
+		}
+		name = "COLONIAL_HORN_OF_AFRICA_Zion"
+	}
+	names = {
 		name = "COLONIAL_HORN_OF_AFRICA_Root_GetAdjective_North_Africa"
 	}
 	names = {

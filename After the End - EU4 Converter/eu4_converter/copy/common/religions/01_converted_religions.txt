@@ -38,20 +38,6 @@ pagan = {
 		
 		heretic = { OLD_THELEMIC }	
 	}
-	rust_cultist = {
-		icon = 60
-		color = { 0.7 0.35 0.2 }
-		
-		country = {
-			technology_cost = -0.05
-			global_institution_spread = 0.1
-		}
-		country_as_secondary = {
-			global_institution_spread = 0.1
-		}
-		
-		heretic = { OLD_RUST_CULTIST }	
-	}
 	celticist = {
 		icon = 70
 		color = { 0.4 0.7 0.3 }
@@ -567,6 +553,20 @@ oldworld = {
 		
 		heretic = { DEIST ICONODULE }
 	}
+	rust_cultist = {
+		icon = 60
+		color = { 0.7 0.35 0.2 }
+		
+		country = {
+			technology_cost = -0.05
+			global_institution_spread = 0.1
+		}
+		country_as_secondary = {
+			global_institution_spread = 0.1
+		}
+		
+		heretic = { OLD_RUST_CULTIST }	
+	}
 	
 	harmonized_modifier = harmonized_oldworld
 }
@@ -611,6 +611,21 @@ pirate = {
 		}
 		
 		heretic = { LUBBER }
+	}
+	pelagic = {
+		color = { 0.8 0.8 0.8 }
+		icon = 90
+		
+		country = {
+			tolerance_own = 1
+			tolerance_heretic = -1
+		}
+		country_as_secondary = {
+			tolerance_own = 1
+			tolerance_heretic = -1
+		}
+		
+		heretic = { GOAT_SKULL }
 	}
 	
 	harmonized_modifier = harmonized_pirate
@@ -849,7 +864,7 @@ mesoamerican = {
 }
 
 american_native = {
-	ghost_dance = {
+	midewiwin = {
 		color = { 0.9 0.4 0.2 }
 		icon = 72
 		
@@ -881,6 +896,40 @@ american_native = {
 	}
 	
 	harmonized_modifier = harmonized_american_native
+}
+amero_syncretic = {
+	peyotist = {
+		color = { 1 0.38 0.09 }
+		icon = 91
+		
+		country = {
+			tolerance_own = 1
+			tolerance_heretic = -1
+		}
+		country_as_secondary = {
+			tolerance_own = 1
+			tolerance_heretic = -1
+		}
+		
+		heretic = { BEAR_SPIRIT }
+	}
+	exovedate = {
+		color = { 0.96 0.66 0.60 }
+		icon = 92
+		
+		country = {
+			tolerance_own = 1
+			tolerance_heretic = -1
+		}
+		country_as_secondary = {
+			tolerance_own = 1
+			tolerance_heretic = -1
+		}
+		
+		heretic = { BEAR_SPIRIT }
+	}
+	
+	#harmonized_modifier = harmonized_amero_syncretic #Note to self, do this thing
 }
 zoroastrian_group = {
 	yazidi = {
@@ -1050,59 +1099,40 @@ muslim = {
 		
 		uses_piety = yes				# Uses piety mechanics
 	}
-	#kharijite = {
-	#	color = { 0.4 0.8 0.6 }
-	#	icon = 44
-	#	country = {
-	#		improve_relation_modifier = 0.2
-	#		heir_chance = 1.0
-	#	}
-	#	province = {
-	#		local_missionary_strength = -0.02
-	#	}
-	#	country_as_secondary = {
-	#		advisor_cost = -0.1
-	#		improve_relation_modifier = 0.1
-	#	}
-	#	heretic = { HARURI SUFRI NAJADAT AZRAQI }
-	#	
-	#	uses_piety = yes				# Uses piety mechanics
-	#}
-	#druze = {
-	#	color = { 0.0 0.9 0.4 }
-	#	icon = 45
-	#	country = {
-	#		heir_chance = 1.0
-	#		dip_tech_cost_modifier = -0.1 # Promoted intellectualism
-	#		tolerance_heretic = -1 # Renounced 'false' belief
-	#	}
-	#	province = {
-	#		local_missionary_strength = -0.02
-	#	}
-	#	country_as_secondary = {
-	#		diplomats = 1
-	#		dip_tech_cost_modifier = -0.05
-	#	}
-	#	heretic = { HURUFI ZAIDI }
-	#	
-	#	uses_piety = yes				# Uses piety mechanics
-	#}
-	#hurufi = {
-	#	color = { 0.4 0.9 0.0 }
-	#	icon = 49
-	#	country = {
-	#		heir_chance = 1.0
-	#		diplomatic_upkeep = 2
-	#	}
-	#	province = {
-	#		local_missionary_strength = -0.01
-	#	}
-	#	country_as_secondary = {
-	#		diplomatic_upkeep = 1
-	#		stability_cost_modifier = -0.1
-	#	}
-	#	heretic = { DRUZE ZAIDI }
-	#	
-	#	uses_piety = yes				# Uses piety mechanics
-	#}
+	traditionalist = {
+		color = { 0.4 0.8 0.6 }
+		icon = 44
+		country = {
+			improve_relation_modifier = 0.2
+			heir_chance = 1.0
+		}
+		province = {
+			local_missionary_strength = -0.02
+		}
+		country_as_secondary = {
+			advisor_cost = -0.1
+			improve_relation_modifier = 0.1
+		}
+		heretic = { HARURI SUFRI NAJADAT AZRAQI }
+		
+		uses_piety = yes				# Uses piety mechanics
+	}
+	orientalist = {
+		color = { 0.2 0.6 0.2 }
+		icon = 47
+		country = {
+			global_institution_spread = 0.15
+			heir_chance = 1.0
+		}
+		province = {
+			local_missionary_strength = -0.02
+		}
+		country_as_secondary = {
+			global_institution_spread = 0.15
+			heir_chance = 1.0
+		}
+		heretic = { BEKTASHI AHMADI YAZIDI }
+		
+		uses_piety = yes				# Uses piety mechanics
+	}
 }

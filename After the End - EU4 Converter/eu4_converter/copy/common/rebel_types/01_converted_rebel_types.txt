@@ -9359,11 +9359,11 @@ gaian_rebels = {
 	}
 }
 
-ghost_dance_rebels = {
+midewiwin_rebels = {
 
 	area = nation 					# Sticks to provinces of their nation
 	government = theocracy 			# Desires Theocracy
-	religion = ghost_dance
+	religion = midewiwin
 	defection = religion			# Defects to countries of their religion
 	defect_delay = 120				# Held provinces will auto-defect after 18 months, regardless of accept/enforce demands.
 	independence = none				# Does not strive for independence
@@ -9400,7 +9400,7 @@ ghost_dance_rebels = {
 		}
 		modifier = {
 			factor = 0.0
-			NOT = { religion = ghost_dance }
+			NOT = { religion = midewiwin }
 		}
 		modifier = {
 			factor = 0.001
@@ -9445,14 +9445,14 @@ ghost_dance_rebels = {
 		}
 		modifier = {
 			factor = 0.0
-			religion = ghost_dance
-			owner = { religion = ghost_dance }
+			religion = midewiwin
+			owner = { religion = midewiwin }
 		}
 		modifier = {
 			factor = 2.0
-			NOT = { religion = ghost_dance }
+			NOT = { religion = midewiwin }
 			any_neighbor_province = {
-	 			religion = ghost_dance
+	 			religion = midewiwin
 	 			NOT = { has_province_modifier = "forced_conversion" }
 	 		}
 	 	}
@@ -9486,7 +9486,7 @@ ghost_dance_rebels = {
 	siege_won_effect = {
 		if = {
 			limit = {
-				religion = ghost_dance
+				religion = midewiwin
 			}
 			add_province_modifier = {
 				name = "religious_violence"
@@ -9495,9 +9495,9 @@ ghost_dance_rebels = {
 		}
 		if = {
 			limit = {
-				NOT = { religion = ghost_dance }
+				NOT = { religion = midewiwin }
 			}
-			change_religion = ghost_dance
+			change_religion = midewiwin
 			add_province_modifier = {
 				name = "forced_conversion"
 				duration = 730
@@ -9543,7 +9543,7 @@ ghost_dance_rebels = {
 		}
 		if = {
 			limit = {
-				religion = ghost_dance
+				religion = midewiwin
 			}
 			add_country_modifier = {
 				name = "religious_intolerance"
@@ -9553,9 +9553,9 @@ ghost_dance_rebels = {
 		if = {
 			limit = {
 				religion_group = american_native
-				NOT = { religion = ghost_dance }
+				NOT = { religion = midewiwin }
 			}
-			change_religion = ghost_dance
+			change_religion = midewiwin
 			force_converted = yes
 		}
 	}

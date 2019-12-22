@@ -1,7 +1,7 @@
 #1005 - Swampy Cree
 
 culture = cree
-religion = ghost_dance
+religion = midewiwin
 capital = "Swampy Cree"
 trade_goods = unknown
 hre = no
